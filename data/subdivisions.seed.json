@@ -4851,6 +4851,244 @@
     "type": "Unknown"
   },
   {
+    "code": "CN-AH",
+    "countryCode": "CN",
+    "englishName": "Anhui",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-BJ",
+    "countryCode": "CN",
+    "englishName": "Beijing",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-CQ",
+    "countryCode": "CN",
+    "englishName": "Chongqing",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-FJ",
+    "countryCode": "CN",
+    "englishName": "Fujian",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-GD",
+    "countryCode": "CN",
+    "englishName": "Guangdong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-GS",
+    "countryCode": "CN",
+    "englishName": "Gansu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-GX",
+    "countryCode": "CN",
+    "englishName": "Guangxi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-GZ",
+    "countryCode": "CN",
+    "englishName": "Guizhou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-HA",
+    "countryCode": "CN",
+    "englishName": "Henan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-HB",
+    "countryCode": "CN",
+    "englishName": "Hubei",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-HE",
+    "countryCode": "CN",
+    "englishName": "Hebei",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-HI",
+    "countryCode": "CN",
+    "englishName": "Hainan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-HK",
+    "countryCode": "CN",
+    "englishName": "Hong Kong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-HL",
+    "countryCode": "CN",
+    "englishName": "Heilongjiang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-HN",
+    "countryCode": "CN",
+    "englishName": "Hunan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-JL",
+    "countryCode": "CN",
+    "englishName": "Jilin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-JS",
+    "countryCode": "CN",
+    "englishName": "Jiangsu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-JX",
+    "countryCode": "CN",
+    "englishName": "Jiangxi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-LN",
+    "countryCode": "CN",
+    "englishName": "Liaoning",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-MO",
+    "countryCode": "CN",
+    "englishName": "Macau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-NM",
+    "countryCode": "CN",
+    "englishName": "Inner Mongolia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-NX",
+    "countryCode": "CN",
+    "englishName": "Ningxia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-QH",
+    "countryCode": "CN",
+    "englishName": "Qinghai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-SC",
+    "countryCode": "CN",
+    "englishName": "Sichuan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-SD",
+    "countryCode": "CN",
+    "englishName": "Shandong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-SH",
+    "countryCode": "CN",
+    "englishName": "Shanghai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-SN",
+    "countryCode": "CN",
+    "englishName": "Shaanxi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-SX",
+    "countryCode": "CN",
+    "englishName": "Shanxi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-TJ",
+    "countryCode": "CN",
+    "englishName": "Tianjin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-TW",
+    "countryCode": "CN",
+    "englishName": "Taiwan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-XJ",
+    "countryCode": "CN",
+    "englishName": "Xinjiang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-XZ",
+    "countryCode": "CN",
+    "englishName": "Tibet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-YN",
+    "countryCode": "CN",
+    "englishName": "Yunnan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CN-ZJ",
+    "countryCode": "CN",
+    "englishName": "Zhejiang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
