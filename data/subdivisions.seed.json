@@ -7280,6 +7280,174 @@
     "type": "Unknown"
   },
   {
+    "code": "EC-A",
+    "countryCode": "EC",
+    "englishName": "Azuay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-B",
+    "countryCode": "EC",
+    "englishName": "Bolívar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-C",
+    "countryCode": "EC",
+    "englishName": "Carchi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-D",
+    "countryCode": "EC",
+    "englishName": "Orellana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-E",
+    "countryCode": "EC",
+    "englishName": "Esmeraldas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-F",
+    "countryCode": "EC",
+    "englishName": "Cañar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-G",
+    "countryCode": "EC",
+    "englishName": "Guayas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-H",
+    "countryCode": "EC",
+    "englishName": "Chimborazo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-I",
+    "countryCode": "EC",
+    "englishName": "Imbabura",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-L",
+    "countryCode": "EC",
+    "englishName": "Loja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-M",
+    "countryCode": "EC",
+    "englishName": "Manabí",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-N",
+    "countryCode": "EC",
+    "englishName": "Napo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-O",
+    "countryCode": "EC",
+    "englishName": "El Oro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-P",
+    "countryCode": "EC",
+    "englishName": "Pichincha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-R",
+    "countryCode": "EC",
+    "englishName": "Los Ríos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-S",
+    "countryCode": "EC",
+    "englishName": "Morona-Santiago",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-SD",
+    "countryCode": "EC",
+    "englishName": "Santo Domingo de los Tsáchilas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-SE",
+    "countryCode": "EC",
+    "englishName": "Santa Elena",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-T",
+    "countryCode": "EC",
+    "englishName": "Tungurahua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-U",
+    "countryCode": "EC",
+    "englishName": "Sucumbíos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-W",
+    "countryCode": "EC",
+    "englishName": "Galápagos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-X",
+    "countryCode": "EC",
+    "englishName": "Cotopaxi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-Y",
+    "countryCode": "EC",
+    "englishName": "Pastaza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EC-Z",
+    "countryCode": "EC",
+    "englishName": "Zamora-Chinchipe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
