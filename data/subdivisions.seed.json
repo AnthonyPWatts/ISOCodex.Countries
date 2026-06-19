@@ -31850,6 +31850,160 @@
     "type": "Unknown"
   },
   {
+    "code": "TW-CHA",
+    "countryCode": "TW",
+    "englishName": "Changhua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-CYI",
+    "countryCode": "TW",
+    "englishName": "Chiayi County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-CYQ",
+    "countryCode": "TW",
+    "englishName": "Chiayi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-HSQ",
+    "countryCode": "TW",
+    "englishName": "Hsinchu County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-HSZ",
+    "countryCode": "TW",
+    "englishName": "Hsinchu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-HUA",
+    "countryCode": "TW",
+    "englishName": "Hualien",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-ILA",
+    "countryCode": "TW",
+    "englishName": "Yilan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-KEE",
+    "countryCode": "TW",
+    "englishName": "Keelung",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-KHH",
+    "countryCode": "TW",
+    "englishName": "Kaohsiung",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-KIN",
+    "countryCode": "TW",
+    "englishName": "Kinmen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-LIE",
+    "countryCode": "TW",
+    "englishName": "Lienchiang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-MIA",
+    "countryCode": "TW",
+    "englishName": "Miaoli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-NAN",
+    "countryCode": "TW",
+    "englishName": "Nantou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-NWT",
+    "countryCode": "TW",
+    "englishName": "New Taipei",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-PEN",
+    "countryCode": "TW",
+    "englishName": "Penghu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-PIF",
+    "countryCode": "TW",
+    "englishName": "Pingtung",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-TAO",
+    "countryCode": "TW",
+    "englishName": "Taoyuan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-TNN",
+    "countryCode": "TW",
+    "englishName": "Tainan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-TPE",
+    "countryCode": "TW",
+    "englishName": "Taipei",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-TTT",
+    "countryCode": "TW",
+    "englishName": "Taitung",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-TXG",
+    "countryCode": "TW",
+    "englishName": "Taichung",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TW-YUN",
+    "countryCode": "TW",
+    "englishName": "Yunlin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
