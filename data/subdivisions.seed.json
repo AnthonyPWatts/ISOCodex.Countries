@@ -20503,6 +20503,188 @@
     "type": "Unknown"
   },
   {
+    "code": "MH-ALK",
+    "countryCode": "MH",
+    "englishName": "Ailuk Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-ALL",
+    "countryCode": "MH",
+    "englishName": "Ailinglaplap Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-ARN",
+    "countryCode": "MH",
+    "englishName": "Arno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-AUR",
+    "countryCode": "MH",
+    "englishName": "Aur Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-EBO",
+    "countryCode": "MH",
+    "englishName": "Ebon Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-ENI",
+    "countryCode": "MH",
+    "englishName": "Enewetak Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-JAB",
+    "countryCode": "MH",
+    "englishName": "Jabat Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-JAL",
+    "countryCode": "MH",
+    "englishName": "Jaluit Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-KIL",
+    "countryCode": "MH",
+    "englishName": "Kili Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-KWA",
+    "countryCode": "MH",
+    "englishName": "Kwajalein",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-L",
+    "countryCode": "MH",
+    "englishName": "Ralik Chain",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-LAE",
+    "countryCode": "MH",
+    "englishName": "Lae Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-LIB",
+    "countryCode": "MH",
+    "englishName": "Lib Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-LIK",
+    "countryCode": "MH",
+    "englishName": "Likiep Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-MAJ",
+    "countryCode": "MH",
+    "englishName": "Majuro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-MAL",
+    "countryCode": "MH",
+    "englishName": "Maloelap Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-MEJ",
+    "countryCode": "MH",
+    "englishName": "Mejit Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-MIL",
+    "countryCode": "MH",
+    "englishName": "Mili Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-NMK",
+    "countryCode": "MH",
+    "englishName": "Namdrik Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-NMU",
+    "countryCode": "MH",
+    "englishName": "Namu Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-RON",
+    "countryCode": "MH",
+    "englishName": "Rongelap Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-T",
+    "countryCode": "MH",
+    "englishName": "Ratak Chain",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-UJA",
+    "countryCode": "MH",
+    "englishName": "Ujae Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-UTI",
+    "countryCode": "MH",
+    "englishName": "Utirik Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-WTH",
+    "countryCode": "MH",
+    "englishName": "Wotho Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MH-WTJ",
+    "countryCode": "MH",
+    "englishName": "Wotje Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
