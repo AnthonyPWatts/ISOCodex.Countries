@@ -22834,6 +22834,118 @@
     "type": "Unknown"
   },
   {
+    "code": "MY-01",
+    "countryCode": "MY",
+    "englishName": "Johor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-02",
+    "countryCode": "MY",
+    "englishName": "Kedah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-03",
+    "countryCode": "MY",
+    "englishName": "Kelantan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-04",
+    "countryCode": "MY",
+    "englishName": "Malacca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-05",
+    "countryCode": "MY",
+    "englishName": "Negeri Sembilan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-06",
+    "countryCode": "MY",
+    "englishName": "Pahang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-07",
+    "countryCode": "MY",
+    "englishName": "Penang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-08",
+    "countryCode": "MY",
+    "englishName": "Perak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-09",
+    "countryCode": "MY",
+    "englishName": "Perlis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-10",
+    "countryCode": "MY",
+    "englishName": "Selangor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-11",
+    "countryCode": "MY",
+    "englishName": "Terengganu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-12",
+    "countryCode": "MY",
+    "englishName": "Sabah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-13",
+    "countryCode": "MY",
+    "englishName": "Sarawak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-14",
+    "countryCode": "MY",
+    "englishName": "Kuala Lumpur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-15",
+    "countryCode": "MY",
+    "englishName": "Labuan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MY-16",
+    "countryCode": "MY",
+    "englishName": "Putrajaya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

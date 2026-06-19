@@ -5511,6 +5511,22 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("MX-VER"), CountryAlpha2Code.Parse("MX"), "Veracruz", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MX-YUC"), CountryAlpha2Code.Parse("MX"), "Yucatán", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MX-ZAC"), CountryAlpha2Code.Parse("MX"), "Zacatecas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-01"), CountryAlpha2Code.Parse("MY"), "Johor", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-02"), CountryAlpha2Code.Parse("MY"), "Kedah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-03"), CountryAlpha2Code.Parse("MY"), "Kelantan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-04"), CountryAlpha2Code.Parse("MY"), "Malacca", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-05"), CountryAlpha2Code.Parse("MY"), "Negeri Sembilan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-06"), CountryAlpha2Code.Parse("MY"), "Pahang", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-07"), CountryAlpha2Code.Parse("MY"), "Penang", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-08"), CountryAlpha2Code.Parse("MY"), "Perak", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-09"), CountryAlpha2Code.Parse("MY"), "Perlis", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-10"), CountryAlpha2Code.Parse("MY"), "Selangor", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-11"), CountryAlpha2Code.Parse("MY"), "Terengganu", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-12"), CountryAlpha2Code.Parse("MY"), "Sabah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-13"), CountryAlpha2Code.Parse("MY"), "Sarawak", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-14"), CountryAlpha2Code.Parse("MY"), "Kuala Lumpur", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-15"), CountryAlpha2Code.Parse("MY"), "Labuan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MY-16"), CountryAlpha2Code.Parse("MY"), "Putrajaya", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
