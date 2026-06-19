@@ -24192,6 +24192,188 @@
     "type": "Unknown"
   },
   {
+    "code": "PE-AMA",
+    "countryCode": "PE",
+    "englishName": "Amazonas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-ANC",
+    "countryCode": "PE",
+    "englishName": "Ancash",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-APU",
+    "countryCode": "PE",
+    "englishName": "Apurímac",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-ARE",
+    "countryCode": "PE",
+    "englishName": "Arequipa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-AYA",
+    "countryCode": "PE",
+    "englishName": "Ayacucho",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-CAJ",
+    "countryCode": "PE",
+    "englishName": "Cajamarca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-CAL",
+    "countryCode": "PE",
+    "englishName": "El Callao",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-CUS",
+    "countryCode": "PE",
+    "englishName": "Cusco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-HUC",
+    "countryCode": "PE",
+    "englishName": "Huánuco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-HUV",
+    "countryCode": "PE",
+    "englishName": "Huancavelica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-ICA",
+    "countryCode": "PE",
+    "englishName": "Ica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-JUN",
+    "countryCode": "PE",
+    "englishName": "Junín",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-LAL",
+    "countryCode": "PE",
+    "englishName": "La Libertad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-LAM",
+    "countryCode": "PE",
+    "englishName": "Lambayeque",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-LIM",
+    "countryCode": "PE",
+    "englishName": "Lima Region",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-LMA",
+    "countryCode": "PE",
+    "englishName": "Lima",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-LOR",
+    "countryCode": "PE",
+    "englishName": "Loreto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-MDD",
+    "countryCode": "PE",
+    "englishName": "Madre de Dios",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-MOQ",
+    "countryCode": "PE",
+    "englishName": "Moquegua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-PAS",
+    "countryCode": "PE",
+    "englishName": "Pasco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-PIU",
+    "countryCode": "PE",
+    "englishName": "Piura",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-PUN",
+    "countryCode": "PE",
+    "englishName": "Puno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-SAM",
+    "countryCode": "PE",
+    "englishName": "San Martín",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-TAC",
+    "countryCode": "PE",
+    "englishName": "Tacna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-TUM",
+    "countryCode": "PE",
+    "englishName": "Tumbes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PE-UCA",
+    "countryCode": "PE",
+    "englishName": "Ucayali",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
