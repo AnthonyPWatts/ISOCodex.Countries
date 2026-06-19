@@ -33934,6 +33934,104 @@
     "englishName": "Treinta y Tres",
     "localName": null,
     "type": "Unknown"
+  },
+  {
+    "code": "UZ-AN",
+    "countryCode": "UZ",
+    "englishName": "Andijan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UZ-BU",
+    "countryCode": "UZ",
+    "englishName": "Bukhara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UZ-FA",
+    "countryCode": "UZ",
+    "englishName": "Fergana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UZ-JI",
+    "countryCode": "UZ",
+    "englishName": "Jizzakh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UZ-NG",
+    "countryCode": "UZ",
+    "englishName": "Namangan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UZ-NW",
+    "countryCode": "UZ",
+    "englishName": "Navoiy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UZ-QA",
+    "countryCode": "UZ",
+    "englishName": "Qashqadaryo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UZ-QR",
+    "countryCode": "UZ",
+    "englishName": "Karakalpakstan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UZ-SA",
+    "countryCode": "UZ",
+    "englishName": "Samarqand",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UZ-SI",
+    "countryCode": "UZ",
+    "englishName": "Sirdaryo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UZ-SU",
+    "countryCode": "UZ",
+    "englishName": "Surxondaryo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UZ-TK",
+    "countryCode": "UZ",
+    "englishName": "Tashkent",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UZ-TO",
+    "countryCode": "UZ",
+    "englishName": "Tashkent Province",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UZ-XO",
+    "countryCode": "UZ",
+    "englishName": "Xorazm",
+    "localName": null,
+    "type": "Unknown"
   }
 ]
 

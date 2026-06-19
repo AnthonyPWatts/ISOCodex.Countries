@@ -7096,7 +7096,21 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("UY-SJ"), CountryAlpha2Code.Parse("UY"), "San José", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("UY-SO"), CountryAlpha2Code.Parse("UY"), "Soriano", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("UY-TA"), CountryAlpha2Code.Parse("UY"), "Tacuarembó", null, CountrySubdivisionType.Unknown),
-        new(CountrySubdivisionCode.Parse("UY-TT"), CountryAlpha2Code.Parse("UY"), "Treinta y Tres", null, CountrySubdivisionType.Unknown)
+        new(CountrySubdivisionCode.Parse("UY-TT"), CountryAlpha2Code.Parse("UY"), "Treinta y Tres", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-AN"), CountryAlpha2Code.Parse("UZ"), "Andijan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-BU"), CountryAlpha2Code.Parse("UZ"), "Bukhara", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-FA"), CountryAlpha2Code.Parse("UZ"), "Fergana", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-JI"), CountryAlpha2Code.Parse("UZ"), "Jizzakh", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-NG"), CountryAlpha2Code.Parse("UZ"), "Namangan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-NW"), CountryAlpha2Code.Parse("UZ"), "Navoiy", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-QA"), CountryAlpha2Code.Parse("UZ"), "Qashqadaryo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-QR"), CountryAlpha2Code.Parse("UZ"), "Karakalpakstan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-SA"), CountryAlpha2Code.Parse("UZ"), "Samarqand", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-SI"), CountryAlpha2Code.Parse("UZ"), "Sirdaryo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-SU"), CountryAlpha2Code.Parse("UZ"), "Surxondaryo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-TK"), CountryAlpha2Code.Parse("UZ"), "Tashkent", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-TO"), CountryAlpha2Code.Parse("UZ"), "Tashkent Province", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UZ-XO"), CountryAlpha2Code.Parse("UZ"), "Xorazm", null, CountrySubdivisionType.Unknown)
     }.AsReadOnly();
 }
 
