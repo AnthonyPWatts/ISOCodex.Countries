@@ -553,6 +553,132 @@
     "type": "Unknown"
   },
   {
+    "code": "AO-BGO",
+    "countryCode": "AO",
+    "englishName": "Bengo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-BGU",
+    "countryCode": "AO",
+    "englishName": "Benguela",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-BIE",
+    "countryCode": "AO",
+    "englishName": "Bié",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-CAB",
+    "countryCode": "AO",
+    "englishName": "Cabinda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-CCU",
+    "countryCode": "AO",
+    "englishName": "Cuando Cubango",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-CNN",
+    "countryCode": "AO",
+    "englishName": "Cunene",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-CNO",
+    "countryCode": "AO",
+    "englishName": "Cuanza Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-CUS",
+    "countryCode": "AO",
+    "englishName": "Cuanza Sul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-HUA",
+    "countryCode": "AO",
+    "englishName": "Huambo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-HUI",
+    "countryCode": "AO",
+    "englishName": "Huíla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-LNO",
+    "countryCode": "AO",
+    "englishName": "Lunda Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-LSU",
+    "countryCode": "AO",
+    "englishName": "Lunda Sul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-LUA",
+    "countryCode": "AO",
+    "englishName": "Luanda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-MAL",
+    "countryCode": "AO",
+    "englishName": "Malanje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-MOX",
+    "countryCode": "AO",
+    "englishName": "Moxico",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-NAM",
+    "countryCode": "AO",
+    "englishName": "Namibe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-UIG",
+    "countryCode": "AO",
+    "englishName": "Uíge",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AO-ZAI",
+    "countryCode": "AO",
+    "englishName": "Zaire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "AU-NSW",
     "countryCode": "AU",
     "englishName": "New South Wales",
