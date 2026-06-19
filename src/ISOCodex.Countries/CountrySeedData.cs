@@ -3996,6 +3996,16 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("GN-TE"), CountryAlpha2Code.Parse("GN"), "Télimélé", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GN-TO"), CountryAlpha2Code.Parse("GN"), "Tougué", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GN-YO"), CountryAlpha2Code.Parse("GN"), "Yomou", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GQ-AN"), CountryAlpha2Code.Parse("GQ"), "Annobón", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GQ-BN"), CountryAlpha2Code.Parse("GQ"), "Bioko Norte", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GQ-BS"), CountryAlpha2Code.Parse("GQ"), "Bioko Sur", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GQ-C"), CountryAlpha2Code.Parse("GQ"), "Río Muni", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GQ-CS"), CountryAlpha2Code.Parse("GQ"), "Centro Sur", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GQ-DJ"), CountryAlpha2Code.Parse("GQ"), "Djibloho", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GQ-I"), CountryAlpha2Code.Parse("GQ"), "Insular", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GQ-KN"), CountryAlpha2Code.Parse("GQ"), "Kié-Ntem", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GQ-LI"), CountryAlpha2Code.Parse("GQ"), "Litoral", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GQ-WN"), CountryAlpha2Code.Parse("GQ"), "Wele-Nzas", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("IE-D"), CountryAlpha2Code.Parse("IE"), "Dublin", null, CountrySubdivisionType.County),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();

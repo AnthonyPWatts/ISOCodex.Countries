@@ -12229,6 +12229,76 @@
     "type": "Unknown"
   },
   {
+    "code": "GQ-AN",
+    "countryCode": "GQ",
+    "englishName": "Annobón",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GQ-BN",
+    "countryCode": "GQ",
+    "englishName": "Bioko Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GQ-BS",
+    "countryCode": "GQ",
+    "englishName": "Bioko Sur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GQ-C",
+    "countryCode": "GQ",
+    "englishName": "Río Muni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GQ-CS",
+    "countryCode": "GQ",
+    "englishName": "Centro Sur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GQ-DJ",
+    "countryCode": "GQ",
+    "englishName": "Djibloho",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GQ-I",
+    "countryCode": "GQ",
+    "englishName": "Insular",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GQ-KN",
+    "countryCode": "GQ",
+    "englishName": "Kié-Ntem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GQ-LI",
+    "countryCode": "GQ",
+    "englishName": "Litoral",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GQ-WN",
+    "countryCode": "GQ",
+    "englishName": "Wele-Nzas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",
