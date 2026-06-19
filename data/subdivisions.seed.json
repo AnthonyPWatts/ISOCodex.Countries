@@ -18844,6 +18844,307 @@
     "type": "Unknown"
   },
   {
+    "code": "LV-002",
+    "countryCode": "LV",
+    "englishName": "Aizkraukle",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-007",
+    "countryCode": "LV",
+    "englishName": "Alūksne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-011",
+    "countryCode": "LV",
+    "englishName": "Ādaži",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-015",
+    "countryCode": "LV",
+    "englishName": "Balvi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-016",
+    "countryCode": "LV",
+    "englishName": "Bauska",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-022",
+    "countryCode": "LV",
+    "englishName": "Cēsis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-026",
+    "countryCode": "LV",
+    "englishName": "Dobele",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-033",
+    "countryCode": "LV",
+    "englishName": "Gulbene",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-041",
+    "countryCode": "LV",
+    "englishName": "Jelgava Municipality",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-042",
+    "countryCode": "LV",
+    "englishName": "Jēkabpils Municipality",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-047",
+    "countryCode": "LV",
+    "englishName": "Krāslava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-050",
+    "countryCode": "LV",
+    "englishName": "Kuldīga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-052",
+    "countryCode": "LV",
+    "englishName": "Ķekava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-054",
+    "countryCode": "LV",
+    "englishName": "Limbaži",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-056",
+    "countryCode": "LV",
+    "englishName": "Līvāni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-058",
+    "countryCode": "LV",
+    "englishName": "Ludza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-059",
+    "countryCode": "LV",
+    "englishName": "Madona",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-062",
+    "countryCode": "LV",
+    "englishName": "Mārupe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-067",
+    "countryCode": "LV",
+    "englishName": "Ogre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-068",
+    "countryCode": "LV",
+    "englishName": "Olaine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-073",
+    "countryCode": "LV",
+    "englishName": "Preiļi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-077",
+    "countryCode": "LV",
+    "englishName": "Rēzekne Municipality",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-080",
+    "countryCode": "LV",
+    "englishName": "Ropaži",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-087",
+    "countryCode": "LV",
+    "englishName": "Salaspils",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-088",
+    "countryCode": "LV",
+    "englishName": "Saldus",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-089",
+    "countryCode": "LV",
+    "englishName": "Saulkrasti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-091",
+    "countryCode": "LV",
+    "englishName": "Sigulda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-094",
+    "countryCode": "LV",
+    "englishName": "Smiltene",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-097",
+    "countryCode": "LV",
+    "englishName": "Talsi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-099",
+    "countryCode": "LV",
+    "englishName": "Tukums",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-101",
+    "countryCode": "LV",
+    "englishName": "Valka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-102",
+    "countryCode": "LV",
+    "englishName": "Varakļāni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-106",
+    "countryCode": "LV",
+    "englishName": "Ventspils Municipality",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-111",
+    "countryCode": "LV",
+    "englishName": "Augšdaugavas novads",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-112",
+    "countryCode": "LV",
+    "englishName": "Dienvidkurzemes Novads",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-113",
+    "countryCode": "LV",
+    "englishName": "Valmieras Novads",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-DGV",
+    "countryCode": "LV",
+    "englishName": "Daugavpils",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-JEL",
+    "countryCode": "LV",
+    "englishName": "Jelgava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-JUR",
+    "countryCode": "LV",
+    "englishName": "Jūrmala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-LPX",
+    "countryCode": "LV",
+    "englishName": "Liepāja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-REZ",
+    "countryCode": "LV",
+    "englishName": "Rēzekne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-RIX",
+    "countryCode": "LV",
+    "englishName": "Riga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LV-VEN",
+    "countryCode": "LV",
+    "englishName": "Ventspils",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
