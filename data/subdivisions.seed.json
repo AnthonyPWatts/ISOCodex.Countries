@@ -12978,6 +12978,76 @@
     "type": "Unknown"
   },
   {
+    "code": "HT-AR",
+    "countryCode": "HT",
+    "englishName": "Artibonite",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HT-CE",
+    "countryCode": "HT",
+    "englishName": "Centre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HT-GA",
+    "countryCode": "HT",
+    "englishName": "Grand’Anse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HT-ND",
+    "countryCode": "HT",
+    "englishName": "Nord",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HT-NE",
+    "countryCode": "HT",
+    "englishName": "Nord-Est",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HT-NI",
+    "countryCode": "HT",
+    "englishName": "Nippes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HT-NO",
+    "countryCode": "HT",
+    "englishName": "Nord-Ouest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HT-OU",
+    "countryCode": "HT",
+    "englishName": "Ouest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HT-SD",
+    "countryCode": "HT",
+    "englishName": "Sud",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HT-SE",
+    "countryCode": "HT",
+    "englishName": "Sud-Est",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",

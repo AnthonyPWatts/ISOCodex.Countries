@@ -4103,6 +4103,16 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("HR-19"), CountryAlpha2Code.Parse("HR"), "Dubrovnik-Neretva", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("HR-20"), CountryAlpha2Code.Parse("HR"), "Međimurje", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("HR-21"), CountryAlpha2Code.Parse("HR"), "Zagreb", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("HT-AR"), CountryAlpha2Code.Parse("HT"), "Artibonite", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("HT-CE"), CountryAlpha2Code.Parse("HT"), "Centre", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("HT-GA"), CountryAlpha2Code.Parse("HT"), "Grand’Anse", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("HT-ND"), CountryAlpha2Code.Parse("HT"), "Nord", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("HT-NE"), CountryAlpha2Code.Parse("HT"), "Nord-Est", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("HT-NI"), CountryAlpha2Code.Parse("HT"), "Nippes", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("HT-NO"), CountryAlpha2Code.Parse("HT"), "Nord-Ouest", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("HT-OU"), CountryAlpha2Code.Parse("HT"), "Ouest", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("HT-SD"), CountryAlpha2Code.Parse("HT"), "Sud", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("HT-SE"), CountryAlpha2Code.Parse("HT"), "Sud-Est", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("IE-D"), CountryAlpha2Code.Parse("IE"), "Dublin", null, CountrySubdivisionType.County),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
