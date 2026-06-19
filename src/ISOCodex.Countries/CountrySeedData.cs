@@ -6559,6 +6559,11 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("TD-TA"), CountryAlpha2Code.Parse("TD"), "Tandjilé", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("TD-TI"), CountryAlpha2Code.Parse("TD"), "Tibesti", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("TD-WF"), CountryAlpha2Code.Parse("TD"), "Wadi Fira", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TG-C"), CountryAlpha2Code.Parse("TG"), "Centrale", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TG-K"), CountryAlpha2Code.Parse("TG"), "Kara", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TG-M"), CountryAlpha2Code.Parse("TG"), "Maritime", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TG-P"), CountryAlpha2Code.Parse("TG"), "Plateaux", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TG-S"), CountryAlpha2Code.Parse("TG"), "Savanes", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

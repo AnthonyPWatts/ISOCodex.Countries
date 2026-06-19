@@ -30170,6 +30170,41 @@
     "type": "Unknown"
   },
   {
+    "code": "TG-C",
+    "countryCode": "TG",
+    "englishName": "Centrale",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TG-K",
+    "countryCode": "TG",
+    "englishName": "Kara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TG-M",
+    "countryCode": "TG",
+    "englishName": "Maritime",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TG-P",
+    "countryCode": "TG",
+    "englishName": "Plateaux",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TG-S",
+    "countryCode": "TG",
+    "englishName": "Savanes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
