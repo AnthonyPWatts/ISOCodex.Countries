@@ -21581,6 +21581,111 @@
     "type": "Unknown"
   },
   {
+    "code": "MR-01",
+    "countryCode": "MR",
+    "englishName": "Hodh Ech Chargui",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-02",
+    "countryCode": "MR",
+    "englishName": "Hodh El Gharbi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-03",
+    "countryCode": "MR",
+    "englishName": "Assaba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-04",
+    "countryCode": "MR",
+    "englishName": "Gorgol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-05",
+    "countryCode": "MR",
+    "englishName": "Brakna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-06",
+    "countryCode": "MR",
+    "englishName": "Trarza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-07",
+    "countryCode": "MR",
+    "englishName": "Adrar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-08",
+    "countryCode": "MR",
+    "englishName": "Dakhlet Nouadhibou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-09",
+    "countryCode": "MR",
+    "englishName": "Tagant",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-10",
+    "countryCode": "MR",
+    "englishName": "Guidimaka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-11",
+    "countryCode": "MR",
+    "englishName": "Tiris Zemmour",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-12",
+    "countryCode": "MR",
+    "englishName": "Inchiri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-13",
+    "countryCode": "MR",
+    "englishName": "Nouakchott Ouest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-14",
+    "countryCode": "MR",
+    "englishName": "Nouakchott Nord",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MR-15",
+    "countryCode": "MR",
+    "englishName": "Nouakchott Sud",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

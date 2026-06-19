@@ -5332,6 +5332,21 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("MN-071"), CountryAlpha2Code.Parse("MN"), "Bayan-Ölgii", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MN-073"), CountryAlpha2Code.Parse("MN"), "Arkhangai", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MN-1"), CountryAlpha2Code.Parse("MN"), "Ulaanbaatar", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-01"), CountryAlpha2Code.Parse("MR"), "Hodh Ech Chargui", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-02"), CountryAlpha2Code.Parse("MR"), "Hodh El Gharbi", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-03"), CountryAlpha2Code.Parse("MR"), "Assaba", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-04"), CountryAlpha2Code.Parse("MR"), "Gorgol", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-05"), CountryAlpha2Code.Parse("MR"), "Brakna", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-06"), CountryAlpha2Code.Parse("MR"), "Trarza", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-07"), CountryAlpha2Code.Parse("MR"), "Adrar", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-08"), CountryAlpha2Code.Parse("MR"), "Dakhlet Nouadhibou", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-09"), CountryAlpha2Code.Parse("MR"), "Tagant", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-10"), CountryAlpha2Code.Parse("MR"), "Guidimaka", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-11"), CountryAlpha2Code.Parse("MR"), "Tiris Zemmour", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-12"), CountryAlpha2Code.Parse("MR"), "Inchiri", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-13"), CountryAlpha2Code.Parse("MR"), "Nouakchott Ouest", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-14"), CountryAlpha2Code.Parse("MR"), "Nouakchott Nord", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MR-15"), CountryAlpha2Code.Parse("MR"), "Nouakchott Sud", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
