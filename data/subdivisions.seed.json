@@ -476,6 +476,83 @@
     "type": "Unknown"
   },
   {
+    "code": "AM-AG",
+    "countryCode": "AM",
+    "englishName": "Aragatsotn",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AM-AR",
+    "countryCode": "AM",
+    "englishName": "Ararat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AM-AV",
+    "countryCode": "AM",
+    "englishName": "Armavir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AM-ER",
+    "countryCode": "AM",
+    "englishName": "Yerevan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AM-GR",
+    "countryCode": "AM",
+    "englishName": "Gegharkunik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AM-KT",
+    "countryCode": "AM",
+    "englishName": "Kotayk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AM-LO",
+    "countryCode": "AM",
+    "englishName": "Lori",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AM-SH",
+    "countryCode": "AM",
+    "englishName": "Shirak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AM-SU",
+    "countryCode": "AM",
+    "englishName": "Syunik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AM-TV",
+    "countryCode": "AM",
+    "englishName": "Tavush",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AM-VD",
+    "countryCode": "AM",
+    "englishName": "Vayots Dzor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "AU-NSW",
     "countryCode": "AU",
     "englishName": "New South Wales",
