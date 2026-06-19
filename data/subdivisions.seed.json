@@ -12551,6 +12551,90 @@
     "type": "Unknown"
   },
   {
+    "code": "GW-BA",
+    "countryCode": "GW",
+    "englishName": "Bafatá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GW-BL",
+    "countryCode": "GW",
+    "englishName": "Bolama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GW-BM",
+    "countryCode": "GW",
+    "englishName": "Biombo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GW-BS",
+    "countryCode": "GW",
+    "englishName": "Bissau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GW-CA",
+    "countryCode": "GW",
+    "englishName": "Cacheu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GW-GA",
+    "countryCode": "GW",
+    "englishName": "Gabú",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GW-L",
+    "countryCode": "GW",
+    "englishName": "Leste",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GW-N",
+    "countryCode": "GW",
+    "englishName": "Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GW-OI",
+    "countryCode": "GW",
+    "englishName": "Oio",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GW-QU",
+    "countryCode": "GW",
+    "englishName": "Quinara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GW-S",
+    "countryCode": "GW",
+    "englishName": "Sul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GW-TO",
+    "countryCode": "GW",
+    "englishName": "Tombali",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",

@@ -4042,6 +4042,18 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("GT-20"), CountryAlpha2Code.Parse("GT"), "Chiquimula", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GT-21"), CountryAlpha2Code.Parse("GT"), "Jalapa", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GT-22"), CountryAlpha2Code.Parse("GT"), "Jutiapa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GW-BA"), CountryAlpha2Code.Parse("GW"), "Bafatá", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GW-BL"), CountryAlpha2Code.Parse("GW"), "Bolama", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GW-BM"), CountryAlpha2Code.Parse("GW"), "Biombo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GW-BS"), CountryAlpha2Code.Parse("GW"), "Bissau", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GW-CA"), CountryAlpha2Code.Parse("GW"), "Cacheu", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GW-GA"), CountryAlpha2Code.Parse("GW"), "Gabú", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GW-L"), CountryAlpha2Code.Parse("GW"), "Leste", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GW-N"), CountryAlpha2Code.Parse("GW"), "Norte", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GW-OI"), CountryAlpha2Code.Parse("GW"), "Oio", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GW-QU"), CountryAlpha2Code.Parse("GW"), "Quinara", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GW-S"), CountryAlpha2Code.Parse("GW"), "Sul", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GW-TO"), CountryAlpha2Code.Parse("GW"), "Tombali", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("IE-D"), CountryAlpha2Code.Parse("IE"), "Dublin", null, CountrySubdivisionType.County),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
