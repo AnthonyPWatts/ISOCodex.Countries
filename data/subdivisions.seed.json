@@ -3822,6 +3822,55 @@
     "type": "Unknown"
   },
   {
+    "code": "BY-BR",
+    "countryCode": "BY",
+    "englishName": "Brest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BY-HM",
+    "countryCode": "BY",
+    "englishName": "Minsk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BY-HO",
+    "countryCode": "BY",
+    "englishName": "Homel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BY-HR",
+    "countryCode": "BY",
+    "englishName": "Hrodna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BY-MA",
+    "countryCode": "BY",
+    "englishName": "Magileu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BY-MI",
+    "countryCode": "BY",
+    "englishName": "Minsk Region",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BY-VI",
+    "countryCode": "BY",
+    "englishName": "Vitebsk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
