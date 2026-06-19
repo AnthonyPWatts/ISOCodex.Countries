@@ -8106,6 +8106,195 @@
     "type": "Unknown"
   },
   {
+    "code": "EG-ALX",
+    "countryCode": "EG",
+    "englishName": "Alexandria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-ASN",
+    "countryCode": "EG",
+    "englishName": "Aswan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-AST",
+    "countryCode": "EG",
+    "englishName": "Asyut",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-BA",
+    "countryCode": "EG",
+    "englishName": "Red Sea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-BH",
+    "countryCode": "EG",
+    "englishName": "Beheira",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-BNS",
+    "countryCode": "EG",
+    "englishName": "Beni Suef",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-C",
+    "countryCode": "EG",
+    "englishName": "Cairo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-DK",
+    "countryCode": "EG",
+    "englishName": "Dakahlia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-DT",
+    "countryCode": "EG",
+    "englishName": "Damietta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-FYM",
+    "countryCode": "EG",
+    "englishName": "Faiyum",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-GH",
+    "countryCode": "EG",
+    "englishName": "Gharbia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-GZ",
+    "countryCode": "EG",
+    "englishName": "Giza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-IS",
+    "countryCode": "EG",
+    "englishName": "Ismailia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-JS",
+    "countryCode": "EG",
+    "englishName": "South Sinai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-KB",
+    "countryCode": "EG",
+    "englishName": "Qalyubia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-KFS",
+    "countryCode": "EG",
+    "englishName": "Kafr el-Sheikh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-KN",
+    "countryCode": "EG",
+    "englishName": "Qena",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-LX",
+    "countryCode": "EG",
+    "englishName": "Luxor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-MN",
+    "countryCode": "EG",
+    "englishName": "Minya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-MNF",
+    "countryCode": "EG",
+    "englishName": "Monufia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-MT",
+    "countryCode": "EG",
+    "englishName": "Matrouh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-PTS",
+    "countryCode": "EG",
+    "englishName": "Port Said",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-SHG",
+    "countryCode": "EG",
+    "englishName": "Sohag",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-SHR",
+    "countryCode": "EG",
+    "englishName": "Al Sharqia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-SIN",
+    "countryCode": "EG",
+    "englishName": "North Sinai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-SUZ",
+    "countryCode": "EG",
+    "englishName": "Suez",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EG-WAD",
+    "countryCode": "EG",
+    "englishName": "New Valley",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
