@@ -4681,6 +4681,22 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("KM-A"), CountryAlpha2Code.Parse("KM"), "Anjouan", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("KM-G"), CountryAlpha2Code.Parse("KM"), "Grande Comore", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("KM-M"), CountryAlpha2Code.Parse("KM"), "Mohéli", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-01"), CountryAlpha2Code.Parse("KN"), "Christ Church Nichola Town", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-02"), CountryAlpha2Code.Parse("KN"), "Saint Anne Sandy Point", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-03"), CountryAlpha2Code.Parse("KN"), "Saint George Basseterre", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-04"), CountryAlpha2Code.Parse("KN"), "Saint George Gingerland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-05"), CountryAlpha2Code.Parse("KN"), "Saint James Windward", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-06"), CountryAlpha2Code.Parse("KN"), "Saint John Capisterre", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-07"), CountryAlpha2Code.Parse("KN"), "Saint John Figtree", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-08"), CountryAlpha2Code.Parse("KN"), "Saint Mary Cayon", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-09"), CountryAlpha2Code.Parse("KN"), "Saint Paul Capisterre", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-10"), CountryAlpha2Code.Parse("KN"), "Saint Paul Charlestown", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-11"), CountryAlpha2Code.Parse("KN"), "Saint Peter Basseterre", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-12"), CountryAlpha2Code.Parse("KN"), "Saint Thomas Lowland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-13"), CountryAlpha2Code.Parse("KN"), "Saint Thomas Middle Island", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-15"), CountryAlpha2Code.Parse("KN"), "Trinity Palmetto Point", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-K"), CountryAlpha2Code.Parse("KN"), "Saint Kitts", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KN-N"), CountryAlpha2Code.Parse("KN"), "Nevis", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

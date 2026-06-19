@@ -17024,6 +17024,118 @@
     "type": "Unknown"
   },
   {
+    "code": "KN-01",
+    "countryCode": "KN",
+    "englishName": "Christ Church Nichola Town",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-02",
+    "countryCode": "KN",
+    "englishName": "Saint Anne Sandy Point",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-03",
+    "countryCode": "KN",
+    "englishName": "Saint George Basseterre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-04",
+    "countryCode": "KN",
+    "englishName": "Saint George Gingerland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-05",
+    "countryCode": "KN",
+    "englishName": "Saint James Windward",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-06",
+    "countryCode": "KN",
+    "englishName": "Saint John Capisterre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-07",
+    "countryCode": "KN",
+    "englishName": "Saint John Figtree",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-08",
+    "countryCode": "KN",
+    "englishName": "Saint Mary Cayon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-09",
+    "countryCode": "KN",
+    "englishName": "Saint Paul Capisterre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-10",
+    "countryCode": "KN",
+    "englishName": "Saint Paul Charlestown",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-11",
+    "countryCode": "KN",
+    "englishName": "Saint Peter Basseterre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-12",
+    "countryCode": "KN",
+    "englishName": "Saint Thomas Lowland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-13",
+    "countryCode": "KN",
+    "englishName": "Saint Thomas Middle Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-15",
+    "countryCode": "KN",
+    "englishName": "Trinity Palmetto Point",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-K",
+    "countryCode": "KN",
+    "englishName": "Saint Kitts",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KN-N",
+    "countryCode": "KN",
+    "englishName": "Nevis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
