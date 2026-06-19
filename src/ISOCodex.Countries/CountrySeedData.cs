@@ -4678,6 +4678,9 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("KI-G"), CountryAlpha2Code.Parse("KI"), "Gilbert Islands", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("KI-L"), CountryAlpha2Code.Parse("KI"), "Line Islands", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("KI-P"), CountryAlpha2Code.Parse("KI"), "Phoenix Islands", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KM-A"), CountryAlpha2Code.Parse("KM"), "Anjouan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KM-G"), CountryAlpha2Code.Parse("KM"), "Grande Comore", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KM-M"), CountryAlpha2Code.Parse("KM"), "Mohéli", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

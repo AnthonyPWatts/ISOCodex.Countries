@@ -17003,6 +17003,27 @@
     "type": "Unknown"
   },
   {
+    "code": "KM-A",
+    "countryCode": "KM",
+    "englishName": "Anjouan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KM-G",
+    "countryCode": "KM",
+    "englishName": "Grande Comore",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KM-M",
+    "countryCode": "KM",
+    "englishName": "Mohéli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
