@@ -20685,6 +20685,566 @@
     "type": "Unknown"
   },
   {
+    "code": "MK-101",
+    "countryCode": "MK",
+    "englishName": "Veles",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-102",
+    "countryCode": "MK",
+    "englishName": "Gradsko",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-103",
+    "countryCode": "MK",
+    "englishName": "Demir Kapija",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-104",
+    "countryCode": "MK",
+    "englishName": "Kavadarci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-105",
+    "countryCode": "MK",
+    "englishName": "Lozovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-106",
+    "countryCode": "MK",
+    "englishName": "Negotino",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-107",
+    "countryCode": "MK",
+    "englishName": "Rosoman",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-108",
+    "countryCode": "MK",
+    "englishName": "Sveti Nikole",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-109",
+    "countryCode": "MK",
+    "englishName": "Čaška",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-201",
+    "countryCode": "MK",
+    "englishName": "Berovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-202",
+    "countryCode": "MK",
+    "englishName": "Vinica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-203",
+    "countryCode": "MK",
+    "englishName": "Delčevo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-204",
+    "countryCode": "MK",
+    "englishName": "Zrnovci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-205",
+    "countryCode": "MK",
+    "englishName": "Karbinci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-206",
+    "countryCode": "MK",
+    "englishName": "Kočani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-207",
+    "countryCode": "MK",
+    "englishName": "Makedonska Kamenica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-208",
+    "countryCode": "MK",
+    "englishName": "Pehčevo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-209",
+    "countryCode": "MK",
+    "englishName": "Probištip",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-210",
+    "countryCode": "MK",
+    "englishName": "Češinovo-Obleševo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-211",
+    "countryCode": "MK",
+    "englishName": "Štip",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-301",
+    "countryCode": "MK",
+    "englishName": "Vevčani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-303",
+    "countryCode": "MK",
+    "englishName": "Debar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-304",
+    "countryCode": "MK",
+    "englishName": "Debrca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-307",
+    "countryCode": "MK",
+    "englishName": "Kičevo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-308",
+    "countryCode": "MK",
+    "englishName": "Makedonski Brod",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-310",
+    "countryCode": "MK",
+    "englishName": "Ohrid",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-311",
+    "countryCode": "MK",
+    "englishName": "Plasnica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-312",
+    "countryCode": "MK",
+    "englishName": "Struga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-313",
+    "countryCode": "MK",
+    "englishName": "Centar Župa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-401",
+    "countryCode": "MK",
+    "englishName": "Bogdanci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-402",
+    "countryCode": "MK",
+    "englishName": "Bosilovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-403",
+    "countryCode": "MK",
+    "englishName": "Valandovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-404",
+    "countryCode": "MK",
+    "englishName": "Vasilevo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-405",
+    "countryCode": "MK",
+    "englishName": "Gevgelija",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-406",
+    "countryCode": "MK",
+    "englishName": "Dojran",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-407",
+    "countryCode": "MK",
+    "englishName": "Konče",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-408",
+    "countryCode": "MK",
+    "englishName": "Novo Selo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-409",
+    "countryCode": "MK",
+    "englishName": "Radoviš",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-410",
+    "countryCode": "MK",
+    "englishName": "Strumica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-501",
+    "countryCode": "MK",
+    "englishName": "Bitola",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-502",
+    "countryCode": "MK",
+    "englishName": "Demir Hisar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-503",
+    "countryCode": "MK",
+    "englishName": "Dolneni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-504",
+    "countryCode": "MK",
+    "englishName": "Krivogaštani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-505",
+    "countryCode": "MK",
+    "englishName": "Kruševo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-506",
+    "countryCode": "MK",
+    "englishName": "Mogila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-507",
+    "countryCode": "MK",
+    "englishName": "Novaci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-508",
+    "countryCode": "MK",
+    "englishName": "Prilep",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-509",
+    "countryCode": "MK",
+    "englishName": "Resen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-601",
+    "countryCode": "MK",
+    "englishName": "Bogovinje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-602",
+    "countryCode": "MK",
+    "englishName": "Brvenica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-603",
+    "countryCode": "MK",
+    "englishName": "Vrapčište",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-604",
+    "countryCode": "MK",
+    "englishName": "Gostivar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-605",
+    "countryCode": "MK",
+    "englishName": "Želino",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-606",
+    "countryCode": "MK",
+    "englishName": "Jegunovce",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-607",
+    "countryCode": "MK",
+    "englishName": "Mavrovo i Rostuše",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-608",
+    "countryCode": "MK",
+    "englishName": "Tearce",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-609",
+    "countryCode": "MK",
+    "englishName": "Tetovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-701",
+    "countryCode": "MK",
+    "englishName": "Kratovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-702",
+    "countryCode": "MK",
+    "englishName": "Kriva Palanka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-703",
+    "countryCode": "MK",
+    "englishName": "Kumanovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-704",
+    "countryCode": "MK",
+    "englishName": "Lipkovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-705",
+    "countryCode": "MK",
+    "englishName": "Rankovce",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-706",
+    "countryCode": "MK",
+    "englishName": "Staro Nagoričane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-801",
+    "countryCode": "MK",
+    "englishName": "Aerodrom †",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-802",
+    "countryCode": "MK",
+    "englishName": "Aračinovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-803",
+    "countryCode": "MK",
+    "englishName": "Butel †",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-804",
+    "countryCode": "MK",
+    "englishName": "Gazi Baba †",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-805",
+    "countryCode": "MK",
+    "englishName": "Gjorče Petrov †",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-806",
+    "countryCode": "MK",
+    "englishName": "Zelenikovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-807",
+    "countryCode": "MK",
+    "englishName": "Ilinden",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-808",
+    "countryCode": "MK",
+    "englishName": "Karpoš †",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-809",
+    "countryCode": "MK",
+    "englishName": "Kisela Voda †",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-810",
+    "countryCode": "MK",
+    "englishName": "Petrovec",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-811",
+    "countryCode": "MK",
+    "englishName": "Saraj †",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-812",
+    "countryCode": "MK",
+    "englishName": "Sopište",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-813",
+    "countryCode": "MK",
+    "englishName": "Studeničani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-814",
+    "countryCode": "MK",
+    "englishName": "Centar †",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-815",
+    "countryCode": "MK",
+    "englishName": "Čair †",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-816",
+    "countryCode": "MK",
+    "englishName": "Čučer-Sandevo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MK-817",
+    "countryCode": "MK",
+    "englishName": "Šuto Orizari †",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
