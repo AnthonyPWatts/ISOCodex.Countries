@@ -12299,6 +12299,104 @@
     "type": "Unknown"
   },
   {
+    "code": "GR-69",
+    "countryCode": "GR",
+    "englishName": "Mount Athos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GR-A",
+    "countryCode": "GR",
+    "englishName": "East Macedonia and Thrace",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GR-B",
+    "countryCode": "GR",
+    "englishName": "Central Macedonia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GR-C",
+    "countryCode": "GR",
+    "englishName": "West Macedonia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GR-D",
+    "countryCode": "GR",
+    "englishName": "Epirus",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GR-E",
+    "countryCode": "GR",
+    "englishName": "Thessaly",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GR-F",
+    "countryCode": "GR",
+    "englishName": "Ionian Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GR-G",
+    "countryCode": "GR",
+    "englishName": "West Greece",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GR-H",
+    "countryCode": "GR",
+    "englishName": "Central Greece",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GR-I",
+    "countryCode": "GR",
+    "englishName": "Attica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GR-J",
+    "countryCode": "GR",
+    "englishName": "Peloponnese",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GR-K",
+    "countryCode": "GR",
+    "englishName": "North Aegean",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GR-L",
+    "countryCode": "GR",
+    "englishName": "South Aegean",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GR-M",
+    "countryCode": "GR",
+    "englishName": "Crete",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",
