@@ -16982,6 +16982,27 @@
     "type": "Unknown"
   },
   {
+    "code": "KI-G",
+    "countryCode": "KI",
+    "englishName": "Gilbert Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KI-L",
+    "countryCode": "KI",
+    "englishName": "Line Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KI-P",
+    "countryCode": "KI",
+    "englishName": "Phoenix Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
