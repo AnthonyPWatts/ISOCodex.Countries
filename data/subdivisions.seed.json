@@ -29883,6 +29883,104 @@
     "type": "Unknown"
   },
   {
+    "code": "SY-DI",
+    "countryCode": "SY",
+    "englishName": "Damascus",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SY-DR",
+    "countryCode": "SY",
+    "englishName": "Daraa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SY-DY",
+    "countryCode": "SY",
+    "englishName": "Deir ez-Zor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SY-HA",
+    "countryCode": "SY",
+    "englishName": "Al-Hasakah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SY-HI",
+    "countryCode": "SY",
+    "englishName": "Homs",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SY-HL",
+    "countryCode": "SY",
+    "englishName": "Aleppo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SY-HM",
+    "countryCode": "SY",
+    "englishName": "Hama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SY-ID",
+    "countryCode": "SY",
+    "englishName": "Idlib",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SY-LA",
+    "countryCode": "SY",
+    "englishName": "Latakia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SY-QU",
+    "countryCode": "SY",
+    "englishName": "Quneitra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SY-RA",
+    "countryCode": "SY",
+    "englishName": "Ar-Raqqah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SY-RD",
+    "countryCode": "SY",
+    "englishName": "Rif Dimashq",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SY-SU",
+    "countryCode": "SY",
+    "englishName": "As-Suwayda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SY-TA",
+    "countryCode": "SY",
+    "englishName": "Tartus",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

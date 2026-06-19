@@ -6518,6 +6518,20 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("SV-SV"), CountryAlpha2Code.Parse("SV"), "San Vicente", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SV-UN"), CountryAlpha2Code.Parse("SV"), "La Unión", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SV-US"), CountryAlpha2Code.Parse("SV"), "Usulután", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-DI"), CountryAlpha2Code.Parse("SY"), "Damascus", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-DR"), CountryAlpha2Code.Parse("SY"), "Daraa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-DY"), CountryAlpha2Code.Parse("SY"), "Deir ez-Zor", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-HA"), CountryAlpha2Code.Parse("SY"), "Al-Hasakah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-HI"), CountryAlpha2Code.Parse("SY"), "Homs", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-HL"), CountryAlpha2Code.Parse("SY"), "Aleppo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-HM"), CountryAlpha2Code.Parse("SY"), "Hama", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-ID"), CountryAlpha2Code.Parse("SY"), "Idlib", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-LA"), CountryAlpha2Code.Parse("SY"), "Latakia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-QU"), CountryAlpha2Code.Parse("SY"), "Quneitra", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-RA"), CountryAlpha2Code.Parse("SY"), "Ar-Raqqah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-RD"), CountryAlpha2Code.Parse("SY"), "Rif Dimashq", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-SU"), CountryAlpha2Code.Parse("SY"), "As-Suwayda", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SY-TA"), CountryAlpha2Code.Parse("SY"), "Tartus", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
