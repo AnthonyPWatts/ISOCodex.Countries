@@ -25928,6 +25928,300 @@
     "type": "Unknown"
   },
   {
+    "code": "RO-AB",
+    "countryCode": "RO",
+    "englishName": "Alba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-AG",
+    "countryCode": "RO",
+    "englishName": "Argeș",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-AR",
+    "countryCode": "RO",
+    "englishName": "Arad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-B",
+    "countryCode": "RO",
+    "englishName": "Bucharest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-BC",
+    "countryCode": "RO",
+    "englishName": "Bacău",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-BH",
+    "countryCode": "RO",
+    "englishName": "Bihor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-BN",
+    "countryCode": "RO",
+    "englishName": "Bistriţa-Năsăud",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-BR",
+    "countryCode": "RO",
+    "englishName": "Brăila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-BT",
+    "countryCode": "RO",
+    "englishName": "Botoşani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-BV",
+    "countryCode": "RO",
+    "englishName": "Braşov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-BZ",
+    "countryCode": "RO",
+    "englishName": "Buzău",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-CJ",
+    "countryCode": "RO",
+    "englishName": "Cluj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-CL",
+    "countryCode": "RO",
+    "englishName": "Călărași",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-CS",
+    "countryCode": "RO",
+    "englishName": "Caraș-Severin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-CT",
+    "countryCode": "RO",
+    "englishName": "Constanța",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-CV",
+    "countryCode": "RO",
+    "englishName": "Covasna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-DB",
+    "countryCode": "RO",
+    "englishName": "Dâmbovița",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-DJ",
+    "countryCode": "RO",
+    "englishName": "Dolj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-GJ",
+    "countryCode": "RO",
+    "englishName": "Gorj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-GL",
+    "countryCode": "RO",
+    "englishName": "Galați",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-GR",
+    "countryCode": "RO",
+    "englishName": "Giurgiu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-HD",
+    "countryCode": "RO",
+    "englishName": "Hunedoara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-HR",
+    "countryCode": "RO",
+    "englishName": "Harghita",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-IF",
+    "countryCode": "RO",
+    "englishName": "Ilfov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-IL",
+    "countryCode": "RO",
+    "englishName": "Ialomița",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-IS",
+    "countryCode": "RO",
+    "englishName": "Iași",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-MH",
+    "countryCode": "RO",
+    "englishName": "Mehedinți",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-MM",
+    "countryCode": "RO",
+    "englishName": "Maramureş",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-MS",
+    "countryCode": "RO",
+    "englishName": "Mureş",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-NT",
+    "countryCode": "RO",
+    "englishName": "Neamţ",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-OT",
+    "countryCode": "RO",
+    "englishName": "Olt",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-PH",
+    "countryCode": "RO",
+    "englishName": "Prahova",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-SB",
+    "countryCode": "RO",
+    "englishName": "Sibiu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-SJ",
+    "countryCode": "RO",
+    "englishName": "Sălaj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-SM",
+    "countryCode": "RO",
+    "englishName": "Satu Mare",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-SV",
+    "countryCode": "RO",
+    "englishName": "Suceava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-TL",
+    "countryCode": "RO",
+    "englishName": "Tulcea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-TM",
+    "countryCode": "RO",
+    "englishName": "Timiș",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-TR",
+    "countryCode": "RO",
+    "englishName": "Teleorman",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-VL",
+    "countryCode": "RO",
+    "englishName": "Vâlcea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-VN",
+    "countryCode": "RO",
+    "englishName": "Vrancea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RO-VS",
+    "countryCode": "RO",
+    "englishName": "Vaslui",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
