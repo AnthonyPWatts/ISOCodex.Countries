@@ -2114,6 +2114,97 @@
     "type": "Unknown"
   },
   {
+    "code": "BE-BRU",
+    "countryCode": "BE",
+    "englishName": "Brussels",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BE-VAN",
+    "countryCode": "BE",
+    "englishName": "Antwerp",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BE-VBR",
+    "countryCode": "BE",
+    "englishName": "Flemish Brabant",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BE-VLG",
+    "countryCode": "BE",
+    "englishName": "Flanders",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BE-VLI",
+    "countryCode": "BE",
+    "englishName": "Limburg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BE-VOV",
+    "countryCode": "BE",
+    "englishName": "East Flanders",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BE-VWV",
+    "countryCode": "BE",
+    "englishName": "West Flanders",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BE-WAL",
+    "countryCode": "BE",
+    "englishName": "Wallonia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BE-WBR",
+    "countryCode": "BE",
+    "englishName": "Walloon Brabant",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BE-WHT",
+    "countryCode": "BE",
+    "englishName": "Hainaut",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BE-WLG",
+    "countryCode": "BE",
+    "englishName": "Liège",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BE-WLX",
+    "countryCode": "BE",
+    "englishName": "Luxembourg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BE-WNA",
+    "countryCode": "BE",
+    "englishName": "Namur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
