@@ -5691,6 +5691,636 @@
     "type": "Unknown"
   },
   {
+    "code": "CZ-10",
+    "countryCode": "CZ",
+    "englishName": "Prague, Hlavní mešto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-20",
+    "countryCode": "CZ",
+    "englishName": "Středočeský",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-201",
+    "countryCode": "CZ",
+    "englishName": "Benešov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-202",
+    "countryCode": "CZ",
+    "englishName": "Beroun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-203",
+    "countryCode": "CZ",
+    "englishName": "Kladno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-204",
+    "countryCode": "CZ",
+    "englishName": "Kolín",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-205",
+    "countryCode": "CZ",
+    "englishName": "Kutná Hora",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-206",
+    "countryCode": "CZ",
+    "englishName": "Mělník",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-207",
+    "countryCode": "CZ",
+    "englishName": "Mladá Boleslav",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-208",
+    "countryCode": "CZ",
+    "englishName": "Nymburk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-209",
+    "countryCode": "CZ",
+    "englishName": "Prague-East",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-20A",
+    "countryCode": "CZ",
+    "englishName": "Prague-West",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-20B",
+    "countryCode": "CZ",
+    "englishName": "Příbram",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-20C",
+    "countryCode": "CZ",
+    "englishName": "Rakovník",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-31",
+    "countryCode": "CZ",
+    "englishName": "Jihočeský",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-311",
+    "countryCode": "CZ",
+    "englishName": "České Budějovice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-312",
+    "countryCode": "CZ",
+    "englishName": "Český Krumlov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-313",
+    "countryCode": "CZ",
+    "englishName": "Jindřichův Hradec",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-314",
+    "countryCode": "CZ",
+    "englishName": "Písek",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-315",
+    "countryCode": "CZ",
+    "englishName": "Prachatice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-316",
+    "countryCode": "CZ",
+    "englishName": "Strakonice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-317",
+    "countryCode": "CZ",
+    "englishName": "Tábor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-32",
+    "countryCode": "CZ",
+    "englishName": "Plzeňský",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-321",
+    "countryCode": "CZ",
+    "englishName": "Domažlice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-322",
+    "countryCode": "CZ",
+    "englishName": "Klatovy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-323",
+    "countryCode": "CZ",
+    "englishName": "Plzeň",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-324",
+    "countryCode": "CZ",
+    "englishName": "Plzeň-South",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-325",
+    "countryCode": "CZ",
+    "englishName": "Plzeň-North",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-326",
+    "countryCode": "CZ",
+    "englishName": "Rokycany",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-327",
+    "countryCode": "CZ",
+    "englishName": "Tachov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-41",
+    "countryCode": "CZ",
+    "englishName": "Karlovarský",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-411",
+    "countryCode": "CZ",
+    "englishName": "Cheb",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-412",
+    "countryCode": "CZ",
+    "englishName": "Karlovy Vary",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-413",
+    "countryCode": "CZ",
+    "englishName": "Sokolov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-42",
+    "countryCode": "CZ",
+    "englishName": "Ústecký",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-421",
+    "countryCode": "CZ",
+    "englishName": "Děčín",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-422",
+    "countryCode": "CZ",
+    "englishName": "Chomutov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-423",
+    "countryCode": "CZ",
+    "englishName": "Litoměřice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-424",
+    "countryCode": "CZ",
+    "englishName": "Louny",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-425",
+    "countryCode": "CZ",
+    "englishName": "Most",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-426",
+    "countryCode": "CZ",
+    "englishName": "Teplice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-427",
+    "countryCode": "CZ",
+    "englishName": "Ústí nad Labem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-51",
+    "countryCode": "CZ",
+    "englishName": "Liberecký",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-511",
+    "countryCode": "CZ",
+    "englishName": "Česká Lípa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-512",
+    "countryCode": "CZ",
+    "englishName": "Jablonec nad Nisou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-513",
+    "countryCode": "CZ",
+    "englishName": "Liberec",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-514",
+    "countryCode": "CZ",
+    "englishName": "Semily",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-52",
+    "countryCode": "CZ",
+    "englishName": "Královéhradecký",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-521",
+    "countryCode": "CZ",
+    "englishName": "Hradec Králové",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-522",
+    "countryCode": "CZ",
+    "englishName": "Jičín",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-523",
+    "countryCode": "CZ",
+    "englishName": "Náchod",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-524",
+    "countryCode": "CZ",
+    "englishName": "Rychnov nad Kněžnou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-525",
+    "countryCode": "CZ",
+    "englishName": "Trutnov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-53",
+    "countryCode": "CZ",
+    "englishName": "Pardubický",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-531",
+    "countryCode": "CZ",
+    "englishName": "Chrudim",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-532",
+    "countryCode": "CZ",
+    "englishName": "Pardubice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-533",
+    "countryCode": "CZ",
+    "englishName": "Svitavy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-534",
+    "countryCode": "CZ",
+    "englishName": "Ústí nad Orlicí",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-63",
+    "countryCode": "CZ",
+    "englishName": "Vysočina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-631",
+    "countryCode": "CZ",
+    "englishName": "Havlíčkův Brod",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-632",
+    "countryCode": "CZ",
+    "englishName": "Jihlava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-633",
+    "countryCode": "CZ",
+    "englishName": "Pelhřimov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-634",
+    "countryCode": "CZ",
+    "englishName": "Třebíč",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-635",
+    "countryCode": "CZ",
+    "englishName": "Žďár nad Sázavou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-64",
+    "countryCode": "CZ",
+    "englishName": "Jihomoravský",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-641",
+    "countryCode": "CZ",
+    "englishName": "Blansko",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-642",
+    "countryCode": "CZ",
+    "englishName": "Brno-město",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-643",
+    "countryCode": "CZ",
+    "englishName": "Brno-venkov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-644",
+    "countryCode": "CZ",
+    "englishName": "Břeclav",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-645",
+    "countryCode": "CZ",
+    "englishName": "Hodonín",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-646",
+    "countryCode": "CZ",
+    "englishName": "Vyškov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-647",
+    "countryCode": "CZ",
+    "englishName": "Znojmo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-71",
+    "countryCode": "CZ",
+    "englishName": "Olomoucký",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-711",
+    "countryCode": "CZ",
+    "englishName": "Jeseník",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-712",
+    "countryCode": "CZ",
+    "englishName": "Olomouc",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-713",
+    "countryCode": "CZ",
+    "englishName": "Prostějov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-714",
+    "countryCode": "CZ",
+    "englishName": "Přerov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-715",
+    "countryCode": "CZ",
+    "englishName": "Šumperk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-72",
+    "countryCode": "CZ",
+    "englishName": "Zlínský",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-721",
+    "countryCode": "CZ",
+    "englishName": "Kroměříž",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-722",
+    "countryCode": "CZ",
+    "englishName": "Uherské Hradiště",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-723",
+    "countryCode": "CZ",
+    "englishName": "Vsetín",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-724",
+    "countryCode": "CZ",
+    "englishName": "Zlín",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-80",
+    "countryCode": "CZ",
+    "englishName": "Moravskoslezský",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-801",
+    "countryCode": "CZ",
+    "englishName": "Bruntál",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-802",
+    "countryCode": "CZ",
+    "englishName": "Frýdek-Místek",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-803",
+    "countryCode": "CZ",
+    "englishName": "Karviná",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-804",
+    "countryCode": "CZ",
+    "englishName": "Nový Jičín",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-805",
+    "countryCode": "CZ",
+    "englishName": "Opava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CZ-806",
+    "countryCode": "CZ",
+    "englishName": "Ostrava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
