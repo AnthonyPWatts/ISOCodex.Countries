@@ -6209,6 +6209,8 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("SG-03"), CountryAlpha2Code.Parse("SG"), "North West", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SG-04"), CountryAlpha2Code.Parse("SG"), "South East", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SG-05"), CountryAlpha2Code.Parse("SG"), "South West", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SH-AC"), CountryAlpha2Code.Parse("SH"), "Ascension Island", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SH-HL"), CountryAlpha2Code.Parse("SH"), "Saint Helena", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

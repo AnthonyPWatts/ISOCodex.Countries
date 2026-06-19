@@ -27720,6 +27720,20 @@
     "type": "Unknown"
   },
   {
+    "code": "SH-AC",
+    "countryCode": "SH",
+    "englishName": "Ascension Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SH-HL",
+    "countryCode": "SH",
+    "englishName": "Saint Helena",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
