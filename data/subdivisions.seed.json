@@ -13664,11 +13664,214 @@
     "type": "Unknown"
   },
   {
+    "code": "IE-C",
+    "countryCode": "IE",
+    "englishName": "Connacht",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-CE",
+    "countryCode": "IE",
+    "englishName": "Clare",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-CN",
+    "countryCode": "IE",
+    "englishName": "Cavan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-CO",
+    "countryCode": "IE",
+    "englishName": "Cork",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-CW",
+    "countryCode": "IE",
+    "englishName": "Carlow",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",
     "localName": null,
     "type": "County"
+  },
+  {
+    "code": "IE-DL",
+    "countryCode": "IE",
+    "englishName": "Donegal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-G",
+    "countryCode": "IE",
+    "englishName": "Galway",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-KE",
+    "countryCode": "IE",
+    "englishName": "Kildare",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-KK",
+    "countryCode": "IE",
+    "englishName": "Kilkenny",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-KY",
+    "countryCode": "IE",
+    "englishName": "Kerry",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-L",
+    "countryCode": "IE",
+    "englishName": "Leinster",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-LD",
+    "countryCode": "IE",
+    "englishName": "Longford",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-LH",
+    "countryCode": "IE",
+    "englishName": "Louth",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-LK",
+    "countryCode": "IE",
+    "englishName": "Limerick",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-LM",
+    "countryCode": "IE",
+    "englishName": "Leitrim",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-LS",
+    "countryCode": "IE",
+    "englishName": "Laois",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-M",
+    "countryCode": "IE",
+    "englishName": "Munster",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-MH",
+    "countryCode": "IE",
+    "englishName": "Meath",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-MN",
+    "countryCode": "IE",
+    "englishName": "Monaghan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-MO",
+    "countryCode": "IE",
+    "englishName": "Mayo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-OY",
+    "countryCode": "IE",
+    "englishName": "Offaly",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-RN",
+    "countryCode": "IE",
+    "englishName": "Roscommon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-SO",
+    "countryCode": "IE",
+    "englishName": "Sligo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-TA",
+    "countryCode": "IE",
+    "englishName": "Tipperary",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-U",
+    "countryCode": "IE",
+    "englishName": "Ulster",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-WD",
+    "countryCode": "IE",
+    "englishName": "Waterford",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-WH",
+    "countryCode": "IE",
+    "englishName": "Westmeath",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-WW",
+    "countryCode": "IE",
+    "englishName": "Wicklow",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IE-WX",
+    "countryCode": "IE",
+    "englishName": "Wexford",
+    "localName": null,
+    "type": "Unknown"
   },
   {
     "code": "US-CA",
