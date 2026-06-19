@@ -4641,6 +4641,15 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("KE-45"), CountryAlpha2Code.Parse("KE"), "Vihiga", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("KE-46"), CountryAlpha2Code.Parse("KE"), "Wajir", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("KE-47"), CountryAlpha2Code.Parse("KE"), "West Pokot", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KG-B"), CountryAlpha2Code.Parse("KG"), "Batken", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KG-C"), CountryAlpha2Code.Parse("KG"), "Chuy", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KG-GB"), CountryAlpha2Code.Parse("KG"), "Bishkek", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KG-GO"), CountryAlpha2Code.Parse("KG"), "Osh", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KG-J"), CountryAlpha2Code.Parse("KG"), "Jalal-Abad", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KG-N"), CountryAlpha2Code.Parse("KG"), "Naryn", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KG-O"), CountryAlpha2Code.Parse("KG"), "Osh Region", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KG-T"), CountryAlpha2Code.Parse("KG"), "Talas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KG-Y"), CountryAlpha2Code.Parse("KG"), "Issyk-Kul", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

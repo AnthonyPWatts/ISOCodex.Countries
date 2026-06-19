@@ -16744,6 +16744,69 @@
     "type": "Unknown"
   },
   {
+    "code": "KG-B",
+    "countryCode": "KG",
+    "englishName": "Batken",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KG-C",
+    "countryCode": "KG",
+    "englishName": "Chuy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KG-GB",
+    "countryCode": "KG",
+    "englishName": "Bishkek",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KG-GO",
+    "countryCode": "KG",
+    "englishName": "Osh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KG-J",
+    "countryCode": "KG",
+    "englishName": "Jalal-Abad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KG-N",
+    "countryCode": "KG",
+    "englishName": "Naryn",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KG-O",
+    "countryCode": "KG",
+    "englishName": "Osh Region",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KG-T",
+    "countryCode": "KG",
+    "englishName": "Talas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KG-Y",
+    "countryCode": "KG",
+    "englishName": "Issyk-Kul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
