@@ -23898,6 +23898,125 @@
     "type": "Unknown"
   },
   {
+    "code": "NZ-AUK",
+    "countryCode": "NZ",
+    "englishName": "Auckland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-BOP",
+    "countryCode": "NZ",
+    "englishName": "Bay of Plenty",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-CAN",
+    "countryCode": "NZ",
+    "englishName": "Canterbury",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-CIT",
+    "countryCode": "NZ",
+    "englishName": "Chatham Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-GIS",
+    "countryCode": "NZ",
+    "englishName": "Gisborne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-HKB",
+    "countryCode": "NZ",
+    "englishName": "Hawke’s Bay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-MBH",
+    "countryCode": "NZ",
+    "englishName": "Marl",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-MWT",
+    "countryCode": "NZ",
+    "englishName": "Manawatu-Wanganui",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-NSN",
+    "countryCode": "NZ",
+    "englishName": "Nelson",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-NTL",
+    "countryCode": "NZ",
+    "englishName": "Northland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-OTA",
+    "countryCode": "NZ",
+    "englishName": "Otago",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-STL",
+    "countryCode": "NZ",
+    "englishName": "Southland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-TAS",
+    "countryCode": "NZ",
+    "englishName": "Tasman",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-TKI",
+    "countryCode": "NZ",
+    "englishName": "Taranaki",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-WGN",
+    "countryCode": "NZ",
+    "englishName": "Wellington",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-WKO",
+    "countryCode": "NZ",
+    "englishName": "Waikato",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NZ-WTC",
+    "countryCode": "NZ",
+    "englishName": "West Coast",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

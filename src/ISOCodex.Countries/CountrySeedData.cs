@@ -5663,6 +5663,23 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("NR-12"), CountryAlpha2Code.Parse("NR"), "Nibok", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NR-13"), CountryAlpha2Code.Parse("NR"), "Uaboe", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NR-14"), CountryAlpha2Code.Parse("NR"), "Yaren", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-AUK"), CountryAlpha2Code.Parse("NZ"), "Auckland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-BOP"), CountryAlpha2Code.Parse("NZ"), "Bay of Plenty", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-CAN"), CountryAlpha2Code.Parse("NZ"), "Canterbury", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-CIT"), CountryAlpha2Code.Parse("NZ"), "Chatham Islands", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-GIS"), CountryAlpha2Code.Parse("NZ"), "Gisborne", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-HKB"), CountryAlpha2Code.Parse("NZ"), "Hawke’s Bay", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-MBH"), CountryAlpha2Code.Parse("NZ"), "Marl", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-MWT"), CountryAlpha2Code.Parse("NZ"), "Manawatu-Wanganui", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-NSN"), CountryAlpha2Code.Parse("NZ"), "Nelson", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-NTL"), CountryAlpha2Code.Parse("NZ"), "Northland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-OTA"), CountryAlpha2Code.Parse("NZ"), "Otago", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-STL"), CountryAlpha2Code.Parse("NZ"), "Southland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-TAS"), CountryAlpha2Code.Parse("NZ"), "Tasman", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-TKI"), CountryAlpha2Code.Parse("NZ"), "Taranaki", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-WGN"), CountryAlpha2Code.Parse("NZ"), "Wellington", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-WKO"), CountryAlpha2Code.Parse("NZ"), "Waikato", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NZ-WTC"), CountryAlpha2Code.Parse("NZ"), "West Coast", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
