@@ -13916,6 +13916,258 @@
     "type": "Unknown"
   },
   {
+    "code": "IN-AN",
+    "countryCode": "IN",
+    "englishName": "Andaman and Nicobar Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-AP",
+    "countryCode": "IN",
+    "englishName": "Andhra Pradesh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-AR",
+    "countryCode": "IN",
+    "englishName": "Arunachal Pradesh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-AS",
+    "countryCode": "IN",
+    "englishName": "Assam",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-BR",
+    "countryCode": "IN",
+    "englishName": "Bihar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-CG",
+    "countryCode": "IN",
+    "englishName": "Chhattīsgarh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-CH",
+    "countryCode": "IN",
+    "englishName": "Chandigarh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-DH",
+    "countryCode": "IN",
+    "englishName": "Dādra and Nagar Haveli and Damān and Diu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-DL",
+    "countryCode": "IN",
+    "englishName": "Delhi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-GA",
+    "countryCode": "IN",
+    "englishName": "Goa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-GJ",
+    "countryCode": "IN",
+    "englishName": "Gujarat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-HP",
+    "countryCode": "IN",
+    "englishName": "Himachal Pradesh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-HR",
+    "countryCode": "IN",
+    "englishName": "Haryana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-JH",
+    "countryCode": "IN",
+    "englishName": "Jharkhand",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-JK",
+    "countryCode": "IN",
+    "englishName": "Jammu and Kashmir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-KA",
+    "countryCode": "IN",
+    "englishName": "Karnataka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-KL",
+    "countryCode": "IN",
+    "englishName": "Kerala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-LA",
+    "countryCode": "IN",
+    "englishName": "Ladakh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-LD",
+    "countryCode": "IN",
+    "englishName": "Lakshadweep",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-MH",
+    "countryCode": "IN",
+    "englishName": "Maharashtra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-ML",
+    "countryCode": "IN",
+    "englishName": "Meghalaya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-MN",
+    "countryCode": "IN",
+    "englishName": "Manipur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-MP",
+    "countryCode": "IN",
+    "englishName": "Madhya Pradesh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-MZ",
+    "countryCode": "IN",
+    "englishName": "Mizoram",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-NL",
+    "countryCode": "IN",
+    "englishName": "Nagaland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-OD",
+    "countryCode": "IN",
+    "englishName": "Odisha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-PB",
+    "countryCode": "IN",
+    "englishName": "Punjab",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-PY",
+    "countryCode": "IN",
+    "englishName": "Puducherry",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-RJ",
+    "countryCode": "IN",
+    "englishName": "Rajasthan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-SK",
+    "countryCode": "IN",
+    "englishName": "Sikkim",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-TN",
+    "countryCode": "IN",
+    "englishName": "Tamil Nadu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-TR",
+    "countryCode": "IN",
+    "englishName": "Tripura",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-TS",
+    "countryCode": "IN",
+    "englishName": "Telangāna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-UK",
+    "countryCode": "IN",
+    "englishName": "Uttarākhand",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-UP",
+    "countryCode": "IN",
+    "englishName": "Uttar Pradesh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IN-WB",
+    "countryCode": "IN",
+    "englishName": "West Bengal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
