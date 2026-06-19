@@ -392,6 +392,90 @@
     "type": "Unknown"
   },
   {
+    "code": "AL-01",
+    "countryCode": "AL",
+    "englishName": "Berat County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AL-02",
+    "countryCode": "AL",
+    "englishName": "Durrës County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AL-03",
+    "countryCode": "AL",
+    "englishName": "Elbasan County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AL-04",
+    "countryCode": "AL",
+    "englishName": "Fier County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AL-05",
+    "countryCode": "AL",
+    "englishName": "Gjirokastër County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AL-06",
+    "countryCode": "AL",
+    "englishName": "Korçë County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AL-07",
+    "countryCode": "AL",
+    "englishName": "Kukës County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AL-08",
+    "countryCode": "AL",
+    "englishName": "Lezhë County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AL-09",
+    "countryCode": "AL",
+    "englishName": "Dibër County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AL-10",
+    "countryCode": "AL",
+    "englishName": "Shkodër County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AL-11",
+    "countryCode": "AL",
+    "englishName": "Tirana County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AL-12",
+    "countryCode": "AL",
+    "englishName": "Vlorë County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "AU-NSW",
     "countryCode": "AU",
     "englishName": "New South Wales",
