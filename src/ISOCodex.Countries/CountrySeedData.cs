@@ -5875,6 +5875,22 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("PL-28"), CountryAlpha2Code.Parse("PL"), "Warmia-Masuria", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("PL-30"), CountryAlpha2Code.Parse("PL"), "Greater Poland", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("PL-32"), CountryAlpha2Code.Parse("PL"), "West Pomerania", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-BTH"), CountryAlpha2Code.Parse("PS"), "Bethlehem", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-DEB"), CountryAlpha2Code.Parse("PS"), "Deir al-Balah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-GZA"), CountryAlpha2Code.Parse("PS"), "Gaza", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-HBN"), CountryAlpha2Code.Parse("PS"), "Hebron", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-JEM"), CountryAlpha2Code.Parse("PS"), "Jerusalem", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-JEN"), CountryAlpha2Code.Parse("PS"), "Jenin", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-JRH"), CountryAlpha2Code.Parse("PS"), "Jericho", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-KYS"), CountryAlpha2Code.Parse("PS"), "Khan Yunis", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-NBS"), CountryAlpha2Code.Parse("PS"), "Nablus", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-NGZ"), CountryAlpha2Code.Parse("PS"), "North Gaza", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-QQA"), CountryAlpha2Code.Parse("PS"), "Qalqilya", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-RBH"), CountryAlpha2Code.Parse("PS"), "Ramallah and al-Bireh", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-RFH"), CountryAlpha2Code.Parse("PS"), "Rafah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-SLT"), CountryAlpha2Code.Parse("PS"), "Salfit", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-TBS"), CountryAlpha2Code.Parse("PS"), "Tubas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PS-TKM"), CountryAlpha2Code.Parse("PS"), "Tulkarm", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

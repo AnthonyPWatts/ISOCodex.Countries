@@ -25382,6 +25382,118 @@
     "type": "Unknown"
   },
   {
+    "code": "PS-BTH",
+    "countryCode": "PS",
+    "englishName": "Bethlehem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-DEB",
+    "countryCode": "PS",
+    "englishName": "Deir al-Balah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-GZA",
+    "countryCode": "PS",
+    "englishName": "Gaza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-HBN",
+    "countryCode": "PS",
+    "englishName": "Hebron",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-JEM",
+    "countryCode": "PS",
+    "englishName": "Jerusalem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-JEN",
+    "countryCode": "PS",
+    "englishName": "Jenin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-JRH",
+    "countryCode": "PS",
+    "englishName": "Jericho",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-KYS",
+    "countryCode": "PS",
+    "englishName": "Khan Yunis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-NBS",
+    "countryCode": "PS",
+    "englishName": "Nablus",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-NGZ",
+    "countryCode": "PS",
+    "englishName": "North Gaza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-QQA",
+    "countryCode": "PS",
+    "englishName": "Qalqilya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-RBH",
+    "countryCode": "PS",
+    "englishName": "Ramallah and al-Bireh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-RFH",
+    "countryCode": "PS",
+    "englishName": "Rafah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-SLT",
+    "countryCode": "PS",
+    "englishName": "Salfit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-TBS",
+    "countryCode": "PS",
+    "englishName": "Tubas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PS-TKM",
+    "countryCode": "PS",
+    "englishName": "Tulkarm",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
