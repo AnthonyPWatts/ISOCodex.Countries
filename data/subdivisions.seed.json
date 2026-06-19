@@ -16415,6 +16415,335 @@
     "type": "Unknown"
   },
   {
+    "code": "KE-01",
+    "countryCode": "KE",
+    "englishName": "Baringo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-02",
+    "countryCode": "KE",
+    "englishName": "Bomet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-03",
+    "countryCode": "KE",
+    "englishName": "Bungoma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-04",
+    "countryCode": "KE",
+    "englishName": "Busia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-05",
+    "countryCode": "KE",
+    "englishName": "Elgeyo-Marakwet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-06",
+    "countryCode": "KE",
+    "englishName": "Embu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-07",
+    "countryCode": "KE",
+    "englishName": "Garissa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-08",
+    "countryCode": "KE",
+    "englishName": "Homa Bay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-09",
+    "countryCode": "KE",
+    "englishName": "Isiolo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-10",
+    "countryCode": "KE",
+    "englishName": "Kajiado",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-11",
+    "countryCode": "KE",
+    "englishName": "Kakamega",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-12",
+    "countryCode": "KE",
+    "englishName": "Kericho",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-13",
+    "countryCode": "KE",
+    "englishName": "Kiambu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-14",
+    "countryCode": "KE",
+    "englishName": "Kilifi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-15",
+    "countryCode": "KE",
+    "englishName": "Kirinyaga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-16",
+    "countryCode": "KE",
+    "englishName": "Kisii",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-17",
+    "countryCode": "KE",
+    "englishName": "Kisumu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-18",
+    "countryCode": "KE",
+    "englishName": "Kitui",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-19",
+    "countryCode": "KE",
+    "englishName": "Kwale",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-20",
+    "countryCode": "KE",
+    "englishName": "Laikipia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-21",
+    "countryCode": "KE",
+    "englishName": "Lamu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-22",
+    "countryCode": "KE",
+    "englishName": "Machakos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-23",
+    "countryCode": "KE",
+    "englishName": "Makueni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-24",
+    "countryCode": "KE",
+    "englishName": "Mandera",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-25",
+    "countryCode": "KE",
+    "englishName": "Marsabit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-26",
+    "countryCode": "KE",
+    "englishName": "Meru",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-27",
+    "countryCode": "KE",
+    "englishName": "Migori",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-28",
+    "countryCode": "KE",
+    "englishName": "Mombasa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-29",
+    "countryCode": "KE",
+    "englishName": "Murang’a",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-30",
+    "countryCode": "KE",
+    "englishName": "Nairobi County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-31",
+    "countryCode": "KE",
+    "englishName": "Nakuru",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-32",
+    "countryCode": "KE",
+    "englishName": "Nandi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-33",
+    "countryCode": "KE",
+    "englishName": "Narok",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-34",
+    "countryCode": "KE",
+    "englishName": "Nyamira",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-35",
+    "countryCode": "KE",
+    "englishName": "Nyandarua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-36",
+    "countryCode": "KE",
+    "englishName": "Nyeri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-37",
+    "countryCode": "KE",
+    "englishName": "Samburu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-38",
+    "countryCode": "KE",
+    "englishName": "Siaya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-39",
+    "countryCode": "KE",
+    "englishName": "Taita-Taveta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-40",
+    "countryCode": "KE",
+    "englishName": "Tana River",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-41",
+    "countryCode": "KE",
+    "englishName": "Tharaka-Nithi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-42",
+    "countryCode": "KE",
+    "englishName": "Trans Nzoia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-43",
+    "countryCode": "KE",
+    "englishName": "Turkana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-44",
+    "countryCode": "KE",
+    "englishName": "Uasin Gishu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-45",
+    "countryCode": "KE",
+    "englishName": "Vihiga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-46",
+    "countryCode": "KE",
+    "englishName": "Wajir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KE-47",
+    "countryCode": "KE",
+    "englishName": "West Pokot",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
