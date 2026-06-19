@@ -8820,6 +8820,97 @@
     "type": "Unknown"
   },
   {
+    "code": "ET-AA",
+    "countryCode": "ET",
+    "englishName": "Addis Ababa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ET-AF",
+    "countryCode": "ET",
+    "englishName": "Afar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ET-AM",
+    "countryCode": "ET",
+    "englishName": "Amhara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ET-BE",
+    "countryCode": "ET",
+    "englishName": "Benishangul-Gumuz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ET-DD",
+    "countryCode": "ET",
+    "englishName": "Dire Dawa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ET-GA",
+    "countryCode": "ET",
+    "englishName": "Gambela",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ET-HA",
+    "countryCode": "ET",
+    "englishName": "Harari",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ET-OR",
+    "countryCode": "ET",
+    "englishName": "Oromia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ET-SI",
+    "countryCode": "ET",
+    "englishName": "Sidama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ET-SN",
+    "countryCode": "ET",
+    "englishName": "Southern Nations, Nationalities, and Peoples",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ET-SO",
+    "countryCode": "ET",
+    "englishName": "Somali",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ET-SW",
+    "countryCode": "ET",
+    "englishName": "Southwest Ethiopia Peoples",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ET-TI",
+    "countryCode": "ET",
+    "englishName": "Tigray",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
