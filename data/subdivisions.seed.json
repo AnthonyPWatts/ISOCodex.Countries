@@ -33801,6 +33801,139 @@
     "englishName": "Wyoming",
     "localName": null,
     "type": "Unknown"
+  },
+  {
+    "code": "UY-AR",
+    "countryCode": "UY",
+    "englishName": "Artigas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-CA",
+    "countryCode": "UY",
+    "englishName": "Canelones",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-CL",
+    "countryCode": "UY",
+    "englishName": "Cerro Largo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-CO",
+    "countryCode": "UY",
+    "englishName": "Colonia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-DU",
+    "countryCode": "UY",
+    "englishName": "Durazno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-FD",
+    "countryCode": "UY",
+    "englishName": "Florida",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-FS",
+    "countryCode": "UY",
+    "englishName": "Flores",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-LA",
+    "countryCode": "UY",
+    "englishName": "Lavalleja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-MA",
+    "countryCode": "UY",
+    "englishName": "Maldonado",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-MO",
+    "countryCode": "UY",
+    "englishName": "Montevideo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-PA",
+    "countryCode": "UY",
+    "englishName": "Paysandú",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-RN",
+    "countryCode": "UY",
+    "englishName": "Río Negro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-RO",
+    "countryCode": "UY",
+    "englishName": "Rocha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-RV",
+    "countryCode": "UY",
+    "englishName": "Rivera",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-SA",
+    "countryCode": "UY",
+    "englishName": "Salto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-SJ",
+    "countryCode": "UY",
+    "englishName": "San José",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-SO",
+    "countryCode": "UY",
+    "englishName": "Soriano",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-TA",
+    "countryCode": "UY",
+    "englishName": "Tacuarembó",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UY-TT",
+    "countryCode": "UY",
+    "englishName": "Treinta y Tres",
+    "localName": null,
+    "type": "Unknown"
   }
 ]
 

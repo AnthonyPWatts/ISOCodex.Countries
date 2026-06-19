@@ -7077,7 +7077,26 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("US-WA"), CountryAlpha2Code.Parse("US"), "Washington", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-WI"), CountryAlpha2Code.Parse("US"), "Wisconsin", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-WV"), CountryAlpha2Code.Parse("US"), "West Virginia", null, CountrySubdivisionType.Unknown),
-        new(CountrySubdivisionCode.Parse("US-WY"), CountryAlpha2Code.Parse("US"), "Wyoming", null, CountrySubdivisionType.Unknown)
+        new(CountrySubdivisionCode.Parse("US-WY"), CountryAlpha2Code.Parse("US"), "Wyoming", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-AR"), CountryAlpha2Code.Parse("UY"), "Artigas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-CA"), CountryAlpha2Code.Parse("UY"), "Canelones", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-CL"), CountryAlpha2Code.Parse("UY"), "Cerro Largo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-CO"), CountryAlpha2Code.Parse("UY"), "Colonia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-DU"), CountryAlpha2Code.Parse("UY"), "Durazno", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-FD"), CountryAlpha2Code.Parse("UY"), "Florida", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-FS"), CountryAlpha2Code.Parse("UY"), "Flores", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-LA"), CountryAlpha2Code.Parse("UY"), "Lavalleja", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-MA"), CountryAlpha2Code.Parse("UY"), "Maldonado", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-MO"), CountryAlpha2Code.Parse("UY"), "Montevideo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-PA"), CountryAlpha2Code.Parse("UY"), "Paysandú", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-RN"), CountryAlpha2Code.Parse("UY"), "Río Negro", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-RO"), CountryAlpha2Code.Parse("UY"), "Rocha", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-RV"), CountryAlpha2Code.Parse("UY"), "Rivera", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-SA"), CountryAlpha2Code.Parse("UY"), "Salto", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-SJ"), CountryAlpha2Code.Parse("UY"), "San José", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-SO"), CountryAlpha2Code.Parse("UY"), "Soriano", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-TA"), CountryAlpha2Code.Parse("UY"), "Tacuarembó", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UY-TT"), CountryAlpha2Code.Parse("UY"), "Treinta y Tres", null, CountrySubdivisionType.Unknown)
     }.AsReadOnly();
 }
 
