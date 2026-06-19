@@ -2,7 +2,7 @@
 
 This repository is for `ISOCodex.Countries`, a dependency-light .NET foundation library for country, country-code, subdivision, and jurisdiction metadata.
 
-Work in small phases. Prefer explicit, boring, stable APIs over clever abstraction. Keep the core library dependency-light and avoid hidden network calls in runtime library code.
+Work in small phases. Prefer explicit, boring, stable APIs over clever abstraction. Keep the core library dependency-light and avoid hidden network calls in runtime library code. Target the core library to .NET Standard 2.1 unless there is a clear, explicit reason to choose otherwise; newer .NET SDKs may still be used for build tooling, tests, and packaging.
 
 Do not publish packages from this repository unless explicitly asked. Once projects exist, run restore, build, test, and pack before claiming completion.
 
