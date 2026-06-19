@@ -3136,6 +3136,27 @@
     "type": "Unknown"
   },
   {
+    "code": "BQ-BO",
+    "countryCode": "BQ",
+    "englishName": "Bonaire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BQ-SA",
+    "countryCode": "BQ",
+    "englishName": "Saba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BQ-SE",
+    "countryCode": "BQ",
+    "englishName": "Sint Eustatius",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
