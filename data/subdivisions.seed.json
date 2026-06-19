@@ -27538,6 +27538,153 @@
     "type": "Unknown"
   },
   {
+    "code": "SE-AB",
+    "countryCode": "SE",
+    "englishName": "Stockholm",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-AC",
+    "countryCode": "SE",
+    "englishName": "Västerbotten",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-BD",
+    "countryCode": "SE",
+    "englishName": "Norrbotten",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-C",
+    "countryCode": "SE",
+    "englishName": "Uppsala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-D",
+    "countryCode": "SE",
+    "englishName": "Södermanland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-E",
+    "countryCode": "SE",
+    "englishName": "Östergötland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-F",
+    "countryCode": "SE",
+    "englishName": "Jönköping",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-G",
+    "countryCode": "SE",
+    "englishName": "Kronoberg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-H",
+    "countryCode": "SE",
+    "englishName": "Kalmar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-I",
+    "countryCode": "SE",
+    "englishName": "Gotland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-K",
+    "countryCode": "SE",
+    "englishName": "Blekinge",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-M",
+    "countryCode": "SE",
+    "englishName": "Skåne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-N",
+    "countryCode": "SE",
+    "englishName": "Halland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-O",
+    "countryCode": "SE",
+    "englishName": "Västra Götaland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-S",
+    "countryCode": "SE",
+    "englishName": "Värmland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-T",
+    "countryCode": "SE",
+    "englishName": "Örebro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-U",
+    "countryCode": "SE",
+    "englishName": "Västmanland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-W",
+    "countryCode": "SE",
+    "englishName": "Dalarna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-X",
+    "countryCode": "SE",
+    "englishName": "Gävleborg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-Y",
+    "countryCode": "SE",
+    "englishName": "Västernorrland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SE-Z",
+    "countryCode": "SE",
+    "englishName": "Jämtland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
