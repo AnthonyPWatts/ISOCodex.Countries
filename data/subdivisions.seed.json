@@ -6475,6 +6475,41 @@
     "type": "Unknown"
   },
   {
+    "code": "DK-81",
+    "countryCode": "DK",
+    "englishName": "Northern Denmark",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DK-82",
+    "countryCode": "DK",
+    "englishName": "Central Denmark",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DK-83",
+    "countryCode": "DK",
+    "englishName": "Southern Denmark",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DK-84",
+    "countryCode": "DK",
+    "englishName": "Capital Region",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DK-85",
+    "countryCode": "DK",
+    "englishName": "Zealand",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
