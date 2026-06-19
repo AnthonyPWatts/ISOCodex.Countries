@@ -25494,6 +25494,146 @@
     "type": "Unknown"
   },
   {
+    "code": "PT-01",
+    "countryCode": "PT",
+    "englishName": "Aveiro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-02",
+    "countryCode": "PT",
+    "englishName": "Beja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-03",
+    "countryCode": "PT",
+    "englishName": "Braga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-04",
+    "countryCode": "PT",
+    "englishName": "Bragança",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-05",
+    "countryCode": "PT",
+    "englishName": "Castelo Branco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-06",
+    "countryCode": "PT",
+    "englishName": "Coimbra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-07",
+    "countryCode": "PT",
+    "englishName": "Évora",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-08",
+    "countryCode": "PT",
+    "englishName": "Faro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-09",
+    "countryCode": "PT",
+    "englishName": "Guarda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-10",
+    "countryCode": "PT",
+    "englishName": "Leiria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-11",
+    "countryCode": "PT",
+    "englishName": "Lisbon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-12",
+    "countryCode": "PT",
+    "englishName": "Portalegre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-13",
+    "countryCode": "PT",
+    "englishName": "Porto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-14",
+    "countryCode": "PT",
+    "englishName": "Santarém",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-15",
+    "countryCode": "PT",
+    "englishName": "Setúbal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-16",
+    "countryCode": "PT",
+    "englishName": "Viana do Castelo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-17",
+    "countryCode": "PT",
+    "englishName": "Vila Real",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-18",
+    "countryCode": "PT",
+    "englishName": "Viseu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-20",
+    "countryCode": "PT",
+    "englishName": "Azores",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PT-30",
+    "countryCode": "PT",
+    "englishName": "Madeira",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
