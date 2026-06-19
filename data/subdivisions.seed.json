@@ -27062,6 +27062,97 @@
     "type": "Unknown"
   },
   {
+    "code": "SA-01",
+    "countryCode": "SA",
+    "englishName": "Riyadh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SA-02",
+    "countryCode": "SA",
+    "englishName": "Makkah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SA-03",
+    "countryCode": "SA",
+    "englishName": "Al Madinah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SA-04",
+    "countryCode": "SA",
+    "englishName": "Eastern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SA-05",
+    "countryCode": "SA",
+    "englishName": "Al-Qassim",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SA-06",
+    "countryCode": "SA",
+    "englishName": "Ha’il",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SA-07",
+    "countryCode": "SA",
+    "englishName": "Tabuk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SA-08",
+    "countryCode": "SA",
+    "englishName": "Northern Borders",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SA-09",
+    "countryCode": "SA",
+    "englishName": "Jizan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SA-10",
+    "countryCode": "SA",
+    "englishName": "Najran",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SA-11",
+    "countryCode": "SA",
+    "englishName": "Al Bahah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SA-12",
+    "countryCode": "SA",
+    "englishName": "Al Jawf",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SA-14",
+    "countryCode": "SA",
+    "englishName": "Asir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

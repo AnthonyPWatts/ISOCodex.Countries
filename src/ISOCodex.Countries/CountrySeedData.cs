@@ -6115,6 +6115,19 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("RW-03"), CountryAlpha2Code.Parse("RW"), "Northern", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("RW-04"), CountryAlpha2Code.Parse("RW"), "Western", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("RW-05"), CountryAlpha2Code.Parse("RW"), "Southern", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SA-01"), CountryAlpha2Code.Parse("SA"), "Riyadh", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SA-02"), CountryAlpha2Code.Parse("SA"), "Makkah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SA-03"), CountryAlpha2Code.Parse("SA"), "Al Madinah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SA-04"), CountryAlpha2Code.Parse("SA"), "Eastern", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SA-05"), CountryAlpha2Code.Parse("SA"), "Al-Qassim", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SA-06"), CountryAlpha2Code.Parse("SA"), "Ha’il", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SA-07"), CountryAlpha2Code.Parse("SA"), "Tabuk", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SA-08"), CountryAlpha2Code.Parse("SA"), "Northern Borders", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SA-09"), CountryAlpha2Code.Parse("SA"), "Jizan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SA-10"), CountryAlpha2Code.Parse("SA"), "Najran", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SA-11"), CountryAlpha2Code.Parse("SA"), "Al Bahah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SA-12"), CountryAlpha2Code.Parse("SA"), "Al Jawf", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SA-14"), CountryAlpha2Code.Parse("SA"), "Asir", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
