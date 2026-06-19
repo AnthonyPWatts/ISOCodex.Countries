@@ -34984,6 +34984,69 @@
     "englishName": "Taiz",
     "localName": null,
     "type": "Unknown"
+  },
+  {
+    "code": "ZA-EC",
+    "countryCode": "ZA",
+    "englishName": "Eastern Cape",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZA-FS",
+    "countryCode": "ZA",
+    "englishName": "Free State",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZA-GP",
+    "countryCode": "ZA",
+    "englishName": "Gauteng",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZA-KZN",
+    "countryCode": "ZA",
+    "englishName": "KwaZulu-Natal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZA-LP",
+    "countryCode": "ZA",
+    "englishName": "Limpopo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZA-MP",
+    "countryCode": "ZA",
+    "englishName": "Mpumalanga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZA-NC",
+    "countryCode": "ZA",
+    "englishName": "Northern Cape",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZA-NW",
+    "countryCode": "ZA",
+    "englishName": "North West",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZA-WC",
+    "countryCode": "ZA",
+    "englishName": "Western Cape",
+    "localName": null,
+    "type": "Unknown"
   }
 ]
 

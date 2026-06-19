@@ -7246,7 +7246,16 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("YE-SH"), CountryAlpha2Code.Parse("YE"), "Shabwah", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("YE-SN"), CountryAlpha2Code.Parse("YE"), "Sana’a", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("YE-SU"), CountryAlpha2Code.Parse("YE"), "Arkhabil Suqutra", null, CountrySubdivisionType.Unknown),
-        new(CountrySubdivisionCode.Parse("YE-TA"), CountryAlpha2Code.Parse("YE"), "Taiz", null, CountrySubdivisionType.Unknown)
+        new(CountrySubdivisionCode.Parse("YE-TA"), CountryAlpha2Code.Parse("YE"), "Taiz", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZA-EC"), CountryAlpha2Code.Parse("ZA"), "Eastern Cape", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZA-FS"), CountryAlpha2Code.Parse("ZA"), "Free State", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZA-GP"), CountryAlpha2Code.Parse("ZA"), "Gauteng", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZA-KZN"), CountryAlpha2Code.Parse("ZA"), "KwaZulu-Natal", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZA-LP"), CountryAlpha2Code.Parse("ZA"), "Limpopo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZA-MP"), CountryAlpha2Code.Parse("ZA"), "Mpumalanga", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZA-NC"), CountryAlpha2Code.Parse("ZA"), "Northern Cape", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZA-NW"), CountryAlpha2Code.Parse("ZA"), "North West", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZA-WC"), CountryAlpha2Code.Parse("ZA"), "Western Cape", null, CountrySubdivisionType.Unknown)
     }.AsReadOnly();
 }
 
