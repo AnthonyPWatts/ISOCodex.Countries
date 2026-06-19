@@ -11669,6 +11669,90 @@
     "type": "Unknown"
   },
   {
+    "code": "GE-AB",
+    "countryCode": "GE",
+    "englishName": "Abkhazia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GE-AJ",
+    "countryCode": "GE",
+    "englishName": "Adjara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GE-GU",
+    "countryCode": "GE",
+    "englishName": "Guria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GE-IM",
+    "countryCode": "GE",
+    "englishName": "Imereti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GE-KA",
+    "countryCode": "GE",
+    "englishName": "Kakheti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GE-KK",
+    "countryCode": "GE",
+    "englishName": "Kvemo Kartli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GE-MM",
+    "countryCode": "GE",
+    "englishName": "Mtskheta-Mtianeti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GE-RL",
+    "countryCode": "GE",
+    "englishName": "Racha-Lechkhumi and Kvemo Svaneti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GE-SJ",
+    "countryCode": "GE",
+    "englishName": "Samtskhe-Javakheti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GE-SK",
+    "countryCode": "GE",
+    "englishName": "Shida Kartli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GE-SZ",
+    "countryCode": "GE",
+    "englishName": "Samegrelo-Zemo Svaneti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GE-TB",
+    "countryCode": "GE",
+    "englishName": "Tbilisi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",

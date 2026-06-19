@@ -3916,6 +3916,18 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("GD-05"), CountryAlpha2Code.Parse("GD"), "Saint Mark", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GD-06"), CountryAlpha2Code.Parse("GD"), "Saint Patrick", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GD-10"), CountryAlpha2Code.Parse("GD"), "Carriacou and Petite Martinique", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GE-AB"), CountryAlpha2Code.Parse("GE"), "Abkhazia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GE-AJ"), CountryAlpha2Code.Parse("GE"), "Adjara", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GE-GU"), CountryAlpha2Code.Parse("GE"), "Guria", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GE-IM"), CountryAlpha2Code.Parse("GE"), "Imereti", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GE-KA"), CountryAlpha2Code.Parse("GE"), "Kakheti", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GE-KK"), CountryAlpha2Code.Parse("GE"), "Kvemo Kartli", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GE-MM"), CountryAlpha2Code.Parse("GE"), "Mtskheta-Mtianeti", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GE-RL"), CountryAlpha2Code.Parse("GE"), "Racha-Lechkhumi and Kvemo Svaneti", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GE-SJ"), CountryAlpha2Code.Parse("GE"), "Samtskhe-Javakheti", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GE-SK"), CountryAlpha2Code.Parse("GE"), "Shida Kartli", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GE-SZ"), CountryAlpha2Code.Parse("GE"), "Samegrelo-Zemo Svaneti", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GE-TB"), CountryAlpha2Code.Parse("GE"), "Tbilisi", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("IE-D"), CountryAlpha2Code.Parse("IE"), "Dublin", null, CountrySubdivisionType.County),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
