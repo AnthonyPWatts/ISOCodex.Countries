@@ -3710,6 +3710,118 @@
     "type": "Unknown"
   },
   {
+    "code": "BW-CE",
+    "countryCode": "BW",
+    "englishName": "Central",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-CH",
+    "countryCode": "BW",
+    "englishName": "Chobe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-FR",
+    "countryCode": "BW",
+    "englishName": "Francistown",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-GA",
+    "countryCode": "BW",
+    "englishName": "Gaborone",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-GH",
+    "countryCode": "BW",
+    "englishName": "Ghanzi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-JW",
+    "countryCode": "BW",
+    "englishName": "Jwaneng",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-KG",
+    "countryCode": "BW",
+    "englishName": "Kgalagadi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-KL",
+    "countryCode": "BW",
+    "englishName": "Kgatleng",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-KW",
+    "countryCode": "BW",
+    "englishName": "Kweneng",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-LO",
+    "countryCode": "BW",
+    "englishName": "Lobatse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-NE",
+    "countryCode": "BW",
+    "englishName": "North East",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-NW",
+    "countryCode": "BW",
+    "englishName": "North West",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-SE",
+    "countryCode": "BW",
+    "englishName": "South East",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-SO",
+    "countryCode": "BW",
+    "englishName": "Southern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-SP",
+    "countryCode": "BW",
+    "englishName": "Selibe Phikwe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BW-ST",
+    "countryCode": "BW",
+    "englishName": "Sowa Town",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
