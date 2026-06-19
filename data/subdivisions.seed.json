@@ -27734,6 +27734,1490 @@
     "type": "Unknown"
   },
   {
+    "code": "SI-001",
+    "countryCode": "SI",
+    "englishName": "Ajdovščina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-002",
+    "countryCode": "SI",
+    "englishName": "Beltinci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-003",
+    "countryCode": "SI",
+    "englishName": "Bled",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-004",
+    "countryCode": "SI",
+    "englishName": "Bohinj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-005",
+    "countryCode": "SI",
+    "englishName": "Borovnica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-006",
+    "countryCode": "SI",
+    "englishName": "Bovec",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-007",
+    "countryCode": "SI",
+    "englishName": "Brda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-008",
+    "countryCode": "SI",
+    "englishName": "Brezovica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-009",
+    "countryCode": "SI",
+    "englishName": "Brežice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-010",
+    "countryCode": "SI",
+    "englishName": "Tišina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-011",
+    "countryCode": "SI",
+    "englishName": "Celje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-012",
+    "countryCode": "SI",
+    "englishName": "Cerklje na Gorenjskem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-013",
+    "countryCode": "SI",
+    "englishName": "Cerknica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-014",
+    "countryCode": "SI",
+    "englishName": "Cerkno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-015",
+    "countryCode": "SI",
+    "englishName": "Črenšovci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-016",
+    "countryCode": "SI",
+    "englishName": "Črna na Koroškem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-017",
+    "countryCode": "SI",
+    "englishName": "Črnomelj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-018",
+    "countryCode": "SI",
+    "englishName": "Destrnik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-019",
+    "countryCode": "SI",
+    "englishName": "Divača",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-020",
+    "countryCode": "SI",
+    "englishName": "Dobrepolje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-021",
+    "countryCode": "SI",
+    "englishName": "Dobrova–Polhov Gradec",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-022",
+    "countryCode": "SI",
+    "englishName": "Dol pri Ljubljani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-023",
+    "countryCode": "SI",
+    "englishName": "Domžale",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-024",
+    "countryCode": "SI",
+    "englishName": "Dornava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-025",
+    "countryCode": "SI",
+    "englishName": "Dravograd",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-026",
+    "countryCode": "SI",
+    "englishName": "Duplek",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-027",
+    "countryCode": "SI",
+    "englishName": "Gorenja Vas–Poljane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-028",
+    "countryCode": "SI",
+    "englishName": "Gorišnica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-029",
+    "countryCode": "SI",
+    "englishName": "Gornja Radgona",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-030",
+    "countryCode": "SI",
+    "englishName": "Gornji Grad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-031",
+    "countryCode": "SI",
+    "englishName": "Gornji Petrovci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-032",
+    "countryCode": "SI",
+    "englishName": "Grosuplje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-033",
+    "countryCode": "SI",
+    "englishName": "Šalovci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-034",
+    "countryCode": "SI",
+    "englishName": "Hrastnik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-035",
+    "countryCode": "SI",
+    "englishName": "Hrpelje–Kozina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-036",
+    "countryCode": "SI",
+    "englishName": "Idrija",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-037",
+    "countryCode": "SI",
+    "englishName": "Ig",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-038",
+    "countryCode": "SI",
+    "englishName": "Ilirska Bistrica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-039",
+    "countryCode": "SI",
+    "englishName": "Ivančna Gorica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-040",
+    "countryCode": "SI",
+    "englishName": "Izola",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-041",
+    "countryCode": "SI",
+    "englishName": "Jesenice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-042",
+    "countryCode": "SI",
+    "englishName": "Juršinci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-043",
+    "countryCode": "SI",
+    "englishName": "Kamnik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-044",
+    "countryCode": "SI",
+    "englishName": "Kanal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-045",
+    "countryCode": "SI",
+    "englishName": "Kidričevo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-046",
+    "countryCode": "SI",
+    "englishName": "Kobarid",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-047",
+    "countryCode": "SI",
+    "englishName": "Kobilje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-048",
+    "countryCode": "SI",
+    "englishName": "Kočevje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-049",
+    "countryCode": "SI",
+    "englishName": "Komen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-050",
+    "countryCode": "SI",
+    "englishName": "Koper",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-051",
+    "countryCode": "SI",
+    "englishName": "Kozje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-052",
+    "countryCode": "SI",
+    "englishName": "Kranj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-053",
+    "countryCode": "SI",
+    "englishName": "Kranjska Gora",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-054",
+    "countryCode": "SI",
+    "englishName": "Krško",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-055",
+    "countryCode": "SI",
+    "englishName": "Kungota",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-056",
+    "countryCode": "SI",
+    "englishName": "Kuzma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-057",
+    "countryCode": "SI",
+    "englishName": "Laško",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-058",
+    "countryCode": "SI",
+    "englishName": "Lenart",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-059",
+    "countryCode": "SI",
+    "englishName": "Lendava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-060",
+    "countryCode": "SI",
+    "englishName": "Litija",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-061",
+    "countryCode": "SI",
+    "englishName": "Ljubljana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-062",
+    "countryCode": "SI",
+    "englishName": "Ljubno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-063",
+    "countryCode": "SI",
+    "englishName": "Ljutomer",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-064",
+    "countryCode": "SI",
+    "englishName": "Logatec",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-065",
+    "countryCode": "SI",
+    "englishName": "Loška Dolina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-066",
+    "countryCode": "SI",
+    "englishName": "Loški Potok",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-067",
+    "countryCode": "SI",
+    "englishName": "Luče",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-068",
+    "countryCode": "SI",
+    "englishName": "Lukovica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-069",
+    "countryCode": "SI",
+    "englishName": "Majšperk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-070",
+    "countryCode": "SI",
+    "englishName": "Maribor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-071",
+    "countryCode": "SI",
+    "englishName": "Medvode",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-072",
+    "countryCode": "SI",
+    "englishName": "Mengeš",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-073",
+    "countryCode": "SI",
+    "englishName": "Metlika",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-074",
+    "countryCode": "SI",
+    "englishName": "Mežica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-075",
+    "countryCode": "SI",
+    "englishName": "Miren–Kostanjevica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-076",
+    "countryCode": "SI",
+    "englishName": "Mislinja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-077",
+    "countryCode": "SI",
+    "englishName": "Moravče",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-078",
+    "countryCode": "SI",
+    "englishName": "Moravske Toplice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-079",
+    "countryCode": "SI",
+    "englishName": "Mozirje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-080",
+    "countryCode": "SI",
+    "englishName": "Murska Sobota",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-081",
+    "countryCode": "SI",
+    "englishName": "Muta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-082",
+    "countryCode": "SI",
+    "englishName": "Naklo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-083",
+    "countryCode": "SI",
+    "englishName": "Nazarje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-084",
+    "countryCode": "SI",
+    "englishName": "Nova Gorica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-085",
+    "countryCode": "SI",
+    "englishName": "Novo Mesto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-086",
+    "countryCode": "SI",
+    "englishName": "Odranci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-087",
+    "countryCode": "SI",
+    "englishName": "Ormož",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-088",
+    "countryCode": "SI",
+    "englishName": "Osilnica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-089",
+    "countryCode": "SI",
+    "englishName": "Pesnica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-090",
+    "countryCode": "SI",
+    "englishName": "Piran",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-091",
+    "countryCode": "SI",
+    "englishName": "Pivka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-092",
+    "countryCode": "SI",
+    "englishName": "Podčetrtek",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-093",
+    "countryCode": "SI",
+    "englishName": "Podvelka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-094",
+    "countryCode": "SI",
+    "englishName": "Postojna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-095",
+    "countryCode": "SI",
+    "englishName": "Preddvor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-096",
+    "countryCode": "SI",
+    "englishName": "Ptuj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-097",
+    "countryCode": "SI",
+    "englishName": "Puconci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-098",
+    "countryCode": "SI",
+    "englishName": "Rače–Fram",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-099",
+    "countryCode": "SI",
+    "englishName": "Radeče",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-100",
+    "countryCode": "SI",
+    "englishName": "Radenci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-101",
+    "countryCode": "SI",
+    "englishName": "Radlje ob Dravi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-102",
+    "countryCode": "SI",
+    "englishName": "Radovljica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-103",
+    "countryCode": "SI",
+    "englishName": "Ravne na Koroškem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-104",
+    "countryCode": "SI",
+    "englishName": "Ribnica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-105",
+    "countryCode": "SI",
+    "englishName": "Rogašovci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-106",
+    "countryCode": "SI",
+    "englishName": "Rogaška Slatina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-107",
+    "countryCode": "SI",
+    "englishName": "Rogatec",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-108",
+    "countryCode": "SI",
+    "englishName": "Ruše",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-109",
+    "countryCode": "SI",
+    "englishName": "Semič",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-110",
+    "countryCode": "SI",
+    "englishName": "Sevnica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-111",
+    "countryCode": "SI",
+    "englishName": "Sežana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-112",
+    "countryCode": "SI",
+    "englishName": "Slovenj Gradec",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-113",
+    "countryCode": "SI",
+    "englishName": "Slovenska Bistrica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-114",
+    "countryCode": "SI",
+    "englishName": "Slovenske Konjice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-115",
+    "countryCode": "SI",
+    "englishName": "Starše",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-116",
+    "countryCode": "SI",
+    "englishName": "Sveti Jurij",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-117",
+    "countryCode": "SI",
+    "englishName": "Šenčur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-118",
+    "countryCode": "SI",
+    "englishName": "Šentilj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-119",
+    "countryCode": "SI",
+    "englishName": "Šentjernej",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-120",
+    "countryCode": "SI",
+    "englishName": "Šentjur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-121",
+    "countryCode": "SI",
+    "englishName": "Škocjan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-122",
+    "countryCode": "SI",
+    "englishName": "Škofja Loka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-123",
+    "countryCode": "SI",
+    "englishName": "Škofljica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-124",
+    "countryCode": "SI",
+    "englishName": "Šmarje pri Jelšah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-125",
+    "countryCode": "SI",
+    "englishName": "Šmartno ob Paki",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-126",
+    "countryCode": "SI",
+    "englishName": "Šoštanj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-127",
+    "countryCode": "SI",
+    "englishName": "Štore",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-128",
+    "countryCode": "SI",
+    "englishName": "Tolmin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-129",
+    "countryCode": "SI",
+    "englishName": "Trbovlje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-130",
+    "countryCode": "SI",
+    "englishName": "Trebnje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-131",
+    "countryCode": "SI",
+    "englishName": "Tržič",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-132",
+    "countryCode": "SI",
+    "englishName": "Turnišče",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-133",
+    "countryCode": "SI",
+    "englishName": "Velenje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-134",
+    "countryCode": "SI",
+    "englishName": "Velike Lašče",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-135",
+    "countryCode": "SI",
+    "englishName": "Videm",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-136",
+    "countryCode": "SI",
+    "englishName": "Vipava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-137",
+    "countryCode": "SI",
+    "englishName": "Vitanje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-138",
+    "countryCode": "SI",
+    "englishName": "Vodice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-139",
+    "countryCode": "SI",
+    "englishName": "Vojnik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-140",
+    "countryCode": "SI",
+    "englishName": "Vrhnika",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-141",
+    "countryCode": "SI",
+    "englishName": "Vuzenica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-142",
+    "countryCode": "SI",
+    "englishName": "Zagorje ob Savi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-143",
+    "countryCode": "SI",
+    "englishName": "Zavrč",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-144",
+    "countryCode": "SI",
+    "englishName": "Zreče",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-146",
+    "countryCode": "SI",
+    "englishName": "Železniki",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-147",
+    "countryCode": "SI",
+    "englishName": "Žiri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-148",
+    "countryCode": "SI",
+    "englishName": "Benedikt",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-149",
+    "countryCode": "SI",
+    "englishName": "Bistrica ob Sotli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-150",
+    "countryCode": "SI",
+    "englishName": "Bloke",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-151",
+    "countryCode": "SI",
+    "englishName": "Braslovče",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-152",
+    "countryCode": "SI",
+    "englishName": "Cankova",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-153",
+    "countryCode": "SI",
+    "englishName": "Cerkvenjak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-154",
+    "countryCode": "SI",
+    "englishName": "Dobje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-155",
+    "countryCode": "SI",
+    "englishName": "Dobrna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-156",
+    "countryCode": "SI",
+    "englishName": "Dobrovnik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-157",
+    "countryCode": "SI",
+    "englishName": "Dolenjske Toplice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-158",
+    "countryCode": "SI",
+    "englishName": "Grad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-159",
+    "countryCode": "SI",
+    "englishName": "Hajdina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-160",
+    "countryCode": "SI",
+    "englishName": "Hoče–Slivnica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-161",
+    "countryCode": "SI",
+    "englishName": "Hodoš",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-162",
+    "countryCode": "SI",
+    "englishName": "Horjul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-163",
+    "countryCode": "SI",
+    "englishName": "Jezersko",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-164",
+    "countryCode": "SI",
+    "englishName": "Komenda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-165",
+    "countryCode": "SI",
+    "englishName": "Kostel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-166",
+    "countryCode": "SI",
+    "englishName": "Križevci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-167",
+    "countryCode": "SI",
+    "englishName": "Lovrenc na Pohorju",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-168",
+    "countryCode": "SI",
+    "englishName": "Markovci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-169",
+    "countryCode": "SI",
+    "englishName": "Miklavž na Dravskem Polju",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-170",
+    "countryCode": "SI",
+    "englishName": "Mirna Peč",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-171",
+    "countryCode": "SI",
+    "englishName": "Oplotnica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-172",
+    "countryCode": "SI",
+    "englishName": "Podlehnik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-173",
+    "countryCode": "SI",
+    "englishName": "Polzela",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-174",
+    "countryCode": "SI",
+    "englishName": "Prebold",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-175",
+    "countryCode": "SI",
+    "englishName": "Prevalje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-176",
+    "countryCode": "SI",
+    "englishName": "Razkrižje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-177",
+    "countryCode": "SI",
+    "englishName": "Ribnica na Pohorju",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-178",
+    "countryCode": "SI",
+    "englishName": "Selnica ob Dravi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-179",
+    "countryCode": "SI",
+    "englishName": "Sodražica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-180",
+    "countryCode": "SI",
+    "englishName": "Solčava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-181",
+    "countryCode": "SI",
+    "englishName": "Sveta Ana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-182",
+    "countryCode": "SI",
+    "englishName": "Sveti Andraž v Slovenskih Goricah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-183",
+    "countryCode": "SI",
+    "englishName": "Šempeter–Vrtojba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-184",
+    "countryCode": "SI",
+    "englishName": "Tabor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-185",
+    "countryCode": "SI",
+    "englishName": "Trnovska Vas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-186",
+    "countryCode": "SI",
+    "englishName": "Trzin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-187",
+    "countryCode": "SI",
+    "englishName": "Velika Polana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-188",
+    "countryCode": "SI",
+    "englishName": "Veržej",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-189",
+    "countryCode": "SI",
+    "englishName": "Vransko",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-190",
+    "countryCode": "SI",
+    "englishName": "Žalec",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-191",
+    "countryCode": "SI",
+    "englishName": "Žetale",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-192",
+    "countryCode": "SI",
+    "englishName": "Žirovnica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-193",
+    "countryCode": "SI",
+    "englishName": "Žužemberk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-194",
+    "countryCode": "SI",
+    "englishName": "Šmartno pri Litiji",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-195",
+    "countryCode": "SI",
+    "englishName": "Apače",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-196",
+    "countryCode": "SI",
+    "englishName": "Cirkulane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-197",
+    "countryCode": "SI",
+    "englishName": "Kostanjevica na Krki",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-198",
+    "countryCode": "SI",
+    "englishName": "Makole",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-199",
+    "countryCode": "SI",
+    "englishName": "Mokronog–Trebelno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-200",
+    "countryCode": "SI",
+    "englishName": "Poljčane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-201",
+    "countryCode": "SI",
+    "englishName": "Renče–Vogrsko",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-202",
+    "countryCode": "SI",
+    "englishName": "Središče ob Dravi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-203",
+    "countryCode": "SI",
+    "englishName": "Straža",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-204",
+    "countryCode": "SI",
+    "englishName": "Sveta Trojica v Slovenskih Goricah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-205",
+    "countryCode": "SI",
+    "englishName": "Sveti Tomaž",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-206",
+    "countryCode": "SI",
+    "englishName": "Šmarješke Toplice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-207",
+    "countryCode": "SI",
+    "englishName": "Gorje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-208",
+    "countryCode": "SI",
+    "englishName": "Log–Dragomer",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-209",
+    "countryCode": "SI",
+    "englishName": "Rečica ob Savinji",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-210",
+    "countryCode": "SI",
+    "englishName": "Sveti Jurij v Slovenskih Goricah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-211",
+    "countryCode": "SI",
+    "englishName": "Šentrupert",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-212",
+    "countryCode": "SI",
+    "englishName": "Mirna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SI-213",
+    "countryCode": "SI",
+    "englishName": "Ankaran",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
