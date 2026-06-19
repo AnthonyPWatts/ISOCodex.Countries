@@ -19299,6 +19299,615 @@
     "type": "Unknown"
   },
   {
+    "code": "MA-01",
+    "countryCode": "MA",
+    "englishName": "Tangier-Tétouan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-02",
+    "countryCode": "MA",
+    "englishName": "Gharb-Chrarda-Béni Hssen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-03",
+    "countryCode": "MA",
+    "englishName": "Taza-Al Hoceima-Taounate",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-04",
+    "countryCode": "MA",
+    "englishName": "Oriental",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-05",
+    "countryCode": "MA",
+    "englishName": "Fès-Boulemane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-06",
+    "countryCode": "MA",
+    "englishName": "Meknès-Tafilalet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-07",
+    "countryCode": "MA",
+    "englishName": "Rabat-Salé-Zemmour-Zaer",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-08",
+    "countryCode": "MA",
+    "englishName": "Grand Casablanca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-09",
+    "countryCode": "MA",
+    "englishName": "Chaouia-Ouardigha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-10",
+    "countryCode": "MA",
+    "englishName": "Doukkala-Abda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-11",
+    "countryCode": "MA",
+    "englishName": "Marrakesh-Tensift-El Haouz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-12",
+    "countryCode": "MA",
+    "englishName": "Tadla-Azilal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-AGD",
+    "countryCode": "MA",
+    "englishName": "Agadir-Ida Ou Tanane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-AOU",
+    "countryCode": "MA",
+    "englishName": "Aousserd",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-ASZ",
+    "countryCode": "MA",
+    "englishName": "Assa-Zag",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-AZI",
+    "countryCode": "MA",
+    "englishName": "Azilal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-BEM",
+    "countryCode": "MA",
+    "englishName": "Béni-Mellal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-BER",
+    "countryCode": "MA",
+    "englishName": "Berkane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-BES",
+    "countryCode": "MA",
+    "englishName": "Ben Slimane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-BOD",
+    "countryCode": "MA",
+    "englishName": "Boujdour",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-BOM",
+    "countryCode": "MA",
+    "englishName": "Boulemane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-BRR",
+    "countryCode": "MA",
+    "englishName": "Berrechid",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-CAS",
+    "countryCode": "MA",
+    "englishName": "Casablanca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-CHE",
+    "countryCode": "MA",
+    "englishName": "Chefchaouen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-CHI",
+    "countryCode": "MA",
+    "englishName": "Chichaoua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-CHT",
+    "countryCode": "MA",
+    "englishName": "Chtouka Aït Baha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-DRI",
+    "countryCode": "MA",
+    "englishName": "Driouch",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-ERR",
+    "countryCode": "MA",
+    "englishName": "Errachidia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-ESI",
+    "countryCode": "MA",
+    "englishName": "Essaouira",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-ESM",
+    "countryCode": "MA",
+    "englishName": "Es Semara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-FAH",
+    "countryCode": "MA",
+    "englishName": "Fahs-Beni Makada",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-FES",
+    "countryCode": "MA",
+    "englishName": "Fès-Dar-Dbibegh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-FIG",
+    "countryCode": "MA",
+    "englishName": "Figuig",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-FQH",
+    "countryCode": "MA",
+    "englishName": "Fquih Ben Salah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-GUE",
+    "countryCode": "MA",
+    "englishName": "Guelmim",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-GUF",
+    "countryCode": "MA",
+    "englishName": "Guercif",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-HAJ",
+    "countryCode": "MA",
+    "englishName": "El Hajeb",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-HAO",
+    "countryCode": "MA",
+    "englishName": "Al Haouz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-HOC",
+    "countryCode": "MA",
+    "englishName": "Al Hoceïma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-IFR",
+    "countryCode": "MA",
+    "englishName": "Ifrane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-INE",
+    "countryCode": "MA",
+    "englishName": "Inezgane-Aït Melloul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-JDI",
+    "countryCode": "MA",
+    "englishName": "El Jadida",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-JRA",
+    "countryCode": "MA",
+    "englishName": "Jerada",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-KEN",
+    "countryCode": "MA",
+    "englishName": "Kénitra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-KES",
+    "countryCode": "MA",
+    "englishName": "Kelaat Sraghna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-KHE",
+    "countryCode": "MA",
+    "englishName": "Khemisset",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-KHN",
+    "countryCode": "MA",
+    "englishName": "Khénifra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-KHO",
+    "countryCode": "MA",
+    "englishName": "Khouribga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-LAA",
+    "countryCode": "MA",
+    "englishName": "Laâyoune",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-LAR",
+    "countryCode": "MA",
+    "englishName": "Larache",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-MAR",
+    "countryCode": "MA",
+    "englishName": "Marrakech",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-MDF",
+    "countryCode": "MA",
+    "englishName": "M’diq-Fnideq",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-MED",
+    "countryCode": "MA",
+    "englishName": "Médiouna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-MEK",
+    "countryCode": "MA",
+    "englishName": "Meknès",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-MID",
+    "countryCode": "MA",
+    "englishName": "Midelt",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-MOH",
+    "countryCode": "MA",
+    "englishName": "Mohammedia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-MOU",
+    "countryCode": "MA",
+    "englishName": "Moulay Yacoub",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-NAD",
+    "countryCode": "MA",
+    "englishName": "Nador",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-NOU",
+    "countryCode": "MA",
+    "englishName": "Nouaceur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-OUA",
+    "countryCode": "MA",
+    "englishName": "Ouarzazate",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-OUD",
+    "countryCode": "MA",
+    "englishName": "Oued Ed-Dahab",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-OUJ",
+    "countryCode": "MA",
+    "englishName": "Oujda-Angad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-OUZ",
+    "countryCode": "MA",
+    "englishName": "Ouezzane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-RAB",
+    "countryCode": "MA",
+    "englishName": "Rabat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-REH",
+    "countryCode": "MA",
+    "englishName": "Rehamna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-SAF",
+    "countryCode": "MA",
+    "englishName": "Safi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-SAL",
+    "countryCode": "MA",
+    "englishName": "Salé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-SEF",
+    "countryCode": "MA",
+    "englishName": "Sefrou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-SET",
+    "countryCode": "MA",
+    "englishName": "Settat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-SIB",
+    "countryCode": "MA",
+    "englishName": "Sidi Bennour",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-SIF",
+    "countryCode": "MA",
+    "englishName": "Sidi Ifni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-SIK",
+    "countryCode": "MA",
+    "englishName": "Sidi Kacem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-SIL",
+    "countryCode": "MA",
+    "englishName": "Sidi Slimane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-SKH",
+    "countryCode": "MA",
+    "englishName": "Skhirat-Témara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-TAF",
+    "countryCode": "MA",
+    "englishName": "Tarfaya (EH-partial)",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-TAI",
+    "countryCode": "MA",
+    "englishName": "Taourirt",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-TAO",
+    "countryCode": "MA",
+    "englishName": "Taounate",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-TAR",
+    "countryCode": "MA",
+    "englishName": "Taroudant",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-TAT",
+    "countryCode": "MA",
+    "englishName": "Tata",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-TAZ",
+    "countryCode": "MA",
+    "englishName": "Taza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-TET",
+    "countryCode": "MA",
+    "englishName": "Tétouan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-TIN",
+    "countryCode": "MA",
+    "englishName": "Tinghir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-TIZ",
+    "countryCode": "MA",
+    "englishName": "Tiznit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-TNG",
+    "countryCode": "MA",
+    "englishName": "Tangier-Assilah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-TNT",
+    "countryCode": "MA",
+    "englishName": "Tan-Tan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-YUS",
+    "countryCode": "MA",
+    "englishName": "Youssoufia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MA-ZAG",
+    "countryCode": "MA",
+    "englishName": "Zagora",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
