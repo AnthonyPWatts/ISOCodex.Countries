@@ -23660,6 +23660,97 @@
     "type": "Unknown"
   },
   {
+    "code": "NO-03",
+    "countryCode": "NO",
+    "englishName": "Oslo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NO-11",
+    "countryCode": "NO",
+    "englishName": "Rogaland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NO-15",
+    "countryCode": "NO",
+    "englishName": "Møre og Romsdal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NO-18",
+    "countryCode": "NO",
+    "englishName": "Nordland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NO-21",
+    "countryCode": "NO",
+    "englishName": "Svalbard",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NO-22",
+    "countryCode": "NO",
+    "englishName": "Jan Mayen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NO-30",
+    "countryCode": "NO",
+    "englishName": "Viken",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NO-34",
+    "countryCode": "NO",
+    "englishName": "Innlandet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NO-38",
+    "countryCode": "NO",
+    "englishName": "Vestfold og Telemark",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NO-42",
+    "countryCode": "NO",
+    "englishName": "Agder",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NO-46",
+    "countryCode": "NO",
+    "englishName": "Vestland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NO-50",
+    "countryCode": "NO",
+    "englishName": "Trøndelag",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NO-54",
+    "countryCode": "NO",
+    "englishName": "Tromssan ja Finmarkun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

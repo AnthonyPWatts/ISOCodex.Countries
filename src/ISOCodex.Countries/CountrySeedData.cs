@@ -5629,6 +5629,19 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("NL-UT"), CountryAlpha2Code.Parse("NL"), "Utrecht", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NL-ZE"), CountryAlpha2Code.Parse("NL"), "Zeeland", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NL-ZH"), CountryAlpha2Code.Parse("NL"), "South Holland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NO-03"), CountryAlpha2Code.Parse("NO"), "Oslo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NO-11"), CountryAlpha2Code.Parse("NO"), "Rogaland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NO-15"), CountryAlpha2Code.Parse("NO"), "Møre og Romsdal", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NO-18"), CountryAlpha2Code.Parse("NO"), "Nordland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NO-21"), CountryAlpha2Code.Parse("NO"), "Svalbard", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NO-22"), CountryAlpha2Code.Parse("NO"), "Jan Mayen", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NO-30"), CountryAlpha2Code.Parse("NO"), "Viken", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NO-34"), CountryAlpha2Code.Parse("NO"), "Innlandet", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NO-38"), CountryAlpha2Code.Parse("NO"), "Vestfold og Telemark", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NO-42"), CountryAlpha2Code.Parse("NO"), "Agder", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NO-46"), CountryAlpha2Code.Parse("NO"), "Vestland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NO-50"), CountryAlpha2Code.Parse("NO"), "Trøndelag", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NO-54"), CountryAlpha2Code.Parse("NO"), "Tromssan ja Finmarkun", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
