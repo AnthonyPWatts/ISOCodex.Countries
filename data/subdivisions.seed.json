@@ -34074,6 +34074,181 @@
     "englishName": "Grenadines",
     "localName": null,
     "type": "Unknown"
+  },
+  {
+    "code": "VE-A",
+    "countryCode": "VE",
+    "englishName": "Capital",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-B",
+    "countryCode": "VE",
+    "englishName": "Anzoátegui",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-C",
+    "countryCode": "VE",
+    "englishName": "Apure",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-D",
+    "countryCode": "VE",
+    "englishName": "Aragua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-E",
+    "countryCode": "VE",
+    "englishName": "Barinas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-F",
+    "countryCode": "VE",
+    "englishName": "Bolívar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-G",
+    "countryCode": "VE",
+    "englishName": "Carabobo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-H",
+    "countryCode": "VE",
+    "englishName": "Cojedes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-I",
+    "countryCode": "VE",
+    "englishName": "Falcón",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-J",
+    "countryCode": "VE",
+    "englishName": "Guárico",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-K",
+    "countryCode": "VE",
+    "englishName": "Lara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-L",
+    "countryCode": "VE",
+    "englishName": "Mérida",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-M",
+    "countryCode": "VE",
+    "englishName": "Miranda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-N",
+    "countryCode": "VE",
+    "englishName": "Monagas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-O",
+    "countryCode": "VE",
+    "englishName": "Nueva Esparta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-P",
+    "countryCode": "VE",
+    "englishName": "Portuguesa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-R",
+    "countryCode": "VE",
+    "englishName": "Sucre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-S",
+    "countryCode": "VE",
+    "englishName": "Táchira",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-T",
+    "countryCode": "VE",
+    "englishName": "Trujillo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-U",
+    "countryCode": "VE",
+    "englishName": "Yaracuy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-V",
+    "countryCode": "VE",
+    "englishName": "Zulia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-W",
+    "countryCode": "VE",
+    "englishName": "Federal Dependencies",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-X",
+    "countryCode": "VE",
+    "englishName": "Vargas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-Y",
+    "countryCode": "VE",
+    "englishName": "Delta Amacuro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VE-Z",
+    "countryCode": "VE",
+    "englishName": "Amazonas",
+    "localName": null,
+    "type": "Unknown"
   }
 ]
 

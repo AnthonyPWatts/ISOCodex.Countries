@@ -7116,7 +7116,32 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("VC-03"), CountryAlpha2Code.Parse("VC"), "Saint David", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("VC-04"), CountryAlpha2Code.Parse("VC"), "Saint George", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("VC-05"), CountryAlpha2Code.Parse("VC"), "Saint Patrick", null, CountrySubdivisionType.Unknown),
-        new(CountrySubdivisionCode.Parse("VC-06"), CountryAlpha2Code.Parse("VC"), "Grenadines", null, CountrySubdivisionType.Unknown)
+        new(CountrySubdivisionCode.Parse("VC-06"), CountryAlpha2Code.Parse("VC"), "Grenadines", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-A"), CountryAlpha2Code.Parse("VE"), "Capital", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-B"), CountryAlpha2Code.Parse("VE"), "Anzoátegui", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-C"), CountryAlpha2Code.Parse("VE"), "Apure", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-D"), CountryAlpha2Code.Parse("VE"), "Aragua", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-E"), CountryAlpha2Code.Parse("VE"), "Barinas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-F"), CountryAlpha2Code.Parse("VE"), "Bolívar", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-G"), CountryAlpha2Code.Parse("VE"), "Carabobo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-H"), CountryAlpha2Code.Parse("VE"), "Cojedes", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-I"), CountryAlpha2Code.Parse("VE"), "Falcón", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-J"), CountryAlpha2Code.Parse("VE"), "Guárico", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-K"), CountryAlpha2Code.Parse("VE"), "Lara", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-L"), CountryAlpha2Code.Parse("VE"), "Mérida", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-M"), CountryAlpha2Code.Parse("VE"), "Miranda", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-N"), CountryAlpha2Code.Parse("VE"), "Monagas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-O"), CountryAlpha2Code.Parse("VE"), "Nueva Esparta", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-P"), CountryAlpha2Code.Parse("VE"), "Portuguesa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-R"), CountryAlpha2Code.Parse("VE"), "Sucre", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-S"), CountryAlpha2Code.Parse("VE"), "Táchira", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-T"), CountryAlpha2Code.Parse("VE"), "Trujillo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-U"), CountryAlpha2Code.Parse("VE"), "Yaracuy", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-V"), CountryAlpha2Code.Parse("VE"), "Zulia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-W"), CountryAlpha2Code.Parse("VE"), "Federal Dependencies", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-X"), CountryAlpha2Code.Parse("VE"), "Vargas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-Y"), CountryAlpha2Code.Parse("VE"), "Delta Amacuro", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VE-Z"), CountryAlpha2Code.Parse("VE"), "Amazonas", null, CountrySubdivisionType.Unknown)
     }.AsReadOnly();
 }
 
