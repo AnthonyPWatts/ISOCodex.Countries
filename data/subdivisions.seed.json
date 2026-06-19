@@ -14168,6 +14168,139 @@
     "type": "Unknown"
   },
   {
+    "code": "IQ-AN",
+    "countryCode": "IQ",
+    "englishName": "Al Anbar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-AR",
+    "countryCode": "IQ",
+    "englishName": "Erbil",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-BA",
+    "countryCode": "IQ",
+    "englishName": "Basra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-BB",
+    "countryCode": "IQ",
+    "englishName": "Babylon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-BG",
+    "countryCode": "IQ",
+    "englishName": "Baghdad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-DA",
+    "countryCode": "IQ",
+    "englishName": "Dohuk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-DI",
+    "countryCode": "IQ",
+    "englishName": "Diyala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-DQ",
+    "countryCode": "IQ",
+    "englishName": "Dhi Qar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-KA",
+    "countryCode": "IQ",
+    "englishName": "Karbala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-KI",
+    "countryCode": "IQ",
+    "englishName": "Kirkuk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-KR",
+    "countryCode": "IQ",
+    "englishName": "Kurdistan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-MA",
+    "countryCode": "IQ",
+    "englishName": "Maysan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-MU",
+    "countryCode": "IQ",
+    "englishName": "Al Muthanna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-NA",
+    "countryCode": "IQ",
+    "englishName": "Najaf",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-NI",
+    "countryCode": "IQ",
+    "englishName": "Nineveh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-QA",
+    "countryCode": "IQ",
+    "englishName": "Al-Qādisiyyah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-SD",
+    "countryCode": "IQ",
+    "englishName": "Saladin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-SU",
+    "countryCode": "IQ",
+    "englishName": "Sulaymaniyah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IQ-WA",
+    "countryCode": "IQ",
+    "englishName": "Wasit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
