@@ -10073,11 +10073,921 @@
     "type": "Unknown"
   },
   {
+    "code": "GB-ABC",
+    "countryCode": "GB",
+    "englishName": "Armagh, Banbridge and Craigavon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ABD",
+    "countryCode": "GB",
+    "englishName": "Aberdeenshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ABE",
+    "countryCode": "GB",
+    "englishName": "Aberdeen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-AGB",
+    "countryCode": "GB",
+    "englishName": "Argyll and Bute",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-AGY",
+    "countryCode": "GB",
+    "englishName": "Anglesey",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-AND",
+    "countryCode": "GB",
+    "englishName": "Ards and North Down",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ANN",
+    "countryCode": "GB",
+    "englishName": "Antrim and Newtownabbey",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ANS",
+    "countryCode": "GB",
+    "englishName": "Angus",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BAS",
+    "countryCode": "GB",
+    "englishName": "Bath and North East Somerset",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BBD",
+    "countryCode": "GB",
+    "englishName": "Blackburn with Darwen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BCP",
+    "countryCode": "GB",
+    "englishName": "Bournemouth, Christchurch and Poole",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BDF",
+    "countryCode": "GB",
+    "englishName": "Bedford",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BDG",
+    "countryCode": "GB",
+    "englishName": "Barking and Dagenham",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BEN",
+    "countryCode": "GB",
+    "englishName": "Brent",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BEX",
+    "countryCode": "GB",
+    "englishName": "Bexley",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BFS",
+    "countryCode": "GB",
+    "englishName": "Belfast",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BGE",
+    "countryCode": "GB",
+    "englishName": "Bridgend",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BGW",
+    "countryCode": "GB",
+    "englishName": "Blaenau Gwent",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BIR",
+    "countryCode": "GB",
+    "englishName": "Birmingham",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BKM",
+    "countryCode": "GB",
+    "englishName": "Buckinghamshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BNE",
+    "countryCode": "GB",
+    "englishName": "Barnet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BNH",
+    "countryCode": "GB",
+    "englishName": "Brighton and Hove",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BNS",
+    "countryCode": "GB",
+    "englishName": "Barnsley",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BOL",
+    "countryCode": "GB",
+    "englishName": "Bolton",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BPL",
+    "countryCode": "GB",
+    "englishName": "Blackpool",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BRC",
+    "countryCode": "GB",
+    "englishName": "Bracknell Forest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BRD",
+    "countryCode": "GB",
+    "englishName": "Bradford",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BRY",
+    "countryCode": "GB",
+    "englishName": "Bromley",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BST",
+    "countryCode": "GB",
+    "englishName": "Bristol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-BUR",
+    "countryCode": "GB",
+    "englishName": "Bury",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CAM",
+    "countryCode": "GB",
+    "englishName": "Cambridgeshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CAY",
+    "countryCode": "GB",
+    "englishName": "Caerphilly",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CBF",
+    "countryCode": "GB",
+    "englishName": "Central Bedfordshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CCG",
+    "countryCode": "GB",
+    "englishName": "Causeway Coast and Glens",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CGN",
+    "countryCode": "GB",
+    "englishName": "Ceredigion",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CHE",
+    "countryCode": "GB",
+    "englishName": "Cheshire East",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CHW",
+    "countryCode": "GB",
+    "englishName": "Cheshire West and Chester",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CLD",
+    "countryCode": "GB",
+    "englishName": "Calderdale",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CLK",
+    "countryCode": "GB",
+    "englishName": "Clackmannanshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CMA",
+    "countryCode": "GB",
+    "englishName": "Cumbria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CMD",
+    "countryCode": "GB",
+    "englishName": "Camden",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CMN",
+    "countryCode": "GB",
+    "englishName": "Carmarthenshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CON",
+    "countryCode": "GB",
+    "englishName": "Cornwall",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-COV",
+    "countryCode": "GB",
+    "englishName": "Coventry",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CRF",
+    "countryCode": "GB",
+    "englishName": "Cardiff",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CRY",
+    "countryCode": "GB",
+    "englishName": "Croydon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-CWY",
+    "countryCode": "GB",
+    "englishName": "Conwy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-DAL",
+    "countryCode": "GB",
+    "englishName": "Darlington",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-DBY",
+    "countryCode": "GB",
+    "englishName": "Derbyshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-DEN",
+    "countryCode": "GB",
+    "englishName": "Denbighshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-DER",
+    "countryCode": "GB",
+    "englishName": "Derby",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-DEV",
+    "countryCode": "GB",
+    "englishName": "Devon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-DGY",
+    "countryCode": "GB",
+    "englishName": "Dumfries and Galloway",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-DNC",
+    "countryCode": "GB",
+    "englishName": "Doncaster",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-DND",
+    "countryCode": "GB",
+    "englishName": "Dundee",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-DOR",
+    "countryCode": "GB",
+    "englishName": "Dorset",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-DRS",
+    "countryCode": "GB",
+    "englishName": "Derry and Strabane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-DUD",
+    "countryCode": "GB",
+    "englishName": "Dudley",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-DUR",
+    "countryCode": "GB",
+    "englishName": "Durham",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-EAL",
+    "countryCode": "GB",
+    "englishName": "Ealing",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-EAY",
+    "countryCode": "GB",
+    "englishName": "East Ayrshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-EDH",
+    "countryCode": "GB",
+    "englishName": "Edinburgh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-EDU",
+    "countryCode": "GB",
+    "englishName": "East Dunbartonshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ELN",
+    "countryCode": "GB",
+    "englishName": "East Lothian",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ELS",
+    "countryCode": "GB",
+    "englishName": "Outer Hebrides",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ENF",
+    "countryCode": "GB",
+    "englishName": "Enfield",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
     "localName": null,
     "type": "Nation"
+  },
+  {
+    "code": "GB-ERW",
+    "countryCode": "GB",
+    "englishName": "East Renfrewshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ERY",
+    "countryCode": "GB",
+    "englishName": "East Riding of Yorkshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ESS",
+    "countryCode": "GB",
+    "englishName": "Essex",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ESX",
+    "countryCode": "GB",
+    "englishName": "East Sussex",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-FAL",
+    "countryCode": "GB",
+    "englishName": "Falkirk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-FIF",
+    "countryCode": "GB",
+    "englishName": "Fife",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-FLN",
+    "countryCode": "GB",
+    "englishName": "Flintshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-FMO",
+    "countryCode": "GB",
+    "englishName": "Fermanagh and Omagh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-GAT",
+    "countryCode": "GB",
+    "englishName": "Gateshead",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-GLG",
+    "countryCode": "GB",
+    "englishName": "Glasgow",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-GLS",
+    "countryCode": "GB",
+    "englishName": "Gloucestershire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-GRE",
+    "countryCode": "GB",
+    "englishName": "Greenwich",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-GWN",
+    "countryCode": "GB",
+    "englishName": "Gwynedd",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-HAL",
+    "countryCode": "GB",
+    "englishName": "Halton",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-HAM",
+    "countryCode": "GB",
+    "englishName": "Hampshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-HAV",
+    "countryCode": "GB",
+    "englishName": "Havering",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-HCK",
+    "countryCode": "GB",
+    "englishName": "Hackney",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-HEF",
+    "countryCode": "GB",
+    "englishName": "Herefordshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-HIL",
+    "countryCode": "GB",
+    "englishName": "Hillingdon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-HLD",
+    "countryCode": "GB",
+    "englishName": "Highland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-HMF",
+    "countryCode": "GB",
+    "englishName": "Hammersmith and Fulham",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-HNS",
+    "countryCode": "GB",
+    "englishName": "Hounslow",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-HPL",
+    "countryCode": "GB",
+    "englishName": "Hartlepool",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-HRT",
+    "countryCode": "GB",
+    "englishName": "Hertfordshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-HRW",
+    "countryCode": "GB",
+    "englishName": "Harrow",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-HRY",
+    "countryCode": "GB",
+    "englishName": "Haringey",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-IOS",
+    "countryCode": "GB",
+    "englishName": "Isles of Scilly",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-IOW",
+    "countryCode": "GB",
+    "englishName": "Isle of Wight",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ISL",
+    "countryCode": "GB",
+    "englishName": "Islington",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-IVC",
+    "countryCode": "GB",
+    "englishName": "Inverclyde",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-KEC",
+    "countryCode": "GB",
+    "englishName": "Kensington and Chelsea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-KEN",
+    "countryCode": "GB",
+    "englishName": "Kent",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-KHL",
+    "countryCode": "GB",
+    "englishName": "Kingston upon Hull",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-KIR",
+    "countryCode": "GB",
+    "englishName": "Kirklees",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-KTT",
+    "countryCode": "GB",
+    "englishName": "Kingston upon Thames",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-KWL",
+    "countryCode": "GB",
+    "englishName": "Knowsley",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-LAN",
+    "countryCode": "GB",
+    "englishName": "Lancashire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-LBC",
+    "countryCode": "GB",
+    "englishName": "Lisburn and Castlereagh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-LBH",
+    "countryCode": "GB",
+    "englishName": "Lambeth",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-LCE",
+    "countryCode": "GB",
+    "englishName": "Leicester",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-LDS",
+    "countryCode": "GB",
+    "englishName": "Leeds",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-LEC",
+    "countryCode": "GB",
+    "englishName": "Leicestershire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-LEW",
+    "countryCode": "GB",
+    "englishName": "Lewisham",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-LIN",
+    "countryCode": "GB",
+    "englishName": "Lincolnshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-LIV",
+    "countryCode": "GB",
+    "englishName": "Liverpool",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-LND",
+    "countryCode": "GB",
+    "englishName": "London",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-LUT",
+    "countryCode": "GB",
+    "englishName": "Luton",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-MAN",
+    "countryCode": "GB",
+    "englishName": "Manchester",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-MDB",
+    "countryCode": "GB",
+    "englishName": "Middlesbrough",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-MDW",
+    "countryCode": "GB",
+    "englishName": "Medway",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-MEA",
+    "countryCode": "GB",
+    "englishName": "Mid and East Antrim",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-MIK",
+    "countryCode": "GB",
+    "englishName": "Milton Keynes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-MLN",
+    "countryCode": "GB",
+    "englishName": "Midlothian",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-MON",
+    "countryCode": "GB",
+    "englishName": "Monmouthshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-MRT",
+    "countryCode": "GB",
+    "englishName": "Merton",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-MRY",
+    "countryCode": "GB",
+    "englishName": "Moray",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-MTY",
+    "countryCode": "GB",
+    "englishName": "Merthyr Tydfil",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-MUL",
+    "countryCode": "GB",
+    "englishName": "Mid Ulster",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NAY",
+    "countryCode": "GB",
+    "englishName": "North Ayrshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NBL",
+    "countryCode": "GB",
+    "englishName": "Northumberland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NEL",
+    "countryCode": "GB",
+    "englishName": "North East Lincolnshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NET",
+    "countryCode": "GB",
+    "englishName": "Newcastle upon Tyne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NFK",
+    "countryCode": "GB",
+    "englishName": "Norfolk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NGM",
+    "countryCode": "GB",
+    "englishName": "Nottingham",
+    "localName": null,
+    "type": "Unknown"
   },
   {
     "code": "GB-NIR",
@@ -10087,6 +10997,230 @@
     "type": "Nation"
   },
   {
+    "code": "GB-NLK",
+    "countryCode": "GB",
+    "englishName": "North Lanarkshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NLN",
+    "countryCode": "GB",
+    "englishName": "North Lincolnshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NMD",
+    "countryCode": "GB",
+    "englishName": "Newry, Mourne and Down",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NNH",
+    "countryCode": "GB",
+    "englishName": "North Northamptonshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NSM",
+    "countryCode": "GB",
+    "englishName": "North Somerset",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NTL",
+    "countryCode": "GB",
+    "englishName": "Neath Port Talbot",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NTT",
+    "countryCode": "GB",
+    "englishName": "Nottinghamshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NTY",
+    "countryCode": "GB",
+    "englishName": "North Tyneside",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NWM",
+    "countryCode": "GB",
+    "englishName": "Newham",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NWP",
+    "countryCode": "GB",
+    "englishName": "Newport",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-NYK",
+    "countryCode": "GB",
+    "englishName": "North Yorkshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-OLD",
+    "countryCode": "GB",
+    "englishName": "Oldham",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ORK",
+    "countryCode": "GB",
+    "englishName": "Orkney Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-OXF",
+    "countryCode": "GB",
+    "englishName": "Oxfordshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-PEM",
+    "countryCode": "GB",
+    "englishName": "Pembrokeshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-PKN",
+    "countryCode": "GB",
+    "englishName": "Perth and Kinross",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-PLY",
+    "countryCode": "GB",
+    "englishName": "Plymouth",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-POR",
+    "countryCode": "GB",
+    "englishName": "Portsmouth",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-POW",
+    "countryCode": "GB",
+    "englishName": "Powys",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-PTE",
+    "countryCode": "GB",
+    "englishName": "Peter",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-RCC",
+    "countryCode": "GB",
+    "englishName": "Redcar and Cleveland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-RCH",
+    "countryCode": "GB",
+    "englishName": "Rochdale",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-RCT",
+    "countryCode": "GB",
+    "englishName": "Rhondda Cynon Taf",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-RDB",
+    "countryCode": "GB",
+    "englishName": "Redbridge",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-RDG",
+    "countryCode": "GB",
+    "englishName": "Reading",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-RFW",
+    "countryCode": "GB",
+    "englishName": "Renfrewshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-RIC",
+    "countryCode": "GB",
+    "englishName": "Richmond upon Thames",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ROT",
+    "countryCode": "GB",
+    "englishName": "Rotherham",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-RUT",
+    "countryCode": "GB",
+    "englishName": "Rutland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SAW",
+    "countryCode": "GB",
+    "englishName": "Sandwell",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SAY",
+    "countryCode": "GB",
+    "englishName": "South Ayrshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SCB",
+    "countryCode": "GB",
+    "englishName": "Scottish Borders",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-SCT",
     "countryCode": "GB",
     "englishName": "Scotland",
@@ -10094,11 +11228,396 @@
     "type": "Nation"
   },
   {
+    "code": "GB-SFK",
+    "countryCode": "GB",
+    "englishName": "Suffolk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SFT",
+    "countryCode": "GB",
+    "englishName": "Sefton",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SGC",
+    "countryCode": "GB",
+    "englishName": "South Gloucestershire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SHF",
+    "countryCode": "GB",
+    "englishName": "Sheffield",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SHN",
+    "countryCode": "GB",
+    "englishName": "Saint Helens",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SHR",
+    "countryCode": "GB",
+    "englishName": "Shropshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SKP",
+    "countryCode": "GB",
+    "englishName": "Stockport",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SLF",
+    "countryCode": "GB",
+    "englishName": "Salford",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SLG",
+    "countryCode": "GB",
+    "englishName": "Slough",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SLK",
+    "countryCode": "GB",
+    "englishName": "South Lanarkshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SND",
+    "countryCode": "GB",
+    "englishName": "Sunderland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SOL",
+    "countryCode": "GB",
+    "englishName": "Solihull",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SOM",
+    "countryCode": "GB",
+    "englishName": "Somerset",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SOS",
+    "countryCode": "GB",
+    "englishName": "Southend-on-Sea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SRY",
+    "countryCode": "GB",
+    "englishName": "Surrey",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-STE",
+    "countryCode": "GB",
+    "englishName": "Stoke-on-Trent",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-STG",
+    "countryCode": "GB",
+    "englishName": "Stirling",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-STH",
+    "countryCode": "GB",
+    "englishName": "Southampton",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-STN",
+    "countryCode": "GB",
+    "englishName": "Sutton",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-STS",
+    "countryCode": "GB",
+    "englishName": "Staffordshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-STT",
+    "countryCode": "GB",
+    "englishName": "Stockton-on-Tees",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-STY",
+    "countryCode": "GB",
+    "englishName": "South Tyneside",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SWA",
+    "countryCode": "GB",
+    "englishName": "Swansea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SWD",
+    "countryCode": "GB",
+    "englishName": "Swindon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-SWK",
+    "countryCode": "GB",
+    "englishName": "Southwark",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-TAM",
+    "countryCode": "GB",
+    "englishName": "Tameside",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-TFW",
+    "countryCode": "GB",
+    "englishName": "Telford and Wrekin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-THR",
+    "countryCode": "GB",
+    "englishName": "Thurrock",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-TOB",
+    "countryCode": "GB",
+    "englishName": "Torbay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-TOF",
+    "countryCode": "GB",
+    "englishName": "Torfaen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-TRF",
+    "countryCode": "GB",
+    "englishName": "Trafford",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-TWH",
+    "countryCode": "GB",
+    "englishName": "Tower Hamlets",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-VGL",
+    "countryCode": "GB",
+    "englishName": "Vale of Glamorgan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WAR",
+    "countryCode": "GB",
+    "englishName": "Warwickshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WBK",
+    "countryCode": "GB",
+    "englishName": "West Berkshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WDU",
+    "countryCode": "GB",
+    "englishName": "West Dunbartonshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WFT",
+    "countryCode": "GB",
+    "englishName": "Waltham Forest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WGN",
+    "countryCode": "GB",
+    "englishName": "Wigan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WIL",
+    "countryCode": "GB",
+    "englishName": "Wiltshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WKF",
+    "countryCode": "GB",
+    "englishName": "Wakefield",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WLL",
+    "countryCode": "GB",
+    "englishName": "Walsall",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WLN",
+    "countryCode": "GB",
+    "englishName": "West Lothian",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-WLS",
     "countryCode": "GB",
     "englishName": "Wales",
     "localName": null,
     "type": "Nation"
+  },
+  {
+    "code": "GB-WLV",
+    "countryCode": "GB",
+    "englishName": "Wolverhampton",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WND",
+    "countryCode": "GB",
+    "englishName": "Wandsworth",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WNH",
+    "countryCode": "GB",
+    "englishName": "West Northamptonshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WNM",
+    "countryCode": "GB",
+    "englishName": "Windsor and Maidenhead",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WOK",
+    "countryCode": "GB",
+    "englishName": "Wokingham",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WOR",
+    "countryCode": "GB",
+    "englishName": "Worcestershire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WRL",
+    "countryCode": "GB",
+    "englishName": "Wirral",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WRT",
+    "countryCode": "GB",
+    "englishName": "Warrington",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WRX",
+    "countryCode": "GB",
+    "englishName": "Wrexham",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WSM",
+    "countryCode": "GB",
+    "englishName": "Westminster",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-WSX",
+    "countryCode": "GB",
+    "englishName": "West Sussex",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-YOR",
+    "countryCode": "GB",
+    "englishName": "York",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GB-ZET",
+    "countryCode": "GB",
+    "englishName": "Shetland",
+    "localName": null,
+    "type": "Unknown"
   },
   {
     "code": "IE-D",
