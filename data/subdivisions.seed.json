@@ -3871,6 +3871,48 @@
     "type": "Unknown"
   },
   {
+    "code": "BZ-BZ",
+    "countryCode": "BZ",
+    "englishName": "Belize",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BZ-CY",
+    "countryCode": "BZ",
+    "englishName": "Cayo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BZ-CZL",
+    "countryCode": "BZ",
+    "englishName": "Corozal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BZ-OW",
+    "countryCode": "BZ",
+    "englishName": "Orange Walk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BZ-SC",
+    "countryCode": "BZ",
+    "englishName": "Stann Creek",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BZ-TOL",
+    "countryCode": "BZ",
+    "englishName": "Toledo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
