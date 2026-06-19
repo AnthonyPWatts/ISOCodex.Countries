@@ -25270,6 +25270,118 @@
     "type": "Unknown"
   },
   {
+    "code": "PL-02",
+    "countryCode": "PL",
+    "englishName": "Lower Silesia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-04",
+    "countryCode": "PL",
+    "englishName": "Kuyavia-Pomerania",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-06",
+    "countryCode": "PL",
+    "englishName": "Lublin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-08",
+    "countryCode": "PL",
+    "englishName": "Lubusz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-10",
+    "countryCode": "PL",
+    "englishName": "Łódź",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-12",
+    "countryCode": "PL",
+    "englishName": "Lesser Poland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-14",
+    "countryCode": "PL",
+    "englishName": "Mazovia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-16",
+    "countryCode": "PL",
+    "englishName": "Opole",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-18",
+    "countryCode": "PL",
+    "englishName": "Subcarpathia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-20",
+    "countryCode": "PL",
+    "englishName": "Podlachia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-22",
+    "countryCode": "PL",
+    "englishName": "Pomerania",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-24",
+    "countryCode": "PL",
+    "englishName": "Silesia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-26",
+    "countryCode": "PL",
+    "englishName": "Holy Cross",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-28",
+    "countryCode": "PL",
+    "englishName": "Warmia-Masuria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-30",
+    "countryCode": "PL",
+    "englishName": "Greater Poland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PL-32",
+    "countryCode": "PL",
+    "englishName": "West Pomerania",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

@@ -5859,6 +5859,22 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("PK-KP"), CountryAlpha2Code.Parse("PK"), "Khyber Pakhtunkhwa", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("PK-PB"), CountryAlpha2Code.Parse("PK"), "Punjab", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("PK-SD"), CountryAlpha2Code.Parse("PK"), "Sindh", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-02"), CountryAlpha2Code.Parse("PL"), "Lower Silesia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-04"), CountryAlpha2Code.Parse("PL"), "Kuyavia-Pomerania", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-06"), CountryAlpha2Code.Parse("PL"), "Lublin", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-08"), CountryAlpha2Code.Parse("PL"), "Lubusz", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-10"), CountryAlpha2Code.Parse("PL"), "Łódź", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-12"), CountryAlpha2Code.Parse("PL"), "Lesser Poland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-14"), CountryAlpha2Code.Parse("PL"), "Mazovia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-16"), CountryAlpha2Code.Parse("PL"), "Opole", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-18"), CountryAlpha2Code.Parse("PL"), "Subcarpathia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-20"), CountryAlpha2Code.Parse("PL"), "Podlachia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-22"), CountryAlpha2Code.Parse("PL"), "Pomerania", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-24"), CountryAlpha2Code.Parse("PL"), "Silesia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-26"), CountryAlpha2Code.Parse("PL"), "Holy Cross", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-28"), CountryAlpha2Code.Parse("PL"), "Warmia-Masuria", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-30"), CountryAlpha2Code.Parse("PL"), "Greater Poland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PL-32"), CountryAlpha2Code.Parse("PL"), "West Pomerania", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
