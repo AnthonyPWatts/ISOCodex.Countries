@@ -31794,6 +31794,62 @@
     "type": "Unknown"
   },
   {
+    "code": "TV-FUN",
+    "countryCode": "TV",
+    "englishName": "Funafuti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TV-NIT",
+    "countryCode": "TV",
+    "englishName": "Niutao",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TV-NKF",
+    "countryCode": "TV",
+    "englishName": "Nukufetau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TV-NKL",
+    "countryCode": "TV",
+    "englishName": "Nukulaelae",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TV-NMA",
+    "countryCode": "TV",
+    "englishName": "Nanumea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TV-NMG",
+    "countryCode": "TV",
+    "englishName": "Nanumanga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TV-NUI",
+    "countryCode": "TV",
+    "englishName": "Nui",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TV-VAI",
+    "countryCode": "TV",
+    "englishName": "Vaitupu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

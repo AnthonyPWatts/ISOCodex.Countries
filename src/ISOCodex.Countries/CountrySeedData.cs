@@ -6791,6 +6791,14 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("TT-SJL"), CountryAlpha2Code.Parse("TT"), "San Juan-Laventille", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("TT-TOB"), CountryAlpha2Code.Parse("TT"), "Tobago", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("TT-TUP"), CountryAlpha2Code.Parse("TT"), "Tunapuna-Piarco", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TV-FUN"), CountryAlpha2Code.Parse("TV"), "Funafuti", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TV-NIT"), CountryAlpha2Code.Parse("TV"), "Niutao", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TV-NKF"), CountryAlpha2Code.Parse("TV"), "Nukufetau", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TV-NKL"), CountryAlpha2Code.Parse("TV"), "Nukulaelae", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TV-NMA"), CountryAlpha2Code.Parse("TV"), "Nanumea", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TV-NMG"), CountryAlpha2Code.Parse("TV"), "Nanumanga", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TV-NUI"), CountryAlpha2Code.Parse("TV"), "Nui", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TV-VAI"), CountryAlpha2Code.Parse("TV"), "Vaitupu", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
