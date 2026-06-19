@@ -30205,6 +30205,552 @@
     "type": "Unknown"
   },
   {
+    "code": "TH-10",
+    "countryCode": "TH",
+    "englishName": "Bangkok",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-11",
+    "countryCode": "TH",
+    "englishName": "Samut Prakan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-12",
+    "countryCode": "TH",
+    "englishName": "Nonthaburi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-13",
+    "countryCode": "TH",
+    "englishName": "Pathum Thani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-14",
+    "countryCode": "TH",
+    "englishName": "Phra Nakhon Si Ayutthaya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-15",
+    "countryCode": "TH",
+    "englishName": "Ang Thong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-16",
+    "countryCode": "TH",
+    "englishName": "Lopburi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-17",
+    "countryCode": "TH",
+    "englishName": "Sing Buri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-18",
+    "countryCode": "TH",
+    "englishName": "Chai Nat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-19",
+    "countryCode": "TH",
+    "englishName": "Saraburi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-20",
+    "countryCode": "TH",
+    "englishName": "Chon Buri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-21",
+    "countryCode": "TH",
+    "englishName": "Rayong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-22",
+    "countryCode": "TH",
+    "englishName": "Chanthaburi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-23",
+    "countryCode": "TH",
+    "englishName": "Trat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-24",
+    "countryCode": "TH",
+    "englishName": "Chachoengsao",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-25",
+    "countryCode": "TH",
+    "englishName": "Prachin Buri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-26",
+    "countryCode": "TH",
+    "englishName": "Nakhon Nayok",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-27",
+    "countryCode": "TH",
+    "englishName": "Sa Kaeo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-30",
+    "countryCode": "TH",
+    "englishName": "Nakhon Ratchasima",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-31",
+    "countryCode": "TH",
+    "englishName": "Buri Ram",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-32",
+    "countryCode": "TH",
+    "englishName": "Surin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-33",
+    "countryCode": "TH",
+    "englishName": "Si Sa Ket",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-34",
+    "countryCode": "TH",
+    "englishName": "Ubon Ratchathani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-35",
+    "countryCode": "TH",
+    "englishName": "Yasothon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-36",
+    "countryCode": "TH",
+    "englishName": "Chaiyaphum",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-37",
+    "countryCode": "TH",
+    "englishName": "Amnat Charoen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-38",
+    "countryCode": "TH",
+    "englishName": "Bueng Kan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-39",
+    "countryCode": "TH",
+    "englishName": "Nong Bua Lam Phu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-40",
+    "countryCode": "TH",
+    "englishName": "Khon Kaen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-41",
+    "countryCode": "TH",
+    "englishName": "Udon Thani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-42",
+    "countryCode": "TH",
+    "englishName": "Loei",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-43",
+    "countryCode": "TH",
+    "englishName": "Nong Khai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-44",
+    "countryCode": "TH",
+    "englishName": "Maha Sarakham",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-45",
+    "countryCode": "TH",
+    "englishName": "Roi Et",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-46",
+    "countryCode": "TH",
+    "englishName": "Kalasin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-47",
+    "countryCode": "TH",
+    "englishName": "Sakon Nakhon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-48",
+    "countryCode": "TH",
+    "englishName": "Nakhon Phanom",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-49",
+    "countryCode": "TH",
+    "englishName": "Mukdahan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-50",
+    "countryCode": "TH",
+    "englishName": "Chiang Mai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-51",
+    "countryCode": "TH",
+    "englishName": "Lamphun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-52",
+    "countryCode": "TH",
+    "englishName": "Lampang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-53",
+    "countryCode": "TH",
+    "englishName": "Uttaradit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-54",
+    "countryCode": "TH",
+    "englishName": "Phrae",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-55",
+    "countryCode": "TH",
+    "englishName": "Nan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-56",
+    "countryCode": "TH",
+    "englishName": "Phayao",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-57",
+    "countryCode": "TH",
+    "englishName": "Chiang Rai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-58",
+    "countryCode": "TH",
+    "englishName": "Mae Hong Son",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-60",
+    "countryCode": "TH",
+    "englishName": "Nakhon Sawan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-61",
+    "countryCode": "TH",
+    "englishName": "Uthai Thani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-62",
+    "countryCode": "TH",
+    "englishName": "Kamphaeng Phet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-63",
+    "countryCode": "TH",
+    "englishName": "Tak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-64",
+    "countryCode": "TH",
+    "englishName": "Sukhothai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-65",
+    "countryCode": "TH",
+    "englishName": "Phitsanulok",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-66",
+    "countryCode": "TH",
+    "englishName": "Phichit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-67",
+    "countryCode": "TH",
+    "englishName": "Phetchabun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-70",
+    "countryCode": "TH",
+    "englishName": "Ratchaburi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-71",
+    "countryCode": "TH",
+    "englishName": "Kanchanaburi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-72",
+    "countryCode": "TH",
+    "englishName": "Suphanburi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-73",
+    "countryCode": "TH",
+    "englishName": "Nakhon Pathom",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-74",
+    "countryCode": "TH",
+    "englishName": "Samut Sakhon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-75",
+    "countryCode": "TH",
+    "englishName": "Samut Songkhram",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-76",
+    "countryCode": "TH",
+    "englishName": "Phetchaburi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-77",
+    "countryCode": "TH",
+    "englishName": "Prachuap Khiri Khan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-80",
+    "countryCode": "TH",
+    "englishName": "Nakhon Si Thammarat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-81",
+    "countryCode": "TH",
+    "englishName": "Krabi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-82",
+    "countryCode": "TH",
+    "englishName": "Phang Nga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-83",
+    "countryCode": "TH",
+    "englishName": "Phuket",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-84",
+    "countryCode": "TH",
+    "englishName": "Surat Thani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-85",
+    "countryCode": "TH",
+    "englishName": "Ranong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-86",
+    "countryCode": "TH",
+    "englishName": "Chumphon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-90",
+    "countryCode": "TH",
+    "englishName": "Songkhla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-91",
+    "countryCode": "TH",
+    "englishName": "Satun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-92",
+    "countryCode": "TH",
+    "englishName": "Trang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-93",
+    "countryCode": "TH",
+    "englishName": "Phatthalung",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-94",
+    "countryCode": "TH",
+    "englishName": "Pattani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-95",
+    "countryCode": "TH",
+    "englishName": "Yala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-96",
+    "countryCode": "TH",
+    "englishName": "Narathiwat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TH-S",
+    "countryCode": "TH",
+    "englishName": "Pattaya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
