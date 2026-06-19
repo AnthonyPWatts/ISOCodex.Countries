@@ -1,0 +1,37 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Build and test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      # TODO: This workflow becomes active after the first development pass creates
+      # ISOCodex.Countries.sln and the initial projects.
+      - name: Restore
+        run: dotnet restore ISOCodex.Countries.sln
+
+      - name: Build
+        run: dotnet build ISOCodex.Countries.sln --configuration Release --no-restore
+
+      - name: Test
+        run: dotnet test ISOCodex.Countries.sln --configuration Release --no-build
+
+      - name: Pack
+        run: dotnet pack ISOCodex.Countries.sln --configuration Release --no-build --output artifacts
