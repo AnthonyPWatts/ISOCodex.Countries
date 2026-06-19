@@ -5552,6 +5552,14 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("NA-OS"), CountryAlpha2Code.Parse("NA"), "Omusati", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NA-OT"), CountryAlpha2Code.Parse("NA"), "Oshikoto", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NA-OW"), CountryAlpha2Code.Parse("NA"), "Ohangwena", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NE-1"), CountryAlpha2Code.Parse("NE"), "Agadez", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NE-2"), CountryAlpha2Code.Parse("NE"), "Diffa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NE-3"), CountryAlpha2Code.Parse("NE"), "Dosso", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NE-4"), CountryAlpha2Code.Parse("NE"), "Maradi", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NE-5"), CountryAlpha2Code.Parse("NE"), "Tahoua", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NE-6"), CountryAlpha2Code.Parse("NE"), "Tillabéri", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NE-7"), CountryAlpha2Code.Parse("NE"), "Zinder", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NE-8"), CountryAlpha2Code.Parse("NE"), "Niamey", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

@@ -23121,6 +23121,62 @@
     "type": "Unknown"
   },
   {
+    "code": "NE-1",
+    "countryCode": "NE",
+    "englishName": "Agadez",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NE-2",
+    "countryCode": "NE",
+    "englishName": "Diffa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NE-3",
+    "countryCode": "NE",
+    "englishName": "Dosso",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NE-4",
+    "countryCode": "NE",
+    "englishName": "Maradi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NE-5",
+    "countryCode": "NE",
+    "englishName": "Tahoua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NE-6",
+    "countryCode": "NE",
+    "englishName": "Tillabéri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NE-7",
+    "countryCode": "NE",
+    "englishName": "Zinder",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NE-8",
+    "countryCode": "NE",
+    "englishName": "Niamey",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
