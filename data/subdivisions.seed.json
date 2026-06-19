@@ -26446,6 +26446,587 @@
     "type": "Unknown"
   },
   {
+    "code": "RU-AD",
+    "countryCode": "RU",
+    "englishName": "Adygea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-AL",
+    "countryCode": "RU",
+    "englishName": "Altai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-ALT",
+    "countryCode": "RU",
+    "englishName": "Altai Krai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-AMU",
+    "countryCode": "RU",
+    "englishName": "Amur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-ARK",
+    "countryCode": "RU",
+    "englishName": "Arkhangelsk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-AST",
+    "countryCode": "RU",
+    "englishName": "Astrakhan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-BA",
+    "countryCode": "RU",
+    "englishName": "Bashkortostan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-BEL",
+    "countryCode": "RU",
+    "englishName": "Belgorod",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-BRY",
+    "countryCode": "RU",
+    "englishName": "Bryansk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-BU",
+    "countryCode": "RU",
+    "englishName": "Buryat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-CE",
+    "countryCode": "RU",
+    "englishName": "Chechen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-CHE",
+    "countryCode": "RU",
+    "englishName": "Chelyabinsk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-CHU",
+    "countryCode": "RU",
+    "englishName": "Chukotka Okrug",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-CU",
+    "countryCode": "RU",
+    "englishName": "Chuvash",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-DA",
+    "countryCode": "RU",
+    "englishName": "Dagestan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-IN",
+    "countryCode": "RU",
+    "englishName": "Ingushetia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-IRK",
+    "countryCode": "RU",
+    "englishName": "Irkutsk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-IVA",
+    "countryCode": "RU",
+    "englishName": "Ivanovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KAM",
+    "countryCode": "RU",
+    "englishName": "Kamchatka Krai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KB",
+    "countryCode": "RU",
+    "englishName": "Kabardino-Balkar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KC",
+    "countryCode": "RU",
+    "englishName": "Karachay-Cherkess",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KDA",
+    "countryCode": "RU",
+    "englishName": "Krasnodar Krai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KEM",
+    "countryCode": "RU",
+    "englishName": "Kemerovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KGD",
+    "countryCode": "RU",
+    "englishName": "Kaliningrad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KGN",
+    "countryCode": "RU",
+    "englishName": "Kurgan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KHA",
+    "countryCode": "RU",
+    "englishName": "Khabarovsk Krai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KHM",
+    "countryCode": "RU",
+    "englishName": "Khanty-Mansi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KIR",
+    "countryCode": "RU",
+    "englishName": "Kirov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KK",
+    "countryCode": "RU",
+    "englishName": "Khakassia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KL",
+    "countryCode": "RU",
+    "englishName": "Kalmykia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KLU",
+    "countryCode": "RU",
+    "englishName": "Kaluga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KO",
+    "countryCode": "RU",
+    "englishName": "Komi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KOS",
+    "countryCode": "RU",
+    "englishName": "Kostroma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KR",
+    "countryCode": "RU",
+    "englishName": "Karelia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KRS",
+    "countryCode": "RU",
+    "englishName": "Kursk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-KYA",
+    "countryCode": "RU",
+    "englishName": "Krasnoyarsk Krai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-LEN",
+    "countryCode": "RU",
+    "englishName": "Leningrad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-LIP",
+    "countryCode": "RU",
+    "englishName": "Lipetsk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-MAG",
+    "countryCode": "RU",
+    "englishName": "Magadan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-ME",
+    "countryCode": "RU",
+    "englishName": "Mari El",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-MO",
+    "countryCode": "RU",
+    "englishName": "Mordovia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-MOS",
+    "countryCode": "RU",
+    "englishName": "Moscow Province",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-MOW",
+    "countryCode": "RU",
+    "englishName": "Moscow",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-MUR",
+    "countryCode": "RU",
+    "englishName": "Murmansk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-NEN",
+    "countryCode": "RU",
+    "englishName": "Nenets",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-NGR",
+    "countryCode": "RU",
+    "englishName": "Novgorod",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-NIZ",
+    "countryCode": "RU",
+    "englishName": "Nizhny Novgorod",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-NVS",
+    "countryCode": "RU",
+    "englishName": "Novosibirsk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-OMS",
+    "countryCode": "RU",
+    "englishName": "Omsk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-ORE",
+    "countryCode": "RU",
+    "englishName": "Orenburg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-ORL",
+    "countryCode": "RU",
+    "englishName": "Oryol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-PER",
+    "countryCode": "RU",
+    "englishName": "Perm Krai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-PNZ",
+    "countryCode": "RU",
+    "englishName": "Penza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-PRI",
+    "countryCode": "RU",
+    "englishName": "Primorsky Krai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-PSK",
+    "countryCode": "RU",
+    "englishName": "Pskov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-ROS",
+    "countryCode": "RU",
+    "englishName": "Rostov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-RYA",
+    "countryCode": "RU",
+    "englishName": "Ryazan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-SA",
+    "countryCode": "RU",
+    "englishName": "Sakha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-SAK",
+    "countryCode": "RU",
+    "englishName": "Sakhalin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-SAM",
+    "countryCode": "RU",
+    "englishName": "Samara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-SAR",
+    "countryCode": "RU",
+    "englishName": "Saratov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-SE",
+    "countryCode": "RU",
+    "englishName": "North Ossetia-Alania",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-SMO",
+    "countryCode": "RU",
+    "englishName": "Smolensk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-SPE",
+    "countryCode": "RU",
+    "englishName": "Saint Petersburg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-STA",
+    "countryCode": "RU",
+    "englishName": "Stavropol Krai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-SVE",
+    "countryCode": "RU",
+    "englishName": "Sverdlovsk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-TA",
+    "countryCode": "RU",
+    "englishName": "Tatarstan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-TAM",
+    "countryCode": "RU",
+    "englishName": "Tambov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-TOM",
+    "countryCode": "RU",
+    "englishName": "Tomsk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-TUL",
+    "countryCode": "RU",
+    "englishName": "Tula",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-TVE",
+    "countryCode": "RU",
+    "englishName": "Tver",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-TY",
+    "countryCode": "RU",
+    "englishName": "Tuva",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-TYU",
+    "countryCode": "RU",
+    "englishName": "Tyumen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-UD",
+    "countryCode": "RU",
+    "englishName": "Udmurt",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-ULY",
+    "countryCode": "RU",
+    "englishName": "Ulyanovsk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-VGG",
+    "countryCode": "RU",
+    "englishName": "Volgograd",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-VLA",
+    "countryCode": "RU",
+    "englishName": "Vladimir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-VLG",
+    "countryCode": "RU",
+    "englishName": "Vologda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-VOR",
+    "countryCode": "RU",
+    "englishName": "Voronezh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-YAN",
+    "countryCode": "RU",
+    "englishName": "Yamalo-Nenets Okrug",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-YAR",
+    "countryCode": "RU",
+    "englishName": "Yaroslavl",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-YEV",
+    "countryCode": "RU",
+    "englishName": "Jewish",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RU-ZAB",
+    "countryCode": "RU",
+    "englishName": "Zabaykalsky Krai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
