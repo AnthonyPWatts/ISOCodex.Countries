@@ -5320,6 +5320,55 @@
     "type": "Unknown"
   },
   {
+    "code": "CR-A",
+    "countryCode": "CR",
+    "englishName": "Alajuela",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CR-C",
+    "countryCode": "CR",
+    "englishName": "Cartago",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CR-G",
+    "countryCode": "CR",
+    "englishName": "Guanacaste",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CR-H",
+    "countryCode": "CR",
+    "englishName": "Heredia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CR-L",
+    "countryCode": "CR",
+    "englishName": "Limón",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CR-P",
+    "countryCode": "CR",
+    "englishName": "Puntarenas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CR-SJ",
+    "countryCode": "CR",
+    "englishName": "San José",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
