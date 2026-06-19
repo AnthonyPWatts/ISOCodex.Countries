@@ -23177,6 +23177,265 @@
     "type": "Unknown"
   },
   {
+    "code": "NG-AB",
+    "countryCode": "NG",
+    "englishName": "Abia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-AD",
+    "countryCode": "NG",
+    "englishName": "Adamawa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-AK",
+    "countryCode": "NG",
+    "englishName": "Akwa Ibom",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-AN",
+    "countryCode": "NG",
+    "englishName": "Anambra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-BA",
+    "countryCode": "NG",
+    "englishName": "Bauchi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-BE",
+    "countryCode": "NG",
+    "englishName": "Benue",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-BO",
+    "countryCode": "NG",
+    "englishName": "Borno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-BY",
+    "countryCode": "NG",
+    "englishName": "Bayelsa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-CR",
+    "countryCode": "NG",
+    "englishName": "Cross River",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-DE",
+    "countryCode": "NG",
+    "englishName": "Delta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-EB",
+    "countryCode": "NG",
+    "englishName": "Ebonyi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-ED",
+    "countryCode": "NG",
+    "englishName": "Edo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-EK",
+    "countryCode": "NG",
+    "englishName": "Ekiti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-EN",
+    "countryCode": "NG",
+    "englishName": "Enugu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-FC",
+    "countryCode": "NG",
+    "englishName": "Federal Capital Territory",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-GO",
+    "countryCode": "NG",
+    "englishName": "Gombe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-IM",
+    "countryCode": "NG",
+    "englishName": "Imo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-JI",
+    "countryCode": "NG",
+    "englishName": "Jigawa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-KD",
+    "countryCode": "NG",
+    "englishName": "Kaduna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-KE",
+    "countryCode": "NG",
+    "englishName": "Kebbi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-KN",
+    "countryCode": "NG",
+    "englishName": "Kano",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-KO",
+    "countryCode": "NG",
+    "englishName": "Kogi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-KT",
+    "countryCode": "NG",
+    "englishName": "Katsina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-KW",
+    "countryCode": "NG",
+    "englishName": "Kwara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-LA",
+    "countryCode": "NG",
+    "englishName": "Lagos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-NA",
+    "countryCode": "NG",
+    "englishName": "Nasarawa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-NI",
+    "countryCode": "NG",
+    "englishName": "Niger",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-OG",
+    "countryCode": "NG",
+    "englishName": "Ogun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-ON",
+    "countryCode": "NG",
+    "englishName": "Ondo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-OS",
+    "countryCode": "NG",
+    "englishName": "Osun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-OY",
+    "countryCode": "NG",
+    "englishName": "Oyo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-PL",
+    "countryCode": "NG",
+    "englishName": "Plateau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-RI",
+    "countryCode": "NG",
+    "englishName": "Rivers",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-SO",
+    "countryCode": "NG",
+    "englishName": "Sokoto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-TA",
+    "countryCode": "NG",
+    "englishName": "Taraba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-YO",
+    "countryCode": "NG",
+    "englishName": "Yobe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NG-ZA",
+    "countryCode": "NG",
+    "englishName": "Zamfara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
