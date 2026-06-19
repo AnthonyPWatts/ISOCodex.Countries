@@ -4697,6 +4697,19 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("KN-15"), CountryAlpha2Code.Parse("KN"), "Trinity Palmetto Point", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("KN-K"), CountryAlpha2Code.Parse("KN"), "Saint Kitts", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("KN-N"), CountryAlpha2Code.Parse("KN"), "Nevis", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KP-01"), CountryAlpha2Code.Parse("KP"), "Pyongyang", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KP-02"), CountryAlpha2Code.Parse("KP"), "South Pyongan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KP-03"), CountryAlpha2Code.Parse("KP"), "North Pyongan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KP-04"), CountryAlpha2Code.Parse("KP"), "Chagang", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KP-05"), CountryAlpha2Code.Parse("KP"), "South Hwanghae", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KP-06"), CountryAlpha2Code.Parse("KP"), "North Hwanghae", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KP-07"), CountryAlpha2Code.Parse("KP"), "Kangwon", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KP-08"), CountryAlpha2Code.Parse("KP"), "South Hamgyong", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KP-09"), CountryAlpha2Code.Parse("KP"), "North Hamgyong", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KP-10"), CountryAlpha2Code.Parse("KP"), "Ryanggang", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KP-13"), CountryAlpha2Code.Parse("KP"), "Rason", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KP-14"), CountryAlpha2Code.Parse("KP"), "Nampho", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KP-15"), CountryAlpha2Code.Parse("KP"), "Kaeseong", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

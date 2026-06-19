@@ -17136,6 +17136,97 @@
     "type": "Unknown"
   },
   {
+    "code": "KP-01",
+    "countryCode": "KP",
+    "englishName": "Pyongyang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KP-02",
+    "countryCode": "KP",
+    "englishName": "South Pyongan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KP-03",
+    "countryCode": "KP",
+    "englishName": "North Pyongan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KP-04",
+    "countryCode": "KP",
+    "englishName": "Chagang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KP-05",
+    "countryCode": "KP",
+    "englishName": "South Hwanghae",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KP-06",
+    "countryCode": "KP",
+    "englishName": "North Hwanghae",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KP-07",
+    "countryCode": "KP",
+    "englishName": "Kangwon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KP-08",
+    "countryCode": "KP",
+    "englishName": "South Hamgyong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KP-09",
+    "countryCode": "KP",
+    "englishName": "North Hamgyong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KP-10",
+    "countryCode": "KP",
+    "englishName": "Ryanggang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KP-13",
+    "countryCode": "KP",
+    "englishName": "Rason",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KP-14",
+    "countryCode": "KP",
+    "englishName": "Nampho",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KP-15",
+    "countryCode": "KP",
+    "englishName": "Kaeseong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
