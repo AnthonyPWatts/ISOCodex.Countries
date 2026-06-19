@@ -11753,6 +11753,118 @@
     "type": "Unknown"
   },
   {
+    "code": "GH-AA",
+    "countryCode": "GH",
+    "englishName": "Greater Accra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-AF",
+    "countryCode": "GH",
+    "englishName": "Ahafo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-AH",
+    "countryCode": "GH",
+    "englishName": "Ashanti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-BE",
+    "countryCode": "GH",
+    "englishName": "Bono East",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-BO",
+    "countryCode": "GH",
+    "englishName": "Bono",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-CP",
+    "countryCode": "GH",
+    "englishName": "Central",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-EP",
+    "countryCode": "GH",
+    "englishName": "Eastern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-NE",
+    "countryCode": "GH",
+    "englishName": "North East",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-NP",
+    "countryCode": "GH",
+    "englishName": "Northern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-OT",
+    "countryCode": "GH",
+    "englishName": "Oti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-SV",
+    "countryCode": "GH",
+    "englishName": "Savannah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-TV",
+    "countryCode": "GH",
+    "englishName": "Volta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-UE",
+    "countryCode": "GH",
+    "englishName": "Upper East",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-UW",
+    "countryCode": "GH",
+    "englishName": "Upper West",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-WN",
+    "countryCode": "GH",
+    "englishName": "Western North",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GH-WP",
+    "countryCode": "GH",
+    "englishName": "Western",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",
