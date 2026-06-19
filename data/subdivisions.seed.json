@@ -1512,6 +1512,27 @@
     "type": "Unknown"
   },
   {
+    "code": "BA-BIH",
+    "countryCode": "BA",
+    "englishName": "Federation of Bosnia and Herzegovina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BA-BRC",
+    "countryCode": "BA",
+    "englishName": "Brčko District",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BA-SRP",
+    "countryCode": "BA",
+    "englishName": "Republika Srpska",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
