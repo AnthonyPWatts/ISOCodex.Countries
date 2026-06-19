@@ -11865,6 +11865,41 @@
     "type": "Unknown"
   },
   {
+    "code": "GL-AV",
+    "countryCode": "GL",
+    "englishName": "Avannaata Kommunia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GL-KU",
+    "countryCode": "GL",
+    "englishName": "Kujalleq",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GL-QE",
+    "countryCode": "GL",
+    "englishName": "Qeqqata",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GL-QT",
+    "countryCode": "GL",
+    "englishName": "Kommune Qeqertalik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GL-SM",
+    "countryCode": "GL",
+    "englishName": "Sermersooq",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",

@@ -3944,6 +3944,11 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("GH-UW"), CountryAlpha2Code.Parse("GH"), "Upper West", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GH-WN"), CountryAlpha2Code.Parse("GH"), "Western North", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GH-WP"), CountryAlpha2Code.Parse("GH"), "Western", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GL-AV"), CountryAlpha2Code.Parse("GL"), "Avannaata Kommunia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GL-KU"), CountryAlpha2Code.Parse("GL"), "Kujalleq", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GL-QE"), CountryAlpha2Code.Parse("GL"), "Qeqqata", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GL-QT"), CountryAlpha2Code.Parse("GL"), "Kommune Qeqertalik", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GL-SM"), CountryAlpha2Code.Parse("GL"), "Sermersooq", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("IE-D"), CountryAlpha2Code.Parse("IE"), "Dublin", null, CountrySubdivisionType.County),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
