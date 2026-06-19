@@ -6321,6 +6321,118 @@
     "type": "Unknown"
   },
   {
+    "code": "DE-BB",
+    "countryCode": "DE",
+    "englishName": "Brandenburg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-BE",
+    "countryCode": "DE",
+    "englishName": "Berlin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-BW",
+    "countryCode": "DE",
+    "englishName": "Baden-Württemberg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-BY",
+    "countryCode": "DE",
+    "englishName": "Bavaria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-HB",
+    "countryCode": "DE",
+    "englishName": "Bremen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-HE",
+    "countryCode": "DE",
+    "englishName": "Hesse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-HH",
+    "countryCode": "DE",
+    "englishName": "Hamburg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-MV",
+    "countryCode": "DE",
+    "englishName": "Mecklenburg-Vorpommern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-NI",
+    "countryCode": "DE",
+    "englishName": "Lower Saxony",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-NW",
+    "countryCode": "DE",
+    "englishName": "North Rhine-Westphalia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-RP",
+    "countryCode": "DE",
+    "englishName": "Rhineland-Palatinate",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-SH",
+    "countryCode": "DE",
+    "englishName": "Schleswig-Holstein",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-SL",
+    "countryCode": "DE",
+    "englishName": "Saarland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-SN",
+    "countryCode": "DE",
+    "englishName": "Saxony",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-ST",
+    "countryCode": "DE",
+    "englishName": "Saxony-Anhalt",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DE-TH",
+    "countryCode": "DE",
+    "englishName": "Thuringia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
