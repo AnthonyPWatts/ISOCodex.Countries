@@ -5852,6 +5852,13 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("PH-ZAS"), CountryAlpha2Code.Parse("PH"), "Zamboanga del Sur", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("PH-ZMB"), CountryAlpha2Code.Parse("PH"), "Zambales", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("PH-ZSI"), CountryAlpha2Code.Parse("PH"), "Zamboanga Sibugay", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PK-BA"), CountryAlpha2Code.Parse("PK"), "Balochistan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PK-GB"), CountryAlpha2Code.Parse("PK"), "Gilgit-Baltistan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PK-IS"), CountryAlpha2Code.Parse("PK"), "Islamabad", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PK-JK"), CountryAlpha2Code.Parse("PK"), "Azad Kashmir", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PK-KP"), CountryAlpha2Code.Parse("PK"), "Khyber Pakhtunkhwa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PK-PB"), CountryAlpha2Code.Parse("PK"), "Punjab", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PK-SD"), CountryAlpha2Code.Parse("PK"), "Sindh", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

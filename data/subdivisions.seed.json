@@ -25221,6 +25221,55 @@
     "type": "Unknown"
   },
   {
+    "code": "PK-BA",
+    "countryCode": "PK",
+    "englishName": "Balochistan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PK-GB",
+    "countryCode": "PK",
+    "englishName": "Gilgit-Baltistan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PK-IS",
+    "countryCode": "PK",
+    "englishName": "Islamabad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PK-JK",
+    "countryCode": "PK",
+    "englishName": "Azad Kashmir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PK-KP",
+    "countryCode": "PK",
+    "englishName": "Khyber Pakhtunkhwa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PK-PB",
+    "countryCode": "PK",
+    "englishName": "Punjab",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PK-SD",
+    "countryCode": "PK",
+    "englishName": "Sindh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
