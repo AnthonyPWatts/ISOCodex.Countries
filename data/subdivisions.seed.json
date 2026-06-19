@@ -5369,6 +5369,118 @@
     "type": "Unknown"
   },
   {
+    "code": "CU-01",
+    "countryCode": "CU",
+    "englishName": "Pinar del Río",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-03",
+    "countryCode": "CU",
+    "englishName": "Havana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-04",
+    "countryCode": "CU",
+    "englishName": "Matanzas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-05",
+    "countryCode": "CU",
+    "englishName": "Villa Clara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-06",
+    "countryCode": "CU",
+    "englishName": "Cienfuegos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-07",
+    "countryCode": "CU",
+    "englishName": "Sancti Spíritus",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-08",
+    "countryCode": "CU",
+    "englishName": "Ciego de Ávila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-09",
+    "countryCode": "CU",
+    "englishName": "Camagüey",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-10",
+    "countryCode": "CU",
+    "englishName": "Las Tunas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-11",
+    "countryCode": "CU",
+    "englishName": "Holguín",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-12",
+    "countryCode": "CU",
+    "englishName": "Granma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-13",
+    "countryCode": "CU",
+    "englishName": "Santiago de Cuba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-14",
+    "countryCode": "CU",
+    "englishName": "Guantánamo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-15",
+    "countryCode": "CU",
+    "englishName": "Artemisa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-16",
+    "countryCode": "CU",
+    "englishName": "Mayabeque",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CU-99",
+    "countryCode": "CU",
+    "englishName": "Isla de la Juventud",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
