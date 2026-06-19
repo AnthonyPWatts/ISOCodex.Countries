@@ -2205,6 +2205,412 @@
     "type": "Unknown"
   },
   {
+    "code": "BF-01",
+    "countryCode": "BF",
+    "englishName": "Boucle du Mouhoun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-02",
+    "countryCode": "BF",
+    "englishName": "Cascades",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-03",
+    "countryCode": "BF",
+    "englishName": "Centre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-04",
+    "countryCode": "BF",
+    "englishName": "Centre-Est",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-05",
+    "countryCode": "BF",
+    "englishName": "Centre-Nord",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-06",
+    "countryCode": "BF",
+    "englishName": "Centre-Ouest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-07",
+    "countryCode": "BF",
+    "englishName": "Centre-Sud",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-08",
+    "countryCode": "BF",
+    "englishName": "Est",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-09",
+    "countryCode": "BF",
+    "englishName": "Hauts-Bassins",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-10",
+    "countryCode": "BF",
+    "englishName": "Nord",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-11",
+    "countryCode": "BF",
+    "englishName": "Plateau-Central",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-12",
+    "countryCode": "BF",
+    "englishName": "Sahel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-13",
+    "countryCode": "BF",
+    "englishName": "Sud-Ouest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-BAL",
+    "countryCode": "BF",
+    "englishName": "Balé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-BAM",
+    "countryCode": "BF",
+    "englishName": "Bam",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-BAN",
+    "countryCode": "BF",
+    "englishName": "Banwa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-BAZ",
+    "countryCode": "BF",
+    "englishName": "Bazèga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-BGR",
+    "countryCode": "BF",
+    "englishName": "Bougouriba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-BLG",
+    "countryCode": "BF",
+    "englishName": "Boulgou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-BLK",
+    "countryCode": "BF",
+    "englishName": "Boulkiemdé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-COM",
+    "countryCode": "BF",
+    "englishName": "Comoé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-GAN",
+    "countryCode": "BF",
+    "englishName": "Ganzourgou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-GNA",
+    "countryCode": "BF",
+    "englishName": "Gnagna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-GOU",
+    "countryCode": "BF",
+    "englishName": "Gourma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-HOU",
+    "countryCode": "BF",
+    "englishName": "Houet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-IOB",
+    "countryCode": "BF",
+    "englishName": "Ioba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-KAD",
+    "countryCode": "BF",
+    "englishName": "Kadiogo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-KEN",
+    "countryCode": "BF",
+    "englishName": "Kénédougou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-KMD",
+    "countryCode": "BF",
+    "englishName": "Komondjari",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-KMP",
+    "countryCode": "BF",
+    "englishName": "Kompienga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-KOP",
+    "countryCode": "BF",
+    "englishName": "Koulpélogo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-KOS",
+    "countryCode": "BF",
+    "englishName": "Kossi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-KOT",
+    "countryCode": "BF",
+    "englishName": "Kouritenga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-KOW",
+    "countryCode": "BF",
+    "englishName": "Kourwéogo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-LER",
+    "countryCode": "BF",
+    "englishName": "Léraba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-LOR",
+    "countryCode": "BF",
+    "englishName": "Loroum",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-MOU",
+    "countryCode": "BF",
+    "englishName": "Mouhoun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-NAM",
+    "countryCode": "BF",
+    "englishName": "Namentenga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-NAO",
+    "countryCode": "BF",
+    "englishName": "Nahouri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-NAY",
+    "countryCode": "BF",
+    "englishName": "Nayala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-NOU",
+    "countryCode": "BF",
+    "englishName": "Noumbiel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-OUB",
+    "countryCode": "BF",
+    "englishName": "Oubritenga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-OUD",
+    "countryCode": "BF",
+    "englishName": "Oudalan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-PAS",
+    "countryCode": "BF",
+    "englishName": "Passoré",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-PON",
+    "countryCode": "BF",
+    "englishName": "Poni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-SEN",
+    "countryCode": "BF",
+    "englishName": "Séno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-SIS",
+    "countryCode": "BF",
+    "englishName": "Sissili",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-SMT",
+    "countryCode": "BF",
+    "englishName": "Sanmatenga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-SNG",
+    "countryCode": "BF",
+    "englishName": "Sanguié",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-SOM",
+    "countryCode": "BF",
+    "englishName": "Soum",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-SOR",
+    "countryCode": "BF",
+    "englishName": "Sourou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-TAP",
+    "countryCode": "BF",
+    "englishName": "Tapoa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-TUI",
+    "countryCode": "BF",
+    "englishName": "Tuy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-YAG",
+    "countryCode": "BF",
+    "englishName": "Yagha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-YAT",
+    "countryCode": "BF",
+    "englishName": "Yatenga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-ZIR",
+    "countryCode": "BF",
+    "englishName": "Ziro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-ZON",
+    "countryCode": "BF",
+    "englishName": "Zondoma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BF-ZOU",
+    "countryCode": "BF",
+    "englishName": "Zoundwéogo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
