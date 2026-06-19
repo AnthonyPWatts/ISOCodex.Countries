@@ -30877,6 +30877,48 @@
     "type": "Unknown"
   },
   {
+    "code": "TM-A",
+    "countryCode": "TM",
+    "englishName": "Ahal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TM-B",
+    "countryCode": "TM",
+    "englishName": "Balkan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TM-D",
+    "countryCode": "TM",
+    "englishName": "Daşoguz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TM-L",
+    "countryCode": "TM",
+    "englishName": "Lebap",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TM-M",
+    "countryCode": "TM",
+    "englishName": "Mary",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TM-S",
+    "countryCode": "TM",
+    "englishName": "Aşgabat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
