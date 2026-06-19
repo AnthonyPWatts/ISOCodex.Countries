@@ -13874,6 +13874,48 @@
     "type": "Unknown"
   },
   {
+    "code": "IL-D",
+    "countryCode": "IL",
+    "englishName": "Southern District",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IL-HA",
+    "countryCode": "IL",
+    "englishName": "Haifa District",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IL-JM",
+    "countryCode": "IL",
+    "englishName": "Jerusalem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IL-M",
+    "countryCode": "IL",
+    "englishName": "Central District",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IL-TA",
+    "countryCode": "IL",
+    "englishName": "Tel Aviv District",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IL-Z",
+    "countryCode": "IL",
+    "englishName": "Northern District",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

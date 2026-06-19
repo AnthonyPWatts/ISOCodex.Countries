@@ -4231,6 +4231,12 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("IE-WH"), CountryAlpha2Code.Parse("IE"), "Westmeath", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("IE-WW"), CountryAlpha2Code.Parse("IE"), "Wicklow", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("IE-WX"), CountryAlpha2Code.Parse("IE"), "Wexford", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("IL-D"), CountryAlpha2Code.Parse("IL"), "Southern District", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("IL-HA"), CountryAlpha2Code.Parse("IL"), "Haifa District", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("IL-JM"), CountryAlpha2Code.Parse("IL"), "Jerusalem", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("IL-M"), CountryAlpha2Code.Parse("IL"), "Central District", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("IL-TA"), CountryAlpha2Code.Parse("IL"), "Tel Aviv District", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("IL-Z"), CountryAlpha2Code.Parse("IL"), "Northern District", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
