@@ -3346,6 +3346,230 @@
     "type": "Unknown"
   },
   {
+    "code": "BS-AK",
+    "countryCode": "BS",
+    "englishName": "Acklins",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-BI",
+    "countryCode": "BS",
+    "englishName": "Bimini",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-BP",
+    "countryCode": "BS",
+    "englishName": "Black Point",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-BY",
+    "countryCode": "BS",
+    "englishName": "Berry Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-CE",
+    "countryCode": "BS",
+    "englishName": "Central Eleuthera",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-CI",
+    "countryCode": "BS",
+    "englishName": "Cat Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-CK",
+    "countryCode": "BS",
+    "englishName": "Crooked Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-CO",
+    "countryCode": "BS",
+    "englishName": "Central Abaco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-CS",
+    "countryCode": "BS",
+    "englishName": "Central Andros",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-EG",
+    "countryCode": "BS",
+    "englishName": "East Grand Bahama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-EX",
+    "countryCode": "BS",
+    "englishName": "Exuma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-FP",
+    "countryCode": "BS",
+    "englishName": "Freeport",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-GC",
+    "countryCode": "BS",
+    "englishName": "Grand Cay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-HI",
+    "countryCode": "BS",
+    "englishName": "Harbour Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-HT",
+    "countryCode": "BS",
+    "englishName": "Hope Town",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-IN",
+    "countryCode": "BS",
+    "englishName": "Inagua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-LI",
+    "countryCode": "BS",
+    "englishName": "Long Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-MC",
+    "countryCode": "BS",
+    "englishName": "Mangrove Cay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-MG",
+    "countryCode": "BS",
+    "englishName": "Mayaguana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-MI",
+    "countryCode": "BS",
+    "englishName": "Moore’s Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-NE",
+    "countryCode": "BS",
+    "englishName": "North Eleuthera",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-NO",
+    "countryCode": "BS",
+    "englishName": "North Abaco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-NP",
+    "countryCode": "BS",
+    "englishName": "New Providence",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-NS",
+    "countryCode": "BS",
+    "englishName": "North Andros",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-RC",
+    "countryCode": "BS",
+    "englishName": "Rum Cay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-RI",
+    "countryCode": "BS",
+    "englishName": "Ragged Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-SA",
+    "countryCode": "BS",
+    "englishName": "South Andros",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-SE",
+    "countryCode": "BS",
+    "englishName": "South Eleuthera",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-SO",
+    "countryCode": "BS",
+    "englishName": "South Abaco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-SS",
+    "countryCode": "BS",
+    "englishName": "San Salvador",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-SW",
+    "countryCode": "BS",
+    "englishName": "Spanish Wells",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BS-WG",
+    "countryCode": "BS",
+    "englishName": "West Grand Bahama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
