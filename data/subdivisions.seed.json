@@ -26222,6 +26222,230 @@
     "type": "Unknown"
   },
   {
+    "code": "RS-00",
+    "countryCode": "RS",
+    "englishName": "Beograd",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-01",
+    "countryCode": "RS",
+    "englishName": "North Bačka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-02",
+    "countryCode": "RS",
+    "englishName": "Central Banat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-03",
+    "countryCode": "RS",
+    "englishName": "North Banat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-04",
+    "countryCode": "RS",
+    "englishName": "South Banat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-05",
+    "countryCode": "RS",
+    "englishName": "West Bačka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-06",
+    "countryCode": "RS",
+    "englishName": "South Bačka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-07",
+    "countryCode": "RS",
+    "englishName": "Srem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-08",
+    "countryCode": "RS",
+    "englishName": "Mačva",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-09",
+    "countryCode": "RS",
+    "englishName": "Kolubara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-10",
+    "countryCode": "RS",
+    "englishName": "Podunavlje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-11",
+    "countryCode": "RS",
+    "englishName": "Braničevo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-12",
+    "countryCode": "RS",
+    "englishName": "Šumadija",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-13",
+    "countryCode": "RS",
+    "englishName": "Pomoravlje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-14",
+    "countryCode": "RS",
+    "englishName": "Bor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-15",
+    "countryCode": "RS",
+    "englishName": "Zaječar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-16",
+    "countryCode": "RS",
+    "englishName": "Zlatibor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-17",
+    "countryCode": "RS",
+    "englishName": "Moravica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-18",
+    "countryCode": "RS",
+    "englishName": "Raška",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-19",
+    "countryCode": "RS",
+    "englishName": "Rasina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-20",
+    "countryCode": "RS",
+    "englishName": "Nišava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-21",
+    "countryCode": "RS",
+    "englishName": "Toplica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-22",
+    "countryCode": "RS",
+    "englishName": "Pirot",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-23",
+    "countryCode": "RS",
+    "englishName": "Jablanica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-24",
+    "countryCode": "RS",
+    "englishName": "Pčinja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-25",
+    "countryCode": "RS",
+    "englishName": "Kosovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-26",
+    "countryCode": "RS",
+    "englishName": "Peć",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-27",
+    "countryCode": "RS",
+    "englishName": "Prizren",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-28",
+    "countryCode": "RS",
+    "englishName": "Kosovska Mitrovica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-29",
+    "countryCode": "RS",
+    "englishName": "Kosovo-Pomoravlje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-KM",
+    "countryCode": "RS",
+    "englishName": "Kosovo-Metohija",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RS-VO",
+    "countryCode": "RS",
+    "englishName": "Vojvodina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
