@@ -7213,7 +7213,18 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("VU-TOB"), CountryAlpha2Code.Parse("VU"), "Torba", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("WF-AL"), CountryAlpha2Code.Parse("WF"), "Alo", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("WF-SG"), CountryAlpha2Code.Parse("WF"), "Sigave", null, CountrySubdivisionType.Unknown),
-        new(CountrySubdivisionCode.Parse("WF-UV"), CountryAlpha2Code.Parse("WF"), "Uvea", null, CountrySubdivisionType.Unknown)
+        new(CountrySubdivisionCode.Parse("WF-UV"), CountryAlpha2Code.Parse("WF"), "Uvea", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WS-AA"), CountryAlpha2Code.Parse("WS"), "A’ana", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WS-AL"), CountryAlpha2Code.Parse("WS"), "Aiga-i-le-Tai", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WS-AT"), CountryAlpha2Code.Parse("WS"), "Atua", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WS-FA"), CountryAlpha2Code.Parse("WS"), "Fa’asaleleaga", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WS-GE"), CountryAlpha2Code.Parse("WS"), "Gaga’emauga", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WS-GI"), CountryAlpha2Code.Parse("WS"), "Gaga’ifomauga", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WS-PA"), CountryAlpha2Code.Parse("WS"), "Palauli", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WS-SA"), CountryAlpha2Code.Parse("WS"), "Satupa’itea", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WS-TU"), CountryAlpha2Code.Parse("WS"), "Tuamasaga", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WS-VF"), CountryAlpha2Code.Parse("WS"), "Va’a-o-Fonoti", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WS-VS"), CountryAlpha2Code.Parse("WS"), "Vaisigano", null, CountrySubdivisionType.Unknown)
     }.AsReadOnly();
 }
 

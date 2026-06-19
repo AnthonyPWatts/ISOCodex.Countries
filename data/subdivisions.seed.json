@@ -34753,6 +34753,83 @@
     "englishName": "Uvea",
     "localName": null,
     "type": "Unknown"
+  },
+  {
+    "code": "WS-AA",
+    "countryCode": "WS",
+    "englishName": "A’ana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "WS-AL",
+    "countryCode": "WS",
+    "englishName": "Aiga-i-le-Tai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "WS-AT",
+    "countryCode": "WS",
+    "englishName": "Atua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "WS-FA",
+    "countryCode": "WS",
+    "englishName": "Fa’asaleleaga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "WS-GE",
+    "countryCode": "WS",
+    "englishName": "Gaga’emauga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "WS-GI",
+    "countryCode": "WS",
+    "englishName": "Gaga’ifomauga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "WS-PA",
+    "countryCode": "WS",
+    "englishName": "Palauli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "WS-SA",
+    "countryCode": "WS",
+    "englishName": "Satupa’itea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "WS-TU",
+    "countryCode": "WS",
+    "englishName": "Tuamasaga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "WS-VF",
+    "countryCode": "WS",
+    "englishName": "Va’a-o-Fonoti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "WS-VS",
+    "countryCode": "WS",
+    "englishName": "Vaisigano",
+    "localName": null,
+    "type": "Unknown"
   }
 ]
 
