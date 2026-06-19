@@ -6497,6 +6497,13 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("SS-NU"), CountryAlpha2Code.Parse("SS"), "Upper Nile", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SS-UY"), CountryAlpha2Code.Parse("SS"), "Unity", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SS-WR"), CountryAlpha2Code.Parse("SS"), "Warrap", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ST-01"), CountryAlpha2Code.Parse("ST"), "Água Grande", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ST-02"), CountryAlpha2Code.Parse("ST"), "Cantagalo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ST-03"), CountryAlpha2Code.Parse("ST"), "Caué", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ST-04"), CountryAlpha2Code.Parse("ST"), "Lembá", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ST-05"), CountryAlpha2Code.Parse("ST"), "Lobata", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ST-06"), CountryAlpha2Code.Parse("ST"), "Mé-Zóchi", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ST-P"), CountryAlpha2Code.Parse("ST"), "Príncipe", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

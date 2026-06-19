@@ -29736,6 +29736,55 @@
     "type": "Unknown"
   },
   {
+    "code": "ST-01",
+    "countryCode": "ST",
+    "englishName": "Água Grande",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ST-02",
+    "countryCode": "ST",
+    "englishName": "Cantagalo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ST-03",
+    "countryCode": "ST",
+    "englishName": "Caué",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ST-04",
+    "countryCode": "ST",
+    "englishName": "Lembá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ST-05",
+    "countryCode": "ST",
+    "englishName": "Lobata",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ST-06",
+    "countryCode": "ST",
+    "englishName": "Mé-Zóchi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ST-P",
+    "countryCode": "ST",
+    "englishName": "Príncipe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
