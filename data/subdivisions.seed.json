@@ -17780,6 +17780,83 @@
     "type": "Unknown"
   },
   {
+    "code": "LI-01",
+    "countryCode": "LI",
+    "englishName": "Balzers",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LI-02",
+    "countryCode": "LI",
+    "englishName": "Eschen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LI-03",
+    "countryCode": "LI",
+    "englishName": "Gamprin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LI-04",
+    "countryCode": "LI",
+    "englishName": "Mauren",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LI-05",
+    "countryCode": "LI",
+    "englishName": "Planken",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LI-06",
+    "countryCode": "LI",
+    "englishName": "Ruggell",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LI-07",
+    "countryCode": "LI",
+    "englishName": "Schaan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LI-08",
+    "countryCode": "LI",
+    "englishName": "Schellenberg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LI-09",
+    "countryCode": "LI",
+    "englishName": "Triesen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LI-10",
+    "countryCode": "LI",
+    "englishName": "Triesenberg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LI-11",
+    "countryCode": "LI",
+    "englishName": "Vaduz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

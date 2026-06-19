@@ -4789,6 +4789,17 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("LC-10"), CountryAlpha2Code.Parse("LC"), "Soufrière", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("LC-11"), CountryAlpha2Code.Parse("LC"), "Vieux Fort", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("LC-12"), CountryAlpha2Code.Parse("LC"), "Canaries", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LI-01"), CountryAlpha2Code.Parse("LI"), "Balzers", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LI-02"), CountryAlpha2Code.Parse("LI"), "Eschen", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LI-03"), CountryAlpha2Code.Parse("LI"), "Gamprin", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LI-04"), CountryAlpha2Code.Parse("LI"), "Mauren", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LI-05"), CountryAlpha2Code.Parse("LI"), "Planken", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LI-06"), CountryAlpha2Code.Parse("LI"), "Ruggell", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LI-07"), CountryAlpha2Code.Parse("LI"), "Schaan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LI-08"), CountryAlpha2Code.Parse("LI"), "Schellenberg", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LI-09"), CountryAlpha2Code.Parse("LI"), "Triesen", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LI-10"), CountryAlpha2Code.Parse("LI"), "Triesenberg", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LI-11"), CountryAlpha2Code.Parse("LI"), "Vaduz", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
