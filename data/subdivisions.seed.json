@@ -22393,6 +22393,223 @@
     "type": "Unknown"
   },
   {
+    "code": "MW-BA",
+    "countryCode": "MW",
+    "englishName": "Balaka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-BL",
+    "countryCode": "MW",
+    "englishName": "Blantyre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-C",
+    "countryCode": "MW",
+    "englishName": "Central",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-CK",
+    "countryCode": "MW",
+    "englishName": "Chikwawa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-CR",
+    "countryCode": "MW",
+    "englishName": "Chiradzulu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-CT",
+    "countryCode": "MW",
+    "englishName": "Chitipa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-DE",
+    "countryCode": "MW",
+    "englishName": "Dedza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-DO",
+    "countryCode": "MW",
+    "englishName": "Dowa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-KR",
+    "countryCode": "MW",
+    "englishName": "Karonga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-KS",
+    "countryCode": "MW",
+    "englishName": "Kasungu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-LI",
+    "countryCode": "MW",
+    "englishName": "Lilongwe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-LK",
+    "countryCode": "MW",
+    "englishName": "Likoma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-MC",
+    "countryCode": "MW",
+    "englishName": "Mchinji",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-MG",
+    "countryCode": "MW",
+    "englishName": "Mangochi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-MH",
+    "countryCode": "MW",
+    "englishName": "Machinga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-MU",
+    "countryCode": "MW",
+    "englishName": "Mulanje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-MW",
+    "countryCode": "MW",
+    "englishName": "Mwanza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-MZ",
+    "countryCode": "MW",
+    "englishName": "Mzimba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-N",
+    "countryCode": "MW",
+    "englishName": "Northern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-NB",
+    "countryCode": "MW",
+    "englishName": "Nkhata Bay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-NE",
+    "countryCode": "MW",
+    "englishName": "Neno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-NI",
+    "countryCode": "MW",
+    "englishName": "Ntchisi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-NK",
+    "countryCode": "MW",
+    "englishName": "Nkhotakota",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-NS",
+    "countryCode": "MW",
+    "englishName": "Nsanje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-NU",
+    "countryCode": "MW",
+    "englishName": "Ntcheu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-PH",
+    "countryCode": "MW",
+    "englishName": "Phalombe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-RU",
+    "countryCode": "MW",
+    "englishName": "Rumphi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-S",
+    "countryCode": "MW",
+    "englishName": "Southern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-SA",
+    "countryCode": "MW",
+    "englishName": "Salima",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-TH",
+    "countryCode": "MW",
+    "englishName": "Thyolo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MW-ZO",
+    "countryCode": "MW",
+    "englishName": "Zomba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
