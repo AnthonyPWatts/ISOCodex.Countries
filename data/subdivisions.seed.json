@@ -6874,6 +6874,412 @@
     "type": "Unknown"
   },
   {
+    "code": "DZ-01",
+    "countryCode": "DZ",
+    "englishName": "Adrar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-02",
+    "countryCode": "DZ",
+    "englishName": "Chlef",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-03",
+    "countryCode": "DZ",
+    "englishName": "Laghouat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-04",
+    "countryCode": "DZ",
+    "englishName": "Oum El Bouaghi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-05",
+    "countryCode": "DZ",
+    "englishName": "Batna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-06",
+    "countryCode": "DZ",
+    "englishName": "Béjaïa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-07",
+    "countryCode": "DZ",
+    "englishName": "Biskra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-08",
+    "countryCode": "DZ",
+    "englishName": "Béchar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-09",
+    "countryCode": "DZ",
+    "englishName": "Blida",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-10",
+    "countryCode": "DZ",
+    "englishName": "Bouira",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-11",
+    "countryCode": "DZ",
+    "englishName": "Tamanghasset",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-12",
+    "countryCode": "DZ",
+    "englishName": "Tébessa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-13",
+    "countryCode": "DZ",
+    "englishName": "Tlemcen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-14",
+    "countryCode": "DZ",
+    "englishName": "Tiaret",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-15",
+    "countryCode": "DZ",
+    "englishName": "Tizi Ouzou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-16",
+    "countryCode": "DZ",
+    "englishName": "Algiers",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-17",
+    "countryCode": "DZ",
+    "englishName": "Djelfa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-18",
+    "countryCode": "DZ",
+    "englishName": "Jijel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-19",
+    "countryCode": "DZ",
+    "englishName": "Sétif",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-20",
+    "countryCode": "DZ",
+    "englishName": "Saïda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-21",
+    "countryCode": "DZ",
+    "englishName": "Skikda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-22",
+    "countryCode": "DZ",
+    "englishName": "Sidi Bel Abbès",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-23",
+    "countryCode": "DZ",
+    "englishName": "Annaba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-24",
+    "countryCode": "DZ",
+    "englishName": "Guelma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-25",
+    "countryCode": "DZ",
+    "englishName": "Constantine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-26",
+    "countryCode": "DZ",
+    "englishName": "Médéa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-27",
+    "countryCode": "DZ",
+    "englishName": "Mostaganem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-28",
+    "countryCode": "DZ",
+    "englishName": "M’Sila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-29",
+    "countryCode": "DZ",
+    "englishName": "Mascara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-30",
+    "countryCode": "DZ",
+    "englishName": "Ouargla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-31",
+    "countryCode": "DZ",
+    "englishName": "Oran",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-32",
+    "countryCode": "DZ",
+    "englishName": "El Bayadh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-33",
+    "countryCode": "DZ",
+    "englishName": "Illizi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-34",
+    "countryCode": "DZ",
+    "englishName": "Bordj Bou Arréridj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-35",
+    "countryCode": "DZ",
+    "englishName": "Boumerdès",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-36",
+    "countryCode": "DZ",
+    "englishName": "El Tarf",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-37",
+    "countryCode": "DZ",
+    "englishName": "Tindouf",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-38",
+    "countryCode": "DZ",
+    "englishName": "Tissemsilt",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-39",
+    "countryCode": "DZ",
+    "englishName": "El Oued",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-40",
+    "countryCode": "DZ",
+    "englishName": "Khenchela",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-41",
+    "countryCode": "DZ",
+    "englishName": "Souk Ahras",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-42",
+    "countryCode": "DZ",
+    "englishName": "Tipasa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-43",
+    "countryCode": "DZ",
+    "englishName": "Mila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-44",
+    "countryCode": "DZ",
+    "englishName": "Aïn Defla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-45",
+    "countryCode": "DZ",
+    "englishName": "Naama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-46",
+    "countryCode": "DZ",
+    "englishName": "Aïn Témouchent",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-47",
+    "countryCode": "DZ",
+    "englishName": "Ghardaïa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-48",
+    "countryCode": "DZ",
+    "englishName": "Relizane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-49",
+    "countryCode": "DZ",
+    "englishName": "Timimoun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-50",
+    "countryCode": "DZ",
+    "englishName": "Bordj Badji Mokhtar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-51",
+    "countryCode": "DZ",
+    "englishName": "Ouled Djellal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-52",
+    "countryCode": "DZ",
+    "englishName": "Béni Abbès",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-53",
+    "countryCode": "DZ",
+    "englishName": "In Salah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-54",
+    "countryCode": "DZ",
+    "englishName": "In Guezzam",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-55",
+    "countryCode": "DZ",
+    "englishName": "Touggourt",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-56",
+    "countryCode": "DZ",
+    "englishName": "Djanet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-57",
+    "countryCode": "DZ",
+    "englishName": "El Meghaier",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DZ-58",
+    "countryCode": "DZ",
+    "englishName": "El Meniaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
