@@ -31087,6 +31087,41 @@
     "type": "Unknown"
   },
   {
+    "code": "TO-01",
+    "countryCode": "TO",
+    "englishName": "ʻEua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TO-02",
+    "countryCode": "TO",
+    "englishName": "Haʻapai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TO-03",
+    "countryCode": "TO",
+    "englishName": "Niuas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TO-04",
+    "countryCode": "TO",
+    "englishName": "Tongatapu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TO-05",
+    "countryCode": "TO",
+    "englishName": "Vavaʻu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
