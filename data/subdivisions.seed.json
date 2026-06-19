@@ -24374,6 +24374,160 @@
     "type": "Unknown"
   },
   {
+    "code": "PG-CPK",
+    "countryCode": "PG",
+    "englishName": "Chimbu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-CPM",
+    "countryCode": "PG",
+    "englishName": "Central",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-EBR",
+    "countryCode": "PG",
+    "englishName": "East New Britain",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-EHG",
+    "countryCode": "PG",
+    "englishName": "Eastern Highlands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-EPW",
+    "countryCode": "PG",
+    "englishName": "Enga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-ESW",
+    "countryCode": "PG",
+    "englishName": "East Sepik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-GPK",
+    "countryCode": "PG",
+    "englishName": "Gulf",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-HLA",
+    "countryCode": "PG",
+    "englishName": "Hela",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-JWK",
+    "countryCode": "PG",
+    "englishName": "Jiwaka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-MBA",
+    "countryCode": "PG",
+    "englishName": "Milne Bay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-MPL",
+    "countryCode": "PG",
+    "englishName": "Morobe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-MPM",
+    "countryCode": "PG",
+    "englishName": "Madang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-MRL",
+    "countryCode": "PG",
+    "englishName": "Manus",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-NCD",
+    "countryCode": "PG",
+    "englishName": "Port Moresby",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-NIK",
+    "countryCode": "PG",
+    "englishName": "New Ireland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-NPP",
+    "countryCode": "PG",
+    "englishName": "Oro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-NSB",
+    "countryCode": "PG",
+    "englishName": "Bougainville",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-SAN",
+    "countryCode": "PG",
+    "englishName": "Sandaun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-SHM",
+    "countryCode": "PG",
+    "englishName": "Southern Highlands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-WBK",
+    "countryCode": "PG",
+    "englishName": "West New Britain",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-WHM",
+    "countryCode": "PG",
+    "englishName": "Western Highlands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PG-WPD",
+    "countryCode": "PG",
+    "englishName": "Western",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
