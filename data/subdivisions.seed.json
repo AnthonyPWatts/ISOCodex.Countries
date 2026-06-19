@@ -30919,6 +30919,174 @@
     "type": "Unknown"
   },
   {
+    "code": "TN-11",
+    "countryCode": "TN",
+    "englishName": "Tunis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-12",
+    "countryCode": "TN",
+    "englishName": "Ariana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-13",
+    "countryCode": "TN",
+    "englishName": "Ben Arous",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-14",
+    "countryCode": "TN",
+    "englishName": "Manouba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-21",
+    "countryCode": "TN",
+    "englishName": "Nabeul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-22",
+    "countryCode": "TN",
+    "englishName": "Zaghouan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-23",
+    "countryCode": "TN",
+    "englishName": "Bizerte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-31",
+    "countryCode": "TN",
+    "englishName": "Béja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-32",
+    "countryCode": "TN",
+    "englishName": "Jendouba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-33",
+    "countryCode": "TN",
+    "englishName": "Kef",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-34",
+    "countryCode": "TN",
+    "englishName": "Siliana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-41",
+    "countryCode": "TN",
+    "englishName": "Kairouan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-42",
+    "countryCode": "TN",
+    "englishName": "Kasserine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-43",
+    "countryCode": "TN",
+    "englishName": "Sidi Bouzid",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-51",
+    "countryCode": "TN",
+    "englishName": "Sousse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-52",
+    "countryCode": "TN",
+    "englishName": "Monastir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-53",
+    "countryCode": "TN",
+    "englishName": "Mahdia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-61",
+    "countryCode": "TN",
+    "englishName": "Sfax",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-71",
+    "countryCode": "TN",
+    "englishName": "Gafsa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-72",
+    "countryCode": "TN",
+    "englishName": "Tozeur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-73",
+    "countryCode": "TN",
+    "englishName": "Kebili",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-81",
+    "countryCode": "TN",
+    "englishName": "Gabès",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-82",
+    "countryCode": "TN",
+    "englishName": "Medenine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TN-83",
+    "countryCode": "TN",
+    "englishName": "Tataouine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
