@@ -10,6 +10,8 @@ Invalid, unknown, and reserved values must be distinct concepts. Display names a
 
 `EU` and `ZZ` are not treated as current countries by the current registry. They remain unknown syntactically valid alpha-2 inputs until a deliberate reserved-code model exists.
 
+`CountryEntryStatus` and `CountryCodeLookupFailureReason` include some future-facing values for reserved, former, exceptional, transitional, user-assigned, ambiguous, and unsupported cases. The current representative seed data uses only `CountryEntryStatus.Current`; consumers must not infer official reservation status from an `Unknown` lookup result.
+
 Runtime library code must not make hidden network calls. Country and subdivision metadata should expose source and version transparency so consumers can reason about the data they are using.
 
 Full subdivision coverage is deferred because it is a data-source, licensing, package-size, and maintenance problem rather than a core value-object problem.

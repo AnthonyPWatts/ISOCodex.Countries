@@ -78,21 +78,11 @@ public sealed class RegistryTests
         Assert.Equal(expectedName, result.Country?.EnglishShortName);
     }
 
-    [Fact]
-    public void Uk_Is_Not_Silently_Treated_As_Gb()
-    {
-        CountryCodeLookupResult result = CountryRegistry.Lookup("UK");
-
-        Assert.False(result.Success);
-        Assert.Equal(CountryCodeKind.Alpha2, result.DetectedKind);
-        Assert.Equal(CountryCodeLookupFailureReason.Unknown, result.FailureReason);
-        Assert.Equal("UK", result.NormalizedInput);
-    }
-
     [Theory]
+    [InlineData("UK")]
     [InlineData("EU")]
     [InlineData("ZZ")]
-    public void Non_Country_And_User_Assigned_Shaped_Codes_Are_Unknown_Not_Canonical_Countries(string input)
+    public void Special_Or_User_Assigned_Shaped_Codes_Are_Unknown_Not_Reserved_Statuses(string input)
     {
         CountryCodeLookupResult result = CountryRegistry.Lookup(input);
 

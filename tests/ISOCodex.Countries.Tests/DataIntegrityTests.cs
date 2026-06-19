@@ -43,6 +43,15 @@ public sealed class DataIntegrityTests
     }
 
     [Fact]
+    public void Country_Seed_Data_Uses_Current_Status_Only()
+    {
+        foreach (CountryInfo country in CountryRegistry.All)
+        {
+            Assert.Equal(CountryEntryStatus.Current, country.Status);
+        }
+    }
+
+    [Fact]
     public void Common_Aliases_Are_Not_Silent_Canonical_Lookup_Keys()
     {
         foreach (CountryInfo country in CountryRegistry.All)

@@ -58,7 +58,7 @@ The alias list is metadata only. It is not used for silent canonical lookup.
 
 `CountryCodeValidationIssue` exposes stable machine-readable issue codes, human-readable messages, and the failed input.
 
-Current lookup failure reasons include future-facing enum values such as `ReservedButNotCountry`, but the current registry does not yet contain separate reserved-code data. `UK`, `EU`, and `ZZ` are therefore treated as syntactically valid but unknown alpha-2 input at this stage.
+Current entry statuses and lookup failure reasons include future-facing enum values such as `Reserved`, `Former`, `UserAssigned`, `Ambiguous`, `ReservedButNotCountry`, and `Unsupported`. The current registry does not yet contain separate reserved-code or former-code data. Seed countries therefore use `CountryEntryStatus.Current`, and `UK`, `EU`, and `ZZ` are treated as syntactically valid but unknown alpha-2 input at this stage.
 
 ## JSON support
 
