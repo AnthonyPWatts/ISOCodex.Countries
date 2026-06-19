@@ -3913,11 +3913,95 @@
     "type": "Unknown"
   },
   {
+    "code": "CA-AB",
+    "countryCode": "CA",
+    "englishName": "Alberta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CA-BC",
+    "countryCode": "CA",
+    "englishName": "British Columbia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CA-MB",
+    "countryCode": "CA",
+    "englishName": "Manitoba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CA-NB",
+    "countryCode": "CA",
+    "englishName": "New Brunswick",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CA-NL",
+    "countryCode": "CA",
+    "englishName": "Newfoundland and Labrador",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CA-NS",
+    "countryCode": "CA",
+    "englishName": "Nova Scotia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CA-NT",
+    "countryCode": "CA",
+    "englishName": "Northwest Territories",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CA-NU",
+    "countryCode": "CA",
+    "englishName": "Nunavut",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
     "localName": null,
     "type": "Province"
+  },
+  {
+    "code": "CA-PE",
+    "countryCode": "CA",
+    "englishName": "Prince Edward Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CA-QC",
+    "countryCode": "CA",
+    "englishName": "Quebec",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CA-SK",
+    "countryCode": "CA",
+    "englishName": "Saskatchewan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CA-YT",
+    "countryCode": "CA",
+    "englishName": "Yukon",
+    "localName": null,
+    "type": "Unknown"
   },
   {
     "code": "GB-ENG",
