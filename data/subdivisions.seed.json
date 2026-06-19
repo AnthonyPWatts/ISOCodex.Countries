@@ -23436,6 +23436,125 @@
     "type": "Unknown"
   },
   {
+    "code": "NI-AN",
+    "countryCode": "NI",
+    "englishName": "Atlántico Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-AS",
+    "countryCode": "NI",
+    "englishName": "Atlántico Sur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-BO",
+    "countryCode": "NI",
+    "englishName": "Boaco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-CA",
+    "countryCode": "NI",
+    "englishName": "Carazo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-CI",
+    "countryCode": "NI",
+    "englishName": "Chinandega",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-CO",
+    "countryCode": "NI",
+    "englishName": "Chontales",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-ES",
+    "countryCode": "NI",
+    "englishName": "Estelí",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-GR",
+    "countryCode": "NI",
+    "englishName": "Granada",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-JI",
+    "countryCode": "NI",
+    "englishName": "Jinotega",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-LE",
+    "countryCode": "NI",
+    "englishName": "León",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-MD",
+    "countryCode": "NI",
+    "englishName": "Madriz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-MN",
+    "countryCode": "NI",
+    "englishName": "Managua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-MS",
+    "countryCode": "NI",
+    "englishName": "Masaya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-MT",
+    "countryCode": "NI",
+    "englishName": "Matagalpa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-NS",
+    "countryCode": "NI",
+    "englishName": "Nueva Segovia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-RI",
+    "countryCode": "NI",
+    "englishName": "Rivas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NI-SJ",
+    "countryCode": "NI",
+    "englishName": "Río San Juan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

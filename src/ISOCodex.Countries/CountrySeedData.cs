@@ -5597,6 +5597,23 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("NG-TA"), CountryAlpha2Code.Parse("NG"), "Taraba", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NG-YO"), CountryAlpha2Code.Parse("NG"), "Yobe", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NG-ZA"), CountryAlpha2Code.Parse("NG"), "Zamfara", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-AN"), CountryAlpha2Code.Parse("NI"), "Atlántico Norte", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-AS"), CountryAlpha2Code.Parse("NI"), "Atlántico Sur", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-BO"), CountryAlpha2Code.Parse("NI"), "Boaco", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-CA"), CountryAlpha2Code.Parse("NI"), "Carazo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-CI"), CountryAlpha2Code.Parse("NI"), "Chinandega", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-CO"), CountryAlpha2Code.Parse("NI"), "Chontales", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-ES"), CountryAlpha2Code.Parse("NI"), "Estelí", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-GR"), CountryAlpha2Code.Parse("NI"), "Granada", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-JI"), CountryAlpha2Code.Parse("NI"), "Jinotega", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-LE"), CountryAlpha2Code.Parse("NI"), "León", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-MD"), CountryAlpha2Code.Parse("NI"), "Madriz", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-MN"), CountryAlpha2Code.Parse("NI"), "Managua", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-MS"), CountryAlpha2Code.Parse("NI"), "Masaya", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-MT"), CountryAlpha2Code.Parse("NI"), "Matagalpa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-NS"), CountryAlpha2Code.Parse("NI"), "Nueva Segovia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-RI"), CountryAlpha2Code.Parse("NI"), "Rivas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NI-SJ"), CountryAlpha2Code.Parse("NI"), "Río San Juan", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
