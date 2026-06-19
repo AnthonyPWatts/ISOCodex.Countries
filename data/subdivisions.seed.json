@@ -17528,6 +17528,132 @@
     "type": "Unknown"
   },
   {
+    "code": "LA-AT",
+    "countryCode": "LA",
+    "englishName": "Attapeu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-BK",
+    "countryCode": "LA",
+    "englishName": "Bokeo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-BL",
+    "countryCode": "LA",
+    "englishName": "Bolikhamsai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-CH",
+    "countryCode": "LA",
+    "englishName": "Champasak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-HO",
+    "countryCode": "LA",
+    "englishName": "Houaphanh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-KH",
+    "countryCode": "LA",
+    "englishName": "Khammouane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-LM",
+    "countryCode": "LA",
+    "englishName": "Luang Namtha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-LP",
+    "countryCode": "LA",
+    "englishName": "Luang Prabang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-OU",
+    "countryCode": "LA",
+    "englishName": "Oudomxay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-PH",
+    "countryCode": "LA",
+    "englishName": "Phongsaly",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-SL",
+    "countryCode": "LA",
+    "englishName": "Salavan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-SV",
+    "countryCode": "LA",
+    "englishName": "Savannakhet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-VI",
+    "countryCode": "LA",
+    "englishName": "Vientiane Province",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-VT",
+    "countryCode": "LA",
+    "englishName": "Vientiane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-XA",
+    "countryCode": "LA",
+    "englishName": "Sainyabuli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-XE",
+    "countryCode": "LA",
+    "englishName": "Sekong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-XI",
+    "countryCode": "LA",
+    "englishName": "Xiangkhouang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LA-XS",
+    "countryCode": "LA",
+    "englishName": "Xaisomboun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
