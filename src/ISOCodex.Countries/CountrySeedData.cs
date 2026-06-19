@@ -5649,6 +5649,20 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("NP-P5"), CountryAlpha2Code.Parse("NP"), "Province 5", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NP-P6"), CountryAlpha2Code.Parse("NP"), "Karnali²", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NP-P7"), CountryAlpha2Code.Parse("NP"), "Province 7", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-01"), CountryAlpha2Code.Parse("NR"), "Aiwo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-02"), CountryAlpha2Code.Parse("NR"), "Anabar", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-03"), CountryAlpha2Code.Parse("NR"), "Anetan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-04"), CountryAlpha2Code.Parse("NR"), "Anibare", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-05"), CountryAlpha2Code.Parse("NR"), "Baiti", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-06"), CountryAlpha2Code.Parse("NR"), "Boe", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-07"), CountryAlpha2Code.Parse("NR"), "Buada", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-08"), CountryAlpha2Code.Parse("NR"), "Denigomodu", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-09"), CountryAlpha2Code.Parse("NR"), "Ewa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-10"), CountryAlpha2Code.Parse("NR"), "Ijuw", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-11"), CountryAlpha2Code.Parse("NR"), "Meneng", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-12"), CountryAlpha2Code.Parse("NR"), "Nibok", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-13"), CountryAlpha2Code.Parse("NR"), "Uaboe", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NR-14"), CountryAlpha2Code.Parse("NR"), "Yaren", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

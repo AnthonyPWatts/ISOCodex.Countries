@@ -23800,6 +23800,104 @@
     "type": "Unknown"
   },
   {
+    "code": "NR-01",
+    "countryCode": "NR",
+    "englishName": "Aiwo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NR-02",
+    "countryCode": "NR",
+    "englishName": "Anabar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NR-03",
+    "countryCode": "NR",
+    "englishName": "Anetan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NR-04",
+    "countryCode": "NR",
+    "englishName": "Anibare",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NR-05",
+    "countryCode": "NR",
+    "englishName": "Baiti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NR-06",
+    "countryCode": "NR",
+    "englishName": "Boe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NR-07",
+    "countryCode": "NR",
+    "englishName": "Buada",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NR-08",
+    "countryCode": "NR",
+    "englishName": "Denigomodu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NR-09",
+    "countryCode": "NR",
+    "englishName": "Ewa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NR-10",
+    "countryCode": "NR",
+    "englishName": "Ijuw",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NR-11",
+    "countryCode": "NR",
+    "englishName": "Meneng",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NR-12",
+    "countryCode": "NR",
+    "englishName": "Nibok",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NR-13",
+    "countryCode": "NR",
+    "englishName": "Uaboe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NR-14",
+    "countryCode": "NR",
+    "englishName": "Yaren",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
