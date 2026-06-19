@@ -27412,6 +27412,132 @@
     "type": "Unknown"
   },
   {
+    "code": "SD-DC",
+    "countryCode": "SD",
+    "englishName": "Central Darfur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-DE",
+    "countryCode": "SD",
+    "englishName": "East Darfur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-DN",
+    "countryCode": "SD",
+    "englishName": "North Darfur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-DS",
+    "countryCode": "SD",
+    "englishName": "South Darfur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-DW",
+    "countryCode": "SD",
+    "englishName": "West Darfur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-GD",
+    "countryCode": "SD",
+    "englishName": "Al Qadarif",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-GK",
+    "countryCode": "SD",
+    "englishName": "West Kurdufan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-GZ",
+    "countryCode": "SD",
+    "englishName": "Al Jazirah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-KA",
+    "countryCode": "SD",
+    "englishName": "Kassala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-KH",
+    "countryCode": "SD",
+    "englishName": "Khartoum",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-KN",
+    "countryCode": "SD",
+    "englishName": "North Kurdufan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-KS",
+    "countryCode": "SD",
+    "englishName": "South Kurdufan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-NB",
+    "countryCode": "SD",
+    "englishName": "Blue Nile",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-NO",
+    "countryCode": "SD",
+    "englishName": "Northern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-NR",
+    "countryCode": "SD",
+    "englishName": "River Nile",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-NW",
+    "countryCode": "SD",
+    "englishName": "White Nile",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-RS",
+    "countryCode": "SD",
+    "englishName": "Red Sea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SD-SI",
+    "countryCode": "SD",
+    "englishName": "Sennar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
