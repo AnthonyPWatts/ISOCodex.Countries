@@ -12397,6 +12397,160 @@
     "type": "Unknown"
   },
   {
+    "code": "GT-01",
+    "countryCode": "GT",
+    "englishName": "Guatemala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-02",
+    "countryCode": "GT",
+    "englishName": "El Progreso",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-03",
+    "countryCode": "GT",
+    "englishName": "Sacatepéquez",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-04",
+    "countryCode": "GT",
+    "englishName": "Chimaltenango",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-05",
+    "countryCode": "GT",
+    "englishName": "Escuintla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-06",
+    "countryCode": "GT",
+    "englishName": "Santa Rosa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-07",
+    "countryCode": "GT",
+    "englishName": "Sololá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-08",
+    "countryCode": "GT",
+    "englishName": "Totonicapán",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-09",
+    "countryCode": "GT",
+    "englishName": "Quetzaltenango",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-10",
+    "countryCode": "GT",
+    "englishName": "Suchitepéquez",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-11",
+    "countryCode": "GT",
+    "englishName": "Retalhuleu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-12",
+    "countryCode": "GT",
+    "englishName": "San Marcos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-13",
+    "countryCode": "GT",
+    "englishName": "Huehuetenango",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-14",
+    "countryCode": "GT",
+    "englishName": "Quiché",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-15",
+    "countryCode": "GT",
+    "englishName": "Baja Verapaz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-16",
+    "countryCode": "GT",
+    "englishName": "Alta Verapaz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-17",
+    "countryCode": "GT",
+    "englishName": "Petén",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-18",
+    "countryCode": "GT",
+    "englishName": "Izabal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-19",
+    "countryCode": "GT",
+    "englishName": "Zacapa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-20",
+    "countryCode": "GT",
+    "englishName": "Chiquimula",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-21",
+    "countryCode": "GT",
+    "englishName": "Jalapa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GT-22",
+    "countryCode": "GT",
+    "englishName": "Jutiapa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",
