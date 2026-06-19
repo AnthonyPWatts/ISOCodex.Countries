@@ -3909,6 +3909,13 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("GB-WSX"), CountryAlpha2Code.Parse("GB"), "West Sussex", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GB-YOR"), CountryAlpha2Code.Parse("GB"), "York", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GB-ZET"), CountryAlpha2Code.Parse("GB"), "Shetland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GD-01"), CountryAlpha2Code.Parse("GD"), "Saint Andrew", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GD-02"), CountryAlpha2Code.Parse("GD"), "Saint David", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GD-03"), CountryAlpha2Code.Parse("GD"), "Saint George", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GD-04"), CountryAlpha2Code.Parse("GD"), "Saint John", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GD-05"), CountryAlpha2Code.Parse("GD"), "Saint Mark", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GD-06"), CountryAlpha2Code.Parse("GD"), "Saint Patrick", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GD-10"), CountryAlpha2Code.Parse("GD"), "Carriacou and Petite Martinique", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("IE-D"), CountryAlpha2Code.Parse("IE"), "Dublin", null, CountrySubdivisionType.County),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();

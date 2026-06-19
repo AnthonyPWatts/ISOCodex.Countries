@@ -11620,6 +11620,55 @@
     "type": "Unknown"
   },
   {
+    "code": "GD-01",
+    "countryCode": "GD",
+    "englishName": "Saint Andrew",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GD-02",
+    "countryCode": "GD",
+    "englishName": "Saint David",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GD-03",
+    "countryCode": "GD",
+    "englishName": "Saint George",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GD-04",
+    "countryCode": "GD",
+    "englishName": "Saint John",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GD-05",
+    "countryCode": "GD",
+    "englishName": "Saint Mark",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GD-06",
+    "countryCode": "GD",
+    "englishName": "Saint Patrick",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GD-10",
+    "countryCode": "GD",
+    "englishName": "Carriacou and Petite Martinique",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",
