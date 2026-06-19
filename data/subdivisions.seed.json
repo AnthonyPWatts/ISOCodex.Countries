@@ -24528,6 +24528,699 @@
     "type": "Unknown"
   },
   {
+    "code": "PH-00",
+    "countryCode": "PH",
+    "englishName": "Metro Manila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-01",
+    "countryCode": "PH",
+    "englishName": "Ilocos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-02",
+    "countryCode": "PH",
+    "englishName": "Cagayan Valley",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-03",
+    "countryCode": "PH",
+    "englishName": "Central Luzon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-05",
+    "countryCode": "PH",
+    "englishName": "Bicol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-06",
+    "countryCode": "PH",
+    "englishName": "Western Visayas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-07",
+    "countryCode": "PH",
+    "englishName": "Central Visayas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-08",
+    "countryCode": "PH",
+    "englishName": "Eastern Visayas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-09",
+    "countryCode": "PH",
+    "englishName": "Zamboanga Peninsula",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-10",
+    "countryCode": "PH",
+    "englishName": "Northern Mindanao",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-11",
+    "countryCode": "PH",
+    "englishName": "Davao",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-12",
+    "countryCode": "PH",
+    "englishName": "Soccsksargen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-13",
+    "countryCode": "PH",
+    "englishName": "Caraga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-14",
+    "countryCode": "PH",
+    "englishName": "Muslim Mindanao",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-15",
+    "countryCode": "PH",
+    "englishName": "Cordillera Administrative",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-40",
+    "countryCode": "PH",
+    "englishName": "Calabarzon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-41",
+    "countryCode": "PH",
+    "englishName": "Mimaropa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-ABR",
+    "countryCode": "PH",
+    "englishName": "Abra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-AGN",
+    "countryCode": "PH",
+    "englishName": "Agusan del Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-AGS",
+    "countryCode": "PH",
+    "englishName": "Agusan del Sur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-AKL",
+    "countryCode": "PH",
+    "englishName": "Aklan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-ALB",
+    "countryCode": "PH",
+    "englishName": "Albay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-ANT",
+    "countryCode": "PH",
+    "englishName": "Antique",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-APA",
+    "countryCode": "PH",
+    "englishName": "Apayao",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-AUR",
+    "countryCode": "PH",
+    "englishName": "Aurora",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-BAN",
+    "countryCode": "PH",
+    "englishName": "Bataan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-BAS",
+    "countryCode": "PH",
+    "englishName": "Basilan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-BEN",
+    "countryCode": "PH",
+    "englishName": "Benguet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-BIL",
+    "countryCode": "PH",
+    "englishName": "Biliran",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-BOH",
+    "countryCode": "PH",
+    "englishName": "Bohol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-BTG",
+    "countryCode": "PH",
+    "englishName": "Batangas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-BTN",
+    "countryCode": "PH",
+    "englishName": "Batanes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-BUK",
+    "countryCode": "PH",
+    "englishName": "Bukidnon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-BUL",
+    "countryCode": "PH",
+    "englishName": "Bulacan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-CAG",
+    "countryCode": "PH",
+    "englishName": "Cagayan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-CAM",
+    "countryCode": "PH",
+    "englishName": "Camiguin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-CAN",
+    "countryCode": "PH",
+    "englishName": "Camarines Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-CAP",
+    "countryCode": "PH",
+    "englishName": "Capiz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-CAS",
+    "countryCode": "PH",
+    "englishName": "Camarines Sur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-CAT",
+    "countryCode": "PH",
+    "englishName": "Catanduanes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-CAV",
+    "countryCode": "PH",
+    "englishName": "Cavite",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-CEB",
+    "countryCode": "PH",
+    "englishName": "Cebu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-COM",
+    "countryCode": "PH",
+    "englishName": "Compostela Valley",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-DAO",
+    "countryCode": "PH",
+    "englishName": "Davao Oriental",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-DAS",
+    "countryCode": "PH",
+    "englishName": "Davao del Sur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-DAV",
+    "countryCode": "PH",
+    "englishName": "Davao del Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-DIN",
+    "countryCode": "PH",
+    "englishName": "Dinagat Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-DVO",
+    "countryCode": "PH",
+    "englishName": "Davao Occidental",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-EAS",
+    "countryCode": "PH",
+    "englishName": "Eastern Samar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-GUI",
+    "countryCode": "PH",
+    "englishName": "Guimaras",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-IFU",
+    "countryCode": "PH",
+    "englishName": "Ifugao",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-ILI",
+    "countryCode": "PH",
+    "englishName": "Iloilo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-ILN",
+    "countryCode": "PH",
+    "englishName": "Ilocos Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-ILS",
+    "countryCode": "PH",
+    "englishName": "Ilocos Sur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-ISA",
+    "countryCode": "PH",
+    "englishName": "Isabela",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-KAL",
+    "countryCode": "PH",
+    "englishName": "Kalinga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-LAG",
+    "countryCode": "PH",
+    "englishName": "Laguna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-LAN",
+    "countryCode": "PH",
+    "englishName": "Lanao del Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-LAS",
+    "countryCode": "PH",
+    "englishName": "Lanao del Sur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-LEY",
+    "countryCode": "PH",
+    "englishName": "Leyte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-LUN",
+    "countryCode": "PH",
+    "englishName": "La Union",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-MAD",
+    "countryCode": "PH",
+    "englishName": "Marinduque",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-MAS",
+    "countryCode": "PH",
+    "englishName": "Masbate",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-MDC",
+    "countryCode": "PH",
+    "englishName": "Occidental Mindoro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-MDR",
+    "countryCode": "PH",
+    "englishName": "Oriental Mindoro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-MGN",
+    "countryCode": "PH",
+    "englishName": "Maguindanao del Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-MGS",
+    "countryCode": "PH",
+    "englishName": "Maguindanao del Sur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-MOU",
+    "countryCode": "PH",
+    "englishName": "Mountain",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-MSC",
+    "countryCode": "PH",
+    "englishName": "Misamis Occidental",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-MSR",
+    "countryCode": "PH",
+    "englishName": "Misamis Oriental",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-NCO",
+    "countryCode": "PH",
+    "englishName": "Cotabato",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-NEC",
+    "countryCode": "PH",
+    "englishName": "Negros Occidental",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-NER",
+    "countryCode": "PH",
+    "englishName": "Negros Oriental",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-NSA",
+    "countryCode": "PH",
+    "englishName": "Northern Samar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-NUE",
+    "countryCode": "PH",
+    "englishName": "Nueva Ecija",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-NUV",
+    "countryCode": "PH",
+    "englishName": "Nueva Vizcaya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-PAM",
+    "countryCode": "PH",
+    "englishName": "Pampanga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-PAN",
+    "countryCode": "PH",
+    "englishName": "Pangasinan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-PLW",
+    "countryCode": "PH",
+    "englishName": "Palawan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-QUE",
+    "countryCode": "PH",
+    "englishName": "Quezon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-QUI",
+    "countryCode": "PH",
+    "englishName": "Quirino",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-RIZ",
+    "countryCode": "PH",
+    "englishName": "Rizal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-ROM",
+    "countryCode": "PH",
+    "englishName": "Romblon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-SAR",
+    "countryCode": "PH",
+    "englishName": "Sarangani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-SCO",
+    "countryCode": "PH",
+    "englishName": "South Cotabato",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-SIG",
+    "countryCode": "PH",
+    "englishName": "Siquijor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-SLE",
+    "countryCode": "PH",
+    "englishName": "Southern Leyte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-SLU",
+    "countryCode": "PH",
+    "englishName": "Sulu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-SOR",
+    "countryCode": "PH",
+    "englishName": "Sorsogon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-SUK",
+    "countryCode": "PH",
+    "englishName": "Sultan Kudarat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-SUN",
+    "countryCode": "PH",
+    "englishName": "Surigao del Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-SUR",
+    "countryCode": "PH",
+    "englishName": "Surigao del Sur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-TAR",
+    "countryCode": "PH",
+    "englishName": "Tarlac",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-TAW",
+    "countryCode": "PH",
+    "englishName": "Tawi-Tawi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-WSA",
+    "countryCode": "PH",
+    "englishName": "Samar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-ZAN",
+    "countryCode": "PH",
+    "englishName": "Zamboanga del Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-ZAS",
+    "countryCode": "PH",
+    "englishName": "Zamboanga del Sur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-ZMB",
+    "countryCode": "PH",
+    "englishName": "Zambales",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PH-ZSI",
+    "countryCode": "PH",
+    "englishName": "Zamboanga Sibugay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
