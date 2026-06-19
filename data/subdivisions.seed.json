@@ -3570,6 +3570,146 @@
     "type": "Unknown"
   },
   {
+    "code": "BT-11",
+    "countryCode": "BT",
+    "englishName": "Paro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-12",
+    "countryCode": "BT",
+    "englishName": "Chukha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-13",
+    "countryCode": "BT",
+    "englishName": "Haa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-14",
+    "countryCode": "BT",
+    "englishName": "Samtse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-15",
+    "countryCode": "BT",
+    "englishName": "Thimphu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-21",
+    "countryCode": "BT",
+    "englishName": "Tsirang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-22",
+    "countryCode": "BT",
+    "englishName": "Dagana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-23",
+    "countryCode": "BT",
+    "englishName": "Punakha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-24",
+    "countryCode": "BT",
+    "englishName": "Wangdue Phodrang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-31",
+    "countryCode": "BT",
+    "englishName": "Sarpang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-32",
+    "countryCode": "BT",
+    "englishName": "Trongsa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-33",
+    "countryCode": "BT",
+    "englishName": "Bumthang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-34",
+    "countryCode": "BT",
+    "englishName": "Zhemgang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-41",
+    "countryCode": "BT",
+    "englishName": "Trashigang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-42",
+    "countryCode": "BT",
+    "englishName": "Mongar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-43",
+    "countryCode": "BT",
+    "englishName": "Pemagatshel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-44",
+    "countryCode": "BT",
+    "englishName": "Lhuntse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-45",
+    "countryCode": "BT",
+    "englishName": "Samdrup Jongkhar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-GA",
+    "countryCode": "BT",
+    "englishName": "Gasa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BT-TY",
+    "countryCode": "BT",
+    "englishName": "Trashiyangtse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
