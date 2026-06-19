@@ -9198,6 +9198,818 @@
     "type": "Unknown"
   },
   {
+    "code": "FR-01",
+    "countryCode": "FR",
+    "englishName": "Ain",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-02",
+    "countryCode": "FR",
+    "englishName": "Aisne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-03",
+    "countryCode": "FR",
+    "englishName": "Allier",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-04",
+    "countryCode": "FR",
+    "englishName": "Alpes-de-Haute-Provence",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-05",
+    "countryCode": "FR",
+    "englishName": "Hautes-Alpes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-06",
+    "countryCode": "FR",
+    "englishName": "Alpes-Maritimes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-07",
+    "countryCode": "FR",
+    "englishName": "Ardèche",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-08",
+    "countryCode": "FR",
+    "englishName": "Ardennes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-09",
+    "countryCode": "FR",
+    "englishName": "Ariège",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-10",
+    "countryCode": "FR",
+    "englishName": "Aube",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-11",
+    "countryCode": "FR",
+    "englishName": "Aude",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-12",
+    "countryCode": "FR",
+    "englishName": "Aveyron",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-13",
+    "countryCode": "FR",
+    "englishName": "Bouches-du-Rhône",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-14",
+    "countryCode": "FR",
+    "englishName": "Calvados",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-15",
+    "countryCode": "FR",
+    "englishName": "Cantal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-16",
+    "countryCode": "FR",
+    "englishName": "Charente",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-17",
+    "countryCode": "FR",
+    "englishName": "Charente-Maritime",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-18",
+    "countryCode": "FR",
+    "englishName": "Cher",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-19",
+    "countryCode": "FR",
+    "englishName": "Corrèze",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-20R",
+    "countryCode": "FR",
+    "englishName": "Corse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-21",
+    "countryCode": "FR",
+    "englishName": "Côte-d’Or",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-22",
+    "countryCode": "FR",
+    "englishName": "Côtes-d’Armor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-23",
+    "countryCode": "FR",
+    "englishName": "Creuse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-24",
+    "countryCode": "FR",
+    "englishName": "Dordogne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-25",
+    "countryCode": "FR",
+    "englishName": "Doubs",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-26",
+    "countryCode": "FR",
+    "englishName": "Drôme",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-27",
+    "countryCode": "FR",
+    "englishName": "Eure",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-28",
+    "countryCode": "FR",
+    "englishName": "Eure-et-Loir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-29",
+    "countryCode": "FR",
+    "englishName": "Finistère",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-2A",
+    "countryCode": "FR",
+    "englishName": "Corse-du-Sud",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-2B",
+    "countryCode": "FR",
+    "englishName": "Haute-Corse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-30",
+    "countryCode": "FR",
+    "englishName": "Gard",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-31",
+    "countryCode": "FR",
+    "englishName": "Haute-Garonne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-32",
+    "countryCode": "FR",
+    "englishName": "Gers",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-33",
+    "countryCode": "FR",
+    "englishName": "Gironde",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-34",
+    "countryCode": "FR",
+    "englishName": "Hérault",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-35",
+    "countryCode": "FR",
+    "englishName": "Ille-et-Vilaine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-36",
+    "countryCode": "FR",
+    "englishName": "Indre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-37",
+    "countryCode": "FR",
+    "englishName": "Indre-et-Loire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-38",
+    "countryCode": "FR",
+    "englishName": "Isère",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-39",
+    "countryCode": "FR",
+    "englishName": "Jura",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-40",
+    "countryCode": "FR",
+    "englishName": "Landes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-41",
+    "countryCode": "FR",
+    "englishName": "Loir-et-Cher",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-42",
+    "countryCode": "FR",
+    "englishName": "Loire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-43",
+    "countryCode": "FR",
+    "englishName": "Haute-Loire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-44",
+    "countryCode": "FR",
+    "englishName": "Loire-Atlantique",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-45",
+    "countryCode": "FR",
+    "englishName": "Loiret",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-46",
+    "countryCode": "FR",
+    "englishName": "Lot",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-47",
+    "countryCode": "FR",
+    "englishName": "Lot-et-Garonne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-48",
+    "countryCode": "FR",
+    "englishName": "Lozère",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-49",
+    "countryCode": "FR",
+    "englishName": "Maine-et-Loire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-50",
+    "countryCode": "FR",
+    "englishName": "Manche",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-51",
+    "countryCode": "FR",
+    "englishName": "Marne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-52",
+    "countryCode": "FR",
+    "englishName": "Haute-Marne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-53",
+    "countryCode": "FR",
+    "englishName": "Mayenne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-54",
+    "countryCode": "FR",
+    "englishName": "Meurthe-et-Moselle",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-55",
+    "countryCode": "FR",
+    "englishName": "Meuse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-56",
+    "countryCode": "FR",
+    "englishName": "Morbihan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-57",
+    "countryCode": "FR",
+    "englishName": "Moselle",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-58",
+    "countryCode": "FR",
+    "englishName": "Nièvre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-59",
+    "countryCode": "FR",
+    "englishName": "Nord",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-60",
+    "countryCode": "FR",
+    "englishName": "Oise",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-61",
+    "countryCode": "FR",
+    "englishName": "Orne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-62",
+    "countryCode": "FR",
+    "englishName": "Pas-de-Calais",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-63",
+    "countryCode": "FR",
+    "englishName": "Puy-de-Dôme",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-64",
+    "countryCode": "FR",
+    "englishName": "Pyrénées-Atlantiques",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-65",
+    "countryCode": "FR",
+    "englishName": "Hautes-Pyrénées",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-66",
+    "countryCode": "FR",
+    "englishName": "Pyrénées-Orientales",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-67",
+    "countryCode": "FR",
+    "englishName": "Bas-Rhin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-68",
+    "countryCode": "FR",
+    "englishName": "Haut-Rhin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-69",
+    "countryCode": "FR",
+    "englishName": "Rhône",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-69M",
+    "countryCode": "FR",
+    "englishName": "Métropole de Lyon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-6AE",
+    "countryCode": "FR",
+    "englishName": "Alsace",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-70",
+    "countryCode": "FR",
+    "englishName": "Haute-Saône",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-71",
+    "countryCode": "FR",
+    "englishName": "Saône-et-Loire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-72",
+    "countryCode": "FR",
+    "englishName": "Sarthe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-73",
+    "countryCode": "FR",
+    "englishName": "Savoie",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-74",
+    "countryCode": "FR",
+    "englishName": "Haute-Savoie",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-75C",
+    "countryCode": "FR",
+    "englishName": "Paris",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-76",
+    "countryCode": "FR",
+    "englishName": "Seine-Maritime",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-77",
+    "countryCode": "FR",
+    "englishName": "Seine-et-Marne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-78",
+    "countryCode": "FR",
+    "englishName": "Yvelines",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-79",
+    "countryCode": "FR",
+    "englishName": "Deux-Sèvres",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-80",
+    "countryCode": "FR",
+    "englishName": "Somme",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-81",
+    "countryCode": "FR",
+    "englishName": "Tarn",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-82",
+    "countryCode": "FR",
+    "englishName": "Tarn-et-Garonne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-83",
+    "countryCode": "FR",
+    "englishName": "Var",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-84",
+    "countryCode": "FR",
+    "englishName": "Vaucluse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-85",
+    "countryCode": "FR",
+    "englishName": "Vendée",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-86",
+    "countryCode": "FR",
+    "englishName": "Vienne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-87",
+    "countryCode": "FR",
+    "englishName": "Haute-Vienne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-88",
+    "countryCode": "FR",
+    "englishName": "Vosges",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-89",
+    "countryCode": "FR",
+    "englishName": "Yonne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-90",
+    "countryCode": "FR",
+    "englishName": "Territoire de Belfort",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-91",
+    "countryCode": "FR",
+    "englishName": "Essonne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-92",
+    "countryCode": "FR",
+    "englishName": "Hauts-de-Seine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-93",
+    "countryCode": "FR",
+    "englishName": "Seine-Saint-Denis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-94",
+    "countryCode": "FR",
+    "englishName": "Val-de-Marne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-95",
+    "countryCode": "FR",
+    "englishName": "Val-d’Oise",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-971",
+    "countryCode": "FR",
+    "englishName": "Guadeloupe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-972",
+    "countryCode": "FR",
+    "englishName": "Martinique",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-973",
+    "countryCode": "FR",
+    "englishName": "Guyane (française)",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-974",
+    "countryCode": "FR",
+    "englishName": "La Réunion",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-976",
+    "countryCode": "FR",
+    "englishName": "Mayotte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-ARA",
+    "countryCode": "FR",
+    "englishName": "Auvergne-Rhône-Alpes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-BFC",
+    "countryCode": "FR",
+    "englishName": "Burgundy-Franche-Comté",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-BRE",
+    "countryCode": "FR",
+    "englishName": "Brittany",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-CVL",
+    "countryCode": "FR",
+    "englishName": "Centre-Val de Loire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-GES",
+    "countryCode": "FR",
+    "englishName": "Grand-Est",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-HDF",
+    "countryCode": "FR",
+    "englishName": "Hauts-de-France",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-IDF",
+    "countryCode": "FR",
+    "englishName": "Île-de-France²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-NAQ",
+    "countryCode": "FR",
+    "englishName": "Nouvelle-Aquitaine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-NOR",
+    "countryCode": "FR",
+    "englishName": "Normandie",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-OCC",
+    "countryCode": "FR",
+    "englishName": "Occitanie",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-PAC",
+    "countryCode": "FR",
+    "englishName": "Provence-Alpes-Côte-d’Azur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FR-PDL",
+    "countryCode": "FR",
+    "englishName": "Pays-de-la-Loire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
