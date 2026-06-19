@@ -336,6 +336,62 @@
     "type": "Unknown"
   },
   {
+    "code": "AG-03",
+    "countryCode": "AG",
+    "englishName": "Saint George",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AG-04",
+    "countryCode": "AG",
+    "englishName": "Saint John",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AG-05",
+    "countryCode": "AG",
+    "englishName": "Saint Mary",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AG-06",
+    "countryCode": "AG",
+    "englishName": "Saint Paul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AG-07",
+    "countryCode": "AG",
+    "englishName": "Saint Peter",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AG-08",
+    "countryCode": "AG",
+    "englishName": "Saint Philip",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AG-10",
+    "countryCode": "AG",
+    "englishName": "Barbuda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AG-11",
+    "countryCode": "AG",
+    "englishName": "Redonda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "AU-NSW",
     "countryCode": "AU",
     "englishName": "New South Wales",
