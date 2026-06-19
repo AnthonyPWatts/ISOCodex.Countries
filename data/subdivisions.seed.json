@@ -2611,6 +2611,202 @@
     "type": "Unknown"
   },
   {
+    "code": "BG-01",
+    "countryCode": "BG",
+    "englishName": "Blagoevgrad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-02",
+    "countryCode": "BG",
+    "englishName": "Burgas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-03",
+    "countryCode": "BG",
+    "englishName": "Varna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-04",
+    "countryCode": "BG",
+    "englishName": "Veliko Tarnovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-05",
+    "countryCode": "BG",
+    "englishName": "Vidin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-06",
+    "countryCode": "BG",
+    "englishName": "Vratsa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-07",
+    "countryCode": "BG",
+    "englishName": "Gabrovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-08",
+    "countryCode": "BG",
+    "englishName": "Dobrich",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-09",
+    "countryCode": "BG",
+    "englishName": "Kardzhali",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-10",
+    "countryCode": "BG",
+    "englishName": "Kyustendil",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-11",
+    "countryCode": "BG",
+    "englishName": "Lovech",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-12",
+    "countryCode": "BG",
+    "englishName": "Montana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-13",
+    "countryCode": "BG",
+    "englishName": "Pazardzhik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-14",
+    "countryCode": "BG",
+    "englishName": "Pernik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-15",
+    "countryCode": "BG",
+    "englishName": "Pleven",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-16",
+    "countryCode": "BG",
+    "englishName": "Plovdiv",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-17",
+    "countryCode": "BG",
+    "englishName": "Razgrad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-18",
+    "countryCode": "BG",
+    "englishName": "Ruse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-19",
+    "countryCode": "BG",
+    "englishName": "Silistra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-20",
+    "countryCode": "BG",
+    "englishName": "Sliven",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-21",
+    "countryCode": "BG",
+    "englishName": "Smolyan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-22",
+    "countryCode": "BG",
+    "englishName": "Sofia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-23",
+    "countryCode": "BG",
+    "englishName": "Sofia District",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-24",
+    "countryCode": "BG",
+    "englishName": "Stara Zagora",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-25",
+    "countryCode": "BG",
+    "englishName": "Targovishte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-26",
+    "countryCode": "BG",
+    "englishName": "Haskovo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-27",
+    "countryCode": "BG",
+    "englishName": "Shumen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BG-28",
+    "countryCode": "BG",
+    "englishName": "Yambol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
