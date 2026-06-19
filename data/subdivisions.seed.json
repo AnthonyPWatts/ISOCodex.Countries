@@ -679,6 +679,174 @@
     "type": "Unknown"
   },
   {
+    "code": "AR-A",
+    "countryCode": "AR",
+    "englishName": "Salta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-B",
+    "countryCode": "AR",
+    "englishName": "Buenos Aires Province",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-C",
+    "countryCode": "AR",
+    "englishName": "Buenos Aires",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-D",
+    "countryCode": "AR",
+    "englishName": "San Luis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-E",
+    "countryCode": "AR",
+    "englishName": "Entre Ríos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-F",
+    "countryCode": "AR",
+    "englishName": "La Rioja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-G",
+    "countryCode": "AR",
+    "englishName": "Santiago del Estero",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-H",
+    "countryCode": "AR",
+    "englishName": "Chaco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-J",
+    "countryCode": "AR",
+    "englishName": "San Juan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-K",
+    "countryCode": "AR",
+    "englishName": "Catamarca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-L",
+    "countryCode": "AR",
+    "englishName": "La Pampa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-M",
+    "countryCode": "AR",
+    "englishName": "Mendoza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-N",
+    "countryCode": "AR",
+    "englishName": "Misiones",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-P",
+    "countryCode": "AR",
+    "englishName": "Formosa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-Q",
+    "countryCode": "AR",
+    "englishName": "Neuquén",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-R",
+    "countryCode": "AR",
+    "englishName": "Río Negro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-S",
+    "countryCode": "AR",
+    "englishName": "Santa Fe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-T",
+    "countryCode": "AR",
+    "englishName": "Tucumán",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-U",
+    "countryCode": "AR",
+    "englishName": "Chubut",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-V",
+    "countryCode": "AR",
+    "englishName": "Tierra del Fuego",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-W",
+    "countryCode": "AR",
+    "englishName": "Corrientes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-X",
+    "countryCode": "AR",
+    "englishName": "Córdoba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-Y",
+    "countryCode": "AR",
+    "englishName": "Jujuy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AR-Z",
+    "countryCode": "AR",
+    "englishName": "Santa Cruz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "AU-NSW",
     "countryCode": "AU",
     "englishName": "New South Wales",
