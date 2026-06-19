@@ -17346,6 +17346,48 @@
     "type": "Unknown"
   },
   {
+    "code": "KW-AH",
+    "countryCode": "KW",
+    "englishName": "Al Ahmadi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KW-FA",
+    "countryCode": "KW",
+    "englishName": "Al Farwaniyah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KW-HA",
+    "countryCode": "KW",
+    "englishName": "Hawalli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KW-JA",
+    "countryCode": "KW",
+    "englishName": "Al Jahra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KW-KU",
+    "countryCode": "KW",
+    "englishName": "Al Asimah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KW-MU",
+    "countryCode": "KW",
+    "englishName": "Mubarak Al-Kabeer",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
