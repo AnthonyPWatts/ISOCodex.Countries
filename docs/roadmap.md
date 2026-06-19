@@ -58,8 +58,9 @@ Build this only after the core API is stable.
 
 Future review areas:
 
-- whether `ISOCodex.Addressing` should depend on `ISOCodex.Countries`,
-- whether a currency package should use country code value objects or registry metadata.
+- whether `ISOCodex.Addressing` should depend on `ISOCodex.Countries` after Countries has produced a release candidate,
+- whether a currency package should use country code value objects or registry metadata after Countries has produced a release candidate,
+- whether adapter packages are preferable to direct dependencies once the core package surface is stable.
 
 Avoid circular dependencies.
 

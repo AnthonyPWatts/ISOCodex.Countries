@@ -23,6 +23,18 @@ The JSON files in `data/` are source-aligned project seed files. The runtime pac
 
 The v1.0 data-source decision is tracked in [`data-strategy.md`](data-strategy.md) and [`decisions/0002-v1-data-scope.md`](decisions/0002-v1-data-scope.md).
 
+## Representative Seed Selection
+
+The seed was chosen to prove package behaviour rather than to represent a complete country table. It includes examples for:
+
+- common UK, US, European, Canadian, and Australian business-data scenarios;
+- leading-zero numeric codes through `AL` / `008` and `AU` / `036`;
+- alpha-2, alpha-3, and numeric conversion paths;
+- representative subdivision types, including nations, states, provinces, and counties;
+- `GB` as the canonical package code for the United Kingdom, with `UK` remaining syntactically valid but unknown.
+
+Complete current-country expansion is deferred until the project has a redistribution-safe source decision and update workflow.
+
 ## Data Version
 
 - Identifier: `representative-seed-2026-06`

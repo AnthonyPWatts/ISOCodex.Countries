@@ -5,7 +5,8 @@ Use this checklist before any NuGet release. Publishing itself must be a separat
 ## Version and release notes
 
 - [ ] Version chosen intentionally.
-- [ ] Pre-1.0 version retained if data remains representative.
+- [ ] Release version is intentionally pre-1.0 while data remains representative.
+- [ ] No `1.0.0` release is attempted without completing the data-scope decision.
 - [ ] `CHANGELOG.md` updated.
 - [ ] README reviewed.
 - [ ] Known limitations still accurate.
@@ -61,4 +62,5 @@ All commands must pass or the blocker must be documented before release.
 - [ ] No accidental public API drift.
 - [ ] No accidental JSON/compiled seed drift.
 - [ ] Known limitations documented.
+- [ ] `0.1.0` release posture still matches `docs/decisions/0003-v0-1-release-posture.md`.
 - [ ] NuGet publishing performed separately and intentionally.

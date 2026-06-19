@@ -129,7 +129,7 @@ var options = CountryRegistry.All
 
 ## Data Sources And Limitations
 
-The seed data is aligned with ISO 3166 and UN M49 concepts, but it is a small hand-curated representative dataset only. It currently includes GB, US, DE, FR, IE, AL, CA, and AU, plus representative subdivisions for those examples. It is not a redistributed official ISO dataset.
+The seed data is aligned with ISO 3166 and UN M49 concepts, but it is a small hand-curated representative dataset only. It currently includes GB, US, DE, FR, IE, AL, CA, and AU, plus representative subdivisions for those examples. The seed proves API behaviour, lookup semantics, leading-zero numeric handling, subdivision modelling, and package workflow. It is not a redistributed official ISO dataset.
 
 Current data version:
 
@@ -141,7 +141,7 @@ Console.WriteLine(CountryDataVersion.Description);
 
 No runtime code makes hidden network calls. The runtime package uses checked-in compiled seed data rather than loose external files.
 
-Data-source policy and limitations are documented in [`docs/data-sources.md`](docs/data-sources.md). The v1.0 data decision is tracked in [`docs/data-strategy.md`](docs/data-strategy.md).
+Data-source policy and limitations are documented in [`docs/data-sources.md`](docs/data-sources.md). The `0.1.0` release posture and v1.0 data decision are tracked in [`docs/data-strategy.md`](docs/data-strategy.md) and [`docs/decisions`](docs/decisions).
 
 ## Release Verification
 
