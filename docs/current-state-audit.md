@@ -3,7 +3,7 @@
 ## Checked environment
 
 - Branch: `main`
-- Commit: `5ddc481`
+- Commit: release-candidate working tree
 - .NET SDK: `8.0.422`
 - Audit date: 2026-06-19
 
@@ -113,27 +113,27 @@ Package metadata includes package ID, title, description, author, repository URL
 
 The package version is explicitly pre-1.0 while the data remains representative rather than complete.
 
-CI restores, builds, tests, packs, and runs the local package smoke test.
+CI restores, builds, tests, packs, runs the local package smoke test, and uploads package artifacts.
 
 ## Verification results
 
-Initial baseline before hardening:
+Current release-candidate verification:
 
 | Command | Result |
 |---|---|
 | `dotnet restore` | Passed |
 | `dotnet build --configuration Release` | Passed |
-| `dotnet test --configuration Release` | Passed, 58 tests |
+| `dotnet test --configuration Release` | Passed, 116 tests |
 | `dotnet pack --configuration Release --output ./artifacts` | Passed |
 
-After hardening, run the final verification commands from `docs/release-gate.md` before any release.
+After hardening, run the final verification commands from `docs/release-gate.md` before any release. The package smoke test now also checks package contents and local consumer installation.
 
 ## Gaps
 
 - Country data is representative only, not complete current-country coverage.
 - Full ISO 3166-2 subdivision coverage is intentionally deferred.
 - Reserved, exceptional, former, and user-assigned code modelling exists in enum shape only; the registry does not yet contain separate data for those states.
-- JSON converters require manual registration.
+- JSON converters require manual registration and reject non-string tokens explicitly.
 - Public API snapshot approval is lightweight reflection-based protection, not a full binary compatibility tool.
 
 ## Recommended next actions

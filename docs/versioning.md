@@ -4,6 +4,8 @@
 
 The package should remain pre-1.0 while it contains representative data only, unless there is an explicit product decision that representative scope is the v1.0 contract.
 
+The v1.0 data-scope decision is tracked in `docs/data-strategy.md` and `docs/decisions/0002-v1-data-scope.md`.
+
 Validation issue codes should be stable once published.
 
 Breaking changes include:

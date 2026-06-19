@@ -4,9 +4,9 @@
 
 This project is not an official ISO product and does not claim ISO endorsement.
 
-## First-Pass Seed Data
+## Representative Seed Data
 
-The current country seed is deliberately small and representative:
+The current country seed is deliberately small, hand-curated, and representative. It proves package behaviour; it is not a redistributed official ISO table:
 
 - `GB` / `GBR` / `826` - United Kingdom
 - `US` / `USA` / `840` - United States
@@ -20,6 +20,8 @@ The current country seed is deliberately small and representative:
 Representative subdivision seed data currently includes `GB-ENG`, `GB-SCT`, `GB-WLS`, `GB-NIR`, `US-CA`, `CA-ON`, `AU-NSW`, and `IE-D`.
 
 The JSON files in `data/` are source-aligned project seed files. The runtime package uses checked-in compiled seed data so it does not depend on loose external files after packaging.
+
+The v1.0 data-source decision is tracked in [`data-strategy.md`](data-strategy.md) and [`decisions/0002-v1-data-scope.md`](decisions/0002-v1-data-scope.md).
 
 ## Data Version
 
@@ -46,7 +48,7 @@ For small representative corrections:
 3. Update `CountryDataVersion` when the data posture or checked date changes.
 4. Run the data drift and integrity tests.
 
-For complete current-country expansion, document the source, version, date checked, and redistribution position before adding data.
+For complete current-country expansion, document the source, version, date checked, redistribution position, and generation workflow before adding data.
 
 ## Future Expansion
 

@@ -9,7 +9,7 @@ The core value objects are:
 - `CountryNumericCode`
 - `CountrySubdivisionCode`
 
-They are `readonly struct` types with canonical string values, `Parse`, `TryParse`, `IsValidSyntax`, structured `TryValidate`, equality, comparison, and `ToString()` support.
+They are `readonly struct` types with canonical string values, `Parse`, `TryParse`, `IsValidSyntax`, structured `TryValidate`, equality, comparison, `<`/`>` operators, and `ToString()` support.
 
 Alpha values canonicalise to uppercase ASCII. Numeric values preserve three-character form, including leading zeroes such as `008`.
 
@@ -64,7 +64,7 @@ Current lookup failure reasons include future-facing enum values such as `Reserv
 
 The package includes `System.Text.Json` converters for the value-object types. They require manual registration on `JsonSerializerOptions`.
 
-Converters serialise canonical strings, deserialise valid strings, preserve numeric leading zeroes, and throw `JsonException` for invalid input.
+Converters serialise canonical strings, deserialise valid strings, preserve numeric leading zeroes, and throw `JsonException` for invalid strings or non-string JSON tokens. Default value objects serialise as empty strings and should be treated as uninitialised values rather than meaningful canonical codes.
 
 ## Current consumer experience
 
@@ -89,6 +89,7 @@ String overloads are useful for boundary input, but strongly typed values remain
 - Added `CountryDataVersion`.
 - Added consumer-shaped public API ergonomics tests.
 - Added public API snapshot protection using `approved-public-api.txt`.
+- Strengthened public API snapshot coverage so public operators are reviewed.
 - Added drift tests to keep JSON seed files aligned with compiled seed data.
 - Added additional registry, JSON, and value-object edge-case tests.
 - Updated documentation and samples to match the current API and v0.x data posture.

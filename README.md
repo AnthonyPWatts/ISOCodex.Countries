@@ -46,7 +46,7 @@ if (result.Success)
 
 ## Country Codes
 
-The first pass supports value objects for:
+The v0.1 foundation supports value objects for:
 
 - `CountryAlpha2Code`, such as `GB`
 - `CountryAlpha3Code`, such as `GBR`
@@ -94,6 +94,8 @@ CountryAlpha2Code code = JsonSerializer.Deserialize<CountryAlpha2Code>("\"GB\"",
 
 Converters serialise to canonical strings and reject invalid values during deserialisation.
 
+Default value objects serialise as empty strings. A default value object is not a meaningful canonical country code; treat it as an uninitialised value rather than persisted domain data.
+
 ## CSV Import Validation
 
 For import pipelines, keep row-level errors rather than throwing for normal invalid input:
@@ -127,7 +129,7 @@ var options = CountryRegistry.All
 
 ## Data Sources And Limitations
 
-The seed data is aligned with ISO 3166 and UN M49 concepts, but it is a small representative dataset only. It currently includes GB, US, DE, FR, IE, AL, CA, and AU, plus representative subdivisions for those examples.
+The seed data is aligned with ISO 3166 and UN M49 concepts, but it is a small hand-curated representative dataset only. It currently includes GB, US, DE, FR, IE, AL, CA, and AU, plus representative subdivisions for those examples. It is not a redistributed official ISO dataset.
 
 Current data version:
 
@@ -139,7 +141,7 @@ Console.WriteLine(CountryDataVersion.Description);
 
 No runtime code makes hidden network calls. The runtime package uses checked-in compiled seed data rather than loose external files.
 
-Data-source policy and limitations are documented in [`docs/data-sources.md`](docs/data-sources.md).
+Data-source policy and limitations are documented in [`docs/data-sources.md`](docs/data-sources.md). The v1.0 data decision is tracked in [`docs/data-strategy.md`](docs/data-strategy.md).
 
 ## Release Verification
 

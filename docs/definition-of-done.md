@@ -78,7 +78,7 @@ Done means:
 - README is included in the package,
 - Source Link and deterministic builds remain configured,
 - `dotnet pack` succeeds,
-- a local package smoke test proves installation and runtime lookup from the `.nupkg`.
+- a local package smoke test proves package contents, installation, and runtime lookup from the `.nupkg`.
 
 ## Public API stability
 

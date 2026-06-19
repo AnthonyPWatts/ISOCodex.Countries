@@ -28,6 +28,9 @@ Use this checklist before any NuGet release. Publishing itself must be a separat
 - [ ] Repository URL and project URL reviewed.
 - [ ] Tags reviewed.
 - [ ] README included in package.
+- [ ] Package contains expected `lib/netstandard2.1` and `lib/net8.0` assets.
+- [ ] Package contains XML documentation files when XML docs are enabled.
+- [ ] Package does not contain accidental loose runtime `data/*.json` dependencies.
 - [ ] Source Link and deterministic build settings still present.
 
 ## Local verification
@@ -50,6 +53,7 @@ All commands must pass or the blocker must be documented before release.
 
 - [ ] CI is green on the release commit.
 - [ ] CI restores, builds, tests, packs, and runs package smoke testing.
+- [ ] CI uploads package artifacts for the release-candidate commit.
 
 ## Final release decision
 

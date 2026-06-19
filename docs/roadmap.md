@@ -21,7 +21,7 @@ v0.x should continue to:
 
 ## v1.0 release path
 
-v1.0 requires a deliberate data decision:
+v1.0 requires the deliberate data decision described in [`data-strategy.md`](data-strategy.md):
 
 - either complete, redistribution-safe current-country data,
 - or an explicit product decision that the package is intentionally representative.
