@@ -5172,6 +5172,12 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("ME-23"), CountryAlpha2Code.Parse("ME"), "Petnjica", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("ME-24"), CountryAlpha2Code.Parse("ME"), "Tuzi", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("ME-25"), CountryAlpha2Code.Parse("ME"), "Zeta", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MG-A"), CountryAlpha2Code.Parse("MG"), "Toamasina", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MG-D"), CountryAlpha2Code.Parse("MG"), "Antsiranana", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MG-F"), CountryAlpha2Code.Parse("MG"), "Fianarantsoa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MG-M"), CountryAlpha2Code.Parse("MG"), "Mahajanga", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MG-T"), CountryAlpha2Code.Parse("MG"), "Antananarivo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MG-U"), CountryAlpha2Code.Parse("MG"), "Toliara", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

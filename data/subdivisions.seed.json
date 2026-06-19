@@ -20461,6 +20461,48 @@
     "type": "Unknown"
   },
   {
+    "code": "MG-A",
+    "countryCode": "MG",
+    "englishName": "Toamasina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MG-D",
+    "countryCode": "MG",
+    "englishName": "Antsiranana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MG-F",
+    "countryCode": "MG",
+    "englishName": "Fianarantsoa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MG-M",
+    "countryCode": "MG",
+    "englishName": "Mahajanga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MG-T",
+    "countryCode": "MG",
+    "englishName": "Antananarivo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MG-U",
+    "countryCode": "MG",
+    "englishName": "Toliara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
