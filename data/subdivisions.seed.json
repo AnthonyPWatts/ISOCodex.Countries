@@ -5481,6 +5481,174 @@
     "type": "Unknown"
   },
   {
+    "code": "CV-B",
+    "countryCode": "CV",
+    "englishName": "Barlavento Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-BR",
+    "countryCode": "CV",
+    "englishName": "Brava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-BV",
+    "countryCode": "CV",
+    "englishName": "Boa Vista",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-CA",
+    "countryCode": "CV",
+    "englishName": "Santa Catarina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-CF",
+    "countryCode": "CV",
+    "englishName": "Santa Catarina do Fogo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-CR",
+    "countryCode": "CV",
+    "englishName": "Santa Cruz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-MA",
+    "countryCode": "CV",
+    "englishName": "Maio",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-MO",
+    "countryCode": "CV",
+    "englishName": "Mosteiros",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-PA",
+    "countryCode": "CV",
+    "englishName": "Paul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-PN",
+    "countryCode": "CV",
+    "englishName": "Porto Novo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-PR",
+    "countryCode": "CV",
+    "englishName": "Praia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-RB",
+    "countryCode": "CV",
+    "englishName": "Ribeira Brava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-RG",
+    "countryCode": "CV",
+    "englishName": "Ribeira Grande",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-RS",
+    "countryCode": "CV",
+    "englishName": "Ribeira Grande de Santiago",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-S",
+    "countryCode": "CV",
+    "englishName": "Sotavento Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-SD",
+    "countryCode": "CV",
+    "englishName": "São Domingos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-SF",
+    "countryCode": "CV",
+    "englishName": "São Filipe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-SL",
+    "countryCode": "CV",
+    "englishName": "Sal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-SM",
+    "countryCode": "CV",
+    "englishName": "São Miguel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-SO",
+    "countryCode": "CV",
+    "englishName": "São Lourenço dos Órgãos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-SS",
+    "countryCode": "CV",
+    "englishName": "São Salvador do Mundo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-SV",
+    "countryCode": "CV",
+    "englishName": "São Vicente",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-TA",
+    "countryCode": "CV",
+    "englishName": "Tarrafal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CV-TS",
+    "countryCode": "CV",
+    "englishName": "Tarrafal de São Nicolau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
