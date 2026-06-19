@@ -3949,6 +3949,12 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("GL-QE"), CountryAlpha2Code.Parse("GL"), "Qeqqata", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GL-QT"), CountryAlpha2Code.Parse("GL"), "Kommune Qeqertalik", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GL-SM"), CountryAlpha2Code.Parse("GL"), "Sermersooq", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GM-B"), CountryAlpha2Code.Parse("GM"), "Banjul", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GM-L"), CountryAlpha2Code.Parse("GM"), "Lower River Division", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GM-M"), CountryAlpha2Code.Parse("GM"), "Central River Division", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GM-N"), CountryAlpha2Code.Parse("GM"), "North Bank Division", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GM-U"), CountryAlpha2Code.Parse("GM"), "Upper River Division", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GM-W"), CountryAlpha2Code.Parse("GM"), "West Coast Division", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("IE-D"), CountryAlpha2Code.Parse("IE"), "Dublin", null, CountrySubdivisionType.County),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();

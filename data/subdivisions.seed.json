@@ -11900,6 +11900,48 @@
     "type": "Unknown"
   },
   {
+    "code": "GM-B",
+    "countryCode": "GM",
+    "englishName": "Banjul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GM-L",
+    "countryCode": "GM",
+    "englishName": "Lower River Division",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GM-M",
+    "countryCode": "GM",
+    "englishName": "Central River Division",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GM-N",
+    "countryCode": "GM",
+    "englishName": "North Bank Division",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GM-U",
+    "countryCode": "GM",
+    "englishName": "Upper River Division",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GM-W",
+    "countryCode": "GM",
+    "englishName": "West Coast Division",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",
