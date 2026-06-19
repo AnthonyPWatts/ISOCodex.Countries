@@ -21322,6 +21322,111 @@
     "type": "Unknown"
   },
   {
+    "code": "MM-01",
+    "countryCode": "MM",
+    "englishName": "Sagaing",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-02",
+    "countryCode": "MM",
+    "englishName": "Bago",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-03",
+    "countryCode": "MM",
+    "englishName": "Magway",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-04",
+    "countryCode": "MM",
+    "englishName": "Mandalay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-05",
+    "countryCode": "MM",
+    "englishName": "Tanintharyi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-06",
+    "countryCode": "MM",
+    "englishName": "Yangon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-07",
+    "countryCode": "MM",
+    "englishName": "Ayeyarwady",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-11",
+    "countryCode": "MM",
+    "englishName": "Kachin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-12",
+    "countryCode": "MM",
+    "englishName": "Kayah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-13",
+    "countryCode": "MM",
+    "englishName": "Kayin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-14",
+    "countryCode": "MM",
+    "englishName": "Chin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-15",
+    "countryCode": "MM",
+    "englishName": "Mon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-16",
+    "countryCode": "MM",
+    "englishName": "Rakhine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-17",
+    "countryCode": "MM",
+    "englishName": "Shan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MM-18",
+    "countryCode": "MM",
+    "englishName": "Naypyidaw",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

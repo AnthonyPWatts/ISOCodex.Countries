@@ -5295,6 +5295,21 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("ML-8"), CountryAlpha2Code.Parse("ML"), "Kidal", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("ML-9"), CountryAlpha2Code.Parse("ML"), "Ménaka", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("ML-BKO"), CountryAlpha2Code.Parse("ML"), "Bamako", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-01"), CountryAlpha2Code.Parse("MM"), "Sagaing", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-02"), CountryAlpha2Code.Parse("MM"), "Bago", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-03"), CountryAlpha2Code.Parse("MM"), "Magway", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-04"), CountryAlpha2Code.Parse("MM"), "Mandalay", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-05"), CountryAlpha2Code.Parse("MM"), "Tanintharyi", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-06"), CountryAlpha2Code.Parse("MM"), "Yangon", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-07"), CountryAlpha2Code.Parse("MM"), "Ayeyarwady", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-11"), CountryAlpha2Code.Parse("MM"), "Kachin", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-12"), CountryAlpha2Code.Parse("MM"), "Kayah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-13"), CountryAlpha2Code.Parse("MM"), "Kayin", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-14"), CountryAlpha2Code.Parse("MM"), "Chin", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-15"), CountryAlpha2Code.Parse("MM"), "Mon", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-16"), CountryAlpha2Code.Parse("MM"), "Rakhine", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-17"), CountryAlpha2Code.Parse("MM"), "Shan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MM-18"), CountryAlpha2Code.Parse("MM"), "Naypyidaw", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
