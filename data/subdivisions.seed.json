@@ -5089,6 +5089,237 @@
     "type": "Unknown"
   },
   {
+    "code": "CO-AMA",
+    "countryCode": "CO",
+    "englishName": "Amazonas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-ANT",
+    "countryCode": "CO",
+    "englishName": "Antioquia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-ARA",
+    "countryCode": "CO",
+    "englishName": "Arauca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-ATL",
+    "countryCode": "CO",
+    "englishName": "Atlántico",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-BOL",
+    "countryCode": "CO",
+    "englishName": "Bolívar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-BOY",
+    "countryCode": "CO",
+    "englishName": "Boyacá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-CAL",
+    "countryCode": "CO",
+    "englishName": "Caldas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-CAQ",
+    "countryCode": "CO",
+    "englishName": "Caquetá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-CAS",
+    "countryCode": "CO",
+    "englishName": "Casanare",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-CAU",
+    "countryCode": "CO",
+    "englishName": "Cauca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-CES",
+    "countryCode": "CO",
+    "englishName": "Cesar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-CHO",
+    "countryCode": "CO",
+    "englishName": "Chocó",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-COR",
+    "countryCode": "CO",
+    "englishName": "Córdoba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-CUN",
+    "countryCode": "CO",
+    "englishName": "Cundinamarca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-DC",
+    "countryCode": "CO",
+    "englishName": "Capital District",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-GUA",
+    "countryCode": "CO",
+    "englishName": "Guainía",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-GUV",
+    "countryCode": "CO",
+    "englishName": "Guaviare",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-HUI",
+    "countryCode": "CO",
+    "englishName": "Huila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-LAG",
+    "countryCode": "CO",
+    "englishName": "La Guajira",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-MAG",
+    "countryCode": "CO",
+    "englishName": "Magdalena",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-MET",
+    "countryCode": "CO",
+    "englishName": "Meta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-NAR",
+    "countryCode": "CO",
+    "englishName": "Nariño",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-NSA",
+    "countryCode": "CO",
+    "englishName": "Norte de Santander",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-PUT",
+    "countryCode": "CO",
+    "englishName": "Putumayo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-QUI",
+    "countryCode": "CO",
+    "englishName": "Quindío",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-RIS",
+    "countryCode": "CO",
+    "englishName": "Risaralda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-SAN",
+    "countryCode": "CO",
+    "englishName": "Santander",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-SAP",
+    "countryCode": "CO",
+    "englishName": "San Andrés & Providencia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-SUC",
+    "countryCode": "CO",
+    "englishName": "Sucre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-TOL",
+    "countryCode": "CO",
+    "englishName": "Tolima",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-VAC",
+    "countryCode": "CO",
+    "englishName": "Valle del Cauca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-VAU",
+    "countryCode": "CO",
+    "englishName": "Vaupés",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CO-VID",
+    "countryCode": "CO",
+    "englishName": "Vichada",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
