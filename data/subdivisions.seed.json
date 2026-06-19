@@ -32004,6 +32004,223 @@
     "type": "Unknown"
   },
   {
+    "code": "TZ-01",
+    "countryCode": "TZ",
+    "englishName": "Arusha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-02",
+    "countryCode": "TZ",
+    "englishName": "Dar es Salaam",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-03",
+    "countryCode": "TZ",
+    "englishName": "Dodoma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-04",
+    "countryCode": "TZ",
+    "englishName": "Iringa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-05",
+    "countryCode": "TZ",
+    "englishName": "Kagera",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-06",
+    "countryCode": "TZ",
+    "englishName": "North Pemba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-07",
+    "countryCode": "TZ",
+    "englishName": "Zanzibar North",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-08",
+    "countryCode": "TZ",
+    "englishName": "Kigoma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-09",
+    "countryCode": "TZ",
+    "englishName": "Kilimanjaro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-10",
+    "countryCode": "TZ",
+    "englishName": "South Pemba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-11",
+    "countryCode": "TZ",
+    "englishName": "Zanzibar Central/South",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-12",
+    "countryCode": "TZ",
+    "englishName": "Lindi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-13",
+    "countryCode": "TZ",
+    "englishName": "Mara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-14",
+    "countryCode": "TZ",
+    "englishName": "Mbeya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-15",
+    "countryCode": "TZ",
+    "englishName": "Zanzibar Urban/West",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-16",
+    "countryCode": "TZ",
+    "englishName": "Morogoro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-17",
+    "countryCode": "TZ",
+    "englishName": "Mtwara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-18",
+    "countryCode": "TZ",
+    "englishName": "Mwanza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-19",
+    "countryCode": "TZ",
+    "englishName": "Pwani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-20",
+    "countryCode": "TZ",
+    "englishName": "Rukwa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-21",
+    "countryCode": "TZ",
+    "englishName": "Ruvuma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-22",
+    "countryCode": "TZ",
+    "englishName": "Shinyanga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-23",
+    "countryCode": "TZ",
+    "englishName": "Singida",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-24",
+    "countryCode": "TZ",
+    "englishName": "Tabora",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-25",
+    "countryCode": "TZ",
+    "englishName": "Tanga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-26",
+    "countryCode": "TZ",
+    "englishName": "Manyara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-27",
+    "countryCode": "TZ",
+    "englishName": "Geita",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-28",
+    "countryCode": "TZ",
+    "englishName": "Katavi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-29",
+    "countryCode": "TZ",
+    "englishName": "Njombe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-30",
+    "countryCode": "TZ",
+    "englishName": "Simiyu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TZ-31",
+    "countryCode": "TZ",
+    "englishName": "Songwe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
