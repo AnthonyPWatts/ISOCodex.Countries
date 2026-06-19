@@ -9170,6 +9170,34 @@
     "type": "Unknown"
   },
   {
+    "code": "FM-KSA",
+    "countryCode": "FM",
+    "englishName": "Kosrae",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FM-PNI",
+    "countryCode": "FM",
+    "englishName": "Pohnpei",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FM-TRK",
+    "countryCode": "FM",
+    "englishName": "Chuuk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FM-YAP",
+    "countryCode": "FM",
+    "englishName": "Yap",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
