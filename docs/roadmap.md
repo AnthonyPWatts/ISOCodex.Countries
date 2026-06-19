@@ -2,9 +2,9 @@
 
 ## Current status
 
-`ISOCodex.Countries` is a `1.0.0-alpha` foundation package with CLDR-derived current country and territory seed data, representative subdivision seed data, strong value objects, registry lookup, JSON support, tests, package smoke testing, and release documentation.
+`ISOCodex.Countries` is a `1.0.0-alpha` foundation package with CLDR-derived current country, territory, and regular subdivision seed data, strong value objects, registry lookup, JSON support, tests, package smoke testing, and release documentation.
 
-The package is not an official ISO product and does not provide full subdivision coverage.
+The package is not an official ISO product and does not provide official ISO subdivision categories or subdivision hierarchy modelling.
 
 ## v1 alpha release path
 
@@ -18,7 +18,7 @@ The package should continue to:
 - keep package verification green;
 - avoid silent alias resolution;
 - avoid hidden runtime network calls;
-- avoid full subdivision expansion in the core package.
+- avoid subdivision type or hierarchy expansion without a reviewed source.
 
 ## Data-source maintenance plan
 
@@ -27,15 +27,15 @@ The package should continue to:
 3. Review generated JSON and compiled data together.
 4. Keep tests for expected count, duplicates, syntax, numeric leading zeroes, selected exclusions, and known edge cases.
 
-## Optional subdivision packs
+## Optional subdivision enrichment
 
-Full global subdivision coverage should not be added to the core package casually.
+Subdivision code/name coverage is now in the core package for the selected CLDR-derived scope. Further enrichment should be added cautiously.
 
 Possible future package shape:
 
-- `ISOCodex.Countries.Subdivisions.GB`
-- `ISOCodex.Countries.Subdivisions.US`
-- `ISOCodex.Countries.Subdivisions.All`
+- `ISOCodex.Countries.Subdivisions.Hierarchy`
+- `ISOCodex.Countries.Subdivisions.Types`
+- country-specific enrichment packages if a separate source justifies them
 
 Do not create these until the source and update strategy is proven.
 

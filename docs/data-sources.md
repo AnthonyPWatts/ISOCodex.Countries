@@ -27,24 +27,32 @@ The package includes `THIRD-PARTY-NOTICES.md` for Unicode CLDR attribution and l
 
 ## Subdivision Seed Data
 
-Representative subdivision seed data currently includes `GB-ENG`, `GB-SCT`, `GB-WLS`, `GB-NIR`, `US-CA`, `CA-ON`, `AU-NSW`, and `IE-D`.
+The subdivision seed is derived from Unicode CLDR 48.2. It includes 5,027 regular subdivision entries across 200 countries.
 
-Subdivision coverage is deliberately representative only. It proves API shape, syntax, lookup, and packaging behaviour, but it is not complete ISO 3166-2 coverage.
+The generation source files are:
+
+- `common/validity/subdivision.xml`
+- `common/subdivisions/en.xml`
+
+The generator is `eng/update-subdivision-seed-from-cldr.ps1`.
+
+The generated registry includes CLDR regular subdivision identifiers and English display names. It does not claim official ISO subdivision category/type wording. `CountrySubdivisionType` is `Unknown` unless a specific reviewed overlay exists.
 
 ## Data Version
 
-- Identifier: `cldr-48.2-country-seed-2026-06`
+- Identifier: `cldr-48.2-country-subdivision-seed-2026-06`
 - Date checked: 2026-06-19
 - Runtime exposure: `CountryDataVersion`
 - v1 alpha decision: [`decisions/0005-v1-alpha-country-data-scope.md`](decisions/0005-v1-alpha-country-data-scope.md)
+- subdivision decision: [`decisions/0006-v1-alpha-subdivision-data-scope.md`](decisions/0006-v1-alpha-subdivision-data-scope.md)
 
 The data version identifies the checked-in package data posture. It is not an ISO publication identifier.
 
 ## Completeness Limits
 
-Country and territory code coverage is complete for the selected CLDR-derived current-entry scope.
+Country, territory, and subdivision code/name coverage is complete for the selected CLDR-derived current-entry scope.
 
-The package does not currently model reserved code ranges, former-country entries, exceptional reservations, transitional reservations, user-assigned ranges, localisation, flags, calling codes, sanctions data, currencies, address formatting, geospatial data, online updates, or full subdivision coverage.
+The package does not currently model reserved code ranges, former-country entries, exceptional reservations, transitional reservations, user-assigned ranges, localisation, flags, calling codes, sanctions data, currencies, address formatting, geospatial data, online updates, official ISO subdivision categories, or subdivision containment hierarchy.
 
 `GB` is the canonical ISO-style alpha-2 country code used by this package. `UK` is commonly encountered in real systems, but it is not silently treated as canonical `GB`.
 
@@ -61,12 +69,14 @@ For CLDR country data updates:
 5. Update `CountryDataVersion` when the source release or checked date changes.
 6. Run data integrity, drift, package, and public API checks.
 
-For subdivision corrections:
+For CLDR subdivision data updates:
 
-1. Update `data/subdivisions.seed.json`.
-2. Update `CountrySeedData`.
-3. Update documentation if the representative scope changes.
-4. Run the data drift and integrity tests.
+1. Review the target CLDR release, licence, and source-file shape.
+2. Update the pinned version/tag in `eng/update-subdivision-seed-from-cldr.ps1` if needed.
+3. Run `./eng/update-subdivision-seed-from-cldr.ps1`.
+4. Review `data/subdivisions.seed.json` and `CountrySeedData`.
+5. Update `CountryDataVersion` when the source release or checked date changes.
+6. Run data integrity, drift, package, and public API checks.
 
 Do not add copied official ISO tables unless redistribution rights are clear.
 

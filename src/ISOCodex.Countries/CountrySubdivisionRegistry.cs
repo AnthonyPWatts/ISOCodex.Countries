@@ -1,7 +1,7 @@
 namespace ISOCodex.Countries;
 
 /// <summary>
-/// Provides lookup access to the checked-in representative subdivision seed registry.
+/// Provides lookup access to the checked-in subdivision seed registry.
 /// </summary>
 public static class CountrySubdivisionRegistry
 {

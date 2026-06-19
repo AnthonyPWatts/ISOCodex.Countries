@@ -119,6 +119,37 @@ public sealed class DataIntegrityTests
     }
 
     [Fact]
+    public void Subdivision_Seed_Data_Has_Expected_Cldr_Count()
+    {
+        Assert.Equal(5027, CountrySubdivisionRegistry.All.Count);
+        Assert.Equal(200, CountrySubdivisionRegistry.All.Select(subdivision => subdivision.CountryCode.Value).Distinct(StringComparer.Ordinal).Count());
+    }
+
+    [Fact]
+    public void Subdivision_Seed_Data_Has_No_Duplicate_Codes()
+    {
+        AssertNoDuplicates(CountrySubdivisionRegistry.All.Select(subdivision => subdivision.Code.Value));
+    }
+
+    [Fact]
+    public void Subdivision_Seed_Data_Has_No_Empty_Display_Metadata()
+    {
+        foreach (CountrySubdivisionInfo subdivision in CountrySubdivisionRegistry.All)
+        {
+            Assert.False(string.IsNullOrWhiteSpace(subdivision.EnglishName));
+        }
+    }
+
+    [Fact]
+    public void Subdivision_Seed_Codes_All_Pass_Syntax_Validation()
+    {
+        foreach (CountrySubdivisionInfo subdivision in CountrySubdivisionRegistry.All)
+        {
+            Assert.True(CountrySubdivisionCode.IsValidSyntax(subdivision.Code.Value));
+        }
+    }
+
+    [Fact]
     public void Subdivision_Code_Prefix_Matches_Country_Field()
     {
         foreach (CountrySubdivisionInfo subdivision in CountrySubdivisionRegistry.All)

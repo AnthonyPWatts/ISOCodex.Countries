@@ -150,6 +150,9 @@ public sealed class RegistryTests
         Assert.True(CountrySubdivisionRegistry.TryGetByCode("GB-ENG", out CountrySubdivisionInfo? subdivision));
         Assert.Equal("England", subdivision?.EnglishName);
 
+        Assert.True(CountrySubdivisionRegistry.TryGetByCode("AD-02", out CountrySubdivisionInfo? andorra));
+        Assert.Equal("Canillo", andorra?.EnglishName);
+
         Assert.False(CountrySubdivisionRegistry.TryGetByCode("GB-XYZ", out CountrySubdivisionInfo? unknown));
         Assert.Null(unknown);
     }

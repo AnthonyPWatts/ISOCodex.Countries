@@ -8,10 +8,10 @@ public static class CountryDataVersion
     /// <summary>
     /// Gets the package data snapshot identifier.
     /// </summary>
-    public static string Identifier { get; } = "cldr-48.2-country-seed-2026-06";
+    public static string Identifier { get; } = "cldr-48.2-country-subdivision-seed-2026-06";
 
     /// <summary>
-    /// Gets the date this country seed posture was checked.
+    /// Gets the date this data posture was checked.
     /// </summary>
     public static string CheckedOn { get; } = "2026-06-19";
 
@@ -19,5 +19,5 @@ public static class CountryDataVersion
     /// Gets a human-readable description of the package data coverage.
     /// </summary>
     public static string Description { get; } =
-        "Current ISO-style country and territory seed data derived from Unicode CLDR 48.2, with representative subdivision examples.";
+        "Current ISO-style country, territory, and regular subdivision seed data derived from Unicode CLDR 48.2.";
 }

@@ -7,7 +7,9 @@ Alpha release candidate for the v1 foundation contract.
 ### Added
 
 - Added CLDR-derived current country and territory seed data for 249 alpha-2, alpha-3, numeric, and English display-name entries.
+- Added CLDR-derived regular subdivision seed data for 5,027 subdivision entries across 200 countries.
 - Added `eng/update-country-seed-from-cldr.ps1` to regenerate country seed data from pinned Unicode CLDR source files.
+- Added `eng/update-subdivision-seed-from-cldr.ps1` to regenerate subdivision seed data from pinned Unicode CLDR source files.
 - Added third-party notices for Unicode CLDR data.
 - Added data tests for expected country count, CLDR source disclosure, and selected territory edge cases.
 
@@ -19,7 +21,8 @@ Alpha release candidate for the v1 foundation contract.
 ### Release notes
 
 - Country and territory data is derived from Unicode CLDR 48.2, not copied from official ISO tables.
-- Subdivision data remains representative only and is not complete ISO 3166-2 coverage.
+- Subdivision code and English display-name data is derived from Unicode CLDR 48.2, not copied from official ISO tables.
+- Subdivision type metadata is intentionally sparse and remains `Unknown` unless a specific reviewed overlay exists.
 - The package is not an official ISO product and does not claim ISO endorsement.
 
 ## 0.1.0 - 2026-06-19

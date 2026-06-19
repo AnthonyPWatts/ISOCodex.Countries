@@ -21,7 +21,7 @@ The v1 alpha country-data contract is:
 - current country and territory entries are derived from Unicode CLDR 48.2;
 - deprecated territory aliases are excluded;
 - CLDR pseudo-territories, regional groupings, unknown-region placeholders, and user-assigned code elements that are not ISO 3166-1 assigned country entries are excluded;
-- subdivision coverage remains representative only.
+- subdivision code/name coverage is handled separately by [`0006-v1-alpha-subdivision-data-scope.md`](0006-v1-alpha-subdivision-data-scope.md).
 
 ## Consequences
 

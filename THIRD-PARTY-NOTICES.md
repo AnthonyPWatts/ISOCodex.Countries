@@ -2,15 +2,19 @@
 
 ## Unicode CLDR
 
-Country seed data is derived from Unicode CLDR release 48.2:
+Country, territory, and subdivision seed data is derived from Unicode CLDR release 48.2:
 
 - `common/supplemental/supplementalData.xml`
 - `common/supplemental/supplementalMetadata.xml`
 - `common/main/en.xml`
+- `common/validity/subdivision.xml`
+- `common/subdivisions/en.xml`
 
 CLDR data is copyright Unicode, Inc. and is released under the Unicode License v3.
 
 The package uses CLDR territory code mappings and English territory display names to build a current ISO-style country and territory registry. It excludes deprecated territory aliases, CLDR pseudo-territories, regional groupings, unknown-region placeholders, and user-assigned code elements that are not ISO 3166-1 assigned country entries.
+
+The package also uses CLDR subdivision validity data and English subdivision display names to build the subdivision registry.
 
 Unicode License v3 text:
 

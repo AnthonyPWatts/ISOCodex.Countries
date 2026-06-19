@@ -6,7 +6,7 @@
 
 ## Non-goals
 
-The package does not provide sanctions data, flags, calling codes, currencies, address formatting, geospatial data, localisation, online updates, or full subdivision coverage in the core package.
+The package does not provide sanctions data, flags, calling codes, currencies, address formatting, geospatial data, localisation, online updates, official ISO subdivision categories, or subdivision hierarchy modelling in the core package.
 
 ## Value-object correctness
 
@@ -31,7 +31,7 @@ Done means registry lookups:
 
 ## Data completeness policy
 
-`1.0.0-alpha` requires complete current country and territory coverage for the selected CLDR-derived scope. The v1 alpha data-scope decision is recorded in `docs/decisions/0005-v1-alpha-country-data-scope.md`.
+`1.0.0-alpha` requires complete current country, territory, and regular subdivision code/name coverage for the selected CLDR-derived scope. The v1 alpha data-scope decisions are recorded in `docs/decisions/0005-v1-alpha-country-data-scope.md` and `docs/decisions/0006-v1-alpha-subdivision-data-scope.md`.
 
 ## Data-source transparency
 
@@ -96,4 +96,4 @@ Before any NuGet release, run the checklist in `docs/release-gate.md`. NuGet pub
 
 ## Known limitations
 
-Country and territory seed data is derived from Unicode CLDR 48.2 for the selected v1 alpha scope. Subdivision coverage proves the model but is not a global dataset.
+Country, territory, and regular subdivision seed data is derived from Unicode CLDR 48.2 for the selected v1 alpha scope. Subdivision type metadata is intentionally sparse.

@@ -8,7 +8,7 @@ It is not an official ISO product, is not endorsed by ISO, and is not a geopolit
 
 ## Current Status
 
-`1.0.0-alpha` release candidate. The package has CLDR-derived current country and territory seed data, representative subdivision examples, and a stable foundation API.
+`1.0.0-alpha` release candidate. The package has CLDR-derived current country, territory, and regular subdivision seed data, plus a stable foundation API.
 
 ## Installation
 
@@ -72,7 +72,7 @@ If preserving what a user originally typed matters, store the original input sep
 
 `CountrySubdivisionCode` models ISO 3166-2-style codes such as `GB-ENG`, `US-CA`, and `IE-D`.
 
-Syntax validity does not mean the subdivision is known. Use `CountrySubdivisionRegistry.TryGetByCode` when you need to check against the representative seed registry.
+Syntax validity does not mean the subdivision is known. Use `CountrySubdivisionRegistry.TryGetByCode` when you need to check against the CLDR-derived seed registry.
 
 ## JSON
 
@@ -132,7 +132,7 @@ var options = CountryRegistry.All
 
 The country seed data is derived from Unicode CLDR 48.2 and includes 249 current ISO-style country and territory entries with alpha-2, alpha-3, numeric, and English display-name metadata. It excludes deprecated territory aliases, CLDR pseudo-territories, regional groupings, unknown-region placeholders, and user-assigned code elements that are not ISO 3166-1 assigned country entries.
 
-Subdivision seed data remains representative only. It proves subdivision modelling and lookup semantics; it is not complete ISO 3166-2 coverage.
+Subdivision seed data is derived from Unicode CLDR 48.2 and includes 5,027 regular subdivision entries across 200 countries. It provides code and English display-name lookup. Subdivision type metadata is `Unknown` unless a specific reviewed overlay exists.
 
 This package is not a redistributed official ISO dataset.
 
@@ -160,4 +160,4 @@ Before any release, use [`docs/release-gate.md`](docs/release-gate.md). The loca
 
 Data corrections should include the source used, the date checked, and whether the change affects a canonical identifier, display metadata, aliases, notes, or subdivision coverage.
 
-Changing or removing canonical identifiers is breaking. Adding metadata or representative subdivisions is usually non-breaking, but should still be documented.
+Changing or removing canonical identifiers is breaking. Adding display metadata or subdivision enrichment is usually non-breaking, but should still be documented.

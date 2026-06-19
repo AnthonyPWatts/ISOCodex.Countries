@@ -64,7 +64,7 @@ The country registry uses compiled seed data from `CountrySeedData`.
 
 Current country and territory entries are generated from Unicode CLDR 48.2. The registry contains 249 current ISO-style alpha-2, alpha-3, numeric, and English display-name entries for the selected v1 alpha scope.
 
-Representative subdivision entries include `GB-ENG`, `GB-SCT`, `GB-WLS`, `GB-NIR`, `US-CA`, `CA-ON`, `AU-NSW`, and `IE-D`.
+Subdivision entries are generated from Unicode CLDR 48.2. The registry contains 5,027 regular subdivision code/name records across 200 countries for the selected v1 alpha scope.
 
 The JSON seed files in `data/` mirror the compiled seed data and are now protected by tests.
 
@@ -122,7 +122,7 @@ After hardening, run the final verification commands from `docs/release-gate.md`
 ## Gaps
 
 - Country and territory data is complete for the selected CLDR-derived v1 alpha scope.
-- Full ISO 3166-2 subdivision coverage is intentionally deferred.
+- Official ISO subdivision category/type enrichment is intentionally deferred.
 - Reserved, exceptional, former, and user-assigned code modelling exists in enum shape only; the registry does not yet contain separate data for those states.
 - JSON converters require manual registration and reject non-string tokens explicitly.
 - Public API snapshot approval is lightweight reflection-based protection, not a full binary compatibility tool.
@@ -131,4 +131,4 @@ After hardening, run the final verification commands from `docs/release-gate.md`
 
 1. Prepare `1.0.0-alpha` if the final release gate passes.
 2. Review consumer feedback on the CLDR-derived data scope.
-3. Keep subdivision expansion out of the core package until the data strategy is proven.
+3. Review subdivision type and hierarchy enrichment only after a separate source decision.

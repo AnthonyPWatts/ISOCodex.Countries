@@ -17,6 +17,7 @@ Use this checklist before any NuGet release. Publishing itself must be a separat
 - [ ] Data version reviewed.
 - [ ] CLDR source release and generation policy reviewed.
 - [ ] Data-source and redistribution assumptions documented.
+- [ ] Country and subdivision generated counts reviewed.
 - [ ] No undocumented data-source TODOs.
 - [ ] No official ISO endorsement is implied.
 - [ ] `GB`, `UK`, `EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` behaviour remains documented and tested.

@@ -12,6 +12,7 @@ $archivePath = Join-Path $workRoot "$CldrTag.zip"
 $extractRoot = Join-Path $workRoot $CldrTag
 $sourceRoot = Join-Path $extractRoot "cldr-$CldrTag"
 $dataPath = Join-Path $repoRoot "data/countries.seed.json"
+$subdivisionDataPath = Join-Path $repoRoot "data/subdivisions.seed.json"
 $codePath = Join-Path $repoRoot "src/ISOCodex.Countries/CountrySeedData.cs"
 
 $excludedTerritories = @(
@@ -47,6 +48,16 @@ function Format-CSharpStringArray {
     }
 
     return "new[] { " + (($Values | ForEach-Object { ConvertTo-CSharpStringLiteral $_ }) -join ", ") + " }"
+}
+
+function Format-CSharpNullableString {
+    param([string]$Value)
+
+    if ([string]::IsNullOrEmpty($Value)) {
+        return "null"
+    }
+
+    return ConvertTo-CSharpStringLiteral $Value
 }
 
 function Get-RequiredAttribute {
@@ -167,6 +178,21 @@ foreach ($record in $records) {
 $lastCountryLineIndex = $countryLines.Count - 1
 $countryLines[$lastCountryLineIndex] = $countryLines[$lastCountryLineIndex].TrimEnd(",")
 
+$subdivisionRecords = @((Get-Content -Raw -Path $subdivisionDataPath | ConvertFrom-Json) | Sort-Object code)
+$subdivisionLines = New-Object System.Collections.Generic.List[string]
+
+foreach ($subdivision in $subdivisionRecords) {
+    $subdivisionLines.Add(
+        "        new(CountrySubdivisionCode.Parse(" + (ConvertTo-CSharpStringLiteral $subdivision.code) +
+        "), CountryAlpha2Code.Parse(" + (ConvertTo-CSharpStringLiteral $subdivision.countryCode) +
+        "), " + (ConvertTo-CSharpStringLiteral $subdivision.englishName) +
+        ", " + (Format-CSharpNullableString $subdivision.localName) +
+        ", CountrySubdivisionType." + $subdivision.type + "),")
+}
+
+$lastSubdivisionLineIndex = $subdivisionLines.Count - 1
+$subdivisionLines[$lastSubdivisionLineIndex] = $subdivisionLines[$lastSubdivisionLineIndex].TrimEnd(",")
+
 $code = @"
 namespace ISOCodex.Countries;
 
@@ -179,14 +205,7 @@ $($countryLines -join [Environment]::NewLine)
 
     public static IReadOnlyList<CountrySubdivisionInfo> Subdivisions { get; } = new List<CountrySubdivisionInfo>
     {
-        new(CountrySubdivisionCode.Parse("GB-ENG"), CountryAlpha2Code.Parse("GB"), "England", null, CountrySubdivisionType.Nation),
-        new(CountrySubdivisionCode.Parse("GB-SCT"), CountryAlpha2Code.Parse("GB"), "Scotland", null, CountrySubdivisionType.Nation),
-        new(CountrySubdivisionCode.Parse("GB-WLS"), CountryAlpha2Code.Parse("GB"), "Wales", null, CountrySubdivisionType.Nation),
-        new(CountrySubdivisionCode.Parse("GB-NIR"), CountryAlpha2Code.Parse("GB"), "Northern Ireland", null, CountrySubdivisionType.Nation),
-        new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State),
-        new(CountrySubdivisionCode.Parse("CA-ON"), CountryAlpha2Code.Parse("CA"), "Ontario", null, CountrySubdivisionType.Province),
-        new(CountrySubdivisionCode.Parse("AU-NSW"), CountryAlpha2Code.Parse("AU"), "New South Wales", null, CountrySubdivisionType.State),
-        new(CountrySubdivisionCode.Parse("IE-D"), CountryAlpha2Code.Parse("IE"), "Dublin", null, CountrySubdivisionType.County)
+$($subdivisionLines -join [Environment]::NewLine)
     }.AsReadOnly();
 }
 "@

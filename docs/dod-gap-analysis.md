@@ -40,7 +40,7 @@
 
 ## Data-source concerns
 
-The package now contains CLDR-derived country and territory data for the selected v1 alpha scope. Subdivision data remains representative only.
+The package now contains CLDR-derived country, territory, and regular subdivision data for the selected v1 alpha scope.
 
 Do not copy large official datasets into the repository until redistribution rights are clear.
 
