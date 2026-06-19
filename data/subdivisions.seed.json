@@ -21686,6 +21686,482 @@
     "type": "Unknown"
   },
   {
+    "code": "MT-01",
+    "countryCode": "MT",
+    "englishName": "Attard",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-02",
+    "countryCode": "MT",
+    "englishName": "Balzan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-03",
+    "countryCode": "MT",
+    "englishName": "Birgu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-04",
+    "countryCode": "MT",
+    "englishName": "Birkirkara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-05",
+    "countryCode": "MT",
+    "englishName": "Birżebbuġa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-06",
+    "countryCode": "MT",
+    "englishName": "Cospicua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-07",
+    "countryCode": "MT",
+    "englishName": "Dingli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-08",
+    "countryCode": "MT",
+    "englishName": "Fgura",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-09",
+    "countryCode": "MT",
+    "englishName": "Floriana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-10",
+    "countryCode": "MT",
+    "englishName": "Fontana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-11",
+    "countryCode": "MT",
+    "englishName": "Gudja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-12",
+    "countryCode": "MT",
+    "englishName": "Gżira",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-13",
+    "countryCode": "MT",
+    "englishName": "Għajnsielem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-14",
+    "countryCode": "MT",
+    "englishName": "Għarb",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-15",
+    "countryCode": "MT",
+    "englishName": "Għargħur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-16",
+    "countryCode": "MT",
+    "englishName": "Għasri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-17",
+    "countryCode": "MT",
+    "englishName": "Għaxaq",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-18",
+    "countryCode": "MT",
+    "englishName": "Ħamrun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-19",
+    "countryCode": "MT",
+    "englishName": "Iklin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-20",
+    "countryCode": "MT",
+    "englishName": "Senglea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-21",
+    "countryCode": "MT",
+    "englishName": "Kalkara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-22",
+    "countryCode": "MT",
+    "englishName": "Kerċem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-23",
+    "countryCode": "MT",
+    "englishName": "Kirkop",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-24",
+    "countryCode": "MT",
+    "englishName": "Lija",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-25",
+    "countryCode": "MT",
+    "englishName": "Luqa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-26",
+    "countryCode": "MT",
+    "englishName": "Marsa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-27",
+    "countryCode": "MT",
+    "englishName": "Marsaskala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-28",
+    "countryCode": "MT",
+    "englishName": "Marsaxlokk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-29",
+    "countryCode": "MT",
+    "englishName": "Mdina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-30",
+    "countryCode": "MT",
+    "englishName": "Mellieħa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-31",
+    "countryCode": "MT",
+    "englishName": "Mġarr",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-32",
+    "countryCode": "MT",
+    "englishName": "Mosta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-33",
+    "countryCode": "MT",
+    "englishName": "Mqabba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-34",
+    "countryCode": "MT",
+    "englishName": "Msida",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-35",
+    "countryCode": "MT",
+    "englishName": "Imtarfa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-36",
+    "countryCode": "MT",
+    "englishName": "Munxar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-37",
+    "countryCode": "MT",
+    "englishName": "Nadur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-38",
+    "countryCode": "MT",
+    "englishName": "Naxxar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-39",
+    "countryCode": "MT",
+    "englishName": "Paola",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-40",
+    "countryCode": "MT",
+    "englishName": "Pembroke",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-41",
+    "countryCode": "MT",
+    "englishName": "Pietà",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-42",
+    "countryCode": "MT",
+    "englishName": "Qala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-43",
+    "countryCode": "MT",
+    "englishName": "Qormi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-44",
+    "countryCode": "MT",
+    "englishName": "Qrendi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-45",
+    "countryCode": "MT",
+    "englishName": "Victoria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-46",
+    "countryCode": "MT",
+    "englishName": "Rabat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-47",
+    "countryCode": "MT",
+    "englishName": "Safi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-48",
+    "countryCode": "MT",
+    "englishName": "St. Julian’s",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-49",
+    "countryCode": "MT",
+    "englishName": "San Ġwann",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-50",
+    "countryCode": "MT",
+    "englishName": "Saint Lawrence",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-51",
+    "countryCode": "MT",
+    "englishName": "St. Paul’s Bay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-52",
+    "countryCode": "MT",
+    "englishName": "Sannat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-53",
+    "countryCode": "MT",
+    "englishName": "Santa Luċija",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-54",
+    "countryCode": "MT",
+    "englishName": "Santa Venera",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-55",
+    "countryCode": "MT",
+    "englishName": "Siġġiewi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-56",
+    "countryCode": "MT",
+    "englishName": "Sliema",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-57",
+    "countryCode": "MT",
+    "englishName": "Swieqi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-58",
+    "countryCode": "MT",
+    "englishName": "Ta’ Xbiex",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-59",
+    "countryCode": "MT",
+    "englishName": "Tarxien",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-60",
+    "countryCode": "MT",
+    "englishName": "Valletta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-61",
+    "countryCode": "MT",
+    "englishName": "Xagħra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-62",
+    "countryCode": "MT",
+    "englishName": "Xewkija",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-63",
+    "countryCode": "MT",
+    "englishName": "Xgħajra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-64",
+    "countryCode": "MT",
+    "englishName": "Żabbar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-65",
+    "countryCode": "MT",
+    "englishName": "Żebbuġ Gozo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-66",
+    "countryCode": "MT",
+    "englishName": "Żebbuġ",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-67",
+    "countryCode": "MT",
+    "englishName": "Żejtun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MT-68",
+    "countryCode": "MT",
+    "englishName": "Żurrieq",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
