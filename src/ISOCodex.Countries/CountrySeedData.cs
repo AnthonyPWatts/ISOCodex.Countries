@@ -2249,14 +2249,21 @@ internal static class CountrySeedData
 
     public static IReadOnlyList<CountrySubdivisionInfo> Subdivisions { get; } = new List<CountrySubdivisionInfo>
     {
+        new(CountrySubdivisionCode.Parse("AD-02"), CountryAlpha2Code.Parse("AD"), "Canillo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("AD-03"), CountryAlpha2Code.Parse("AD"), "Encamp", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("AD-04"), CountryAlpha2Code.Parse("AD"), "La Massana", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("AD-05"), CountryAlpha2Code.Parse("AD"), "Ordino", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("AD-06"), CountryAlpha2Code.Parse("AD"), "Sant Julià de Lòria", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("AD-07"), CountryAlpha2Code.Parse("AD"), "Andorra la Vella", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("AD-08"), CountryAlpha2Code.Parse("AD"), "Escaldes-Engordany", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("AU-NSW"), CountryAlpha2Code.Parse("AU"), "New South Wales", null, CountrySubdivisionType.State),
+        new(CountrySubdivisionCode.Parse("CA-ON"), CountryAlpha2Code.Parse("CA"), "Ontario", null, CountrySubdivisionType.Province),
         new(CountrySubdivisionCode.Parse("GB-ENG"), CountryAlpha2Code.Parse("GB"), "England", null, CountrySubdivisionType.Nation),
+        new(CountrySubdivisionCode.Parse("GB-NIR"), CountryAlpha2Code.Parse("GB"), "Northern Ireland", null, CountrySubdivisionType.Nation),
         new(CountrySubdivisionCode.Parse("GB-SCT"), CountryAlpha2Code.Parse("GB"), "Scotland", null, CountrySubdivisionType.Nation),
         new(CountrySubdivisionCode.Parse("GB-WLS"), CountryAlpha2Code.Parse("GB"), "Wales", null, CountrySubdivisionType.Nation),
-        new(CountrySubdivisionCode.Parse("GB-NIR"), CountryAlpha2Code.Parse("GB"), "Northern Ireland", null, CountrySubdivisionType.Nation),
-        new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State),
-        new(CountrySubdivisionCode.Parse("CA-ON"), CountryAlpha2Code.Parse("CA"), "Ontario", null, CountrySubdivisionType.Province),
-        new(CountrySubdivisionCode.Parse("AU-NSW"), CountryAlpha2Code.Parse("AU"), "New South Wales", null, CountrySubdivisionType.State),
-        new(CountrySubdivisionCode.Parse("IE-D"), CountryAlpha2Code.Parse("IE"), "Dublin", null, CountrySubdivisionType.County)
+        new(CountrySubdivisionCode.Parse("IE-D"), CountryAlpha2Code.Parse("IE"), "Dublin", null, CountrySubdivisionType.County),
+        new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
 

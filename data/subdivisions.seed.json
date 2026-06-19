@@ -1,8 +1,78 @@
 [
   {
+    "code": "AD-02",
+    "countryCode": "AD",
+    "englishName": "Canillo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AD-03",
+    "countryCode": "AD",
+    "englishName": "Encamp",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AD-04",
+    "countryCode": "AD",
+    "englishName": "La Massana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AD-05",
+    "countryCode": "AD",
+    "englishName": "Ordino",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AD-06",
+    "countryCode": "AD",
+    "englishName": "Sant Julià de Lòria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AD-07",
+    "countryCode": "AD",
+    "englishName": "Andorra la Vella",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AD-08",
+    "countryCode": "AD",
+    "englishName": "Escaldes-Engordany",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AU-NSW",
+    "countryCode": "AU",
+    "englishName": "New South Wales",
+    "localName": null,
+    "type": "State"
+  },
+  {
+    "code": "CA-ON",
+    "countryCode": "CA",
+    "englishName": "Ontario",
+    "localName": null,
+    "type": "Province"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
+    "localName": null,
+    "type": "Nation"
+  },
+  {
+    "code": "GB-NIR",
+    "countryCode": "GB",
+    "englishName": "Northern Ireland",
     "localName": null,
     "type": "Nation"
   },
@@ -21,11 +91,11 @@
     "type": "Nation"
   },
   {
-    "code": "GB-NIR",
-    "countryCode": "GB",
-    "englishName": "Northern Ireland",
+    "code": "IE-D",
+    "countryCode": "IE",
+    "englishName": "Dublin",
     "localName": null,
-    "type": "Nation"
+    "type": "County"
   },
   {
     "code": "US-CA",
@@ -33,26 +103,6 @@
     "englishName": "California",
     "localName": null,
     "type": "State"
-  },
-  {
-    "code": "CA-ON",
-    "countryCode": "CA",
-    "englishName": "Ontario",
-    "localName": null,
-    "type": "Province"
-  },
-  {
-    "code": "AU-NSW",
-    "countryCode": "AU",
-    "englishName": "New South Wales",
-    "localName": null,
-    "type": "State"
-  },
-  {
-    "code": "IE-D",
-    "countryCode": "IE",
-    "englishName": "Dublin",
-    "localName": null,
-    "type": "County"
   }
 ]
+
