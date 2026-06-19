@@ -23023,6 +23023,104 @@
     "type": "Unknown"
   },
   {
+    "code": "NA-CA",
+    "countryCode": "NA",
+    "englishName": "Zambezi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NA-ER",
+    "countryCode": "NA",
+    "englishName": "Erongo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NA-HA",
+    "countryCode": "NA",
+    "englishName": "Hardap",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NA-KA",
+    "countryCode": "NA",
+    "englishName": "Karas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NA-KE",
+    "countryCode": "NA",
+    "englishName": "Kavango East",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NA-KH",
+    "countryCode": "NA",
+    "englishName": "Khomas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NA-KU",
+    "countryCode": "NA",
+    "englishName": "Kunene",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NA-KW",
+    "countryCode": "NA",
+    "englishName": "Kavango West",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NA-OD",
+    "countryCode": "NA",
+    "englishName": "Otjozondjupa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NA-OH",
+    "countryCode": "NA",
+    "englishName": "Omaheke",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NA-ON",
+    "countryCode": "NA",
+    "englishName": "Oshana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NA-OS",
+    "countryCode": "NA",
+    "englishName": "Omusati",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NA-OT",
+    "countryCode": "NA",
+    "englishName": "Oshikoto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NA-OW",
+    "countryCode": "NA",
+    "englishName": "Ohangwena",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

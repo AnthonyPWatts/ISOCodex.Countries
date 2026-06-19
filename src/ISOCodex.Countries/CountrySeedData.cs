@@ -5538,6 +5538,20 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("MZ-Q"), CountryAlpha2Code.Parse("MZ"), "Zambezia", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MZ-S"), CountryAlpha2Code.Parse("MZ"), "Sofala", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MZ-T"), CountryAlpha2Code.Parse("MZ"), "Tete", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-CA"), CountryAlpha2Code.Parse("NA"), "Zambezi", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-ER"), CountryAlpha2Code.Parse("NA"), "Erongo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-HA"), CountryAlpha2Code.Parse("NA"), "Hardap", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-KA"), CountryAlpha2Code.Parse("NA"), "Karas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-KE"), CountryAlpha2Code.Parse("NA"), "Kavango East", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-KH"), CountryAlpha2Code.Parse("NA"), "Khomas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-KU"), CountryAlpha2Code.Parse("NA"), "Kunene", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-KW"), CountryAlpha2Code.Parse("NA"), "Kavango West", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-OD"), CountryAlpha2Code.Parse("NA"), "Otjozondjupa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-OH"), CountryAlpha2Code.Parse("NA"), "Omaheke", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-ON"), CountryAlpha2Code.Parse("NA"), "Oshana", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-OS"), CountryAlpha2Code.Parse("NA"), "Omusati", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-OT"), CountryAlpha2Code.Parse("NA"), "Oshikoto", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NA-OW"), CountryAlpha2Code.Parse("NA"), "Ohangwena", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
