@@ -6487,6 +6487,16 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("SR-SA"), CountryAlpha2Code.Parse("SR"), "Saramacca", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SR-SI"), CountryAlpha2Code.Parse("SR"), "Sipaliwini", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SR-WA"), CountryAlpha2Code.Parse("SR"), "Wanica", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SS-BN"), CountryAlpha2Code.Parse("SS"), "Northern Bahr el Ghazal", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SS-BW"), CountryAlpha2Code.Parse("SS"), "Western Bahr el Ghazal", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SS-EC"), CountryAlpha2Code.Parse("SS"), "Central Equatoria", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SS-EE"), CountryAlpha2Code.Parse("SS"), "Eastern Equatoria", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SS-EW"), CountryAlpha2Code.Parse("SS"), "Western Equatoria", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SS-JG"), CountryAlpha2Code.Parse("SS"), "Jonglei", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SS-LK"), CountryAlpha2Code.Parse("SS"), "Lakes", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SS-NU"), CountryAlpha2Code.Parse("SS"), "Upper Nile", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SS-UY"), CountryAlpha2Code.Parse("SS"), "Unity", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SS-WR"), CountryAlpha2Code.Parse("SS"), "Warrap", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

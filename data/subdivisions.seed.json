@@ -29666,6 +29666,76 @@
     "type": "Unknown"
   },
   {
+    "code": "SS-BN",
+    "countryCode": "SS",
+    "englishName": "Northern Bahr el Ghazal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SS-BW",
+    "countryCode": "SS",
+    "englishName": "Western Bahr el Ghazal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SS-EC",
+    "countryCode": "SS",
+    "englishName": "Central Equatoria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SS-EE",
+    "countryCode": "SS",
+    "englishName": "Eastern Equatoria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SS-EW",
+    "countryCode": "SS",
+    "englishName": "Western Equatoria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SS-JG",
+    "countryCode": "SS",
+    "englishName": "Jonglei",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SS-LK",
+    "countryCode": "SS",
+    "englishName": "Lakes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SS-NU",
+    "countryCode": "SS",
+    "englishName": "Upper Nile",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SS-UY",
+    "countryCode": "SS",
+    "englishName": "Unity",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SS-WR",
+    "countryCode": "SS",
+    "englishName": "Warrap",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
