@@ -7210,7 +7210,10 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("VU-SAM"), CountryAlpha2Code.Parse("VU"), "Sanma", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("VU-SEE"), CountryAlpha2Code.Parse("VU"), "Shefa", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("VU-TAE"), CountryAlpha2Code.Parse("VU"), "Tafea", null, CountrySubdivisionType.Unknown),
-        new(CountrySubdivisionCode.Parse("VU-TOB"), CountryAlpha2Code.Parse("VU"), "Torba", null, CountrySubdivisionType.Unknown)
+        new(CountrySubdivisionCode.Parse("VU-TOB"), CountryAlpha2Code.Parse("VU"), "Torba", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WF-AL"), CountryAlpha2Code.Parse("WF"), "Alo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WF-SG"), CountryAlpha2Code.Parse("WF"), "Sigave", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("WF-UV"), CountryAlpha2Code.Parse("WF"), "Uvea", null, CountrySubdivisionType.Unknown)
     }.AsReadOnly();
 }
 

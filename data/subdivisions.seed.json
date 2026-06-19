@@ -34732,6 +34732,27 @@
     "englishName": "Torba",
     "localName": null,
     "type": "Unknown"
+  },
+  {
+    "code": "WF-AL",
+    "countryCode": "WF",
+    "englishName": "Alo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "WF-SG",
+    "countryCode": "WF",
+    "englishName": "Sigave",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "WF-UV",
+    "countryCode": "WF",
+    "englishName": "Uvea",
+    "localName": null,
+    "type": "Unknown"
   }
 ]
 
