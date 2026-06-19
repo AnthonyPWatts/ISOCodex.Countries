@@ -7448,6 +7448,664 @@
     "type": "Unknown"
   },
   {
+    "code": "EE-130",
+    "countryCode": "EE",
+    "englishName": "Alutaguse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-141",
+    "countryCode": "EE",
+    "englishName": "Anija",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-142",
+    "countryCode": "EE",
+    "englishName": "Antsla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-171",
+    "countryCode": "EE",
+    "englishName": "Elva",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-184",
+    "countryCode": "EE",
+    "englishName": "Haapsalu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-191",
+    "countryCode": "EE",
+    "englishName": "Haljala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-198",
+    "countryCode": "EE",
+    "englishName": "Harku",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-205",
+    "countryCode": "EE",
+    "englishName": "Hiiumaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-214",
+    "countryCode": "EE",
+    "englishName": "Häädemeeste",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-245",
+    "countryCode": "EE",
+    "englishName": "Jõelähtme",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-247",
+    "countryCode": "EE",
+    "englishName": "Jõgeva",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-251",
+    "countryCode": "EE",
+    "englishName": "Jõhvi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-255",
+    "countryCode": "EE",
+    "englishName": "Järva",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-272",
+    "countryCode": "EE",
+    "englishName": "Kadrina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-283",
+    "countryCode": "EE",
+    "englishName": "Kambja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-284",
+    "countryCode": "EE",
+    "englishName": "Kanepi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-291",
+    "countryCode": "EE",
+    "englishName": "Kastre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-293",
+    "countryCode": "EE",
+    "englishName": "Kehtna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-296",
+    "countryCode": "EE",
+    "englishName": "Keila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-303",
+    "countryCode": "EE",
+    "englishName": "Kihnu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-305",
+    "countryCode": "EE",
+    "englishName": "Kiili",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-317",
+    "countryCode": "EE",
+    "englishName": "Kohila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-321",
+    "countryCode": "EE",
+    "englishName": "Kohtla-Järve",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-338",
+    "countryCode": "EE",
+    "englishName": "Kose",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-353",
+    "countryCode": "EE",
+    "englishName": "Kuusalu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-37",
+    "countryCode": "EE",
+    "englishName": "Harju",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-39",
+    "countryCode": "EE",
+    "englishName": "Hiiu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-424",
+    "countryCode": "EE",
+    "englishName": "Loksa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-430",
+    "countryCode": "EE",
+    "englishName": "Lääneranna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-431",
+    "countryCode": "EE",
+    "englishName": "Lääne-Harju",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-432",
+    "countryCode": "EE",
+    "englishName": "Luunja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-441",
+    "countryCode": "EE",
+    "englishName": "Lääne-Nigula",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-442",
+    "countryCode": "EE",
+    "englishName": "Lüganuse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-446",
+    "countryCode": "EE",
+    "englishName": "Maardu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-45",
+    "countryCode": "EE",
+    "englishName": "Ida-Virumaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-478",
+    "countryCode": "EE",
+    "englishName": "Muhu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-480",
+    "countryCode": "EE",
+    "englishName": "Mulgi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-486",
+    "countryCode": "EE",
+    "englishName": "Mustvee",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-50",
+    "countryCode": "EE",
+    "englishName": "Jõgevamaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-503",
+    "countryCode": "EE",
+    "englishName": "Märjamaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-511",
+    "countryCode": "EE",
+    "englishName": "Narva",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-514",
+    "countryCode": "EE",
+    "englishName": "Narva-Jõesuu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-52",
+    "countryCode": "EE",
+    "englishName": "Järvamaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-528",
+    "countryCode": "EE",
+    "englishName": "Nõo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-557",
+    "countryCode": "EE",
+    "englishName": "Otepää",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-56",
+    "countryCode": "EE",
+    "englishName": "Läänemaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-567",
+    "countryCode": "EE",
+    "englishName": "Paide",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-586",
+    "countryCode": "EE",
+    "englishName": "Peipsiääre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-60",
+    "countryCode": "EE",
+    "englishName": "Lääne-Virumaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-615",
+    "countryCode": "EE",
+    "englishName": "Põhja-Sakala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-618",
+    "countryCode": "EE",
+    "englishName": "Põltsamaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-622",
+    "countryCode": "EE",
+    "englishName": "Põlva",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-624",
+    "countryCode": "EE",
+    "englishName": "Pärnu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-638",
+    "countryCode": "EE",
+    "englishName": "Põhja-Pärnumaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-64",
+    "countryCode": "EE",
+    "englishName": "Põlvamaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-651",
+    "countryCode": "EE",
+    "englishName": "Raasiku",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-653",
+    "countryCode": "EE",
+    "englishName": "Rae",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-661",
+    "countryCode": "EE",
+    "englishName": "Rakvere",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-663",
+    "countryCode": "EE",
+    "englishName": "Rakvere²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-668",
+    "countryCode": "EE",
+    "englishName": "Rapla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-68",
+    "countryCode": "EE",
+    "englishName": "Pärnumaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-689",
+    "countryCode": "EE",
+    "englishName": "Ruhnu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-698",
+    "countryCode": "EE",
+    "englishName": "Rõuge",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-708",
+    "countryCode": "EE",
+    "englishName": "Räpina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-71",
+    "countryCode": "EE",
+    "englishName": "Raplamaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-712",
+    "countryCode": "EE",
+    "englishName": "Saarde",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-714",
+    "countryCode": "EE",
+    "englishName": "Saaremaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-719",
+    "countryCode": "EE",
+    "englishName": "Saku",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-726",
+    "countryCode": "EE",
+    "englishName": "Saue",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-732",
+    "countryCode": "EE",
+    "englishName": "Setomaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-735",
+    "countryCode": "EE",
+    "englishName": "Sillamäe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-74",
+    "countryCode": "EE",
+    "englishName": "Saare",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-784",
+    "countryCode": "EE",
+    "englishName": "Tallinn",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-79",
+    "countryCode": "EE",
+    "englishName": "Tartumaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-792",
+    "countryCode": "EE",
+    "englishName": "Tapa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-793",
+    "countryCode": "EE",
+    "englishName": "Tartu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-796",
+    "countryCode": "EE",
+    "englishName": "Tartu²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-803",
+    "countryCode": "EE",
+    "englishName": "Toila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-809",
+    "countryCode": "EE",
+    "englishName": "Tori",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-81",
+    "countryCode": "EE",
+    "englishName": "Valgamaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-824",
+    "countryCode": "EE",
+    "englishName": "Tõrva",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-834",
+    "countryCode": "EE",
+    "englishName": "Türi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-84",
+    "countryCode": "EE",
+    "englishName": "Viljandi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-855",
+    "countryCode": "EE",
+    "englishName": "Valga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-87",
+    "countryCode": "EE",
+    "englishName": "Võrumaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-890",
+    "countryCode": "EE",
+    "englishName": "Viimsi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-897",
+    "countryCode": "EE",
+    "englishName": "Viljandi²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-899",
+    "countryCode": "EE",
+    "englishName": "Viljandi³",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-901",
+    "countryCode": "EE",
+    "englishName": "Vinni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-903",
+    "countryCode": "EE",
+    "englishName": "Viru-Nigula",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-907",
+    "countryCode": "EE",
+    "englishName": "Vormsi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-917",
+    "countryCode": "EE",
+    "englishName": "Võru²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-919",
+    "countryCode": "EE",
+    "englishName": "Võru",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "EE-928",
+    "countryCode": "EE",
+    "englishName": "Väike-Maarja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
