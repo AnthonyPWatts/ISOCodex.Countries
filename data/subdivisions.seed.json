@@ -12635,6 +12635,76 @@
     "type": "Unknown"
   },
   {
+    "code": "GY-BA",
+    "countryCode": "GY",
+    "englishName": "Barima-Waini",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GY-CU",
+    "countryCode": "GY",
+    "englishName": "Cuyuni-Mazaruni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GY-DE",
+    "countryCode": "GY",
+    "englishName": "Demerara-Mahaica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GY-EB",
+    "countryCode": "GY",
+    "englishName": "East Berbice-Corentyne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GY-ES",
+    "countryCode": "GY",
+    "englishName": "Essequibo Islands-West Demerara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GY-MA",
+    "countryCode": "GY",
+    "englishName": "Mahaica-Berbice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GY-PM",
+    "countryCode": "GY",
+    "englishName": "Pomeroon-Supenaam",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GY-PT",
+    "countryCode": "GY",
+    "englishName": "Potaro-Siparuni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GY-UD",
+    "countryCode": "GY",
+    "englishName": "Upper Demerara-Berbice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GY-UT",
+    "countryCode": "GY",
+    "englishName": "Upper Takutu-Upper Essequibo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",

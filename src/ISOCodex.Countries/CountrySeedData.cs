@@ -4054,6 +4054,16 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("GW-QU"), CountryAlpha2Code.Parse("GW"), "Quinara", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GW-S"), CountryAlpha2Code.Parse("GW"), "Sul", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("GW-TO"), CountryAlpha2Code.Parse("GW"), "Tombali", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GY-BA"), CountryAlpha2Code.Parse("GY"), "Barima-Waini", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GY-CU"), CountryAlpha2Code.Parse("GY"), "Cuyuni-Mazaruni", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GY-DE"), CountryAlpha2Code.Parse("GY"), "Demerara-Mahaica", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GY-EB"), CountryAlpha2Code.Parse("GY"), "East Berbice-Corentyne", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GY-ES"), CountryAlpha2Code.Parse("GY"), "Essequibo Islands-West Demerara", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GY-MA"), CountryAlpha2Code.Parse("GY"), "Mahaica-Berbice", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GY-PM"), CountryAlpha2Code.Parse("GY"), "Pomeroon-Supenaam", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GY-PT"), CountryAlpha2Code.Parse("GY"), "Potaro-Siparuni", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GY-UD"), CountryAlpha2Code.Parse("GY"), "Upper Demerara-Berbice", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("GY-UT"), CountryAlpha2Code.Parse("GY"), "Upper Takutu-Upper Essequibo", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("IE-D"), CountryAlpha2Code.Parse("IE"), "Dublin", null, CountrySubdivisionType.County),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
