@@ -35117,6 +35117,76 @@
     "englishName": "Muchinga",
     "localName": null,
     "type": "Unknown"
+  },
+  {
+    "code": "ZW-BU",
+    "countryCode": "ZW",
+    "englishName": "Bulawayo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZW-HA",
+    "countryCode": "ZW",
+    "englishName": "Harare",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZW-MA",
+    "countryCode": "ZW",
+    "englishName": "Manicaland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZW-MC",
+    "countryCode": "ZW",
+    "englishName": "Mashonaland Central",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZW-ME",
+    "countryCode": "ZW",
+    "englishName": "Mashonaland East",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZW-MI",
+    "countryCode": "ZW",
+    "englishName": "Midlands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZW-MN",
+    "countryCode": "ZW",
+    "englishName": "Matabeleland North",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZW-MS",
+    "countryCode": "ZW",
+    "englishName": "Matabeleland South",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZW-MV",
+    "countryCode": "ZW",
+    "englishName": "Masvingo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZW-MW",
+    "countryCode": "ZW",
+    "englishName": "Mashonaland West",
+    "localName": null,
+    "type": "Unknown"
   }
 ]
 

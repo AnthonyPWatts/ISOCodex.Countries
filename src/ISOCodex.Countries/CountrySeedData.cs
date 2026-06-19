@@ -7265,7 +7265,17 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("ZM-07"), CountryAlpha2Code.Parse("ZM"), "Southern", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("ZM-08"), CountryAlpha2Code.Parse("ZM"), "Copperbelt", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("ZM-09"), CountryAlpha2Code.Parse("ZM"), "Lusaka", null, CountrySubdivisionType.Unknown),
-        new(CountrySubdivisionCode.Parse("ZM-10"), CountryAlpha2Code.Parse("ZM"), "Muchinga", null, CountrySubdivisionType.Unknown)
+        new(CountrySubdivisionCode.Parse("ZM-10"), CountryAlpha2Code.Parse("ZM"), "Muchinga", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZW-BU"), CountryAlpha2Code.Parse("ZW"), "Bulawayo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZW-HA"), CountryAlpha2Code.Parse("ZW"), "Harare", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZW-MA"), CountryAlpha2Code.Parse("ZW"), "Manicaland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZW-MC"), CountryAlpha2Code.Parse("ZW"), "Mashonaland Central", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZW-ME"), CountryAlpha2Code.Parse("ZW"), "Mashonaland East", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZW-MI"), CountryAlpha2Code.Parse("ZW"), "Midlands", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZW-MN"), CountryAlpha2Code.Parse("ZW"), "Matabeleland North", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZW-MS"), CountryAlpha2Code.Parse("ZW"), "Matabeleland South", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZW-MV"), CountryAlpha2Code.Parse("ZW"), "Masvingo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZW-MW"), CountryAlpha2Code.Parse("ZW"), "Mashonaland West", null, CountrySubdivisionType.Unknown)
     }.AsReadOnly();
 }
 
