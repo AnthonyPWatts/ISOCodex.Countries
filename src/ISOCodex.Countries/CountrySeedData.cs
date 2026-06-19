@@ -6477,6 +6477,16 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("SO-SO"), CountryAlpha2Code.Parse("SO"), "Sool", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SO-TO"), CountryAlpha2Code.Parse("SO"), "Togdheer", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SO-WO"), CountryAlpha2Code.Parse("SO"), "Woqooyi Galbeed", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SR-BR"), CountryAlpha2Code.Parse("SR"), "Brokopondo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SR-CM"), CountryAlpha2Code.Parse("SR"), "Commewijne", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SR-CR"), CountryAlpha2Code.Parse("SR"), "Coronie", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SR-MA"), CountryAlpha2Code.Parse("SR"), "Marowijne", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SR-NI"), CountryAlpha2Code.Parse("SR"), "Nickerie", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SR-PM"), CountryAlpha2Code.Parse("SR"), "Paramaribo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SR-PR"), CountryAlpha2Code.Parse("SR"), "Para", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SR-SA"), CountryAlpha2Code.Parse("SR"), "Saramacca", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SR-SI"), CountryAlpha2Code.Parse("SR"), "Sipaliwini", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SR-WA"), CountryAlpha2Code.Parse("SR"), "Wanica", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

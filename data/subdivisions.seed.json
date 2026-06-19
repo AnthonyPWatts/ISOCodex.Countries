@@ -29596,6 +29596,76 @@
     "type": "Unknown"
   },
   {
+    "code": "SR-BR",
+    "countryCode": "SR",
+    "englishName": "Brokopondo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SR-CM",
+    "countryCode": "SR",
+    "englishName": "Commewijne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SR-CR",
+    "countryCode": "SR",
+    "englishName": "Coronie",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SR-MA",
+    "countryCode": "SR",
+    "englishName": "Marowijne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SR-NI",
+    "countryCode": "SR",
+    "englishName": "Nickerie",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SR-PM",
+    "countryCode": "SR",
+    "englishName": "Paramaribo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SR-PR",
+    "countryCode": "SR",
+    "englishName": "Para",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SR-SA",
+    "countryCode": "SR",
+    "englishName": "Saramacca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SR-SI",
+    "countryCode": "SR",
+    "englishName": "Sipaliwini",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SR-WA",
+    "countryCode": "SR",
+    "englishName": "Wanica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
