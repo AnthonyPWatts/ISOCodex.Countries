@@ -9037,6 +9037,139 @@
     "type": "Unknown"
   },
   {
+    "code": "FJ-01",
+    "countryCode": "FJ",
+    "englishName": "Ba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-02",
+    "countryCode": "FJ",
+    "englishName": "Bua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-03",
+    "countryCode": "FJ",
+    "englishName": "Cakaudrove",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-04",
+    "countryCode": "FJ",
+    "englishName": "Kadavu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-05",
+    "countryCode": "FJ",
+    "englishName": "Lau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-06",
+    "countryCode": "FJ",
+    "englishName": "Lomaiviti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-07",
+    "countryCode": "FJ",
+    "englishName": "Macuata",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-08",
+    "countryCode": "FJ",
+    "englishName": "Nadroga-Navosa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-09",
+    "countryCode": "FJ",
+    "englishName": "Naitasiri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-10",
+    "countryCode": "FJ",
+    "englishName": "Namosi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-11",
+    "countryCode": "FJ",
+    "englishName": "Ra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-12",
+    "countryCode": "FJ",
+    "englishName": "Rewa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-13",
+    "countryCode": "FJ",
+    "englishName": "Serua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-14",
+    "countryCode": "FJ",
+    "englishName": "Tailevu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-C",
+    "countryCode": "FJ",
+    "englishName": "Central",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-E",
+    "countryCode": "FJ",
+    "englishName": "Eastern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-N",
+    "countryCode": "FJ",
+    "englishName": "Northern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-R",
+    "countryCode": "FJ",
+    "englishName": "Rotuma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FJ-W",
+    "countryCode": "FJ",
+    "englishName": "Western",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
