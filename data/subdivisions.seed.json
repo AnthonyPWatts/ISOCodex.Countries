@@ -30009,6 +30009,167 @@
     "type": "Unknown"
   },
   {
+    "code": "TD-BA",
+    "countryCode": "TD",
+    "englishName": "Batha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-BG",
+    "countryCode": "TD",
+    "englishName": "Bahr el Gazel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-BO",
+    "countryCode": "TD",
+    "englishName": "Borkou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-CB",
+    "countryCode": "TD",
+    "englishName": "Chari-Baguirmi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-EE",
+    "countryCode": "TD",
+    "englishName": "Ennedi-Est",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-EO",
+    "countryCode": "TD",
+    "englishName": "Ennedi-Ouest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-GR",
+    "countryCode": "TD",
+    "englishName": "Guéra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-HL",
+    "countryCode": "TD",
+    "englishName": "Hadjer-Lamis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-KA",
+    "countryCode": "TD",
+    "englishName": "Kanem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-LC",
+    "countryCode": "TD",
+    "englishName": "Lac",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-LO",
+    "countryCode": "TD",
+    "englishName": "Logone Occidental",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-LR",
+    "countryCode": "TD",
+    "englishName": "Logone Oriental",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-MA",
+    "countryCode": "TD",
+    "englishName": "Mandoul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-MC",
+    "countryCode": "TD",
+    "englishName": "Moyen-Chari",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-ME",
+    "countryCode": "TD",
+    "englishName": "Mayo-Kebbi Est",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-MO",
+    "countryCode": "TD",
+    "englishName": "Mayo-Kebbi Ouest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-ND",
+    "countryCode": "TD",
+    "englishName": "N’Djamena",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-OD",
+    "countryCode": "TD",
+    "englishName": "Ouaddaï",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-SA",
+    "countryCode": "TD",
+    "englishName": "Salamat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-SI",
+    "countryCode": "TD",
+    "englishName": "Sila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-TA",
+    "countryCode": "TD",
+    "englishName": "Tandjilé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-TI",
+    "countryCode": "TD",
+    "englishName": "Tibesti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TD-WF",
+    "countryCode": "TD",
+    "englishName": "Wadi Fira",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
