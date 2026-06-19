@@ -84,6 +84,63 @@ public sealed class JsonConverterTests
         Assert.Throws<JsonException>(() => JsonSerializer.Deserialize(json, targetType, Options));
     }
 
+    [Theory]
+    [InlineData("\"G1\"")]
+    [InlineData("null")]
+    [InlineData("123")]
+    [InlineData("true")]
+    [InlineData("{}")]
+    [InlineData("[]")]
+    public void Alpha2_Converter_Rejects_Invalid_Json_Tokens(string json)
+    {
+        Assert.Throws<JsonException>(() => JsonSerializer.Deserialize<CountryAlpha2Code>(json, Options));
+    }
+
+    [Theory]
+    [InlineData("\"GB1\"")]
+    [InlineData("null")]
+    [InlineData("123")]
+    [InlineData("true")]
+    [InlineData("{}")]
+    [InlineData("[]")]
+    public void Alpha3_Converter_Rejects_Invalid_Json_Tokens(string json)
+    {
+        Assert.Throws<JsonException>(() => JsonSerializer.Deserialize<CountryAlpha3Code>(json, Options));
+    }
+
+    [Theory]
+    [InlineData("\"08A\"")]
+    [InlineData("null")]
+    [InlineData("123")]
+    [InlineData("true")]
+    [InlineData("{}")]
+    [InlineData("[]")]
+    public void Numeric_Converter_Rejects_Invalid_Json_Tokens(string json)
+    {
+        Assert.Throws<JsonException>(() => JsonSerializer.Deserialize<CountryNumericCode>(json, Options));
+    }
+
+    [Theory]
+    [InlineData("\"GB-!\"")]
+    [InlineData("null")]
+    [InlineData("123")]
+    [InlineData("true")]
+    [InlineData("{}")]
+    [InlineData("[]")]
+    public void Subdivision_Converter_Rejects_Invalid_Json_Tokens(string json)
+    {
+        Assert.Throws<JsonException>(() => JsonSerializer.Deserialize<CountrySubdivisionCode>(json, Options));
+    }
+
+    [Fact]
+    public void Serialises_Default_Value_Objects_As_Empty_Strings()
+    {
+        Assert.Equal("\"\"", JsonSerializer.Serialize(default(CountryAlpha2Code), Options));
+        Assert.Equal("\"\"", JsonSerializer.Serialize(default(CountryAlpha3Code), Options));
+        Assert.Equal("\"\"", JsonSerializer.Serialize(default(CountryNumericCode), Options));
+        Assert.Equal("\"\"", JsonSerializer.Serialize(default(CountrySubdivisionCode), Options));
+    }
+
     private sealed record CountryDto(
         CountryAlpha2Code Alpha2,
         CountryAlpha3Code Alpha3,

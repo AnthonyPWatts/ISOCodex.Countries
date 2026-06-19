@@ -107,4 +107,8 @@ public readonly struct CountryNumericCode : IEquatable<CountryNumericCode>, ICom
     public static bool operator ==(CountryNumericCode left, CountryNumericCode right) => left.Equals(right);
 
     public static bool operator !=(CountryNumericCode left, CountryNumericCode right) => !left.Equals(right);
+
+    public static bool operator <(CountryNumericCode left, CountryNumericCode right) => left.CompareTo(right) < 0;
+
+    public static bool operator >(CountryNumericCode left, CountryNumericCode right) => left.CompareTo(right) > 0;
 }

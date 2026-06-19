@@ -48,7 +48,7 @@ public sealed class PublicApiSnapshotTests
             }
 
             foreach (MethodInfo method in type.GetMethods(BindingFlags.Public | BindingFlags.Instance | BindingFlags.Static | BindingFlags.DeclaredOnly)
-                         .Where(method => !method.IsSpecialName)
+                         .Where(method => !method.IsSpecialName || IsOperator(method))
                          .OrderBy(FormatMethod, StringComparer.Ordinal))
             {
                 builder.AppendLine("  " + FormatMethod(method));
@@ -75,6 +75,9 @@ public sealed class PublicApiSnapshotTests
 
     private static string FormatConstructor(ConstructorInfo constructor) =>
         "ctor " + constructor.DeclaringType!.Name + "(" + FormatParameters(constructor.GetParameters()) + ")";
+
+    private static bool IsOperator(MethodInfo method) =>
+        method.IsSpecialName && method.Name.StartsWith("op_", StringComparison.Ordinal);
 
     private static string FormatMethod(MethodInfo method) =>
         "method " + FormatTypeName(method.ReturnType) + " " + method.Name + "(" + FormatParameters(method.GetParameters()) + ")";

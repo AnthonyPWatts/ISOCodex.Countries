@@ -140,7 +140,12 @@ public sealed class ValueObjectTests
     {
         Assert.Equal(CountryAlpha2Code.Parse("gb"), CountryAlpha2Code.Parse("GB"));
         Assert.True(CountryAlpha2Code.Parse("GB") < CountryAlpha2Code.Parse("US"));
-        Assert.True(CountryAlpha3Code.Parse("GBR").CompareTo(CountryAlpha3Code.Parse("USA")) < 0);
-        Assert.True(CountryNumericCode.Parse("008").CompareTo(CountryNumericCode.Parse("826")) < 0);
+        Assert.True(CountryAlpha3Code.Parse("GBR") < CountryAlpha3Code.Parse("USA"));
+        Assert.True(CountryNumericCode.Parse("008") < CountryNumericCode.Parse("826"));
+        Assert.True(CountrySubdivisionCode.Parse("GB-ENG") < CountrySubdivisionCode.Parse("US-CA"));
+        Assert.True(CountryAlpha2Code.Parse("US") > CountryAlpha2Code.Parse("GB"));
+        Assert.True(CountryAlpha3Code.Parse("USA") > CountryAlpha3Code.Parse("GBR"));
+        Assert.True(CountryNumericCode.Parse("826") > CountryNumericCode.Parse("008"));
+        Assert.True(CountrySubdivisionCode.Parse("US-CA") > CountrySubdivisionCode.Parse("GB-ENG"));
     }
 }
