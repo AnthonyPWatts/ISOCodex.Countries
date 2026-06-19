@@ -49,6 +49,55 @@
     "type": "Unknown"
   },
   {
+    "code": "AE-AJ",
+    "countryCode": "AE",
+    "englishName": "Ajman",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AE-AZ",
+    "countryCode": "AE",
+    "englishName": "Abu Dhabi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AE-DU",
+    "countryCode": "AE",
+    "englishName": "Dubai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AE-FU",
+    "countryCode": "AE",
+    "englishName": "Fujairah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AE-RK",
+    "countryCode": "AE",
+    "englishName": "Ras al-Khaimah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AE-SH",
+    "countryCode": "AE",
+    "englishName": "Sharjah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AE-UQ",
+    "countryCode": "AE",
+    "englishName": "Umm al-Quwain",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "AU-NSW",
     "countryCode": "AU",
     "englishName": "New South Wales",
