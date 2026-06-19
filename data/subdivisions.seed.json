@@ -34032,6 +34032,48 @@
     "englishName": "Xorazm",
     "localName": null,
     "type": "Unknown"
+  },
+  {
+    "code": "VC-01",
+    "countryCode": "VC",
+    "englishName": "Charlotte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VC-02",
+    "countryCode": "VC",
+    "englishName": "Saint Andrew",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VC-03",
+    "countryCode": "VC",
+    "englishName": "Saint David",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VC-04",
+    "countryCode": "VC",
+    "englishName": "Saint George",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VC-05",
+    "countryCode": "VC",
+    "englishName": "Saint Patrick",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VC-06",
+    "countryCode": "VC",
+    "englishName": "Grenadines",
+    "localName": null,
+    "type": "Unknown"
   }
 ]
 

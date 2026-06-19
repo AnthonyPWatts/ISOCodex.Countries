@@ -7110,7 +7110,13 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("UZ-SU"), CountryAlpha2Code.Parse("UZ"), "Surxondaryo", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("UZ-TK"), CountryAlpha2Code.Parse("UZ"), "Tashkent", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("UZ-TO"), CountryAlpha2Code.Parse("UZ"), "Tashkent Province", null, CountrySubdivisionType.Unknown),
-        new(CountrySubdivisionCode.Parse("UZ-XO"), CountryAlpha2Code.Parse("UZ"), "Xorazm", null, CountrySubdivisionType.Unknown)
+        new(CountrySubdivisionCode.Parse("UZ-XO"), CountryAlpha2Code.Parse("UZ"), "Xorazm", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VC-01"), CountryAlpha2Code.Parse("VC"), "Charlotte", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VC-02"), CountryAlpha2Code.Parse("VC"), "Saint Andrew", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VC-03"), CountryAlpha2Code.Parse("VC"), "Saint David", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VC-04"), CountryAlpha2Code.Parse("VC"), "Saint George", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VC-05"), CountryAlpha2Code.Parse("VC"), "Saint Patrick", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VC-06"), CountryAlpha2Code.Parse("VC"), "Grenadines", null, CountrySubdivisionType.Unknown)
     }.AsReadOnly();
 }
 
