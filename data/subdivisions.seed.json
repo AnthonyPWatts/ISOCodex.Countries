@@ -24094,6 +24094,104 @@
     "type": "Unknown"
   },
   {
+    "code": "PA-1",
+    "countryCode": "PA",
+    "englishName": "Bocas del Toro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PA-10",
+    "countryCode": "PA",
+    "englishName": "West Panamá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PA-2",
+    "countryCode": "PA",
+    "englishName": "Coclé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PA-3",
+    "countryCode": "PA",
+    "englishName": "Colón",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PA-4",
+    "countryCode": "PA",
+    "englishName": "Chiriquí",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PA-5",
+    "countryCode": "PA",
+    "englishName": "Darién",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PA-6",
+    "countryCode": "PA",
+    "englishName": "Herrera",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PA-7",
+    "countryCode": "PA",
+    "englishName": "Los Santos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PA-8",
+    "countryCode": "PA",
+    "englishName": "Panamá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PA-9",
+    "countryCode": "PA",
+    "englishName": "Veraguas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PA-EM",
+    "countryCode": "PA",
+    "englishName": "Emberá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PA-KY",
+    "countryCode": "PA",
+    "englishName": "Guna Yala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PA-NB",
+    "countryCode": "PA",
+    "englishName": "Ngöbe-Buglé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PA-NT",
+    "countryCode": "PA",
+    "englishName": "Naso Tjër Di",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

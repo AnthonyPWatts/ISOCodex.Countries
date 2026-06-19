@@ -5691,6 +5691,20 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("OM-WU"), CountryAlpha2Code.Parse("OM"), "Al Wusta", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("OM-ZA"), CountryAlpha2Code.Parse("OM"), "Ad Dhahirah", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("OM-ZU"), CountryAlpha2Code.Parse("OM"), "Dhofar", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-1"), CountryAlpha2Code.Parse("PA"), "Bocas del Toro", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-10"), CountryAlpha2Code.Parse("PA"), "West Panamá", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-2"), CountryAlpha2Code.Parse("PA"), "Coclé", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-3"), CountryAlpha2Code.Parse("PA"), "Colón", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-4"), CountryAlpha2Code.Parse("PA"), "Chiriquí", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-5"), CountryAlpha2Code.Parse("PA"), "Darién", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-6"), CountryAlpha2Code.Parse("PA"), "Herrera", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-7"), CountryAlpha2Code.Parse("PA"), "Los Santos", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-8"), CountryAlpha2Code.Parse("PA"), "Panamá", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-9"), CountryAlpha2Code.Parse("PA"), "Veraguas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-EM"), CountryAlpha2Code.Parse("PA"), "Emberá", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-KY"), CountryAlpha2Code.Parse("PA"), "Guna Yala", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-NB"), CountryAlpha2Code.Parse("PA"), "Ngöbe-Buglé", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PA-NT"), CountryAlpha2Code.Parse("PA"), "Naso Tjër Di", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
