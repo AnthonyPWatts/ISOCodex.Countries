@@ -17388,6 +17388,146 @@
     "type": "Unknown"
   },
   {
+    "code": "KZ-10",
+    "countryCode": "KZ",
+    "englishName": "Abay oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-11",
+    "countryCode": "KZ",
+    "englishName": "Aqmola oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-15",
+    "countryCode": "KZ",
+    "englishName": "Aqtöbe oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-19",
+    "countryCode": "KZ",
+    "englishName": "Almaty oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-23",
+    "countryCode": "KZ",
+    "englishName": "Atyraū oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-27",
+    "countryCode": "KZ",
+    "englishName": "Batys Qazaqstan oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-31",
+    "countryCode": "KZ",
+    "englishName": "Zhambyl oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-33",
+    "countryCode": "KZ",
+    "englishName": "Zhetisū oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-35",
+    "countryCode": "KZ",
+    "englishName": "Qaraghandy oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-39",
+    "countryCode": "KZ",
+    "englishName": "Qostanay oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-43",
+    "countryCode": "KZ",
+    "englishName": "Qyzylorda oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-47",
+    "countryCode": "KZ",
+    "englishName": "Mangghystaū oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-55",
+    "countryCode": "KZ",
+    "englishName": "Pavlodar oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-59",
+    "countryCode": "KZ",
+    "englishName": "Soltüstik Qazaqstan oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-61",
+    "countryCode": "KZ",
+    "englishName": "Türkistan oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-62",
+    "countryCode": "KZ",
+    "englishName": "Ulytaū oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-63",
+    "countryCode": "KZ",
+    "englishName": "Shyghys Qazaqstan oblysy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-71",
+    "countryCode": "KZ",
+    "englishName": "Astana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-75",
+    "countryCode": "KZ",
+    "englishName": "Almaty",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KZ-79",
+    "countryCode": "KZ",
+    "englishName": "Shymkent",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
