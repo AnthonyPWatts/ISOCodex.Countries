@@ -11942,6 +11942,293 @@
     "type": "Unknown"
   },
   {
+    "code": "GN-B",
+    "countryCode": "GN",
+    "englishName": "Boké Region",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-BE",
+    "countryCode": "GN",
+    "englishName": "Beyla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-BF",
+    "countryCode": "GN",
+    "englishName": "Boffa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-BK",
+    "countryCode": "GN",
+    "englishName": "Boké",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-C",
+    "countryCode": "GN",
+    "englishName": "Conakry",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-CO",
+    "countryCode": "GN",
+    "englishName": "Coyah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-D",
+    "countryCode": "GN",
+    "englishName": "Kindia Region",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-DB",
+    "countryCode": "GN",
+    "englishName": "Dabola",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-DI",
+    "countryCode": "GN",
+    "englishName": "Dinguiraye",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-DL",
+    "countryCode": "GN",
+    "englishName": "Dalaba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-DU",
+    "countryCode": "GN",
+    "englishName": "Dubréka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-F",
+    "countryCode": "GN",
+    "englishName": "Faranah Region",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-FA",
+    "countryCode": "GN",
+    "englishName": "Faranah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-FO",
+    "countryCode": "GN",
+    "englishName": "Forécariah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-FR",
+    "countryCode": "GN",
+    "englishName": "Fria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-GA",
+    "countryCode": "GN",
+    "englishName": "Gaoual",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-GU",
+    "countryCode": "GN",
+    "englishName": "Guéckédou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-K",
+    "countryCode": "GN",
+    "englishName": "Kankan Region",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-KA",
+    "countryCode": "GN",
+    "englishName": "Kankan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-KB",
+    "countryCode": "GN",
+    "englishName": "Koubia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-KD",
+    "countryCode": "GN",
+    "englishName": "Kindia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-KE",
+    "countryCode": "GN",
+    "englishName": "Kérouané",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-KN",
+    "countryCode": "GN",
+    "englishName": "Koundara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-KO",
+    "countryCode": "GN",
+    "englishName": "Kouroussa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-KS",
+    "countryCode": "GN",
+    "englishName": "Kissidougou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-L",
+    "countryCode": "GN",
+    "englishName": "Labé Region",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-LA",
+    "countryCode": "GN",
+    "englishName": "Labé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-LE",
+    "countryCode": "GN",
+    "englishName": "Lélouma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-LO",
+    "countryCode": "GN",
+    "englishName": "Lola",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-M",
+    "countryCode": "GN",
+    "englishName": "Mamou Region",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-MC",
+    "countryCode": "GN",
+    "englishName": "Macenta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-MD",
+    "countryCode": "GN",
+    "englishName": "Mandiana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-ML",
+    "countryCode": "GN",
+    "englishName": "Mali",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-MM",
+    "countryCode": "GN",
+    "englishName": "Mamou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-N",
+    "countryCode": "GN",
+    "englishName": "Nzérékoré Region",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-NZ",
+    "countryCode": "GN",
+    "englishName": "Nzérékoré",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-PI",
+    "countryCode": "GN",
+    "englishName": "Pita",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-SI",
+    "countryCode": "GN",
+    "englishName": "Siguiri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-TE",
+    "countryCode": "GN",
+    "englishName": "Télimélé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-TO",
+    "countryCode": "GN",
+    "englishName": "Tougué",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GN-YO",
+    "countryCode": "GN",
+    "englishName": "Yomou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",
