@@ -5649,6 +5649,48 @@
     "type": "Unknown"
   },
   {
+    "code": "CY-01",
+    "countryCode": "CY",
+    "englishName": "Nicosia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CY-02",
+    "countryCode": "CY",
+    "englishName": "Limassol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CY-03",
+    "countryCode": "CY",
+    "englishName": "Larnaca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CY-04",
+    "countryCode": "CY",
+    "englishName": "Famagusta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CY-05",
+    "countryCode": "CY",
+    "englishName": "Paphos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CY-06",
+    "countryCode": "CY",
+    "englishName": "Kyrenia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
