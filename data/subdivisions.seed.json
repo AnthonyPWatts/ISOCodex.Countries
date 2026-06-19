@@ -16002,6 +16002,90 @@
     "type": "Unknown"
   },
   {
+    "code": "JO-AJ",
+    "countryCode": "JO",
+    "englishName": "Ajloun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JO-AM",
+    "countryCode": "JO",
+    "englishName": "Amman",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JO-AQ",
+    "countryCode": "JO",
+    "englishName": "Aqaba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JO-AT",
+    "countryCode": "JO",
+    "englishName": "Tafilah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JO-AZ",
+    "countryCode": "JO",
+    "englishName": "Zarqa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JO-BA",
+    "countryCode": "JO",
+    "englishName": "Balqa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JO-IR",
+    "countryCode": "JO",
+    "englishName": "Irbid",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JO-JA",
+    "countryCode": "JO",
+    "englishName": "Jerash",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JO-KA",
+    "countryCode": "JO",
+    "englishName": "Karak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JO-MA",
+    "countryCode": "JO",
+    "englishName": "Mafraq",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JO-MD",
+    "countryCode": "JO",
+    "englishName": "Madaba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JO-MN",
+    "countryCode": "JO",
+    "englishName": "Ma’an",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

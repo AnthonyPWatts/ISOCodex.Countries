@@ -4535,6 +4535,18 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("JM-12"), CountryAlpha2Code.Parse("JM"), "Manchester", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("JM-13"), CountryAlpha2Code.Parse("JM"), "Clarendon", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("JM-14"), CountryAlpha2Code.Parse("JM"), "Saint Catherine", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JO-AJ"), CountryAlpha2Code.Parse("JO"), "Ajloun", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JO-AM"), CountryAlpha2Code.Parse("JO"), "Amman", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JO-AQ"), CountryAlpha2Code.Parse("JO"), "Aqaba", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JO-AT"), CountryAlpha2Code.Parse("JO"), "Tafilah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JO-AZ"), CountryAlpha2Code.Parse("JO"), "Zarqa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JO-BA"), CountryAlpha2Code.Parse("JO"), "Balqa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JO-IR"), CountryAlpha2Code.Parse("JO"), "Irbid", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JO-JA"), CountryAlpha2Code.Parse("JO"), "Jerash", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JO-KA"), CountryAlpha2Code.Parse("JO"), "Karak", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JO-MA"), CountryAlpha2Code.Parse("JO"), "Mafraq", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JO-MD"), CountryAlpha2Code.Parse("JO"), "Madaba", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JO-MN"), CountryAlpha2Code.Parse("JO"), "Ma’an", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
