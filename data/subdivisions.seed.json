@@ -29470,6 +29470,132 @@
     "type": "Unknown"
   },
   {
+    "code": "SO-AW",
+    "countryCode": "SO",
+    "englishName": "Awdal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-BK",
+    "countryCode": "SO",
+    "englishName": "Bakool",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-BN",
+    "countryCode": "SO",
+    "englishName": "Banaadir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-BR",
+    "countryCode": "SO",
+    "englishName": "Bari",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-BY",
+    "countryCode": "SO",
+    "englishName": "Bay, Somalia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-GA",
+    "countryCode": "SO",
+    "englishName": "Galguduud",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-GE",
+    "countryCode": "SO",
+    "englishName": "Gedo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-HI",
+    "countryCode": "SO",
+    "englishName": "Hiran",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-JD",
+    "countryCode": "SO",
+    "englishName": "Middle Juba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-JH",
+    "countryCode": "SO",
+    "englishName": "Lower Juba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-MU",
+    "countryCode": "SO",
+    "englishName": "Mudug",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-NU",
+    "countryCode": "SO",
+    "englishName": "Nugal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-SA",
+    "countryCode": "SO",
+    "englishName": "Sanaag",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-SD",
+    "countryCode": "SO",
+    "englishName": "Middle Shebelle",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-SH",
+    "countryCode": "SO",
+    "englishName": "Lower Shebelle",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-SO",
+    "countryCode": "SO",
+    "englishName": "Sool",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-TO",
+    "countryCode": "SO",
+    "englishName": "Togdheer",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SO-WO",
+    "countryCode": "SO",
+    "englishName": "Woqooyi Galbeed",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
