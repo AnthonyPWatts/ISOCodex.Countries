@@ -98,6 +98,244 @@
     "type": "Unknown"
   },
   {
+    "code": "AF-BAL",
+    "countryCode": "AF",
+    "englishName": "Balkh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-BAM",
+    "countryCode": "AF",
+    "englishName": "Bamyan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-BDG",
+    "countryCode": "AF",
+    "englishName": "Badghis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-BDS",
+    "countryCode": "AF",
+    "englishName": "Badakhshan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-BGL",
+    "countryCode": "AF",
+    "englishName": "Baghlan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-DAY",
+    "countryCode": "AF",
+    "englishName": "Daykundi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-FRA",
+    "countryCode": "AF",
+    "englishName": "Farah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-FYB",
+    "countryCode": "AF",
+    "englishName": "Faryab",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-GHA",
+    "countryCode": "AF",
+    "englishName": "Ghazni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-GHO",
+    "countryCode": "AF",
+    "englishName": "Ghōr",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-HEL",
+    "countryCode": "AF",
+    "englishName": "Helmand",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-HER",
+    "countryCode": "AF",
+    "englishName": "Herat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-JOW",
+    "countryCode": "AF",
+    "englishName": "Jowzjan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-KAB",
+    "countryCode": "AF",
+    "englishName": "Kabul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-KAN",
+    "countryCode": "AF",
+    "englishName": "Kandahar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-KAP",
+    "countryCode": "AF",
+    "englishName": "Kapisa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-KDZ",
+    "countryCode": "AF",
+    "englishName": "Kunduz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-KHO",
+    "countryCode": "AF",
+    "englishName": "Khost",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-KNR",
+    "countryCode": "AF",
+    "englishName": "Kunar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-LAG",
+    "countryCode": "AF",
+    "englishName": "Laghman",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-LOG",
+    "countryCode": "AF",
+    "englishName": "Logar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-NAN",
+    "countryCode": "AF",
+    "englishName": "Nangarhar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-NIM",
+    "countryCode": "AF",
+    "englishName": "Nimruz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-NUR",
+    "countryCode": "AF",
+    "englishName": "Nuristan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-PAN",
+    "countryCode": "AF",
+    "englishName": "Panjshir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-PAR",
+    "countryCode": "AF",
+    "englishName": "Parwan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-PIA",
+    "countryCode": "AF",
+    "englishName": "Paktia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-PKA",
+    "countryCode": "AF",
+    "englishName": "Paktika",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-SAM",
+    "countryCode": "AF",
+    "englishName": "Samangan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-SAR",
+    "countryCode": "AF",
+    "englishName": "Sar-e Pol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-TAK",
+    "countryCode": "AF",
+    "englishName": "Takhar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-URU",
+    "countryCode": "AF",
+    "englishName": "Urozgan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-WAR",
+    "countryCode": "AF",
+    "englishName": "Maidan Wardak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AF-ZAB",
+    "countryCode": "AF",
+    "englishName": "Zabul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "AU-NSW",
     "countryCode": "AU",
     "englishName": "New South Wales",
