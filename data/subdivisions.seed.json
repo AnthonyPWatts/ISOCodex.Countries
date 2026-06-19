@@ -20286,6 +20286,181 @@
     "type": "Unknown"
   },
   {
+    "code": "ME-01",
+    "countryCode": "ME",
+    "englishName": "Andrijevica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-02",
+    "countryCode": "ME",
+    "englishName": "Bar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-03",
+    "countryCode": "ME",
+    "englishName": "Berane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-04",
+    "countryCode": "ME",
+    "englishName": "Bijelo Polje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-05",
+    "countryCode": "ME",
+    "englishName": "Budva",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-06",
+    "countryCode": "ME",
+    "englishName": "Cetinje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-07",
+    "countryCode": "ME",
+    "englishName": "Danilovgrad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-08",
+    "countryCode": "ME",
+    "englishName": "Herceg Novi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-09",
+    "countryCode": "ME",
+    "englishName": "Kolašin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-10",
+    "countryCode": "ME",
+    "englishName": "Kotor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-11",
+    "countryCode": "ME",
+    "englishName": "Mojkovac",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-12",
+    "countryCode": "ME",
+    "englishName": "Nikšić",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-13",
+    "countryCode": "ME",
+    "englishName": "Plav",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-14",
+    "countryCode": "ME",
+    "englishName": "Pljevlja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-15",
+    "countryCode": "ME",
+    "englishName": "Plužine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-16",
+    "countryCode": "ME",
+    "englishName": "Podgorica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-17",
+    "countryCode": "ME",
+    "englishName": "Rožaje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-18",
+    "countryCode": "ME",
+    "englishName": "Šavnik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-19",
+    "countryCode": "ME",
+    "englishName": "Tivat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-20",
+    "countryCode": "ME",
+    "englishName": "Ulcinj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-21",
+    "countryCode": "ME",
+    "englishName": "Žabljak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-22",
+    "countryCode": "ME",
+    "englishName": "Gusinje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-23",
+    "countryCode": "ME",
+    "englishName": "Petnjica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-24",
+    "countryCode": "ME",
+    "englishName": "Tuzi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ME-25",
+    "countryCode": "ME",
+    "englishName": "Zeta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
