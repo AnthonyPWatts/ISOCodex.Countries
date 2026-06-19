@@ -25634,6 +25634,118 @@
     "type": "Unknown"
   },
   {
+    "code": "PW-002",
+    "countryCode": "PW",
+    "englishName": "Aimeliik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-004",
+    "countryCode": "PW",
+    "englishName": "Airai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-010",
+    "countryCode": "PW",
+    "englishName": "Angaur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-050",
+    "countryCode": "PW",
+    "englishName": "Hatohobei",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-100",
+    "countryCode": "PW",
+    "englishName": "Kayangel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-150",
+    "countryCode": "PW",
+    "englishName": "Koror",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-212",
+    "countryCode": "PW",
+    "englishName": "Melekeok",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-214",
+    "countryCode": "PW",
+    "englishName": "Ngaraard",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-218",
+    "countryCode": "PW",
+    "englishName": "Ngarchelong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-222",
+    "countryCode": "PW",
+    "englishName": "Ngardmau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-224",
+    "countryCode": "PW",
+    "englishName": "Ngatpang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-226",
+    "countryCode": "PW",
+    "englishName": "Ngchesar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-227",
+    "countryCode": "PW",
+    "englishName": "Ngeremlengui",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-228",
+    "countryCode": "PW",
+    "englishName": "Ngiwal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-350",
+    "countryCode": "PW",
+    "englishName": "Peleliu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PW-370",
+    "countryCode": "PW",
+    "englishName": "Sonsorol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

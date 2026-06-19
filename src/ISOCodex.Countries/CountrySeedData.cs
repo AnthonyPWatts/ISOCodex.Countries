@@ -5911,6 +5911,22 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("PT-18"), CountryAlpha2Code.Parse("PT"), "Viseu", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("PT-20"), CountryAlpha2Code.Parse("PT"), "Azores", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("PT-30"), CountryAlpha2Code.Parse("PT"), "Madeira", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-002"), CountryAlpha2Code.Parse("PW"), "Aimeliik", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-004"), CountryAlpha2Code.Parse("PW"), "Airai", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-010"), CountryAlpha2Code.Parse("PW"), "Angaur", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-050"), CountryAlpha2Code.Parse("PW"), "Hatohobei", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-100"), CountryAlpha2Code.Parse("PW"), "Kayangel", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-150"), CountryAlpha2Code.Parse("PW"), "Koror", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-212"), CountryAlpha2Code.Parse("PW"), "Melekeok", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-214"), CountryAlpha2Code.Parse("PW"), "Ngaraard", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-218"), CountryAlpha2Code.Parse("PW"), "Ngarchelong", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-222"), CountryAlpha2Code.Parse("PW"), "Ngardmau", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-224"), CountryAlpha2Code.Parse("PW"), "Ngatpang", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-226"), CountryAlpha2Code.Parse("PW"), "Ngchesar", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-227"), CountryAlpha2Code.Parse("PW"), "Ngeremlengui", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-228"), CountryAlpha2Code.Parse("PW"), "Ngiwal", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-350"), CountryAlpha2Code.Parse("PW"), "Peleliu", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("PW-370"), CountryAlpha2Code.Parse("PW"), "Sonsorol", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
