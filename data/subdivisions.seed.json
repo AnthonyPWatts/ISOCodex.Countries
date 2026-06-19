@@ -29785,6 +29785,104 @@
     "type": "Unknown"
   },
   {
+    "code": "SV-AH",
+    "countryCode": "SV",
+    "englishName": "Ahuachapán",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SV-CA",
+    "countryCode": "SV",
+    "englishName": "Cabañas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SV-CH",
+    "countryCode": "SV",
+    "englishName": "Chalatenango",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SV-CU",
+    "countryCode": "SV",
+    "englishName": "Cuscatlán",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SV-LI",
+    "countryCode": "SV",
+    "englishName": "La Libertad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SV-MO",
+    "countryCode": "SV",
+    "englishName": "Morazán",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SV-PA",
+    "countryCode": "SV",
+    "englishName": "La Paz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SV-SA",
+    "countryCode": "SV",
+    "englishName": "Santa Ana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SV-SM",
+    "countryCode": "SV",
+    "englishName": "San Miguel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SV-SO",
+    "countryCode": "SV",
+    "englishName": "Sonsonate",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SV-SS",
+    "countryCode": "SV",
+    "englishName": "San Salvador",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SV-SV",
+    "countryCode": "SV",
+    "englishName": "San Vicente",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SV-UN",
+    "countryCode": "SV",
+    "englishName": "La Unión",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SV-US",
+    "countryCode": "SV",
+    "englishName": "Usulután",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

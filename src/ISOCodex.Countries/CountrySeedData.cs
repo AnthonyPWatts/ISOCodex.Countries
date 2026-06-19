@@ -6504,6 +6504,20 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("ST-05"), CountryAlpha2Code.Parse("ST"), "Lobata", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("ST-06"), CountryAlpha2Code.Parse("ST"), "Mé-Zóchi", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("ST-P"), CountryAlpha2Code.Parse("ST"), "Príncipe", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-AH"), CountryAlpha2Code.Parse("SV"), "Ahuachapán", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-CA"), CountryAlpha2Code.Parse("SV"), "Cabañas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-CH"), CountryAlpha2Code.Parse("SV"), "Chalatenango", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-CU"), CountryAlpha2Code.Parse("SV"), "Cuscatlán", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-LI"), CountryAlpha2Code.Parse("SV"), "La Libertad", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-MO"), CountryAlpha2Code.Parse("SV"), "Morazán", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-PA"), CountryAlpha2Code.Parse("SV"), "La Paz", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-SA"), CountryAlpha2Code.Parse("SV"), "Santa Ana", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-SM"), CountryAlpha2Code.Parse("SV"), "San Miguel", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-SO"), CountryAlpha2Code.Parse("SV"), "Sonsonate", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-SS"), CountryAlpha2Code.Parse("SV"), "San Salvador", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-SV"), CountryAlpha2Code.Parse("SV"), "San Vicente", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-UN"), CountryAlpha2Code.Parse("SV"), "La Unión", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SV-US"), CountryAlpha2Code.Parse("SV"), "Usulután", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
