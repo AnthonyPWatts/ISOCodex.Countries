@@ -847,6 +847,69 @@
     "type": "Unknown"
   },
   {
+    "code": "AT-1",
+    "countryCode": "AT",
+    "englishName": "Burgenland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AT-2",
+    "countryCode": "AT",
+    "englishName": "Carinthia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AT-3",
+    "countryCode": "AT",
+    "englishName": "Lower Austria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AT-4",
+    "countryCode": "AT",
+    "englishName": "Upper Austria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AT-5",
+    "countryCode": "AT",
+    "englishName": "Salzburg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AT-6",
+    "countryCode": "AT",
+    "englishName": "Styria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AT-7",
+    "countryCode": "AT",
+    "englishName": "Tyrol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AT-8",
+    "countryCode": "AT",
+    "englishName": "Vorarlberg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AT-9",
+    "countryCode": "AT",
+    "englishName": "Vienna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "AU-NSW",
     "countryCode": "AU",
     "englishName": "New South Wales",
