@@ -24017,6 +24017,83 @@
     "type": "Unknown"
   },
   {
+    "code": "OM-BJ",
+    "countryCode": "OM",
+    "englishName": "Janub al Batinah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "OM-BS",
+    "countryCode": "OM",
+    "englishName": "Shamal al Batinah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "OM-BU",
+    "countryCode": "OM",
+    "englishName": "Al Buraimi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "OM-DA",
+    "countryCode": "OM",
+    "englishName": "Ad Dakhiliyah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "OM-MA",
+    "countryCode": "OM",
+    "englishName": "Muscat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "OM-MU",
+    "countryCode": "OM",
+    "englishName": "Musandam",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "OM-SJ",
+    "countryCode": "OM",
+    "englishName": "Janub ash Sharqiyah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "OM-SS",
+    "countryCode": "OM",
+    "englishName": "Shamal ash Sharqiyah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "OM-WU",
+    "countryCode": "OM",
+    "englishName": "Al Wusta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "OM-ZA",
+    "countryCode": "OM",
+    "englishName": "Ad Dhahirah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "OM-ZU",
+    "countryCode": "OM",
+    "englishName": "Dhofar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

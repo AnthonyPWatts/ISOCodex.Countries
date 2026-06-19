@@ -5680,6 +5680,17 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("NZ-WGN"), CountryAlpha2Code.Parse("NZ"), "Wellington", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NZ-WKO"), CountryAlpha2Code.Parse("NZ"), "Waikato", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NZ-WTC"), CountryAlpha2Code.Parse("NZ"), "West Coast", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("OM-BJ"), CountryAlpha2Code.Parse("OM"), "Janub al Batinah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("OM-BS"), CountryAlpha2Code.Parse("OM"), "Shamal al Batinah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("OM-BU"), CountryAlpha2Code.Parse("OM"), "Al Buraimi", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("OM-DA"), CountryAlpha2Code.Parse("OM"), "Ad Dakhiliyah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("OM-MA"), CountryAlpha2Code.Parse("OM"), "Muscat", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("OM-MU"), CountryAlpha2Code.Parse("OM"), "Musandam", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("OM-SJ"), CountryAlpha2Code.Parse("OM"), "Janub ash Sharqiyah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("OM-SS"), CountryAlpha2Code.Parse("OM"), "Shamal ash Sharqiyah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("OM-WU"), CountryAlpha2Code.Parse("OM"), "Al Wusta", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("OM-ZA"), CountryAlpha2Code.Parse("OM"), "Ad Dhahirah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("OM-ZU"), CountryAlpha2Code.Parse("OM"), "Dhofar", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
