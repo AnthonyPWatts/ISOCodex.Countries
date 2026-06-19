@@ -2961,6 +2961,90 @@
     "type": "Unknown"
   },
   {
+    "code": "BJ-AK",
+    "countryCode": "BJ",
+    "englishName": "Atakora",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BJ-AL",
+    "countryCode": "BJ",
+    "englishName": "Alibori",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BJ-AQ",
+    "countryCode": "BJ",
+    "englishName": "Atlantique",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BJ-BO",
+    "countryCode": "BJ",
+    "englishName": "Borgou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BJ-CO",
+    "countryCode": "BJ",
+    "englishName": "Collines",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BJ-DO",
+    "countryCode": "BJ",
+    "englishName": "Donga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BJ-KO",
+    "countryCode": "BJ",
+    "englishName": "Kouffo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BJ-LI",
+    "countryCode": "BJ",
+    "englishName": "Littoral",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BJ-MO",
+    "countryCode": "BJ",
+    "englishName": "Mono",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BJ-OU",
+    "countryCode": "BJ",
+    "englishName": "Ouémé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BJ-PL",
+    "countryCode": "BJ",
+    "englishName": "Plateau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BJ-ZO",
+    "countryCode": "BJ",
+    "englishName": "Zou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
