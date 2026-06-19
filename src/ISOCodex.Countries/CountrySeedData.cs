@@ -6110,6 +6110,11 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("RU-YAR"), CountryAlpha2Code.Parse("RU"), "Yaroslavl", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("RU-YEV"), CountryAlpha2Code.Parse("RU"), "Jewish", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("RU-ZAB"), CountryAlpha2Code.Parse("RU"), "Zabaykalsky Krai", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("RW-01"), CountryAlpha2Code.Parse("RW"), "Kigali", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("RW-02"), CountryAlpha2Code.Parse("RW"), "Eastern", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("RW-03"), CountryAlpha2Code.Parse("RW"), "Northern", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("RW-04"), CountryAlpha2Code.Parse("RW"), "Western", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("RW-05"), CountryAlpha2Code.Parse("RW"), "Southern", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

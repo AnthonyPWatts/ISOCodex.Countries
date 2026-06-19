@@ -27027,6 +27027,41 @@
     "type": "Unknown"
   },
   {
+    "code": "RW-01",
+    "countryCode": "RW",
+    "englishName": "Kigali",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RW-02",
+    "countryCode": "RW",
+    "englishName": "Eastern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RW-03",
+    "countryCode": "RW",
+    "englishName": "Northern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RW-04",
+    "countryCode": "RW",
+    "englishName": "Western",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "RW-05",
+    "countryCode": "RW",
+    "englishName": "Southern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
