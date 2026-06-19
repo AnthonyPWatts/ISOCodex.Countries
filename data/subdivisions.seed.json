@@ -4669,6 +4669,118 @@
     "type": "Unknown"
   },
   {
+    "code": "CL-AI",
+    "countryCode": "CL",
+    "englishName": "Aysén",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-AN",
+    "countryCode": "CL",
+    "englishName": "Antofagasta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-AP",
+    "countryCode": "CL",
+    "englishName": "Arica y Parinacota",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-AR",
+    "countryCode": "CL",
+    "englishName": "Araucanía",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-AT",
+    "countryCode": "CL",
+    "englishName": "Atacama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-BI",
+    "countryCode": "CL",
+    "englishName": "Bío Bío",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-CO",
+    "countryCode": "CL",
+    "englishName": "Coquimbo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-LI",
+    "countryCode": "CL",
+    "englishName": "Libertador General Bernardo O’Higgins",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-LL",
+    "countryCode": "CL",
+    "englishName": "Los Lagos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-LR",
+    "countryCode": "CL",
+    "englishName": "Los Ríos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-MA",
+    "countryCode": "CL",
+    "englishName": "Magallanes Region",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-ML",
+    "countryCode": "CL",
+    "englishName": "Maule",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-NB",
+    "countryCode": "CL",
+    "englishName": "Ñuble",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-RM",
+    "countryCode": "CL",
+    "englishName": "Santiago Metropolitan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-TA",
+    "countryCode": "CL",
+    "englishName": "Tarapacá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CL-VS",
+    "countryCode": "CL",
+    "englishName": "Valparaíso",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
