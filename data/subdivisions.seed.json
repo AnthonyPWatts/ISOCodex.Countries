@@ -3157,6 +3157,195 @@
     "type": "Unknown"
   },
   {
+    "code": "BR-AC",
+    "countryCode": "BR",
+    "englishName": "Acre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-AL",
+    "countryCode": "BR",
+    "englishName": "Alagoas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-AM",
+    "countryCode": "BR",
+    "englishName": "Amazonas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-AP",
+    "countryCode": "BR",
+    "englishName": "Amapá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-BA",
+    "countryCode": "BR",
+    "englishName": "Bahia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-CE",
+    "countryCode": "BR",
+    "englishName": "Ceará",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-DF",
+    "countryCode": "BR",
+    "englishName": "Federal District",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-ES",
+    "countryCode": "BR",
+    "englishName": "Espírito Santo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-GO",
+    "countryCode": "BR",
+    "englishName": "Goiás",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-MA",
+    "countryCode": "BR",
+    "englishName": "Maranhão",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-MG",
+    "countryCode": "BR",
+    "englishName": "Minas Gerais",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-MS",
+    "countryCode": "BR",
+    "englishName": "Mato Grosso do Sul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-MT",
+    "countryCode": "BR",
+    "englishName": "Mato Grosso",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-PA",
+    "countryCode": "BR",
+    "englishName": "Pará",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-PB",
+    "countryCode": "BR",
+    "englishName": "Paraíba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-PE",
+    "countryCode": "BR",
+    "englishName": "Pernambuco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-PI",
+    "countryCode": "BR",
+    "englishName": "Piauí",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-PR",
+    "countryCode": "BR",
+    "englishName": "Paraná",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-RJ",
+    "countryCode": "BR",
+    "englishName": "Rio de Janeiro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-RN",
+    "countryCode": "BR",
+    "englishName": "Rio Grande do Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-RO",
+    "countryCode": "BR",
+    "englishName": "Rondônia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-RR",
+    "countryCode": "BR",
+    "englishName": "Roraima",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-RS",
+    "countryCode": "BR",
+    "englishName": "Rio Grande do Sul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-SC",
+    "countryCode": "BR",
+    "englishName": "Santa Catarina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-SE",
+    "countryCode": "BR",
+    "englishName": "Sergipe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-SP",
+    "countryCode": "BR",
+    "englishName": "São Paulo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BR-TO",
+    "countryCode": "BR",
+    "englishName": "Tocantins",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
