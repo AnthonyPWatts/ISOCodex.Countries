@@ -4929,6 +4929,18 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("LT-TE"), CountryAlpha2Code.Parse("LT"), "Telšiai County", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("LT-UT"), CountryAlpha2Code.Parse("LT"), "Utena County", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("LT-VL"), CountryAlpha2Code.Parse("LT"), "Vilnius County", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LU-CA"), CountryAlpha2Code.Parse("LU"), "Capellen", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LU-CL"), CountryAlpha2Code.Parse("LU"), "Clervaux", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LU-DI"), CountryAlpha2Code.Parse("LU"), "Diekirch", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LU-EC"), CountryAlpha2Code.Parse("LU"), "Echternach", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LU-ES"), CountryAlpha2Code.Parse("LU"), "Esch-sur-Alzette", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LU-GR"), CountryAlpha2Code.Parse("LU"), "Grevenmacher", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LU-LU"), CountryAlpha2Code.Parse("LU"), "Luxembourg", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LU-ME"), CountryAlpha2Code.Parse("LU"), "Mersch", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LU-RD"), CountryAlpha2Code.Parse("LU"), "Redange", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LU-RM"), CountryAlpha2Code.Parse("LU"), "Remich", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LU-VD"), CountryAlpha2Code.Parse("LU"), "Vianden", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LU-WI"), CountryAlpha2Code.Parse("LU"), "Wiltz", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

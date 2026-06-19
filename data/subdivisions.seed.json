@@ -18760,6 +18760,90 @@
     "type": "Unknown"
   },
   {
+    "code": "LU-CA",
+    "countryCode": "LU",
+    "englishName": "Capellen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LU-CL",
+    "countryCode": "LU",
+    "englishName": "Clervaux",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LU-DI",
+    "countryCode": "LU",
+    "englishName": "Diekirch",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LU-EC",
+    "countryCode": "LU",
+    "englishName": "Echternach",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LU-ES",
+    "countryCode": "LU",
+    "englishName": "Esch-sur-Alzette",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LU-GR",
+    "countryCode": "LU",
+    "englishName": "Grevenmacher",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LU-LU",
+    "countryCode": "LU",
+    "englishName": "Luxembourg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LU-ME",
+    "countryCode": "LU",
+    "englishName": "Mersch",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LU-RD",
+    "countryCode": "LU",
+    "englishName": "Redange",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LU-RM",
+    "countryCode": "LU",
+    "englishName": "Remich",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LU-VD",
+    "countryCode": "LU",
+    "englishName": "Vianden",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LU-WI",
+    "countryCode": "LU",
+    "englishName": "Wiltz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
