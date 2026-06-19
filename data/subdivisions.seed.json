@@ -32221,6 +32221,195 @@
     "type": "Unknown"
   },
   {
+    "code": "UA-05",
+    "countryCode": "UA",
+    "englishName": "Vinnychchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-07",
+    "countryCode": "UA",
+    "englishName": "Volyn",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-09",
+    "countryCode": "UA",
+    "englishName": "Luhanshchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-12",
+    "countryCode": "UA",
+    "englishName": "Dnipropetrovshchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-14",
+    "countryCode": "UA",
+    "englishName": "Donechchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-18",
+    "countryCode": "UA",
+    "englishName": "Zhytomyrshchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-21",
+    "countryCode": "UA",
+    "englishName": "Zakarpattia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-23",
+    "countryCode": "UA",
+    "englishName": "Zaporizhzhya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-26",
+    "countryCode": "UA",
+    "englishName": "Prykarpattia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-30",
+    "countryCode": "UA",
+    "englishName": "Kyiv",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-32",
+    "countryCode": "UA",
+    "englishName": "Kyivshchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-35",
+    "countryCode": "UA",
+    "englishName": "Kirovohradschyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-40",
+    "countryCode": "UA",
+    "englishName": "Sevastopol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-43",
+    "countryCode": "UA",
+    "englishName": "Crimea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-46",
+    "countryCode": "UA",
+    "englishName": "Lvivshchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-48",
+    "countryCode": "UA",
+    "englishName": "Mykolayivschyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-51",
+    "countryCode": "UA",
+    "englishName": "Odeshchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-53",
+    "countryCode": "UA",
+    "englishName": "Poltavshchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-56",
+    "countryCode": "UA",
+    "englishName": "Rivnenshchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-59",
+    "countryCode": "UA",
+    "englishName": "Sumshchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-61",
+    "countryCode": "UA",
+    "englishName": "Ternopilshchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-63",
+    "countryCode": "UA",
+    "englishName": "Kharkivshchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-65",
+    "countryCode": "UA",
+    "englishName": "Khersonshchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-68",
+    "countryCode": "UA",
+    "englishName": "Khmelnychchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-71",
+    "countryCode": "UA",
+    "englishName": "Cherkashchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-74",
+    "countryCode": "UA",
+    "englishName": "Chernihivshchyna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UA-77",
+    "countryCode": "UA",
+    "englishName": "Chernivtsi Oblast",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
