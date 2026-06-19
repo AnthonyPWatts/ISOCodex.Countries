@@ -3073,6 +3073,69 @@
     "type": "Unknown"
   },
   {
+    "code": "BO-B",
+    "countryCode": "BO",
+    "englishName": "Beni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BO-C",
+    "countryCode": "BO",
+    "englishName": "Cochabamba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BO-H",
+    "countryCode": "BO",
+    "englishName": "Chuquisaca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BO-L",
+    "countryCode": "BO",
+    "englishName": "La Paz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BO-N",
+    "countryCode": "BO",
+    "englishName": "Pando",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BO-O",
+    "countryCode": "BO",
+    "englishName": "Oruro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BO-P",
+    "countryCode": "BO",
+    "englishName": "Potosí",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BO-S",
+    "countryCode": "BO",
+    "englishName": "Santa Cruz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BO-T",
+    "countryCode": "BO",
+    "englishName": "Tarija",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
