@@ -4781,6 +4781,76 @@
     "type": "Unknown"
   },
   {
+    "code": "CM-AD",
+    "countryCode": "CM",
+    "englishName": "Adamawa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CM-CE",
+    "countryCode": "CM",
+    "englishName": "Centre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CM-EN",
+    "countryCode": "CM",
+    "englishName": "Far North",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CM-ES",
+    "countryCode": "CM",
+    "englishName": "East",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CM-LT",
+    "countryCode": "CM",
+    "englishName": "Littoral",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CM-NO",
+    "countryCode": "CM",
+    "englishName": "North",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CM-NW",
+    "countryCode": "CM",
+    "englishName": "Northwest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CM-OU",
+    "countryCode": "CM",
+    "englishName": "West",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CM-SU",
+    "countryCode": "CM",
+    "englishName": "South",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CM-SW",
+    "countryCode": "CM",
+    "englishName": "Southwest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
