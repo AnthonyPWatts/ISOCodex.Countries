@@ -29218,6 +29218,62 @@
     "type": "Unknown"
   },
   {
+    "code": "SK-BC",
+    "countryCode": "SK",
+    "englishName": "Banská Bystrica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SK-BL",
+    "countryCode": "SK",
+    "englishName": "Bratislava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SK-KI",
+    "countryCode": "SK",
+    "englishName": "Košice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SK-NI",
+    "countryCode": "SK",
+    "englishName": "Nitra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SK-PV",
+    "countryCode": "SK",
+    "englishName": "Prešov",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SK-TA",
+    "countryCode": "SK",
+    "englishName": "Trnava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SK-TC",
+    "countryCode": "SK",
+    "englishName": "Trenčín",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SK-ZI",
+    "countryCode": "SK",
+    "englishName": "Žilina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

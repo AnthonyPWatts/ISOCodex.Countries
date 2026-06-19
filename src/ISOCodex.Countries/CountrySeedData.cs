@@ -6423,6 +6423,14 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("SI-211"), CountryAlpha2Code.Parse("SI"), "Šentrupert", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SI-212"), CountryAlpha2Code.Parse("SI"), "Mirna", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SI-213"), CountryAlpha2Code.Parse("SI"), "Ankaran", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SK-BC"), CountryAlpha2Code.Parse("SK"), "Banská Bystrica", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SK-BL"), CountryAlpha2Code.Parse("SK"), "Bratislava", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SK-KI"), CountryAlpha2Code.Parse("SK"), "Košice", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SK-NI"), CountryAlpha2Code.Parse("SK"), "Nitra", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SK-PV"), CountryAlpha2Code.Parse("SK"), "Prešov", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SK-TA"), CountryAlpha2Code.Parse("SK"), "Trnava", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SK-TC"), CountryAlpha2Code.Parse("SK"), "Trenčín", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SK-ZI"), CountryAlpha2Code.Parse("SK"), "Žilina", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
