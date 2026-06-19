@@ -12831,6 +12831,153 @@
     "type": "Unknown"
   },
   {
+    "code": "HR-01",
+    "countryCode": "HR",
+    "englishName": "Zagreb County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-02",
+    "countryCode": "HR",
+    "englishName": "Krapina-Zagorje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-03",
+    "countryCode": "HR",
+    "englishName": "Sisak-Moslavina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-04",
+    "countryCode": "HR",
+    "englishName": "Karlovac",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-05",
+    "countryCode": "HR",
+    "englishName": "Varaždin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-06",
+    "countryCode": "HR",
+    "englishName": "Koprivnica-Križevci",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-07",
+    "countryCode": "HR",
+    "englishName": "Bjelovar-Bilogora",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-08",
+    "countryCode": "HR",
+    "englishName": "Primorje-Gorski Kotar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-09",
+    "countryCode": "HR",
+    "englishName": "Lika-Senj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-10",
+    "countryCode": "HR",
+    "englishName": "Virovitica-Podravina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-11",
+    "countryCode": "HR",
+    "englishName": "Požega-Slavonia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-12",
+    "countryCode": "HR",
+    "englishName": "Brod-Posavina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-13",
+    "countryCode": "HR",
+    "englishName": "Zadar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-14",
+    "countryCode": "HR",
+    "englishName": "Osijek-Baranja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-15",
+    "countryCode": "HR",
+    "englishName": "Šibenik-Knin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-16",
+    "countryCode": "HR",
+    "englishName": "Vukovar-Syrmia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-17",
+    "countryCode": "HR",
+    "englishName": "Split-Dalmatia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-18",
+    "countryCode": "HR",
+    "englishName": "Istria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-19",
+    "countryCode": "HR",
+    "englishName": "Dubrovnik-Neretva",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-20",
+    "countryCode": "HR",
+    "englishName": "Međimurje",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HR-21",
+    "countryCode": "HR",
+    "englishName": "Zagreb",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",
