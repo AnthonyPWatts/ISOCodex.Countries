@@ -19908,6 +19908,125 @@
     "type": "Unknown"
   },
   {
+    "code": "MC-CL",
+    "countryCode": "MC",
+    "englishName": "La Colle",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-CO",
+    "countryCode": "MC",
+    "englishName": "La Condamine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-FO",
+    "countryCode": "MC",
+    "englishName": "Fontvieille",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-GA",
+    "countryCode": "MC",
+    "englishName": "La Gare",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-JE",
+    "countryCode": "MC",
+    "englishName": "Jardin Exotique de Monaco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-LA",
+    "countryCode": "MC",
+    "englishName": "Larvotto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-MA",
+    "countryCode": "MC",
+    "englishName": "Malbousquet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-MC",
+    "countryCode": "MC",
+    "englishName": "Monte Carlo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-MG",
+    "countryCode": "MC",
+    "englishName": "Moneghetti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-MO",
+    "countryCode": "MC",
+    "englishName": "Monaco-Ville",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-MU",
+    "countryCode": "MC",
+    "englishName": "Moulins",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-PH",
+    "countryCode": "MC",
+    "englishName": "Port Hercules",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-SD",
+    "countryCode": "MC",
+    "englishName": "Sainte-Dévote Chapel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-SO",
+    "countryCode": "MC",
+    "englishName": "La Source",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-SP",
+    "countryCode": "MC",
+    "englishName": "Spélugues",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-SR",
+    "countryCode": "MC",
+    "englishName": "Saint Roman",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MC-VR",
+    "countryCode": "MC",
+    "englishName": "Vallon de la Rousse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

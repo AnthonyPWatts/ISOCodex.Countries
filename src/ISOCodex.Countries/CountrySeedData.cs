@@ -5093,6 +5093,23 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("MA-TNT"), CountryAlpha2Code.Parse("MA"), "Tan-Tan", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MA-YUS"), CountryAlpha2Code.Parse("MA"), "Youssoufia", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MA-ZAG"), CountryAlpha2Code.Parse("MA"), "Zagora", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-CL"), CountryAlpha2Code.Parse("MC"), "La Colle", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-CO"), CountryAlpha2Code.Parse("MC"), "La Condamine", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-FO"), CountryAlpha2Code.Parse("MC"), "Fontvieille", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-GA"), CountryAlpha2Code.Parse("MC"), "La Gare", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-JE"), CountryAlpha2Code.Parse("MC"), "Jardin Exotique de Monaco", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-LA"), CountryAlpha2Code.Parse("MC"), "Larvotto", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-MA"), CountryAlpha2Code.Parse("MC"), "Malbousquet", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-MC"), CountryAlpha2Code.Parse("MC"), "Monte Carlo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-MG"), CountryAlpha2Code.Parse("MC"), "Moneghetti", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-MO"), CountryAlpha2Code.Parse("MC"), "Monaco-Ville", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-MU"), CountryAlpha2Code.Parse("MC"), "Moulins", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-PH"), CountryAlpha2Code.Parse("MC"), "Port Hercules", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-SD"), CountryAlpha2Code.Parse("MC"), "Sainte-Dévote Chapel", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-SO"), CountryAlpha2Code.Parse("MC"), "La Source", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-SP"), CountryAlpha2Code.Parse("MC"), "Spélugues", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-SR"), CountryAlpha2Code.Parse("MC"), "Saint Roman", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MC-VR"), CountryAlpha2Code.Parse("MC"), "Vallon de la Rousse", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
