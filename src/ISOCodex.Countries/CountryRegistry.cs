@@ -5,6 +5,13 @@ namespace ISOCodex.Countries;
 /// </summary>
 public static class CountryRegistry
 {
+    private static readonly HashSet<string> ReservedOrSpecialAlpha2Codes = new(StringComparer.Ordinal)
+    {
+        "EU",
+        "UK",
+        "ZZ"
+    };
+
     public static IReadOnlyList<CountryInfo> All { get; } = CountrySeedData.Countries;
 
     private static readonly IReadOnlyDictionary<string, CountryInfo> ByAlpha2 =
@@ -69,7 +76,7 @@ public static class CountryRegistry
         {
             return TryGetByAlpha2(alpha2, out CountryInfo? country)
                 ? CountryCodeLookupResult.Found(country!, CountryCodeKind.Alpha2, alpha2.Value)
-                : CountryCodeLookupResult.Failed(CountryCodeLookupFailureReason.Unknown, CountryCodeKind.Alpha2, alpha2.Value);
+                : CountryCodeLookupResult.Failed(GetAlpha2FailureReason(alpha2), CountryCodeKind.Alpha2, alpha2.Value);
         }
 
         if (CountryAlpha3Code.TryParse(value, out CountryAlpha3Code alpha3))
@@ -88,4 +95,9 @@ public static class CountryRegistry
 
         return CountryCodeLookupResult.Failed(CountryCodeLookupFailureReason.InvalidSyntax);
     }
+
+    private static CountryCodeLookupFailureReason GetAlpha2FailureReason(CountryAlpha2Code code) =>
+        ReservedOrSpecialAlpha2Codes.Contains(code.Value)
+            ? CountryCodeLookupFailureReason.ReservedButNotCountry
+            : CountryCodeLookupFailureReason.Unknown;
 }

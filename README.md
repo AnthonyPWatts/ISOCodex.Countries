@@ -56,6 +56,8 @@ Alpha codes are stored in canonical uppercase. Numeric codes are stored as three
 
 Mixed lookup is deterministic: two ASCII letters are treated as alpha-2, three ASCII letters as alpha-3, and three digits as numeric. `UK` is recognised as syntactically valid alpha-2 input, but it is not silently treated as canonical `GB`.
 
+`UK`, `EU`, and `ZZ` are reported by mixed lookup as `ReservedButNotCountry` rather than being resolved to a country entry. The package does not currently perform alias resolution.
+
 ## Subdivision Codes
 
 `CountrySubdivisionCode` models ISO 3166-2-style codes such as `GB-ENG`, `US-CA`, and `IE-D`.
@@ -71,10 +73,7 @@ using System.Text.Json;
 using ISOCodex.Countries;
 
 var options = new JsonSerializerOptions();
-options.Converters.Add(new CountryAlpha2CodeJsonConverter());
-options.Converters.Add(new CountryAlpha3CodeJsonConverter());
-options.Converters.Add(new CountryNumericCodeJsonConverter());
-options.Converters.Add(new CountrySubdivisionCodeJsonConverter());
+CountryJsonSerializerOptions.AddConverters(options);
 
 string json = JsonSerializer.Serialize(CountryAlpha2Code.Parse("gb"), options);
 CountryAlpha2Code code = JsonSerializer.Deserialize<CountryAlpha2Code>("\"GB\"", options);

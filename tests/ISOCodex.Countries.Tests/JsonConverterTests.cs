@@ -8,12 +8,7 @@ public sealed class JsonConverterTests
     {
         get
         {
-            JsonSerializerOptions options = new();
-            options.Converters.Add(new CountryAlpha2CodeJsonConverter());
-            options.Converters.Add(new CountryAlpha3CodeJsonConverter());
-            options.Converters.Add(new CountryNumericCodeJsonConverter());
-            options.Converters.Add(new CountrySubdivisionCodeJsonConverter());
-            return options;
+            return CountryJsonSerializerOptions.CreateDefault();
         }
     }
 
@@ -41,5 +36,15 @@ public sealed class JsonConverterTests
     public void Rejects_Invalid_Codes(string json)
     {
         Assert.Throws<JsonException>(() => JsonSerializer.Deserialize<CountryAlpha2Code>(json, Options));
+    }
+
+    [Fact]
+    public void Adds_Converters_To_Existing_Options()
+    {
+        JsonSerializerOptions options = new();
+
+        CountryJsonSerializerOptions.AddConverters(options);
+
+        Assert.Equal("\"GB\"", JsonSerializer.Serialize(CountryAlpha2Code.Parse("GB"), options));
     }
 }

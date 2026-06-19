@@ -33,15 +33,15 @@ public sealed class RegistryTests
     [Fact]
     public void Unknown_Syntax_Valid_Code_Returns_False_And_Result_Failure()
     {
-        Assert.False(CountryRegistry.TryGetByAlpha2("ZZ", out CountryInfo? country));
+        Assert.False(CountryRegistry.TryGetByAlpha2("AB", out CountryInfo? country));
         Assert.Null(country);
 
-        CountryCodeLookupResult result = CountryRegistry.Lookup("ZZ");
+        CountryCodeLookupResult result = CountryRegistry.Lookup("AB");
 
         Assert.False(result.Success);
         Assert.Equal(CountryCodeKind.Alpha2, result.DetectedKind);
         Assert.Equal(CountryCodeLookupFailureReason.Unknown, result.FailureReason);
-        Assert.Equal("ZZ", result.NormalizedInput);
+        Assert.Equal("AB", result.NormalizedInput);
     }
 
     [Fact]
@@ -84,6 +84,19 @@ public sealed class RegistryTests
         CountryCodeLookupResult result = CountryRegistry.Lookup("UK");
 
         Assert.False(result.Success);
-        Assert.Equal(CountryCodeLookupFailureReason.Unknown, result.FailureReason);
+        Assert.Equal(CountryCodeLookupFailureReason.ReservedButNotCountry, result.FailureReason);
+    }
+
+    [Theory]
+    [InlineData("UK")]
+    [InlineData("EU")]
+    [InlineData("ZZ")]
+    public void Reserved_Or_Special_Alpha2_Codes_Are_Not_Silently_Treated_As_Countries(string input)
+    {
+        CountryCodeLookupResult result = CountryRegistry.Lookup(input);
+
+        Assert.False(result.Success);
+        Assert.Equal(CountryCodeKind.Alpha2, result.DetectedKind);
+        Assert.Equal(CountryCodeLookupFailureReason.ReservedButNotCountry, result.FailureReason);
     }
 }
