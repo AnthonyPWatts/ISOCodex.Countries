@@ -10010,6 +10010,69 @@
     "type": "Unknown"
   },
   {
+    "code": "GA-1",
+    "countryCode": "GA",
+    "englishName": "Estuaire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GA-2",
+    "countryCode": "GA",
+    "englishName": "Haut-Ogooué",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GA-3",
+    "countryCode": "GA",
+    "englishName": "Moyen-Ogooué",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GA-4",
+    "countryCode": "GA",
+    "englishName": "Ngounié",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GA-5",
+    "countryCode": "GA",
+    "englishName": "Nyanga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GA-6",
+    "countryCode": "GA",
+    "englishName": "Ogooué-Ivindo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GA-7",
+    "countryCode": "GA",
+    "englishName": "Ogooué-Lolo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GA-8",
+    "countryCode": "GA",
+    "englishName": "Ogooué-Maritime",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "GA-9",
+    "countryCode": "GA",
+    "englishName": "Woleu-Ntem",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
