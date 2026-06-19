@@ -17227,6 +17227,125 @@
     "type": "Unknown"
   },
   {
+    "code": "KR-11",
+    "countryCode": "KR",
+    "englishName": "Seoul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-26",
+    "countryCode": "KR",
+    "englishName": "Busan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-27",
+    "countryCode": "KR",
+    "englishName": "Daegu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-28",
+    "countryCode": "KR",
+    "englishName": "Incheon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-29",
+    "countryCode": "KR",
+    "englishName": "Gwangju City",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-30",
+    "countryCode": "KR",
+    "englishName": "Daejeon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-31",
+    "countryCode": "KR",
+    "englishName": "Ulsan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-41",
+    "countryCode": "KR",
+    "englishName": "Gyeonggi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-42",
+    "countryCode": "KR",
+    "englishName": "Gangwon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-43",
+    "countryCode": "KR",
+    "englishName": "North Chungcheong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-44",
+    "countryCode": "KR",
+    "englishName": "South Chungcheong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-45",
+    "countryCode": "KR",
+    "englishName": "North Jeolla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-46",
+    "countryCode": "KR",
+    "englishName": "South Jeolla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-47",
+    "countryCode": "KR",
+    "englishName": "North Gyeongsang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-48",
+    "countryCode": "KR",
+    "englishName": "South Gyeongsang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-49",
+    "countryCode": "KR",
+    "englishName": "Jeju",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KR-50",
+    "countryCode": "KR",
+    "englishName": "Sejong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

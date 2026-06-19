@@ -4710,6 +4710,23 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("KP-13"), CountryAlpha2Code.Parse("KP"), "Rason", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("KP-14"), CountryAlpha2Code.Parse("KP"), "Nampho", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("KP-15"), CountryAlpha2Code.Parse("KP"), "Kaeseong", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-11"), CountryAlpha2Code.Parse("KR"), "Seoul", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-26"), CountryAlpha2Code.Parse("KR"), "Busan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-27"), CountryAlpha2Code.Parse("KR"), "Daegu", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-28"), CountryAlpha2Code.Parse("KR"), "Incheon", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-29"), CountryAlpha2Code.Parse("KR"), "Gwangju City", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-30"), CountryAlpha2Code.Parse("KR"), "Daejeon", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-31"), CountryAlpha2Code.Parse("KR"), "Ulsan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-41"), CountryAlpha2Code.Parse("KR"), "Gyeonggi", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-42"), CountryAlpha2Code.Parse("KR"), "Gangwon", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-43"), CountryAlpha2Code.Parse("KR"), "North Chungcheong", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-44"), CountryAlpha2Code.Parse("KR"), "South Chungcheong", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-45"), CountryAlpha2Code.Parse("KR"), "North Jeolla", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-46"), CountryAlpha2Code.Parse("KR"), "South Jeolla", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-47"), CountryAlpha2Code.Parse("KR"), "North Gyeongsang", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-48"), CountryAlpha2Code.Parse("KR"), "South Gyeongsang", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-49"), CountryAlpha2Code.Parse("KR"), "Jeju", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("KR-50"), CountryAlpha2Code.Parse("KR"), "Sejong", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
