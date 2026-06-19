@@ -4186,6 +4186,125 @@
     "type": "Unknown"
   },
   {
+    "code": "CF-AC",
+    "countryCode": "CF",
+    "englishName": "Ouham",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-BB",
+    "countryCode": "CF",
+    "englishName": "Bamingui-Bangoran",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-BGF",
+    "countryCode": "CF",
+    "englishName": "Bangui",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-BK",
+    "countryCode": "CF",
+    "englishName": "Basse-Kotto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-HK",
+    "countryCode": "CF",
+    "englishName": "Haute-Kotto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-HM",
+    "countryCode": "CF",
+    "englishName": "Haut-Mbomou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-HS",
+    "countryCode": "CF",
+    "englishName": "Mambéré-Kadéï",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-KB",
+    "countryCode": "CF",
+    "englishName": "Nana-Grébizi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-KG",
+    "countryCode": "CF",
+    "englishName": "Kémo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-LB",
+    "countryCode": "CF",
+    "englishName": "Lobaye",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-MB",
+    "countryCode": "CF",
+    "englishName": "Mbomou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-MP",
+    "countryCode": "CF",
+    "englishName": "Ombella-M’Poko",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-NM",
+    "countryCode": "CF",
+    "englishName": "Nana-Mambéré",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-OP",
+    "countryCode": "CF",
+    "englishName": "Ouham-Pendé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-SE",
+    "countryCode": "CF",
+    "englishName": "Sangha-Mbaéré",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-UK",
+    "countryCode": "CF",
+    "englishName": "Ouaka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CF-VK",
+    "countryCode": "CF",
+    "englishName": "Vakaga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
