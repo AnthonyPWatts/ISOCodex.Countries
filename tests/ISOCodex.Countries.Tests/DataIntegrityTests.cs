@@ -32,6 +32,59 @@ public sealed class DataIntegrityTests
     }
 
     [Fact]
+    public void Country_Seed_Data_Has_No_Empty_Display_Metadata()
+    {
+        foreach (CountryInfo country in CountryRegistry.All)
+        {
+            Assert.False(string.IsNullOrWhiteSpace(country.EnglishShortName));
+            Assert.All(country.CommonAliases, alias => Assert.False(string.IsNullOrWhiteSpace(alias)));
+            Assert.All(country.Notes, note => Assert.False(string.IsNullOrWhiteSpace(note)));
+        }
+    }
+
+    [Fact]
+    public void Common_Aliases_Are_Not_Silent_Canonical_Lookup_Keys()
+    {
+        foreach (CountryInfo country in CountryRegistry.All)
+        {
+            foreach (string alias in country.CommonAliases)
+            {
+                CountryCodeLookupResult result = CountryRegistry.Lookup(alias);
+
+                Assert.False(result.Success);
+            }
+        }
+    }
+
+    [Fact]
+    public void Country_Data_Version_Is_Populated_And_Iso_Like()
+    {
+        Assert.False(string.IsNullOrWhiteSpace(CountryDataVersion.Identifier));
+        Assert.False(string.IsNullOrWhiteSpace(CountryDataVersion.CheckedOn));
+        Assert.False(string.IsNullOrWhiteSpace(CountryDataVersion.Description));
+        Assert.True(
+            DateOnly.TryParseExact(
+                CountryDataVersion.CheckedOn,
+                "yyyy-MM-dd",
+                System.Globalization.CultureInfo.InvariantCulture,
+                System.Globalization.DateTimeStyles.None,
+                out _));
+    }
+
+    [Fact]
+    public void Documentation_Discloses_Representative_Data_And_No_Iso_Endorsement()
+    {
+        string repositoryRoot = FindRepositoryRoot();
+        string readme = File.ReadAllText(Path.Combine(repositoryRoot, "README.md"));
+        string dataSources = File.ReadAllText(Path.Combine(repositoryRoot, "docs", "data-sources.md"));
+
+        Assert.Contains("representative", readme, StringComparison.OrdinalIgnoreCase);
+        Assert.Contains("not an official ISO product", readme, StringComparison.OrdinalIgnoreCase);
+        Assert.Contains("representative", dataSources, StringComparison.OrdinalIgnoreCase);
+        Assert.Contains("does not claim ISO endorsement", dataSources, StringComparison.OrdinalIgnoreCase);
+    }
+
+    [Fact]
     public void Subdivision_Seed_Data_Refers_To_Known_Countries()
     {
         foreach (CountrySubdivisionInfo subdivision in CountrySubdivisionRegistry.All)
@@ -58,5 +111,22 @@ public sealed class DataIntegrityTests
             .ToArray();
 
         Assert.Empty(duplicates);
+    }
+
+    private static string FindRepositoryRoot()
+    {
+        DirectoryInfo? directory = new(AppContext.BaseDirectory);
+
+        while (directory is not null)
+        {
+            if (File.Exists(Path.Combine(directory.FullName, "ISOCodex.Countries.sln")))
+            {
+                return directory.FullName;
+            }
+
+            directory = directory.Parent;
+        }
+
+        throw new InvalidOperationException("Could not locate repository root.");
     }
 }

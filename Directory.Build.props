@@ -10,6 +10,8 @@
   <PropertyGroup Condition="'$(IsPackable)' == 'true'">
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <Authors>Anthony Watts</Authors>
     <Company>Anthony Watts</Company>
     <RepositoryUrl>https://github.com/AnthonyPWatts/ISOCodex.Countries</RepositoryUrl>

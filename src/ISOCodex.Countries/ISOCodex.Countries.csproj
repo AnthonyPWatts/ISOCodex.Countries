@@ -14,8 +14,12 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>countries;iso3166;m49;country-codes;dotnet;validation</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageReleaseNotes>Initial v0.1 foundation release with representative country and subdivision seed data.</PackageReleaseNotes>
     <IsPackable>true</IsPackable>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <NoWarn>$(NoWarn);1591</NoWarn>
   </PropertyGroup>
 
