@@ -4305,6 +4305,90 @@
     "type": "Unknown"
   },
   {
+    "code": "CG-11",
+    "countryCode": "CG",
+    "englishName": "Bouenza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CG-12",
+    "countryCode": "CG",
+    "englishName": "Pool",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CG-13",
+    "countryCode": "CG",
+    "englishName": "Sangha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CG-14",
+    "countryCode": "CG",
+    "englishName": "Plateaux",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CG-15",
+    "countryCode": "CG",
+    "englishName": "Cuvette-Ouest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CG-16",
+    "countryCode": "CG",
+    "englishName": "Pointe-Noire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CG-2",
+    "countryCode": "CG",
+    "englishName": "Lékoumou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CG-5",
+    "countryCode": "CG",
+    "englishName": "Kouilou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CG-7",
+    "countryCode": "CG",
+    "englishName": "Likouala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CG-8",
+    "countryCode": "CG",
+    "englishName": "Cuvette",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CG-9",
+    "countryCode": "CG",
+    "englishName": "Niari",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CG-BZV",
+    "countryCode": "CG",
+    "englishName": "Brazzaville",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
