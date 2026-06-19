@@ -1533,6 +1533,83 @@
     "type": "Unknown"
   },
   {
+    "code": "BB-01",
+    "countryCode": "BB",
+    "englishName": "Christ Church",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BB-02",
+    "countryCode": "BB",
+    "englishName": "Saint Andrew",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BB-03",
+    "countryCode": "BB",
+    "englishName": "Saint George",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BB-04",
+    "countryCode": "BB",
+    "englishName": "Saint James",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BB-05",
+    "countryCode": "BB",
+    "englishName": "Saint John",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BB-06",
+    "countryCode": "BB",
+    "englishName": "Saint Joseph",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BB-07",
+    "countryCode": "BB",
+    "englishName": "Saint Lucy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BB-08",
+    "countryCode": "BB",
+    "englishName": "Saint Michael",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BB-09",
+    "countryCode": "BB",
+    "englishName": "Saint Peter",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BB-10",
+    "countryCode": "BB",
+    "englishName": "Saint Philip",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BB-11",
+    "countryCode": "BB",
+    "englishName": "Saint Thomas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
