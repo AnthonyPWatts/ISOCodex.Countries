@@ -25746,6 +25746,132 @@
     "type": "Unknown"
   },
   {
+    "code": "PY-1",
+    "countryCode": "PY",
+    "englishName": "Concepción",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-10",
+    "countryCode": "PY",
+    "englishName": "Alto Paraná",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-11",
+    "countryCode": "PY",
+    "englishName": "Central",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-12",
+    "countryCode": "PY",
+    "englishName": "Ñeembucú",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-13",
+    "countryCode": "PY",
+    "englishName": "Amambay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-14",
+    "countryCode": "PY",
+    "englishName": "Canindeyú",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-15",
+    "countryCode": "PY",
+    "englishName": "Presidente Hayes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-16",
+    "countryCode": "PY",
+    "englishName": "Alto Paraguay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-19",
+    "countryCode": "PY",
+    "englishName": "Boquerón",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-2",
+    "countryCode": "PY",
+    "englishName": "San Pedro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-3",
+    "countryCode": "PY",
+    "englishName": "Cordillera",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-4",
+    "countryCode": "PY",
+    "englishName": "Guairá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-5",
+    "countryCode": "PY",
+    "englishName": "Caaguazú",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-6",
+    "countryCode": "PY",
+    "englishName": "Caazapá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-7",
+    "countryCode": "PY",
+    "englishName": "Itapúa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-8",
+    "countryCode": "PY",
+    "englishName": "Misiones",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-9",
+    "countryCode": "PY",
+    "englishName": "Paraguarí",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "PY-ASU",
+    "countryCode": "PY",
+    "englishName": "Asunción",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
