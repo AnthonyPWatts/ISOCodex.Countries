@@ -27685,6 +27685,41 @@
     "type": "Unknown"
   },
   {
+    "code": "SG-01",
+    "countryCode": "SG",
+    "englishName": "Central Singapore",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SG-02",
+    "countryCode": "SG",
+    "englishName": "North East",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SG-03",
+    "countryCode": "SG",
+    "englishName": "North West",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SG-04",
+    "countryCode": "SG",
+    "englishName": "South East",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SG-05",
+    "countryCode": "SG",
+    "englishName": "South West",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

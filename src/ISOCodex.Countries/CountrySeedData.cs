@@ -6204,6 +6204,11 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("SE-X"), CountryAlpha2Code.Parse("SE"), "Gävleborg", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SE-Y"), CountryAlpha2Code.Parse("SE"), "Västernorrland", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SE-Z"), CountryAlpha2Code.Parse("SE"), "Jämtland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SG-01"), CountryAlpha2Code.Parse("SG"), "Central Singapore", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SG-02"), CountryAlpha2Code.Parse("SG"), "North East", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SG-03"), CountryAlpha2Code.Parse("SG"), "North West", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SG-04"), CountryAlpha2Code.Parse("SG"), "South East", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SG-05"), CountryAlpha2Code.Parse("SG"), "South West", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
