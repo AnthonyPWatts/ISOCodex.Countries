@@ -19,7 +19,7 @@ Use this checklist before any NuGet release. Publishing itself must be a separat
 - [ ] Data-source and redistribution assumptions documented.
 - [ ] No undocumented data-source TODOs.
 - [ ] No official ISO endorsement is implied.
-- [ ] `GB`, `UK`, `EU`, `QO`, `XK`, and `ZZ` behaviour remains documented and tested.
+- [ ] `GB`, `UK`, `EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` behaviour remains documented and tested.
 
 ## Package metadata
 

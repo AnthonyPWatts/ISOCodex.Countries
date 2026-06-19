@@ -14,6 +14,19 @@ public sealed class ValueObjectTests
     }
 
     [Theory]
+    [InlineData("EU")]
+    [InlineData("QO")]
+    [InlineData("XA")]
+    [InlineData("XB")]
+    [InlineData("XK")]
+    [InlineData("ZZ")]
+    public void Alpha2_Parses_Syntactically_Valid_Special_And_User_Assigned_Shapes(string input)
+    {
+        Assert.True(CountryAlpha2Code.TryParse(input, out CountryAlpha2Code code));
+        Assert.Equal(input, code.Value);
+    }
+
+    [Theory]
     [InlineData(null)]
     [InlineData("")]
     [InlineData(" ")]

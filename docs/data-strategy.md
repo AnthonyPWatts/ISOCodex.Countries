@@ -78,7 +78,7 @@ Tests should continue to prove:
 - JSON seed and compiled seed alignment;
 - CLDR source attribution remains documented;
 - selected edge cases such as `AX`, `BV`, and `HM` are present;
-- excluded values such as `EU`, `QO`, `XK`, and `ZZ` remain unknown until a future reserved or special-code model is deliberately added.
+- excluded values such as `EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` parse as alpha-2 but return `ReservedButNotCountry` from mixed lookup until a richer reserved or special-code model is deliberately added.
 
 ## Current recommendation
 

@@ -31,17 +31,17 @@ public sealed class RegistryTests
     }
 
     [Fact]
-    public void Unknown_Syntax_Valid_Code_Returns_False_And_Result_Failure()
+    public void Arbitrary_Unknown_Syntax_Valid_Code_Returns_False_And_Result_Failure()
     {
-        Assert.False(CountryRegistry.TryGetByAlpha2("ZZ", out CountryInfo? country));
+        Assert.False(CountryRegistry.TryGetByAlpha2("AA", out CountryInfo? country));
         Assert.Null(country);
 
-        CountryCodeLookupResult result = CountryRegistry.Lookup("ZZ");
+        CountryCodeLookupResult result = CountryRegistry.Lookup("AA");
 
         Assert.False(result.Success);
         Assert.Equal(CountryCodeKind.Alpha2, result.DetectedKind);
         Assert.Equal(CountryCodeLookupFailureReason.Unknown, result.FailureReason);
-        Assert.Equal("ZZ", result.NormalizedInput);
+        Assert.Equal("AA", result.NormalizedInput);
     }
 
     [Fact]
@@ -79,19 +79,42 @@ public sealed class RegistryTests
     }
 
     [Theory]
-    [InlineData("UK")]
     [InlineData("EU")]
     [InlineData("QO")]
+    [InlineData("XA")]
+    [InlineData("XB")]
     [InlineData("XK")]
     [InlineData("ZZ")]
-    public void Special_Or_User_Assigned_Shaped_Codes_Are_Unknown_Not_Reserved_Statuses(string input)
+    public void Known_Non_Country_Shaped_Codes_Are_Not_Invalid_Syntax(string input)
     {
         CountryCodeLookupResult result = CountryRegistry.Lookup(input);
 
         Assert.False(result.Success);
         Assert.Equal(CountryCodeKind.Alpha2, result.DetectedKind);
-        Assert.Equal(CountryCodeLookupFailureReason.Unknown, result.FailureReason);
+        Assert.Equal(CountryCodeLookupFailureReason.ReservedButNotCountry, result.FailureReason);
         Assert.Equal(input, result.NormalizedInput);
+    }
+
+    [Fact]
+    public void Uk_Remains_Unknown_Because_It_Is_A_Common_Alias_Not_A_Known_Non_Country_Code()
+    {
+        CountryCodeLookupResult result = CountryRegistry.Lookup("UK");
+
+        Assert.False(result.Success);
+        Assert.Equal(CountryCodeKind.Alpha2, result.DetectedKind);
+        Assert.Equal(CountryCodeLookupFailureReason.Unknown, result.FailureReason);
+        Assert.Equal("UK", result.NormalizedInput);
+    }
+
+    [Fact]
+    public void Arbitrary_Syntax_Valid_Alpha2_Code_Remains_Unknown()
+    {
+        CountryCodeLookupResult result = CountryRegistry.Lookup("AA");
+
+        Assert.False(result.Success);
+        Assert.Equal(CountryCodeKind.Alpha2, result.DetectedKind);
+        Assert.Equal(CountryCodeLookupFailureReason.Unknown, result.FailureReason);
+        Assert.Equal("AA", result.NormalizedInput);
     }
 
     [Theory]

@@ -12,7 +12,7 @@ Console.WriteLine("Parsed alpha-3: " + alpha3);
 Console.WriteLine("Parsed numeric: " + numeric);
 Console.WriteLine();
 
-foreach (string input in new[] { "GB", "gbr", "826", "008", "UK", "ZZ", "12!" })
+foreach (string input in new[] { "GB", "gbr", "826", "008", "UK", "EU", "XK", "ZZ", "12!" })
 {
     CountryCodeLookupResult result = CountryRegistry.Lookup(input);
 

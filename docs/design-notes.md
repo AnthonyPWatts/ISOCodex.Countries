@@ -8,7 +8,7 @@ Invalid, unknown, and reserved values must be distinct concepts. Display names a
 
 `GB` is the canonical country code for the United Kingdom in this package. `UK` is common in real systems, but silently treating it as `GB` would hide data quality issues and make persistence ambiguous. If alias support is added later, it should be explicit.
 
-`EU` and `ZZ` are not treated as current countries by the current registry. They remain unknown syntactically valid alpha-2 inputs until a deliberate reserved-code model exists.
+`EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` are not treated as current countries by the current registry. They remain syntactically valid alpha-2 inputs, but mixed lookup returns `ReservedButNotCountry` so consumers can distinguish known special-purpose values from invalid syntax.
 
 `CountryEntryStatus` and `CountryCodeLookupFailureReason` include some future-facing values for reserved, former, exceptional, transitional, user-assigned, ambiguous, and unsupported cases. The current CLDR-derived country and territory seed data uses only `CountryEntryStatus.Current`; consumers must not infer official reservation status from an `Unknown` lookup result.
 

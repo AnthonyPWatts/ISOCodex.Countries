@@ -37,7 +37,8 @@ public sealed class PublicApiErgonomicsTests
     }
 
     [Theory]
-    [InlineData("ZZ", CountryCodeLookupFailureReason.Unknown)]
+    [InlineData("AA", CountryCodeLookupFailureReason.Unknown)]
+    [InlineData("ZZ", CountryCodeLookupFailureReason.ReservedButNotCountry)]
     [InlineData("12!", CountryCodeLookupFailureReason.InvalidSyntax)]
     public void Consumer_Can_Use_Mixed_Lookup_For_Failed_Input(string input, CountryCodeLookupFailureReason expectedReason)
     {

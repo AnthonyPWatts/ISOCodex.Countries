@@ -21,7 +21,7 @@ The generation source files are:
 
 The generator is `eng/update-country-seed-from-cldr.ps1`.
 
-The generated registry excludes deprecated territory aliases, CLDR pseudo-territories, regional groupings, unknown-region placeholders, and user-assigned code elements that are not ISO 3166-1 assigned country entries. Examples that remain unknown include `EU`, `QO`, `XK`, and `ZZ`.
+The generated registry excludes deprecated territory aliases, CLDR pseudo-territories, regional groupings, unknown-region placeholders, and user-assigned code elements that are not ISO 3166-1 assigned country entries. Examples include `EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ`.
 
 The package includes `THIRD-PARTY-NOTICES.md` for Unicode CLDR attribution and licence details.
 
@@ -48,7 +48,7 @@ The package does not currently model reserved code ranges, former-country entrie
 
 `GB` is the canonical ISO-style alpha-2 country code used by this package. `UK` is commonly encountered in real systems, but it is not silently treated as canonical `GB`.
 
-`EU`, `QO`, `XK`, and `ZZ` are syntactically valid alpha-2 shapes. The current package treats them as unknown because they are outside the selected current country and territory registry scope.
+`EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` are syntactically valid alpha-2 shapes. The current package returns `ReservedButNotCountry` for these known non-country or special-purpose codes because they are outside the selected current country and territory registry scope.
 
 ## Update Process
 

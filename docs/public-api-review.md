@@ -58,7 +58,7 @@ The alias list is metadata only. It is not used for silent canonical lookup.
 
 `CountryCodeValidationIssue` exposes stable machine-readable issue codes, human-readable messages, and the failed input.
 
-Current entry statuses and lookup failure reasons include future-facing enum values such as `Reserved`, `Former`, `UserAssigned`, `Ambiguous`, `ReservedButNotCountry`, and `Unsupported`. The current registry does not yet contain separate reserved-code or former-code data. Seed countries therefore use `CountryEntryStatus.Current`, and `UK`, `EU`, and `ZZ` are treated as syntactically valid but unknown alpha-2 input at this stage.
+Current entry statuses and lookup failure reasons include future-facing enum values such as `Reserved`, `Former`, `UserAssigned`, `Ambiguous`, `ReservedButNotCountry`, and `Unsupported`. The current registry does not yet contain separate reserved-code or former-code data. Seed countries therefore use `CountryEntryStatus.Current`; `UK` is treated as syntactically valid but unknown alpha-2 input, while `EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` return `ReservedButNotCountry` as known non-country or special-purpose codes.
 
 ## JSON support
 
@@ -82,7 +82,7 @@ String overloads are useful for boundary input, but strongly typed values remain
 - Package version defaulted to `1.0.0` before hardening, despite representative data. It was first corrected to `0.1.0`, then moved to `1.0.0-alpha` after CLDR-derived country and territory data was added.
 - JSON and compiled seed data had one note-string drift. This has been corrected and covered by tests.
 - The public API previously had no snapshot protection.
-- Public API behaviour around `EU` and `ZZ` was implied by tests but not explicitly documented in API review material.
+- Public API behaviour around `EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` was implied by tests but not explicitly documented in API review material.
 
 ## Changes implemented
 
@@ -98,6 +98,5 @@ String overloads are useful for boundary input, but strongly typed values remain
 
 - No alias resolution API has been added.
 - No reserved-code registry has been added.
-- No full subdivision data has been added.
 - No full subdivision data has been added.
 - No package split has been attempted.

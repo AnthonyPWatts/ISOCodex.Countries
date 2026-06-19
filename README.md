@@ -46,7 +46,7 @@ if (result.Success)
 
 ## Country Codes
 
-The v0.1 foundation supports value objects for:
+The foundation API supports value objects for:
 
 - `CountryAlpha2Code`, such as `GB`
 - `CountryAlpha3Code`, such as `GBR`
@@ -56,7 +56,7 @@ Alpha codes are stored in canonical uppercase. Numeric codes are stored as three
 
 Mixed lookup is deterministic: two ASCII letters are treated as alpha-2, three ASCII letters as alpha-3, and three digits as numeric. `UK` is recognised as syntactically valid alpha-2 input, but it is not silently treated as canonical `GB`.
 
-`EU` and `ZZ` are also syntactically valid alpha-2 shapes, but they are not current countries in the representative registry and are returned as `Unknown` by mixed lookup.
+`EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` are also syntactically valid alpha-2 shapes. They are not current country entries in this package. Mixed lookup returns `ReservedButNotCountry` for these known non-country or special-purpose codes, so import pipelines can distinguish them from invalid syntax and arbitrary unknown codes.
 
 ## Persistence Guidance
 
@@ -108,6 +108,7 @@ foreach (string input in countryColumnValues)
     if (!result.Success)
     {
         // Store result.FailureReason against the row.
+        // InvalidSyntax, Unknown, and ReservedButNotCountry are distinct cases.
         continue;
     }
 
