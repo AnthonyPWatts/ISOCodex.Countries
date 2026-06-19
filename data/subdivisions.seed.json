@@ -35047,6 +35047,76 @@
     "englishName": "Western Cape",
     "localName": null,
     "type": "Unknown"
+  },
+  {
+    "code": "ZM-01",
+    "countryCode": "ZM",
+    "englishName": "Western",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZM-02",
+    "countryCode": "ZM",
+    "englishName": "Central",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZM-03",
+    "countryCode": "ZM",
+    "englishName": "Eastern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZM-04",
+    "countryCode": "ZM",
+    "englishName": "Luapula",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZM-05",
+    "countryCode": "ZM",
+    "englishName": "Northern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZM-06",
+    "countryCode": "ZM",
+    "englishName": "North-Western",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZM-07",
+    "countryCode": "ZM",
+    "englishName": "Southern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZM-08",
+    "countryCode": "ZM",
+    "englishName": "Copperbelt",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZM-09",
+    "countryCode": "ZM",
+    "englishName": "Lusaka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ZM-10",
+    "countryCode": "ZM",
+    "englishName": "Muchinga",
+    "localName": null,
+    "type": "Unknown"
   }
 ]
 

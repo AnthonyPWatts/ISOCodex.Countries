@@ -7255,7 +7255,17 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("ZA-MP"), CountryAlpha2Code.Parse("ZA"), "Mpumalanga", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("ZA-NC"), CountryAlpha2Code.Parse("ZA"), "Northern Cape", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("ZA-NW"), CountryAlpha2Code.Parse("ZA"), "North West", null, CountrySubdivisionType.Unknown),
-        new(CountrySubdivisionCode.Parse("ZA-WC"), CountryAlpha2Code.Parse("ZA"), "Western Cape", null, CountrySubdivisionType.Unknown)
+        new(CountrySubdivisionCode.Parse("ZA-WC"), CountryAlpha2Code.Parse("ZA"), "Western Cape", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZM-01"), CountryAlpha2Code.Parse("ZM"), "Western", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZM-02"), CountryAlpha2Code.Parse("ZM"), "Central", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZM-03"), CountryAlpha2Code.Parse("ZM"), "Eastern", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZM-04"), CountryAlpha2Code.Parse("ZM"), "Luapula", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZM-05"), CountryAlpha2Code.Parse("ZM"), "Northern", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZM-06"), CountryAlpha2Code.Parse("ZM"), "North-Western", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZM-07"), CountryAlpha2Code.Parse("ZM"), "Southern", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZM-08"), CountryAlpha2Code.Parse("ZM"), "Copperbelt", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZM-09"), CountryAlpha2Code.Parse("ZM"), "Lusaka", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ZM-10"), CountryAlpha2Code.Parse("ZM"), "Muchinga", null, CountrySubdivisionType.Unknown)
     }.AsReadOnly();
 }
 
