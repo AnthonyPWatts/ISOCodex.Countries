@@ -16086,6 +16086,335 @@
     "type": "Unknown"
   },
   {
+    "code": "JP-01",
+    "countryCode": "JP",
+    "englishName": "Hokkaidō",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-02",
+    "countryCode": "JP",
+    "englishName": "Aomori",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-03",
+    "countryCode": "JP",
+    "englishName": "Iwate",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-04",
+    "countryCode": "JP",
+    "englishName": "Miyagi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-05",
+    "countryCode": "JP",
+    "englishName": "Akita",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-06",
+    "countryCode": "JP",
+    "englishName": "Yamagata",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-07",
+    "countryCode": "JP",
+    "englishName": "Fukushima",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-08",
+    "countryCode": "JP",
+    "englishName": "Ibaraki",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-09",
+    "countryCode": "JP",
+    "englishName": "Tochigi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-10",
+    "countryCode": "JP",
+    "englishName": "Gunma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-11",
+    "countryCode": "JP",
+    "englishName": "Saitama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-12",
+    "countryCode": "JP",
+    "englishName": "Chiba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-13",
+    "countryCode": "JP",
+    "englishName": "Tokyo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-14",
+    "countryCode": "JP",
+    "englishName": "Kanagawa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-15",
+    "countryCode": "JP",
+    "englishName": "Niigata",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-16",
+    "countryCode": "JP",
+    "englishName": "Toyama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-17",
+    "countryCode": "JP",
+    "englishName": "Ishikawa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-18",
+    "countryCode": "JP",
+    "englishName": "Fukui",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-19",
+    "countryCode": "JP",
+    "englishName": "Yamanashi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-20",
+    "countryCode": "JP",
+    "englishName": "Nagano",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-21",
+    "countryCode": "JP",
+    "englishName": "Gifu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-22",
+    "countryCode": "JP",
+    "englishName": "Shizuoka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-23",
+    "countryCode": "JP",
+    "englishName": "Aichi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-24",
+    "countryCode": "JP",
+    "englishName": "Mie",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-25",
+    "countryCode": "JP",
+    "englishName": "Shiga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-26",
+    "countryCode": "JP",
+    "englishName": "Kyōto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-27",
+    "countryCode": "JP",
+    "englishName": "Ōsaka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-28",
+    "countryCode": "JP",
+    "englishName": "Hyōgo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-29",
+    "countryCode": "JP",
+    "englishName": "Nara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-30",
+    "countryCode": "JP",
+    "englishName": "Wakayama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-31",
+    "countryCode": "JP",
+    "englishName": "Tottori",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-32",
+    "countryCode": "JP",
+    "englishName": "Shimane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-33",
+    "countryCode": "JP",
+    "englishName": "Okayama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-34",
+    "countryCode": "JP",
+    "englishName": "Hiroshima",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-35",
+    "countryCode": "JP",
+    "englishName": "Yamaguchi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-36",
+    "countryCode": "JP",
+    "englishName": "Tokushima",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-37",
+    "countryCode": "JP",
+    "englishName": "Kagawa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-38",
+    "countryCode": "JP",
+    "englishName": "Ehime",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-39",
+    "countryCode": "JP",
+    "englishName": "Kōchi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-40",
+    "countryCode": "JP",
+    "englishName": "Fukuoka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-41",
+    "countryCode": "JP",
+    "englishName": "Saga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-42",
+    "countryCode": "JP",
+    "englishName": "Nagasaki",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-43",
+    "countryCode": "JP",
+    "englishName": "Kumamoto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-44",
+    "countryCode": "JP",
+    "englishName": "Ōita",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-45",
+    "countryCode": "JP",
+    "englishName": "Miyazaki",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-46",
+    "countryCode": "JP",
+    "englishName": "Kagoshima",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JP-47",
+    "countryCode": "JP",
+    "englishName": "Okinawa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
