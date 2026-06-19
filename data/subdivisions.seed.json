@@ -29981,6 +29981,34 @@
     "type": "Unknown"
   },
   {
+    "code": "SZ-HH",
+    "countryCode": "SZ",
+    "englishName": "Hhohho",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SZ-LU",
+    "countryCode": "SZ",
+    "englishName": "Lubombo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SZ-MA",
+    "countryCode": "SZ",
+    "englishName": "Manzini",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SZ-SH",
+    "countryCode": "SZ",
+    "englishName": "Shiselweni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
