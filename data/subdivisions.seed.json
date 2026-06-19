@@ -2835,6 +2835,132 @@
     "type": "Unknown"
   },
   {
+    "code": "BI-BB",
+    "countryCode": "BI",
+    "englishName": "Bubanza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-BL",
+    "countryCode": "BI",
+    "englishName": "Bujumbura Rural",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-BM",
+    "countryCode": "BI",
+    "englishName": "Bujumbura",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-BR",
+    "countryCode": "BI",
+    "englishName": "Bururi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-CA",
+    "countryCode": "BI",
+    "englishName": "Cankuzo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-CI",
+    "countryCode": "BI",
+    "englishName": "Cibitoke",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-GI",
+    "countryCode": "BI",
+    "englishName": "Gitega",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-KI",
+    "countryCode": "BI",
+    "englishName": "Kirundo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-KR",
+    "countryCode": "BI",
+    "englishName": "Karuzi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-KY",
+    "countryCode": "BI",
+    "englishName": "Kayanza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-MA",
+    "countryCode": "BI",
+    "englishName": "Makamba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-MU",
+    "countryCode": "BI",
+    "englishName": "Muramvya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-MW",
+    "countryCode": "BI",
+    "englishName": "Mwaro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-MY",
+    "countryCode": "BI",
+    "englishName": "Muyinga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-NG",
+    "countryCode": "BI",
+    "englishName": "Ngozi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-RM",
+    "countryCode": "BI",
+    "englishName": "Rumonge",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-RT",
+    "countryCode": "BI",
+    "englishName": "Rutana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BI-RY",
+    "countryCode": "BI",
+    "englishName": "Ruyigi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
