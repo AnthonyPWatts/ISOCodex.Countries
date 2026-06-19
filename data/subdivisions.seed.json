@@ -20027,6 +20027,265 @@
     "type": "Unknown"
   },
   {
+    "code": "MD-AN",
+    "countryCode": "MD",
+    "englishName": "Anenii Noi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-BA",
+    "countryCode": "MD",
+    "englishName": "Bălţi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-BD",
+    "countryCode": "MD",
+    "englishName": "Bender",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-BR",
+    "countryCode": "MD",
+    "englishName": "Briceni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-BS",
+    "countryCode": "MD",
+    "englishName": "Basarabeasca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-CA",
+    "countryCode": "MD",
+    "englishName": "Cahul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-CL",
+    "countryCode": "MD",
+    "englishName": "Călărași",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-CM",
+    "countryCode": "MD",
+    "englishName": "Cimișlia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-CR",
+    "countryCode": "MD",
+    "englishName": "Criuleni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-CS",
+    "countryCode": "MD",
+    "englishName": "Căușeni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-CT",
+    "countryCode": "MD",
+    "englishName": "Cantemir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-CU",
+    "countryCode": "MD",
+    "englishName": "Chișinău",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-DO",
+    "countryCode": "MD",
+    "englishName": "Dondușeni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-DR",
+    "countryCode": "MD",
+    "englishName": "Drochia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-DU",
+    "countryCode": "MD",
+    "englishName": "Dubăsari",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-ED",
+    "countryCode": "MD",
+    "englishName": "Edineț",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-FA",
+    "countryCode": "MD",
+    "englishName": "Fălești",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-FL",
+    "countryCode": "MD",
+    "englishName": "Florești",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-GA",
+    "countryCode": "MD",
+    "englishName": "Gagauzia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-GL",
+    "countryCode": "MD",
+    "englishName": "Glodeni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-HI",
+    "countryCode": "MD",
+    "englishName": "Hîncești",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-IA",
+    "countryCode": "MD",
+    "englishName": "Ialoveni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-LE",
+    "countryCode": "MD",
+    "englishName": "Leova",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-NI",
+    "countryCode": "MD",
+    "englishName": "Nisporeni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-OC",
+    "countryCode": "MD",
+    "englishName": "Ocniţa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-OR",
+    "countryCode": "MD",
+    "englishName": "Orhei",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-RE",
+    "countryCode": "MD",
+    "englishName": "Rezina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-RI",
+    "countryCode": "MD",
+    "englishName": "Rîșcani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-SD",
+    "countryCode": "MD",
+    "englishName": "Șoldănești",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-SI",
+    "countryCode": "MD",
+    "englishName": "Sîngerei",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-SN",
+    "countryCode": "MD",
+    "englishName": "Transnistria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-SO",
+    "countryCode": "MD",
+    "englishName": "Soroca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-ST",
+    "countryCode": "MD",
+    "englishName": "Strășeni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-SV",
+    "countryCode": "MD",
+    "englishName": "Ştefan Vodă",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-TA",
+    "countryCode": "MD",
+    "englishName": "Taraclia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-TE",
+    "countryCode": "MD",
+    "englishName": "Telenești",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MD-UN",
+    "countryCode": "MD",
+    "englishName": "Ungheni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
