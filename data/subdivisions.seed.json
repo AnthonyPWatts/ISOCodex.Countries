@@ -17710,6 +17710,76 @@
     "type": "Unknown"
   },
   {
+    "code": "LC-01",
+    "countryCode": "LC",
+    "englishName": "Anse la Raye",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LC-02",
+    "countryCode": "LC",
+    "englishName": "Castries",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LC-03",
+    "countryCode": "LC",
+    "englishName": "Choiseul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LC-05",
+    "countryCode": "LC",
+    "englishName": "Dennery",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LC-06",
+    "countryCode": "LC",
+    "englishName": "Gros Islet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LC-07",
+    "countryCode": "LC",
+    "englishName": "Laborie",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LC-08",
+    "countryCode": "LC",
+    "englishName": "Micoud",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LC-10",
+    "countryCode": "LC",
+    "englishName": "Soufrière",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LC-11",
+    "countryCode": "LC",
+    "englishName": "Vieux Fort",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LC-12",
+    "countryCode": "LC",
+    "englishName": "Canaries",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

@@ -4779,6 +4779,16 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("LB-JA"), CountryAlpha2Code.Parse("LB"), "South", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("LB-JL"), CountryAlpha2Code.Parse("LB"), "Mount Lebanon", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("LB-NA"), CountryAlpha2Code.Parse("LB"), "Nabatieh", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LC-01"), CountryAlpha2Code.Parse("LC"), "Anse la Raye", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LC-02"), CountryAlpha2Code.Parse("LC"), "Castries", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LC-03"), CountryAlpha2Code.Parse("LC"), "Choiseul", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LC-05"), CountryAlpha2Code.Parse("LC"), "Dennery", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LC-06"), CountryAlpha2Code.Parse("LC"), "Gros Islet", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LC-07"), CountryAlpha2Code.Parse("LC"), "Laborie", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LC-08"), CountryAlpha2Code.Parse("LC"), "Micoud", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LC-10"), CountryAlpha2Code.Parse("LC"), "Soufrière", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LC-11"), CountryAlpha2Code.Parse("LC"), "Vieux Fort", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LC-12"), CountryAlpha2Code.Parse("LC"), "Canaries", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
