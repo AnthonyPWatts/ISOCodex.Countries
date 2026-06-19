@@ -13349,6 +13349,321 @@
     "type": "Unknown"
   },
   {
+    "code": "ID-AC",
+    "countryCode": "ID",
+    "englishName": "Aceh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-BA",
+    "countryCode": "ID",
+    "englishName": "Bali",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-BB",
+    "countryCode": "ID",
+    "englishName": "Bangka–Belitung Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-BE",
+    "countryCode": "ID",
+    "englishName": "Bengkulu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-BT",
+    "countryCode": "ID",
+    "englishName": "Banten",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-GO",
+    "countryCode": "ID",
+    "englishName": "Gorontalo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-JA",
+    "countryCode": "ID",
+    "englishName": "Jambi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-JB",
+    "countryCode": "ID",
+    "englishName": "West Java",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-JI",
+    "countryCode": "ID",
+    "englishName": "East Java",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-JK",
+    "countryCode": "ID",
+    "englishName": "Jakarta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-JT",
+    "countryCode": "ID",
+    "englishName": "Central Java",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-JW",
+    "countryCode": "ID",
+    "englishName": "Java",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-KA",
+    "countryCode": "ID",
+    "englishName": "Kalimantan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-KB",
+    "countryCode": "ID",
+    "englishName": "West Kalimantan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-KI",
+    "countryCode": "ID",
+    "englishName": "East Kalimantan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-KR",
+    "countryCode": "ID",
+    "englishName": "Riau Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-KS",
+    "countryCode": "ID",
+    "englishName": "South Kalimantan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-KT",
+    "countryCode": "ID",
+    "englishName": "Central Kalimantan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-KU",
+    "countryCode": "ID",
+    "englishName": "North Kalimantan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-LA",
+    "countryCode": "ID",
+    "englishName": "Lampung",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-MA",
+    "countryCode": "ID",
+    "englishName": "Maluku",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-ML",
+    "countryCode": "ID",
+    "englishName": "Maluku Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-MU",
+    "countryCode": "ID",
+    "englishName": "North Maluku",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-NB",
+    "countryCode": "ID",
+    "englishName": "West Nusa Tenggara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-NT",
+    "countryCode": "ID",
+    "englishName": "East Nusa Tenggara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-NU",
+    "countryCode": "ID",
+    "englishName": "Lesser Sunda Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-PA",
+    "countryCode": "ID",
+    "englishName": "Papua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-PB",
+    "countryCode": "ID",
+    "englishName": "West Papua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-PD",
+    "countryCode": "ID",
+    "englishName": "Papua Barat Daya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-PE",
+    "countryCode": "ID",
+    "englishName": "Papua Pengunungan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-PP",
+    "countryCode": "ID",
+    "englishName": "Papua Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-PS",
+    "countryCode": "ID",
+    "englishName": "Papua Selatan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-PT",
+    "countryCode": "ID",
+    "englishName": "Papua Tengah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-RI",
+    "countryCode": "ID",
+    "englishName": "Riau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-SA",
+    "countryCode": "ID",
+    "englishName": "North Sulawesi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-SB",
+    "countryCode": "ID",
+    "englishName": "West Sumatra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-SG",
+    "countryCode": "ID",
+    "englishName": "Southeast Sulawesi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-SL",
+    "countryCode": "ID",
+    "englishName": "Sulawesi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-SM",
+    "countryCode": "ID",
+    "englishName": "Sumatra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-SN",
+    "countryCode": "ID",
+    "englishName": "South Sulawesi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-SR",
+    "countryCode": "ID",
+    "englishName": "West Sulawesi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-SS",
+    "countryCode": "ID",
+    "englishName": "South Sumatra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-ST",
+    "countryCode": "ID",
+    "englishName": "Central Sulawesi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-SU",
+    "countryCode": "ID",
+    "englishName": "North Sumatra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ID-YO",
+    "countryCode": "ID",
+    "englishName": "Yogyakarta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",
