@@ -22,16 +22,14 @@ jobs:
         with:
           dotnet-version: 8.0.x
 
-      # TODO: This workflow becomes active after the first development pass creates
-      # ISOCodex.Countries.sln and the initial projects.
       - name: Restore
-        run: dotnet restore ISOCodex.Countries.sln
+        run: dotnet restore
 
       - name: Build
-        run: dotnet build ISOCodex.Countries.sln --configuration Release --no-restore
+        run: dotnet build --configuration Release --no-restore
 
       - name: Test
-        run: dotnet test ISOCodex.Countries.sln --configuration Release --no-build
+        run: dotnet test --configuration Release --no-build
 
       - name: Pack
-        run: dotnet pack ISOCodex.Countries.sln --configuration Release --no-build --output artifacts
+        run: dotnet pack --configuration Release --no-build --output ./artifacts

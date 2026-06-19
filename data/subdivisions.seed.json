@@ -1,0 +1,58 @@
+[
+  {
+    "code": "GB-ENG",
+    "countryCode": "GB",
+    "englishName": "England",
+    "localName": null,
+    "type": "Nation"
+  },
+  {
+    "code": "GB-SCT",
+    "countryCode": "GB",
+    "englishName": "Scotland",
+    "localName": null,
+    "type": "Nation"
+  },
+  {
+    "code": "GB-WLS",
+    "countryCode": "GB",
+    "englishName": "Wales",
+    "localName": null,
+    "type": "Nation"
+  },
+  {
+    "code": "GB-NIR",
+    "countryCode": "GB",
+    "englishName": "Northern Ireland",
+    "localName": null,
+    "type": "Nation"
+  },
+  {
+    "code": "US-CA",
+    "countryCode": "US",
+    "englishName": "California",
+    "localName": null,
+    "type": "State"
+  },
+  {
+    "code": "CA-ON",
+    "countryCode": "CA",
+    "englishName": "Ontario",
+    "localName": null,
+    "type": "Province"
+  },
+  {
+    "code": "AU-NSW",
+    "countryCode": "AU",
+    "englishName": "New South Wales",
+    "localName": null,
+    "type": "State"
+  },
+  {
+    "code": "IE-D",
+    "countryCode": "IE",
+    "englishName": "Dublin",
+    "localName": null,
+    "type": "County"
+  }
+]

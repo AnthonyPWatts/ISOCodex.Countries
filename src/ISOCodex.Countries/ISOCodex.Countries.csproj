@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.1;net8.0</TargetFrameworks>
+    <PackageId>ISOCodex.Countries</PackageId>
+    <Title>ISOCodex.Countries</Title>
+    <Description>Strongly typed country, country-code, subdivision, and jurisdiction metadata for .NET applications.</Description>
+    <Authors>Anthony Watts</Authors>
+    <Company>Anthony Watts</Company>
+    <RepositoryUrl>https://github.com/AnthonyPWatts/ISOCodex.Countries</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/AnthonyPWatts/ISOCodex.Countries</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>countries;iso3166;m49;country-codes;dotnet;validation</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <IsPackable>true</IsPackable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.SourceLink.GitHub" PrivateAssets="All" />
+    <PackageReference Include="System.Text.Json" Condition="'$(TargetFramework)' == 'netstandard2.1'" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\README.md" Pack="true" PackagePath="" Link="README.md" />
+  </ItemGroup>
+
+</Project>
