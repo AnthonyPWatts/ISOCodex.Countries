@@ -18095,6 +18095,111 @@
     "type": "Unknown"
   },
   {
+    "code": "LR-BG",
+    "countryCode": "LR",
+    "englishName": "Bong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-BM",
+    "countryCode": "LR",
+    "englishName": "Bomi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-CM",
+    "countryCode": "LR",
+    "englishName": "Grand Cape Mount",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-GB",
+    "countryCode": "LR",
+    "englishName": "Grand Bassa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-GG",
+    "countryCode": "LR",
+    "englishName": "Grand Gedeh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-GK",
+    "countryCode": "LR",
+    "englishName": "Grand Kru",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-GP",
+    "countryCode": "LR",
+    "englishName": "Gbarpolu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-LO",
+    "countryCode": "LR",
+    "englishName": "Lofa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-MG",
+    "countryCode": "LR",
+    "englishName": "Margibi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-MO",
+    "countryCode": "LR",
+    "englishName": "Montserrado",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-MY",
+    "countryCode": "LR",
+    "englishName": "Maryland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-NI",
+    "countryCode": "LR",
+    "englishName": "Nimba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-RG",
+    "countryCode": "LR",
+    "englishName": "River Gee",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-RI",
+    "countryCode": "LR",
+    "englishName": "Rivercess",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LR-SI",
+    "countryCode": "LR",
+    "englishName": "Sinoe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

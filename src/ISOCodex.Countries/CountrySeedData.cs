@@ -4834,6 +4834,21 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("LK-9"), CountryAlpha2Code.Parse("LK"), "Sabaragamuwa", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("LK-91"), CountryAlpha2Code.Parse("LK"), "Ratnapura", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("LK-92"), CountryAlpha2Code.Parse("LK"), "Kegalle", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-BG"), CountryAlpha2Code.Parse("LR"), "Bong", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-BM"), CountryAlpha2Code.Parse("LR"), "Bomi", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-CM"), CountryAlpha2Code.Parse("LR"), "Grand Cape Mount", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-GB"), CountryAlpha2Code.Parse("LR"), "Grand Bassa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-GG"), CountryAlpha2Code.Parse("LR"), "Grand Gedeh", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-GK"), CountryAlpha2Code.Parse("LR"), "Grand Kru", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-GP"), CountryAlpha2Code.Parse("LR"), "Gbarpolu", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-LO"), CountryAlpha2Code.Parse("LR"), "Lofa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-MG"), CountryAlpha2Code.Parse("LR"), "Margibi", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-MO"), CountryAlpha2Code.Parse("LR"), "Montserrado", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-MY"), CountryAlpha2Code.Parse("LR"), "Maryland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-NI"), CountryAlpha2Code.Parse("LR"), "Nimba", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-RG"), CountryAlpha2Code.Parse("LR"), "River Gee", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-RI"), CountryAlpha2Code.Parse("LR"), "Rivercess", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LR-SI"), CountryAlpha2Code.Parse("LR"), "Sinoe", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
