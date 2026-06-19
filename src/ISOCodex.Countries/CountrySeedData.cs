@@ -7224,7 +7224,29 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("WS-SA"), CountryAlpha2Code.Parse("WS"), "Satupa’itea", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("WS-TU"), CountryAlpha2Code.Parse("WS"), "Tuamasaga", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("WS-VF"), CountryAlpha2Code.Parse("WS"), "Va’a-o-Fonoti", null, CountrySubdivisionType.Unknown),
-        new(CountrySubdivisionCode.Parse("WS-VS"), CountryAlpha2Code.Parse("WS"), "Vaisigano", null, CountrySubdivisionType.Unknown)
+        new(CountrySubdivisionCode.Parse("WS-VS"), CountryAlpha2Code.Parse("WS"), "Vaisigano", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-AB"), CountryAlpha2Code.Parse("YE"), "Abyan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-AD"), CountryAlpha2Code.Parse("YE"), "’Adan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-AM"), CountryAlpha2Code.Parse("YE"), "Amran", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-BA"), CountryAlpha2Code.Parse("YE"), "Al Bayda", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-DA"), CountryAlpha2Code.Parse("YE"), "Dhale", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-DH"), CountryAlpha2Code.Parse("YE"), "Dhamar", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-HD"), CountryAlpha2Code.Parse("YE"), "Hadramaut", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-HJ"), CountryAlpha2Code.Parse("YE"), "Hajjah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-HU"), CountryAlpha2Code.Parse("YE"), "Al Hudaydah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-IB"), CountryAlpha2Code.Parse("YE"), "Ibb", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-JA"), CountryAlpha2Code.Parse("YE"), "Al Jawf", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-LA"), CountryAlpha2Code.Parse("YE"), "Lahij", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-MA"), CountryAlpha2Code.Parse("YE"), "Ma’rib", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-MR"), CountryAlpha2Code.Parse("YE"), "Al Mahrah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-MW"), CountryAlpha2Code.Parse("YE"), "Al Mahwit", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-RA"), CountryAlpha2Code.Parse("YE"), "Raymah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-SA"), CountryAlpha2Code.Parse("YE"), "Amanat Al Asimah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-SD"), CountryAlpha2Code.Parse("YE"), "Sa’dah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-SH"), CountryAlpha2Code.Parse("YE"), "Shabwah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-SN"), CountryAlpha2Code.Parse("YE"), "Sana’a", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-SU"), CountryAlpha2Code.Parse("YE"), "Arkhabil Suqutra", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("YE-TA"), CountryAlpha2Code.Parse("YE"), "Taiz", null, CountrySubdivisionType.Unknown)
     }.AsReadOnly();
 }
 

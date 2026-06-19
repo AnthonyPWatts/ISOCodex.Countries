@@ -34830,6 +34830,160 @@
     "englishName": "Vaisigano",
     "localName": null,
     "type": "Unknown"
+  },
+  {
+    "code": "YE-AB",
+    "countryCode": "YE",
+    "englishName": "Abyan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-AD",
+    "countryCode": "YE",
+    "englishName": "’Adan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-AM",
+    "countryCode": "YE",
+    "englishName": "Amran",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-BA",
+    "countryCode": "YE",
+    "englishName": "Al Bayda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-DA",
+    "countryCode": "YE",
+    "englishName": "Dhale",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-DH",
+    "countryCode": "YE",
+    "englishName": "Dhamar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-HD",
+    "countryCode": "YE",
+    "englishName": "Hadramaut",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-HJ",
+    "countryCode": "YE",
+    "englishName": "Hajjah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-HU",
+    "countryCode": "YE",
+    "englishName": "Al Hudaydah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-IB",
+    "countryCode": "YE",
+    "englishName": "Ibb",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-JA",
+    "countryCode": "YE",
+    "englishName": "Al Jawf",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-LA",
+    "countryCode": "YE",
+    "englishName": "Lahij",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-MA",
+    "countryCode": "YE",
+    "englishName": "Ma’rib",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-MR",
+    "countryCode": "YE",
+    "englishName": "Al Mahrah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-MW",
+    "countryCode": "YE",
+    "englishName": "Al Mahwit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-RA",
+    "countryCode": "YE",
+    "englishName": "Raymah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-SA",
+    "countryCode": "YE",
+    "englishName": "Amanat Al Asimah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-SD",
+    "countryCode": "YE",
+    "englishName": "Sa’dah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-SH",
+    "countryCode": "YE",
+    "englishName": "Shabwah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-SN",
+    "countryCode": "YE",
+    "englishName": "Sana’a",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-SU",
+    "countryCode": "YE",
+    "englishName": "Arkhabil Suqutra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "YE-TA",
+    "countryCode": "YE",
+    "englishName": "Taiz",
+    "localName": null,
+    "type": "Unknown"
   }
 ]
 
