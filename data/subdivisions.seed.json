@@ -14518,6 +14518,510 @@
     "type": "Unknown"
   },
   {
+    "code": "IS-1",
+    "countryCode": "IS",
+    "englishName": "Capital",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-2",
+    "countryCode": "IS",
+    "englishName": "Southern Peninsula",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-3",
+    "countryCode": "IS",
+    "englishName": "Western",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-4",
+    "countryCode": "IS",
+    "englishName": "Westfjords",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-5",
+    "countryCode": "IS",
+    "englishName": "Northwestern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-6",
+    "countryCode": "IS",
+    "englishName": "Northeastern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-7",
+    "countryCode": "IS",
+    "englishName": "Eastern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-8",
+    "countryCode": "IS",
+    "englishName": "Southern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-AKN",
+    "countryCode": "IS",
+    "englishName": "Akraneskaupstaður",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-AKU",
+    "countryCode": "IS",
+    "englishName": "Akureyrarbær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-ARN",
+    "countryCode": "IS",
+    "englishName": "Árneshreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-ASA",
+    "countryCode": "IS",
+    "englishName": "Ásahreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-BLA",
+    "countryCode": "IS",
+    "englishName": "Bláskógabyggð",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-BOG",
+    "countryCode": "IS",
+    "englishName": "Borgarbyggð",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-BOL",
+    "countryCode": "IS",
+    "englishName": "Bolungarvíkurkaupstaður",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-DAB",
+    "countryCode": "IS",
+    "englishName": "Dalabyggð",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-DAV",
+    "countryCode": "IS",
+    "englishName": "Dalvíkurbyggð",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-EOM",
+    "countryCode": "IS",
+    "englishName": "Eyja- og Miklaholtshreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-EYF",
+    "countryCode": "IS",
+    "englishName": "Eyjafjarðarsveit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-FJD",
+    "countryCode": "IS",
+    "englishName": "Fjarðabyggð",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-FJL",
+    "countryCode": "IS",
+    "englishName": "Fjallabyggð",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-FLA",
+    "countryCode": "IS",
+    "englishName": "Flóahreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-FLR",
+    "countryCode": "IS",
+    "englishName": "Fljótsdalshreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-GAR",
+    "countryCode": "IS",
+    "englishName": "Garðabær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-GOG",
+    "countryCode": "IS",
+    "englishName": "Grímsnes- og Grafningshreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-GRN",
+    "countryCode": "IS",
+    "englishName": "Grindavíkurbær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-GRU",
+    "countryCode": "IS",
+    "englishName": "Grundarfjarðarbær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-GRY",
+    "countryCode": "IS",
+    "englishName": "Grýtubakkahreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-HAF",
+    "countryCode": "IS",
+    "englishName": "Hafnarfjarðarkaupstaður",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-HRG",
+    "countryCode": "IS",
+    "englishName": "Hörgársveit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-HRU",
+    "countryCode": "IS",
+    "englishName": "Hrunamannahreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-HUG",
+    "countryCode": "IS",
+    "englishName": "Húnabyggð",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-HUV",
+    "countryCode": "IS",
+    "englishName": "Húnaþing vestra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-HVA",
+    "countryCode": "IS",
+    "englishName": "Hvalfjarðarsveit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-HVE",
+    "countryCode": "IS",
+    "englishName": "Hveragerðisbær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-ISA",
+    "countryCode": "IS",
+    "englishName": "Ísafjarðarbær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-KAL",
+    "countryCode": "IS",
+    "englishName": "Kaldrananeshreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-KJO",
+    "countryCode": "IS",
+    "englishName": "Kjósarhreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-KOP",
+    "countryCode": "IS",
+    "englishName": "Kópavogsbær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-LAN",
+    "countryCode": "IS",
+    "englishName": "Langanesbyggð",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-MOS",
+    "countryCode": "IS",
+    "englishName": "Mosfellsbær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-MUL",
+    "countryCode": "IS",
+    "englishName": "Múlaþing",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-MYR",
+    "countryCode": "IS",
+    "englishName": "Mýrdalshreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-NOR",
+    "countryCode": "IS",
+    "englishName": "Norðurþing",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-RGE",
+    "countryCode": "IS",
+    "englishName": "Rangárþing eystra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-RGY",
+    "countryCode": "IS",
+    "englishName": "Rangárþing ytra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-RHH",
+    "countryCode": "IS",
+    "englishName": "Reykhólahreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-RKN",
+    "countryCode": "IS",
+    "englishName": "Reykjanesbær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-RKV",
+    "countryCode": "IS",
+    "englishName": "Reykjavíkurborg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SBT",
+    "countryCode": "IS",
+    "englishName": "Svalbarðsstrandarhreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SDN",
+    "countryCode": "IS",
+    "englishName": "Suðurnesjabær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SDV",
+    "countryCode": "IS",
+    "englishName": "Súðavíkurhreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SEL",
+    "countryCode": "IS",
+    "englishName": "Seltjarnarnesbær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SFA",
+    "countryCode": "IS",
+    "englishName": "Sveitarfélagið Árborg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SHF",
+    "countryCode": "IS",
+    "englishName": "Sveitarfélagið Hornafjörður",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SKF",
+    "countryCode": "IS",
+    "englishName": "Skaftárhreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SKG",
+    "countryCode": "IS",
+    "englishName": "Skagabyggð",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SKO",
+    "countryCode": "IS",
+    "englishName": "Skorradalshreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SKR",
+    "countryCode": "IS",
+    "englishName": "Skagafjörður",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SNF",
+    "countryCode": "IS",
+    "englishName": "Snæfellsbær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SOG",
+    "countryCode": "IS",
+    "englishName": "Skeiða- og Gnúpverjahreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SOL",
+    "countryCode": "IS",
+    "englishName": "Sveitarfélagið Ölfus",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SSS",
+    "countryCode": "IS",
+    "englishName": "Sveitarfélagið Skagaströnd",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-STR",
+    "countryCode": "IS",
+    "englishName": "Strandabyggð",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-STY",
+    "countryCode": "IS",
+    "englishName": "Stykkishólmsbær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-SVG",
+    "countryCode": "IS",
+    "englishName": "Sveitarfélagið Vogar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-TAL",
+    "countryCode": "IS",
+    "englishName": "Tálknafjarðarhreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-THG",
+    "countryCode": "IS",
+    "englishName": "Þingeyjarsveit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-TJO",
+    "countryCode": "IS",
+    "englishName": "Tjörneshreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-VEM",
+    "countryCode": "IS",
+    "englishName": "Vestmannaeyjabær",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-VER",
+    "countryCode": "IS",
+    "englishName": "Vesturbyggð",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IS-VOP",
+    "countryCode": "IS",
+    "englishName": "Vopnafjarðarhreppur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
