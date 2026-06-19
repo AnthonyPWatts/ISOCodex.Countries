@@ -22246,6 +22246,153 @@
     "type": "Unknown"
   },
   {
+    "code": "MV-00",
+    "countryCode": "MV",
+    "englishName": "Alif Dhaal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-01",
+    "countryCode": "MV",
+    "englishName": "Addu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-02",
+    "countryCode": "MV",
+    "englishName": "Alif Alif",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-03",
+    "countryCode": "MV",
+    "englishName": "Lhaviyani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-04",
+    "countryCode": "MV",
+    "englishName": "Vaavu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-05",
+    "countryCode": "MV",
+    "englishName": "Laamu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-07",
+    "countryCode": "MV",
+    "englishName": "Haa Alif",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-08",
+    "countryCode": "MV",
+    "englishName": "Thaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-12",
+    "countryCode": "MV",
+    "englishName": "Meemu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-13",
+    "countryCode": "MV",
+    "englishName": "Raa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-14",
+    "countryCode": "MV",
+    "englishName": "Faafu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-17",
+    "countryCode": "MV",
+    "englishName": "Dhaalu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-20",
+    "countryCode": "MV",
+    "englishName": "Baa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-23",
+    "countryCode": "MV",
+    "englishName": "Haa Dhaalu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-24",
+    "countryCode": "MV",
+    "englishName": "Shaviyani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-25",
+    "countryCode": "MV",
+    "englishName": "Noonu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-26",
+    "countryCode": "MV",
+    "englishName": "Kaafu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-27",
+    "countryCode": "MV",
+    "englishName": "Gaafu Alif",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-28",
+    "countryCode": "MV",
+    "englishName": "Gaafu Dhaalu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-29",
+    "countryCode": "MV",
+    "englishName": "Gnaviyani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MV-MLE",
+    "countryCode": "MV",
+    "englishName": "Malé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
