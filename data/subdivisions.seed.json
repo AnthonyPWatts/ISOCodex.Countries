@@ -13048,6 +13048,307 @@
     "type": "Unknown"
   },
   {
+    "code": "HU-BA",
+    "countryCode": "HU",
+    "englishName": "Baranya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-BC",
+    "countryCode": "HU",
+    "englishName": "Békéscsaba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-BE",
+    "countryCode": "HU",
+    "englishName": "Békés",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-BK",
+    "countryCode": "HU",
+    "englishName": "Bács-Kiskun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-BU",
+    "countryCode": "HU",
+    "englishName": "Budapest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-BZ",
+    "countryCode": "HU",
+    "englishName": "Borsod-Abaúj-Zemplén",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-CS",
+    "countryCode": "HU",
+    "englishName": "Csongrád",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-DE",
+    "countryCode": "HU",
+    "englishName": "Debrecen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-DU",
+    "countryCode": "HU",
+    "englishName": "Dunaújváros",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-EG",
+    "countryCode": "HU",
+    "englishName": "Eger",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-ER",
+    "countryCode": "HU",
+    "englishName": "Érd",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-FE",
+    "countryCode": "HU",
+    "englishName": "Fejér",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-GS",
+    "countryCode": "HU",
+    "englishName": "Győr-Moson-Sopron",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-GY",
+    "countryCode": "HU",
+    "englishName": "Győr",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-HB",
+    "countryCode": "HU",
+    "englishName": "Hajdú-Bihar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-HE",
+    "countryCode": "HU",
+    "englishName": "Heves",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-HV",
+    "countryCode": "HU",
+    "englishName": "Hódmezővásárhely",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-JN",
+    "countryCode": "HU",
+    "englishName": "Jász-Nagykun-Szolnok",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-KE",
+    "countryCode": "HU",
+    "englishName": "Komárom-Esztergom",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-KM",
+    "countryCode": "HU",
+    "englishName": "Kecskemét",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-KV",
+    "countryCode": "HU",
+    "englishName": "Kaposvár",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-MI",
+    "countryCode": "HU",
+    "englishName": "Miskolc",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-NK",
+    "countryCode": "HU",
+    "englishName": "Nagykanizsa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-NO",
+    "countryCode": "HU",
+    "englishName": "Nógrád",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-NY",
+    "countryCode": "HU",
+    "englishName": "Nyíregyháza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-PE",
+    "countryCode": "HU",
+    "englishName": "Pest",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-PS",
+    "countryCode": "HU",
+    "englishName": "Pécs",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-SD",
+    "countryCode": "HU",
+    "englishName": "Szeged",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-SF",
+    "countryCode": "HU",
+    "englishName": "Székesfehérvár",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-SH",
+    "countryCode": "HU",
+    "englishName": "Szombathely",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-SK",
+    "countryCode": "HU",
+    "englishName": "Szolnok",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-SN",
+    "countryCode": "HU",
+    "englishName": "Sopron",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-SO",
+    "countryCode": "HU",
+    "englishName": "Somogy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-SS",
+    "countryCode": "HU",
+    "englishName": "Szekszárd",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-ST",
+    "countryCode": "HU",
+    "englishName": "Salgótarján",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-SZ",
+    "countryCode": "HU",
+    "englishName": "Szabolcs-Szatmár-Bereg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-TB",
+    "countryCode": "HU",
+    "englishName": "Tatabánya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-TO",
+    "countryCode": "HU",
+    "englishName": "Tolna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-VA",
+    "countryCode": "HU",
+    "englishName": "Vas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-VE",
+    "countryCode": "HU",
+    "englishName": "Veszprém County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-VM",
+    "countryCode": "HU",
+    "englishName": "Veszprém",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-ZA",
+    "countryCode": "HU",
+    "englishName": "Zala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HU-ZE",
+    "countryCode": "HU",
+    "englishName": "Zalaegerszeg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",
