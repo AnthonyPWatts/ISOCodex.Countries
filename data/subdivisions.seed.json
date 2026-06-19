@@ -18270,6 +18270,496 @@
     "type": "Unknown"
   },
   {
+    "code": "LT-01",
+    "countryCode": "LT",
+    "englishName": "Akmenė",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-02",
+    "countryCode": "LT",
+    "englishName": "Alytus Municipality",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-03",
+    "countryCode": "LT",
+    "englishName": "Alytus",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-04",
+    "countryCode": "LT",
+    "englishName": "Anykščiai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-05",
+    "countryCode": "LT",
+    "englishName": "Birštonas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-06",
+    "countryCode": "LT",
+    "englishName": "Biržai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-07",
+    "countryCode": "LT",
+    "englishName": "Druskininkai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-08",
+    "countryCode": "LT",
+    "englishName": "Elektrėnai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-09",
+    "countryCode": "LT",
+    "englishName": "Ignalina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-10",
+    "countryCode": "LT",
+    "englishName": "Jonava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-11",
+    "countryCode": "LT",
+    "englishName": "Joniškis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-12",
+    "countryCode": "LT",
+    "englishName": "Jurbarkas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-13",
+    "countryCode": "LT",
+    "englishName": "Kaišiadorys",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-14",
+    "countryCode": "LT",
+    "englishName": "Kalvarija",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-15",
+    "countryCode": "LT",
+    "englishName": "Kauno Municipality",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-16",
+    "countryCode": "LT",
+    "englishName": "Kaunas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-17",
+    "countryCode": "LT",
+    "englishName": "Kazlų Rūda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-18",
+    "countryCode": "LT",
+    "englishName": "Kėdainiai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-19",
+    "countryCode": "LT",
+    "englishName": "Kelmė",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-20",
+    "countryCode": "LT",
+    "englishName": "Klaipėdos Municipality",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-21",
+    "countryCode": "LT",
+    "englishName": "Klaipėda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-22",
+    "countryCode": "LT",
+    "englishName": "Kretinga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-23",
+    "countryCode": "LT",
+    "englishName": "Kupiškis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-24",
+    "countryCode": "LT",
+    "englishName": "Lazdijai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-25",
+    "countryCode": "LT",
+    "englishName": "Marijampolė",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-26",
+    "countryCode": "LT",
+    "englishName": "Mažeikiai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-27",
+    "countryCode": "LT",
+    "englishName": "Molėtai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-28",
+    "countryCode": "LT",
+    "englishName": "Neringa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-29",
+    "countryCode": "LT",
+    "englishName": "Pagėgiai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-30",
+    "countryCode": "LT",
+    "englishName": "Pakruojis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-31",
+    "countryCode": "LT",
+    "englishName": "Palanga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-32",
+    "countryCode": "LT",
+    "englishName": "Panevėžio Municipality",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-33",
+    "countryCode": "LT",
+    "englishName": "Panevėžys",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-34",
+    "countryCode": "LT",
+    "englishName": "Pasvalys",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-35",
+    "countryCode": "LT",
+    "englishName": "Plungė",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-36",
+    "countryCode": "LT",
+    "englishName": "Prienai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-37",
+    "countryCode": "LT",
+    "englishName": "Radviliškis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-38",
+    "countryCode": "LT",
+    "englishName": "Raseiniai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-39",
+    "countryCode": "LT",
+    "englishName": "Rietavas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-40",
+    "countryCode": "LT",
+    "englishName": "Rokiškis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-41",
+    "countryCode": "LT",
+    "englishName": "Šakiai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-42",
+    "countryCode": "LT",
+    "englishName": "Šalčininkai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-43",
+    "countryCode": "LT",
+    "englishName": "Šiaulių Municipality",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-44",
+    "countryCode": "LT",
+    "englishName": "Šiauliai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-45",
+    "countryCode": "LT",
+    "englishName": "Šilalė",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-46",
+    "countryCode": "LT",
+    "englishName": "Šilutė",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-47",
+    "countryCode": "LT",
+    "englishName": "Širvintos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-48",
+    "countryCode": "LT",
+    "englishName": "Skuodas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-49",
+    "countryCode": "LT",
+    "englishName": "Švenčionys",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-50",
+    "countryCode": "LT",
+    "englishName": "Tauragė",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-51",
+    "countryCode": "LT",
+    "englishName": "Telšiai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-52",
+    "countryCode": "LT",
+    "englishName": "Trakai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-53",
+    "countryCode": "LT",
+    "englishName": "Ukmergė",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-54",
+    "countryCode": "LT",
+    "englishName": "Utena",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-55",
+    "countryCode": "LT",
+    "englishName": "Varėna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-56",
+    "countryCode": "LT",
+    "englishName": "Vilkaviškis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-57",
+    "countryCode": "LT",
+    "englishName": "Vilniaus Municipality",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-58",
+    "countryCode": "LT",
+    "englishName": "Vilnius",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-59",
+    "countryCode": "LT",
+    "englishName": "Visaginas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-60",
+    "countryCode": "LT",
+    "englishName": "Zarasai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-AL",
+    "countryCode": "LT",
+    "englishName": "Alytus County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-KL",
+    "countryCode": "LT",
+    "englishName": "Klaipėda County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-KU",
+    "countryCode": "LT",
+    "englishName": "Kaunas County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-MR",
+    "countryCode": "LT",
+    "englishName": "Marijampolė County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-PN",
+    "countryCode": "LT",
+    "englishName": "Panevėžys County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-SA",
+    "countryCode": "LT",
+    "englishName": "Šiauliai County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-TA",
+    "countryCode": "LT",
+    "englishName": "Tauragė County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-TE",
+    "countryCode": "LT",
+    "englishName": "Telšiai County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-UT",
+    "countryCode": "LT",
+    "englishName": "Utena County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LT-VL",
+    "countryCode": "LT",
+    "englishName": "Vilnius County",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
