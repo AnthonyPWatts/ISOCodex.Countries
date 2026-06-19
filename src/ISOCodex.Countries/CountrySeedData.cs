@@ -5945,6 +5945,14 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("PY-8"), CountryAlpha2Code.Parse("PY"), "Misiones", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("PY-9"), CountryAlpha2Code.Parse("PY"), "Paraguarí", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("PY-ASU"), CountryAlpha2Code.Parse("PY"), "Asunción", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("QA-DA"), CountryAlpha2Code.Parse("QA"), "Doha", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("QA-KH"), CountryAlpha2Code.Parse("QA"), "Al Khor", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("QA-MS"), CountryAlpha2Code.Parse("QA"), "Madinat ash Shamal", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("QA-RA"), CountryAlpha2Code.Parse("QA"), "Al Rayyan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("QA-SH"), CountryAlpha2Code.Parse("QA"), "Ash Shīḩānīyah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("QA-US"), CountryAlpha2Code.Parse("QA"), "Umm Salal", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("QA-WA"), CountryAlpha2Code.Parse("QA"), "Al Wakrah", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("QA-ZA"), CountryAlpha2Code.Parse("QA"), "Al Daayen", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

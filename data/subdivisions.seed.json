@@ -25872,6 +25872,62 @@
     "type": "Unknown"
   },
   {
+    "code": "QA-DA",
+    "countryCode": "QA",
+    "englishName": "Doha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "QA-KH",
+    "countryCode": "QA",
+    "englishName": "Al Khor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "QA-MS",
+    "countryCode": "QA",
+    "englishName": "Madinat ash Shamal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "QA-RA",
+    "countryCode": "QA",
+    "englishName": "Al Rayyan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "QA-SH",
+    "countryCode": "QA",
+    "englishName": "Ash Shīḩānīyah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "QA-US",
+    "countryCode": "QA",
+    "englishName": "Umm Salal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "QA-WA",
+    "countryCode": "QA",
+    "englishName": "Al Wakrah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "QA-ZA",
+    "countryCode": "QA",
+    "englishName": "Al Daayen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
