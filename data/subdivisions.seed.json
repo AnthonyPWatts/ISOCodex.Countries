@@ -18200,6 +18200,76 @@
     "type": "Unknown"
   },
   {
+    "code": "LS-A",
+    "countryCode": "LS",
+    "englishName": "Maseru",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LS-B",
+    "countryCode": "LS",
+    "englishName": "Butha-Buthe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LS-C",
+    "countryCode": "LS",
+    "englishName": "Leribe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LS-D",
+    "countryCode": "LS",
+    "englishName": "Berea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LS-E",
+    "countryCode": "LS",
+    "englishName": "Mafeteng",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LS-F",
+    "countryCode": "LS",
+    "englishName": "Mohale’s Hoek",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LS-G",
+    "countryCode": "LS",
+    "englishName": "Quthing",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LS-H",
+    "countryCode": "LS",
+    "englishName": "Qacha’s Nek",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LS-J",
+    "countryCode": "LS",
+    "englishName": "Mokhotlong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LS-K",
+    "countryCode": "LS",
+    "englishName": "Thaba-Tseka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

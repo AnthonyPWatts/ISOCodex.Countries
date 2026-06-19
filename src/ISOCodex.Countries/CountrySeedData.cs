@@ -4849,6 +4849,16 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("LR-RG"), CountryAlpha2Code.Parse("LR"), "River Gee", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("LR-RI"), CountryAlpha2Code.Parse("LR"), "Rivercess", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("LR-SI"), CountryAlpha2Code.Parse("LR"), "Sinoe", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LS-A"), CountryAlpha2Code.Parse("LS"), "Maseru", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LS-B"), CountryAlpha2Code.Parse("LS"), "Butha-Buthe", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LS-C"), CountryAlpha2Code.Parse("LS"), "Leribe", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LS-D"), CountryAlpha2Code.Parse("LS"), "Berea", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LS-E"), CountryAlpha2Code.Parse("LS"), "Mafeteng", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LS-F"), CountryAlpha2Code.Parse("LS"), "Mohale’s Hoek", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LS-G"), CountryAlpha2Code.Parse("LS"), "Quthing", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LS-H"), CountryAlpha2Code.Parse("LS"), "Qacha’s Nek", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LS-J"), CountryAlpha2Code.Parse("LS"), "Mokhotlong", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LS-K"), CountryAlpha2Code.Parse("LS"), "Thaba-Tseka", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
