@@ -27153,6 +27153,76 @@
     "type": "Unknown"
   },
   {
+    "code": "SB-CE",
+    "countryCode": "SB",
+    "englishName": "Central",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SB-CH",
+    "countryCode": "SB",
+    "englishName": "Choiseul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SB-CT",
+    "countryCode": "SB",
+    "englishName": "Honiara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SB-GU",
+    "countryCode": "SB",
+    "englishName": "Guadalcanal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SB-IS",
+    "countryCode": "SB",
+    "englishName": "Isabel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SB-MK",
+    "countryCode": "SB",
+    "englishName": "Makira-Ulawa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SB-ML",
+    "countryCode": "SB",
+    "englishName": "Malaita",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SB-RB",
+    "countryCode": "SB",
+    "englishName": "Rennell and Bellona",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SB-TE",
+    "countryCode": "SB",
+    "englishName": "Temotu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SB-WE",
+    "countryCode": "SB",
+    "englishName": "Western",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

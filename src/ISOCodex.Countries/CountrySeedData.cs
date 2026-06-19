@@ -6128,6 +6128,16 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("SA-11"), CountryAlpha2Code.Parse("SA"), "Al Bahah", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SA-12"), CountryAlpha2Code.Parse("SA"), "Al Jawf", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SA-14"), CountryAlpha2Code.Parse("SA"), "Asir", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SB-CE"), CountryAlpha2Code.Parse("SB"), "Central", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SB-CH"), CountryAlpha2Code.Parse("SB"), "Choiseul", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SB-CT"), CountryAlpha2Code.Parse("SB"), "Honiara", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SB-GU"), CountryAlpha2Code.Parse("SB"), "Guadalcanal", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SB-IS"), CountryAlpha2Code.Parse("SB"), "Isabel", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SB-MK"), CountryAlpha2Code.Parse("SB"), "Makira-Ulawa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SB-ML"), CountryAlpha2Code.Parse("SB"), "Malaita", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SB-RB"), CountryAlpha2Code.Parse("SB"), "Rennell and Bellona", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SB-TE"), CountryAlpha2Code.Parse("SB"), "Temotu", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SB-WE"), CountryAlpha2Code.Parse("SB"), "Western", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
