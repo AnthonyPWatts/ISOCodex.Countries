@@ -6436,6 +6436,15 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("SL-NW"), CountryAlpha2Code.Parse("SL"), "North Western", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SL-S"), CountryAlpha2Code.Parse("SL"), "Southern", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SL-W"), CountryAlpha2Code.Parse("SL"), "Western Area", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SM-01"), CountryAlpha2Code.Parse("SM"), "Acquaviva", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SM-02"), CountryAlpha2Code.Parse("SM"), "Chiesanuova", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SM-03"), CountryAlpha2Code.Parse("SM"), "Domagnano", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SM-04"), CountryAlpha2Code.Parse("SM"), "Faetano", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SM-05"), CountryAlpha2Code.Parse("SM"), "Fiorentino", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SM-06"), CountryAlpha2Code.Parse("SM"), "Borgo Maggiore", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SM-07"), CountryAlpha2Code.Parse("SM"), "San Marino", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SM-08"), CountryAlpha2Code.Parse("SM"), "Montegiardino", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SM-09"), CountryAlpha2Code.Parse("SM"), "Serravalle", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

@@ -29309,6 +29309,69 @@
     "type": "Unknown"
   },
   {
+    "code": "SM-01",
+    "countryCode": "SM",
+    "englishName": "Acquaviva",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SM-02",
+    "countryCode": "SM",
+    "englishName": "Chiesanuova",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SM-03",
+    "countryCode": "SM",
+    "englishName": "Domagnano",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SM-04",
+    "countryCode": "SM",
+    "englishName": "Faetano",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SM-05",
+    "countryCode": "SM",
+    "englishName": "Fiorentino",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SM-06",
+    "countryCode": "SM",
+    "englishName": "Borgo Maggiore",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SM-07",
+    "countryCode": "SM",
+    "englishName": "San Marino",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SM-08",
+    "countryCode": "SM",
+    "englishName": "Montegiardino",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SM-09",
+    "countryCode": "SM",
+    "englishName": "Serravalle",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
