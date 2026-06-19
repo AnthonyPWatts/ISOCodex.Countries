@@ -31122,6 +31122,573 @@
     "type": "Unknown"
   },
   {
+    "code": "TR-01",
+    "countryCode": "TR",
+    "englishName": "Adana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-02",
+    "countryCode": "TR",
+    "englishName": "Adıyaman",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-03",
+    "countryCode": "TR",
+    "englishName": "Afyonkarahisar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-04",
+    "countryCode": "TR",
+    "englishName": "Ağrı",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-05",
+    "countryCode": "TR",
+    "englishName": "Amasya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-06",
+    "countryCode": "TR",
+    "englishName": "Ankara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-07",
+    "countryCode": "TR",
+    "englishName": "Antalya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-08",
+    "countryCode": "TR",
+    "englishName": "Artvin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-09",
+    "countryCode": "TR",
+    "englishName": "Aydın",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-10",
+    "countryCode": "TR",
+    "englishName": "Balıkesir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-11",
+    "countryCode": "TR",
+    "englishName": "Bilecik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-12",
+    "countryCode": "TR",
+    "englishName": "Bingöl",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-13",
+    "countryCode": "TR",
+    "englishName": "Bitlis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-14",
+    "countryCode": "TR",
+    "englishName": "Bolu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-15",
+    "countryCode": "TR",
+    "englishName": "Burdur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-16",
+    "countryCode": "TR",
+    "englishName": "Bursa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-17",
+    "countryCode": "TR",
+    "englishName": "Çanakkale",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-18",
+    "countryCode": "TR",
+    "englishName": "Çankırı",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-19",
+    "countryCode": "TR",
+    "englishName": "Çorum",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-20",
+    "countryCode": "TR",
+    "englishName": "Denizli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-21",
+    "countryCode": "TR",
+    "englishName": "Diyarbakır",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-22",
+    "countryCode": "TR",
+    "englishName": "Edirne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-23",
+    "countryCode": "TR",
+    "englishName": "Elazığ",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-24",
+    "countryCode": "TR",
+    "englishName": "Erzincan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-25",
+    "countryCode": "TR",
+    "englishName": "Erzurum",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-26",
+    "countryCode": "TR",
+    "englishName": "Eskişehir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-27",
+    "countryCode": "TR",
+    "englishName": "Gaziantep",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-28",
+    "countryCode": "TR",
+    "englishName": "Giresun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-29",
+    "countryCode": "TR",
+    "englishName": "Gümüşhane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-30",
+    "countryCode": "TR",
+    "englishName": "Hakkâri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-31",
+    "countryCode": "TR",
+    "englishName": "Hatay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-32",
+    "countryCode": "TR",
+    "englishName": "Isparta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-33",
+    "countryCode": "TR",
+    "englishName": "Mersin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-34",
+    "countryCode": "TR",
+    "englishName": "Istanbul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-35",
+    "countryCode": "TR",
+    "englishName": "Izmir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-36",
+    "countryCode": "TR",
+    "englishName": "Kars",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-37",
+    "countryCode": "TR",
+    "englishName": "Kastamonu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-38",
+    "countryCode": "TR",
+    "englishName": "Kayseri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-39",
+    "countryCode": "TR",
+    "englishName": "Kırklareli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-40",
+    "countryCode": "TR",
+    "englishName": "Kırşehir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-41",
+    "countryCode": "TR",
+    "englishName": "Kocaeli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-42",
+    "countryCode": "TR",
+    "englishName": "Konya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-43",
+    "countryCode": "TR",
+    "englishName": "Kütahya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-44",
+    "countryCode": "TR",
+    "englishName": "Malatya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-45",
+    "countryCode": "TR",
+    "englishName": "Manisa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-46",
+    "countryCode": "TR",
+    "englishName": "Kahramanmaraş",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-47",
+    "countryCode": "TR",
+    "englishName": "Mardin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-48",
+    "countryCode": "TR",
+    "englishName": "Muğla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-49",
+    "countryCode": "TR",
+    "englishName": "Muş",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-50",
+    "countryCode": "TR",
+    "englishName": "Nevşehir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-51",
+    "countryCode": "TR",
+    "englishName": "Niğde",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-52",
+    "countryCode": "TR",
+    "englishName": "Ordu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-53",
+    "countryCode": "TR",
+    "englishName": "Rize",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-54",
+    "countryCode": "TR",
+    "englishName": "Sakarya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-55",
+    "countryCode": "TR",
+    "englishName": "Samsun",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-56",
+    "countryCode": "TR",
+    "englishName": "Siirt",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-57",
+    "countryCode": "TR",
+    "englishName": "Sinop",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-58",
+    "countryCode": "TR",
+    "englishName": "Sivas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-59",
+    "countryCode": "TR",
+    "englishName": "Tekirdağ",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-60",
+    "countryCode": "TR",
+    "englishName": "Tokat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-61",
+    "countryCode": "TR",
+    "englishName": "Trabzon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-62",
+    "countryCode": "TR",
+    "englishName": "Tunceli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-63",
+    "countryCode": "TR",
+    "englishName": "Şanlıurfa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-64",
+    "countryCode": "TR",
+    "englishName": "Uşak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-65",
+    "countryCode": "TR",
+    "englishName": "Van",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-66",
+    "countryCode": "TR",
+    "englishName": "Yozgat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-67",
+    "countryCode": "TR",
+    "englishName": "Zonguldak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-68",
+    "countryCode": "TR",
+    "englishName": "Aksaray",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-69",
+    "countryCode": "TR",
+    "englishName": "Bayburt",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-70",
+    "countryCode": "TR",
+    "englishName": "Karaman",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-71",
+    "countryCode": "TR",
+    "englishName": "Kırıkkale",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-72",
+    "countryCode": "TR",
+    "englishName": "Batman",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-73",
+    "countryCode": "TR",
+    "englishName": "Şırnak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-74",
+    "countryCode": "TR",
+    "englishName": "Bartın",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-75",
+    "countryCode": "TR",
+    "englishName": "Ardahan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-76",
+    "countryCode": "TR",
+    "englishName": "Iğdır",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-77",
+    "countryCode": "TR",
+    "englishName": "Yalova",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-78",
+    "countryCode": "TR",
+    "englishName": "Karabük",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-79",
+    "countryCode": "TR",
+    "englishName": "Kilis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-80",
+    "countryCode": "TR",
+    "englishName": "Osmaniye",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TR-81",
+    "countryCode": "TR",
+    "englishName": "Düzce",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
