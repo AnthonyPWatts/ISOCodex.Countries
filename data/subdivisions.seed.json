@@ -22610,6 +22610,230 @@
     "type": "Unknown"
   },
   {
+    "code": "MX-AGU",
+    "countryCode": "MX",
+    "englishName": "Aguascalientes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-BCN",
+    "countryCode": "MX",
+    "englishName": "Baja California",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-BCS",
+    "countryCode": "MX",
+    "englishName": "Baja California Sur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-CAM",
+    "countryCode": "MX",
+    "englishName": "Campeche",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-CHH",
+    "countryCode": "MX",
+    "englishName": "Chihuahua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-CHP",
+    "countryCode": "MX",
+    "englishName": "Chiapas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-CMX",
+    "countryCode": "MX",
+    "englishName": "Ciudad de Mexico",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-COA",
+    "countryCode": "MX",
+    "englishName": "Coahuila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-COL",
+    "countryCode": "MX",
+    "englishName": "Colima",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-DUR",
+    "countryCode": "MX",
+    "englishName": "Durango",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-GRO",
+    "countryCode": "MX",
+    "englishName": "Guerrero",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-GUA",
+    "countryCode": "MX",
+    "englishName": "Guanajuato",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-HID",
+    "countryCode": "MX",
+    "englishName": "Hidalgo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-JAL",
+    "countryCode": "MX",
+    "englishName": "Jalisco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-MEX",
+    "countryCode": "MX",
+    "englishName": "Mexico State",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-MIC",
+    "countryCode": "MX",
+    "englishName": "Michoacán",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-MOR",
+    "countryCode": "MX",
+    "englishName": "Morelos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-NAY",
+    "countryCode": "MX",
+    "englishName": "Nayarit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-NLE",
+    "countryCode": "MX",
+    "englishName": "Nuevo León",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-OAX",
+    "countryCode": "MX",
+    "englishName": "Oaxaca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-PUE",
+    "countryCode": "MX",
+    "englishName": "Puebla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-QUE",
+    "countryCode": "MX",
+    "englishName": "Querétaro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-ROO",
+    "countryCode": "MX",
+    "englishName": "Quintana Roo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-SIN",
+    "countryCode": "MX",
+    "englishName": "Sinaloa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-SLP",
+    "countryCode": "MX",
+    "englishName": "San Luis Potosí",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-SON",
+    "countryCode": "MX",
+    "englishName": "Sonora",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-TAB",
+    "countryCode": "MX",
+    "englishName": "Tabasco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-TAM",
+    "countryCode": "MX",
+    "englishName": "Tamaulipas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-TLA",
+    "countryCode": "MX",
+    "englishName": "Tlaxcala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-VER",
+    "countryCode": "MX",
+    "englishName": "Veracruz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-YUC",
+    "countryCode": "MX",
+    "englishName": "Yucatán",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MX-ZAC",
+    "countryCode": "MX",
+    "englishName": "Zacatecas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
