@@ -6510,6 +6510,76 @@
     "type": "Unknown"
   },
   {
+    "code": "DM-02",
+    "countryCode": "DM",
+    "englishName": "Saint Andrew",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DM-03",
+    "countryCode": "DM",
+    "englishName": "Saint David",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DM-04",
+    "countryCode": "DM",
+    "englishName": "Saint George",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DM-05",
+    "countryCode": "DM",
+    "englishName": "Saint John",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DM-06",
+    "countryCode": "DM",
+    "englishName": "Saint Joseph",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DM-07",
+    "countryCode": "DM",
+    "englishName": "Saint Luke",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DM-08",
+    "countryCode": "DM",
+    "englishName": "Saint Mark",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DM-09",
+    "countryCode": "DM",
+    "englishName": "Saint Patrick",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DM-10",
+    "countryCode": "DM",
+    "englishName": "Saint Paul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DM-11",
+    "countryCode": "DM",
+    "englishName": "Saint Peter",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
