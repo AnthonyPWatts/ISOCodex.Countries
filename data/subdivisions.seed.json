@@ -15904,6 +15904,104 @@
     "type": "Unknown"
   },
   {
+    "code": "JM-01",
+    "countryCode": "JM",
+    "englishName": "Kingston",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JM-02",
+    "countryCode": "JM",
+    "englishName": "Saint Andrew",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JM-03",
+    "countryCode": "JM",
+    "englishName": "Saint Thomas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JM-04",
+    "countryCode": "JM",
+    "englishName": "Portland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JM-05",
+    "countryCode": "JM",
+    "englishName": "Saint Mary",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JM-06",
+    "countryCode": "JM",
+    "englishName": "Saint Ann",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JM-07",
+    "countryCode": "JM",
+    "englishName": "Trelawny",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JM-08",
+    "countryCode": "JM",
+    "englishName": "Saint James",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JM-09",
+    "countryCode": "JM",
+    "englishName": "Hanover",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JM-10",
+    "countryCode": "JM",
+    "englishName": "Westmoreland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JM-11",
+    "countryCode": "JM",
+    "englishName": "Saint Elizabeth",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JM-12",
+    "countryCode": "JM",
+    "englishName": "Manchester",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JM-13",
+    "countryCode": "JM",
+    "englishName": "Clarendon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "JM-14",
+    "countryCode": "JM",
+    "englishName": "Saint Catherine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

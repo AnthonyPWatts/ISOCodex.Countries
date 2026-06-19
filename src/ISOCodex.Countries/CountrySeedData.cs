@@ -4521,6 +4521,20 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("IT-VR"), CountryAlpha2Code.Parse("IT"), "Verona", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("IT-VT"), CountryAlpha2Code.Parse("IT"), "Viterbo", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("IT-VV"), CountryAlpha2Code.Parse("IT"), "Vibo Valentia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-01"), CountryAlpha2Code.Parse("JM"), "Kingston", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-02"), CountryAlpha2Code.Parse("JM"), "Saint Andrew", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-03"), CountryAlpha2Code.Parse("JM"), "Saint Thomas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-04"), CountryAlpha2Code.Parse("JM"), "Portland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-05"), CountryAlpha2Code.Parse("JM"), "Saint Mary", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-06"), CountryAlpha2Code.Parse("JM"), "Saint Ann", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-07"), CountryAlpha2Code.Parse("JM"), "Trelawny", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-08"), CountryAlpha2Code.Parse("JM"), "Saint James", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-09"), CountryAlpha2Code.Parse("JM"), "Hanover", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-10"), CountryAlpha2Code.Parse("JM"), "Westmoreland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-11"), CountryAlpha2Code.Parse("JM"), "Saint Elizabeth", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-12"), CountryAlpha2Code.Parse("JM"), "Manchester", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-13"), CountryAlpha2Code.Parse("JM"), "Clarendon", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("JM-14"), CountryAlpha2Code.Parse("JM"), "Saint Catherine", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
