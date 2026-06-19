@@ -4,76 +4,72 @@
 
 This project is not an official ISO product and does not claim ISO endorsement.
 
-## Representative Seed Data
+## Country And Territory Seed Data
 
-The current country seed is deliberately small, hand-curated, and representative. It proves package behaviour; it is not a redistributed official ISO table:
+The current country and territory seed is derived from Unicode CLDR 48.2. It includes 249 current ISO-style entries with:
 
-- `GB` / `GBR` / `826` - United Kingdom
-- `US` / `USA` / `840` - United States
-- `DE` / `DEU` / `276` - Germany
-- `FR` / `FRA` / `250` - France
-- `IE` / `IRL` / `372` - Ireland
-- `AL` / `ALB` / `008` - Albania
-- `CA` / `CAN` / `124` - Canada
-- `AU` / `AUS` / `036` - Australia
+- alpha-2 code;
+- alpha-3 code;
+- three-digit numeric code;
+- English display name.
+
+The generation source files are:
+
+- `common/supplemental/supplementalData.xml`
+- `common/supplemental/supplementalMetadata.xml`
+- `common/main/en.xml`
+
+The generator is `eng/update-country-seed-from-cldr.ps1`.
+
+The generated registry excludes deprecated territory aliases, CLDR pseudo-territories, regional groupings, unknown-region placeholders, and user-assigned code elements that are not ISO 3166-1 assigned country entries. Examples that remain unknown include `EU`, `QO`, `XK`, and `ZZ`.
+
+The package includes `THIRD-PARTY-NOTICES.md` for Unicode CLDR attribution and licence details.
+
+## Subdivision Seed Data
 
 Representative subdivision seed data currently includes `GB-ENG`, `GB-SCT`, `GB-WLS`, `GB-NIR`, `US-CA`, `CA-ON`, `AU-NSW`, and `IE-D`.
 
-The JSON files in `data/` are source-aligned project seed files. The runtime package uses checked-in compiled seed data so it does not depend on loose external files after packaging.
-
-The v1.0 data-source decision is tracked in [`data-strategy.md`](data-strategy.md) and [`decisions/0002-v1-data-scope.md`](decisions/0002-v1-data-scope.md).
-
-## Representative Seed Selection
-
-The seed was chosen to prove package behaviour rather than to represent a complete country table. It includes examples for:
-
-- common UK, US, European, Canadian, and Australian business-data scenarios;
-- leading-zero numeric codes through `AL` / `008` and `AU` / `036`;
-- alpha-2, alpha-3, and numeric conversion paths;
-- representative subdivision types, including nations, states, provinces, and counties;
-- `GB` as the canonical package code for the United Kingdom, with `UK` remaining syntactically valid but unknown.
-
-Complete current-country expansion is deferred until the project has a redistribution-safe source decision and update workflow.
+Subdivision coverage is deliberately representative only. It proves API shape, syntax, lookup, and packaging behaviour, but it is not complete ISO 3166-2 coverage.
 
 ## Data Version
 
-- Identifier: `representative-seed-2026-06`
+- Identifier: `cldr-48.2-country-seed-2026-06`
 - Date checked: 2026-06-19
 - Runtime exposure: `CountryDataVersion`
+- v1 alpha decision: [`decisions/0005-v1-alpha-country-data-scope.md`](decisions/0005-v1-alpha-country-data-scope.md)
 
-The data version identifies the checked-in representative seed posture. It is not an ISO publication identifier.
+The data version identifies the checked-in package data posture. It is not an ISO publication identifier.
 
 ## Completeness Limits
 
-The seed data is not a complete ISO 3166, ISO 3166-2, UN M49, or CLDR dataset. It is sufficient to prove the package architecture, validation behaviour, leading-zero numeric handling, registry lookup, representative subdivisions, and package workflow.
+Country and territory code coverage is complete for the selected CLDR-derived current-entry scope.
+
+The package does not currently model reserved code ranges, former-country entries, exceptional reservations, transitional reservations, user-assigned ranges, localisation, flags, calling codes, sanctions data, currencies, address formatting, geospatial data, online updates, or full subdivision coverage.
 
 `GB` is the canonical ISO-style alpha-2 country code used by this package. `UK` is commonly encountered in real systems, but it is not silently treated as canonical `GB`.
 
-`EU` and `ZZ` are syntactically valid alpha-2 shapes. The current package treats them as unknown because it does not yet model reserved, exceptional, or user-assigned code ranges as registry entries.
+`EU`, `QO`, `XK`, and `ZZ` are syntactically valid alpha-2 shapes. The current package treats them as unknown because they are outside the selected current country and territory registry scope.
 
 ## Update Process
 
-For small representative corrections:
+For CLDR country data updates:
 
-1. Update `data/*.seed.json`.
+1. Review the target CLDR release, licence, and source-file shape.
+2. Update the pinned version/tag in `eng/update-country-seed-from-cldr.ps1` if needed.
+3. Run `./eng/update-country-seed-from-cldr.ps1`.
+4. Review `data/countries.seed.json` and `CountrySeedData`.
+5. Update `CountryDataVersion` when the source release or checked date changes.
+6. Run data integrity, drift, package, and public API checks.
+
+For subdivision corrections:
+
+1. Update `data/subdivisions.seed.json`.
 2. Update `CountrySeedData`.
-3. Update `CountryDataVersion` when the data posture or checked date changes.
+3. Update documentation if the representative scope changes.
 4. Run the data drift and integrity tests.
 
-For complete current-country expansion, document the source, version, date checked, redistribution position, and generation workflow before adding data.
-
-## Future Expansion
-
-Future data expansion should document:
-
-- source and version checked,
-- date checked,
-- licensing or redistribution assumptions,
-- whether the change affects canonical identifiers or display metadata,
-- any known gaps or uncertainties.
-
-Do not add copied data unless redistribution rights are clear.
+Do not add copied official ISO tables unless redistribution rights are clear.
 
 ## Proposing Corrections
 
-Data corrections should include the source used, date checked, affected identifier, and whether the change affects canonical codes, display names, aliases, notes, or representative subdivision coverage.
+Data corrections should include the source used, date checked, affected identifier, and whether the change affects canonical codes, display names, aliases, notes, subdivision coverage, or the CLDR filter policy.

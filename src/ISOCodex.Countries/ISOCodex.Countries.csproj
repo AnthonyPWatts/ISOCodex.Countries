@@ -3,7 +3,8 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.1;net8.0</TargetFrameworks>
     <PackageId>ISOCodex.Countries</PackageId>
-    <VersionPrefix>0.1.0</VersionPrefix>
+    <VersionPrefix>1.0.0</VersionPrefix>
+    <VersionSuffix>alpha</VersionSuffix>
     <Title>ISOCodex.Countries</Title>
     <Description>Strongly typed country, country-code, subdivision, and jurisdiction metadata for .NET applications.</Description>
     <Authors>Anthony Watts</Authors>
@@ -14,7 +15,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>countries;iso3166;m49;country-codes;dotnet;validation</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageReleaseNotes>Initial v0.1 foundation release with representative country and subdivision seed data.</PackageReleaseNotes>
+    <PackageReleaseNotes>Initial v1 alpha release with CLDR-derived current country and territory seed data, representative subdivision examples, and explicit data-source limitations.</PackageReleaseNotes>
     <IsPackable>true</IsPackable>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
@@ -30,6 +31,7 @@
 
   <ItemGroup>
     <None Include="..\..\README.md" Pack="true" PackagePath="" Link="README.md" />
+    <None Include="..\..\THIRD-PARTY-NOTICES.md" Pack="true" PackagePath="" Link="THIRD-PARTY-NOTICES.md" />
   </ItemGroup>
 
 </Project>

@@ -2,9 +2,9 @@
 
 `ISOCodex.Countries` follows Semantic Versioning for public API changes.
 
-The package should remain pre-1.0 while it contains representative data only, unless there is an explicit product decision that representative scope is the v1.0 contract.
+The package currently targets `1.0.0-alpha` because country and territory data is complete for the selected CLDR-derived v1 alpha scope.
 
-The `0.1.0` release posture is recorded in `docs/decisions/0003-v0-1-release-posture.md`. The v1.0 data-scope decision is tracked in `docs/data-strategy.md` and `docs/decisions/0002-v1-data-scope.md`.
+The v1 alpha data-scope decision is tracked in `docs/data-strategy.md` and `docs/decisions/0005-v1-alpha-country-data-scope.md`.
 
 Validation issue codes should be stable once published.
 

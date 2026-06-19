@@ -8,7 +8,7 @@ Accepted.
 
 `ISOCodex.Countries` is intended to become a shared foundation for future ISOCodex package work, including possible `ISOCodex.Addressing` and currency-related integration.
 
-The Countries package should first pass its own release gate and settle its pre-1.0 package surface before other packages depend on it.
+The Countries package should first pass its own release gate and settle its alpha package surface before other packages depend on it.
 
 ## Decision
 

@@ -79,7 +79,7 @@ String overloads are useful for boundary input, but strongly typed values remain
 
 ## API concerns found
 
-- Package version defaulted to `1.0.0` before hardening, despite representative data. This has been corrected to explicit `0.1.0`.
+- Package version defaulted to `1.0.0` before hardening, despite representative data. It was first corrected to `0.1.0`, then moved to `1.0.0-alpha` after CLDR-derived country and territory data was added.
 - JSON and compiled seed data had one note-string drift. This has been corrected and covered by tests.
 - The public API previously had no snapshot protection.
 - Public API behaviour around `EU` and `ZZ` was implied by tests but not explicitly documented in API review material.
@@ -92,12 +92,12 @@ String overloads are useful for boundary input, but strongly typed values remain
 - Strengthened public API snapshot coverage so public operators are reviewed.
 - Added drift tests to keep JSON seed files aligned with compiled seed data.
 - Added additional registry, JSON, and value-object edge-case tests.
-- Updated documentation and samples to match the current API and v0.x data posture.
+- Updated documentation and samples to match the current API and v1 alpha data posture.
 
 ## Changes deferred
 
 - No alias resolution API has been added.
 - No reserved-code registry has been added.
-- No complete current-country dataset has been added.
+- No full subdivision data has been added.
 - No full subdivision data has been added.
 - No package split has been attempted.

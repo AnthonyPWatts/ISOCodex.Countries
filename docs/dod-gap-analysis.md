@@ -18,7 +18,7 @@
 - JSON seed versus compiled data drift tests.
 - Package smoke-test script.
 - Release gate checklist.
-- Explicit v0.x data-source posture.
+- Explicit v1 alpha data-source posture.
 - Data version metadata.
 
 ## Missing for a v1.0 data-complete package
@@ -40,14 +40,14 @@
 
 ## Data-source concerns
 
-The package currently contains representative seed data only. That is acceptable for v0.x foundation work, but not for a v1.0 claim of complete current-country coverage.
+The package now contains CLDR-derived country and territory data for the selected v1 alpha scope. Subdivision data remains representative only.
 
 Do not copy large official datasets into the repository until redistribution rights are clear.
 
 ## Recommended order of attack
 
-1. Keep v0.x package hardening green.
-2. Decide whether v1.0 means complete current-country coverage or explicitly representative scope.
+1. Keep v1 alpha package hardening green.
+2. Review consumer feedback on the CLDR-derived country and territory scope.
 3. Resolve data-source and redistribution position.
 4. Expand country data only after documentation and tests define the source/version/date checked.
 5. Consider generated compiled data only after source data ownership is settled.

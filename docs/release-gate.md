@@ -5,8 +5,8 @@ Use this checklist before any NuGet release. Publishing itself must be a separat
 ## Version and release notes
 
 - [ ] Version chosen intentionally.
-- [ ] Release version is intentionally pre-1.0 while data remains representative.
-- [ ] No `1.0.0` release is attempted without completing the data-scope decision.
+- [ ] Release version is intentionally `1.0.0-alpha`.
+- [ ] v1 alpha data scope matches `docs/decisions/0005-v1-alpha-country-data-scope.md`.
 - [ ] `CHANGELOG.md` updated.
 - [ ] README reviewed.
 - [ ] Known limitations still accurate.
@@ -15,10 +15,11 @@ Use this checklist before any NuGet release. Publishing itself must be a separat
 
 - [ ] `docs/data-sources.md` reviewed.
 - [ ] Data version reviewed.
+- [ ] CLDR source release and generation policy reviewed.
 - [ ] Data-source and redistribution assumptions documented.
 - [ ] No undocumented data-source TODOs.
 - [ ] No official ISO endorsement is implied.
-- [ ] `GB`, `UK`, `EU`, and `ZZ` behaviour remains documented and tested.
+- [ ] `GB`, `UK`, `EU`, `QO`, `XK`, and `ZZ` behaviour remains documented and tested.
 
 ## Package metadata
 
@@ -31,6 +32,7 @@ Use this checklist before any NuGet release. Publishing itself must be a separat
 - [ ] README included in package.
 - [ ] Package contains expected `lib/netstandard2.1` and `lib/net8.0` assets.
 - [ ] Package contains XML documentation files when XML docs are enabled.
+- [ ] Package contains `THIRD-PARTY-NOTICES.md`.
 - [ ] Package does not contain accidental loose runtime `data/*.json` dependencies.
 - [ ] Source Link and deterministic build settings still present.
 
@@ -62,5 +64,5 @@ All commands must pass or the blocker must be documented before release.
 - [ ] No accidental public API drift.
 - [ ] No accidental JSON/compiled seed drift.
 - [ ] Known limitations documented.
-- [ ] `0.1.0` release posture still matches `docs/decisions/0003-v0-1-release-posture.md`.
+- [ ] `1.0.0-alpha` release posture still matches `docs/decisions/0005-v1-alpha-country-data-scope.md`.
 - [ ] NuGet publishing performed separately and intentionally.

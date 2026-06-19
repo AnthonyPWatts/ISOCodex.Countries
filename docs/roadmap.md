@@ -2,39 +2,30 @@
 
 ## Current status
 
-`ISOCodex.Countries` is a v0.x foundation package with representative country and subdivision seed data, strong value objects, registry lookup, JSON support, tests, package smoke testing, and release documentation.
+`ISOCodex.Countries` is a `1.0.0-alpha` foundation package with CLDR-derived current country and territory seed data, representative subdivision seed data, strong value objects, registry lookup, JSON support, tests, package smoke testing, and release documentation.
 
-It is not yet a complete current-country dataset.
+The package is not an official ISO product and does not provide full subdivision coverage.
 
-## v0.x release path
+## v1 alpha release path
 
-The v0.x path is appropriate while the data-source position remains unresolved.
+The v1 alpha path is appropriate now that a redistribution-safe country and territory source has been selected.
 
-v0.x should continue to:
+The package should continue to:
 
-- document representative data clearly,
-- preserve stable API shape where possible,
-- keep package verification green,
-- avoid silent alias resolution,
-- avoid hidden runtime network calls,
+- keep CLDR generation reproducible;
+- document data-source limitations clearly;
+- preserve stable API shape where possible;
+- keep package verification green;
+- avoid silent alias resolution;
+- avoid hidden runtime network calls;
 - avoid full subdivision expansion in the core package.
 
-## v1.0 release path
+## Data-source maintenance plan
 
-v1.0 requires the deliberate data decision described in [`data-strategy.md`](data-strategy.md):
-
-- either complete, redistribution-safe current-country data,
-- or an explicit product decision that the package is intentionally representative.
-
-If complete data is chosen, document the source, version, date checked, redistribution basis, update process, and expected count before adding the data.
-
-## Data-source expansion plan
-
-1. Identify a credible redistribution-safe source path.
-2. Update `docs/data-sources.md` before expanding data.
-3. Decide whether JSON is the source and compiled C# is generated, or whether C# remains the source and JSON is mirrored reference data.
-4. Add tests for expected count, duplicates, syntax, numeric leading zeroes, and known awkward codes.
-5. Update `CountryDataVersion`.
+1. Keep `eng/update-country-seed-from-cldr.ps1` pinned to a reviewed CLDR release.
+2. Update `docs/data-sources.md` and `CountryDataVersion` when the CLDR source release changes.
+3. Review generated JSON and compiled data together.
+4. Keep tests for expected count, duplicates, syntax, numeric leading zeroes, selected exclusions, and known edge cases.
 
 ## Optional subdivision packs
 
@@ -58,8 +49,8 @@ Build this only after the core API is stable.
 
 Future review areas:
 
-- whether `ISOCodex.Addressing` should depend on `ISOCodex.Countries` after Countries has produced a release candidate,
-- whether a currency package should use country code value objects or registry metadata after Countries has produced a release candidate,
+- whether `ISOCodex.Addressing` should depend on `ISOCodex.Countries` after the Countries alpha package has been validated;
+- whether a currency package should use country code value objects or registry metadata after the Countries alpha package has been validated;
 - whether adapter packages are preferable to direct dependencies once the core package surface is stable.
 
 Avoid circular dependencies.

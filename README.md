@@ -8,7 +8,7 @@ It is not an official ISO product, is not endorsed by ISO, and is not a geopolit
 
 ## Current Status
 
-Hardened v0.x foundation. The package has a small representative seed dataset and a stable foundation API, but it is not data-complete.
+`1.0.0-alpha` release candidate. The package has CLDR-derived current country and territory seed data, representative subdivision examples, and a stable foundation API.
 
 ## Installation
 
@@ -129,7 +129,11 @@ var options = CountryRegistry.All
 
 ## Data Sources And Limitations
 
-The seed data is aligned with ISO 3166 and UN M49 concepts, but it is a small hand-curated representative dataset only. It currently includes GB, US, DE, FR, IE, AL, CA, and AU, plus representative subdivisions for those examples. The seed proves API behaviour, lookup semantics, leading-zero numeric handling, subdivision modelling, and package workflow. It is not a redistributed official ISO dataset.
+The country seed data is derived from Unicode CLDR 48.2 and includes 249 current ISO-style country and territory entries with alpha-2, alpha-3, numeric, and English display-name metadata. It excludes deprecated territory aliases, CLDR pseudo-territories, regional groupings, unknown-region placeholders, and user-assigned code elements that are not ISO 3166-1 assigned country entries.
+
+Subdivision seed data remains representative only. It proves subdivision modelling and lookup semantics; it is not complete ISO 3166-2 coverage.
+
+This package is not a redistributed official ISO dataset.
 
 Current data version:
 
@@ -141,7 +145,7 @@ Console.WriteLine(CountryDataVersion.Description);
 
 No runtime code makes hidden network calls. The runtime package uses checked-in compiled seed data rather than loose external files.
 
-Data-source policy and limitations are documented in [`docs/data-sources.md`](docs/data-sources.md). The `0.1.0` release posture and v1.0 data decision are tracked in [`docs/data-strategy.md`](docs/data-strategy.md) and [`docs/decisions`](docs/decisions).
+Data-source policy and limitations are documented in [`docs/data-sources.md`](docs/data-sources.md). The `1.0.0-alpha` data decision is tracked in [`docs/data-strategy.md`](docs/data-strategy.md) and [`docs/decisions`](docs/decisions).
 
 ## Release Verification
 

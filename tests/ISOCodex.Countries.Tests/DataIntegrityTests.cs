@@ -21,6 +21,12 @@ public sealed class DataIntegrityTests
     }
 
     [Fact]
+    public void Country_Seed_Data_Has_Expected_Current_Country_Count()
+    {
+        Assert.Equal(249, CountryRegistry.All.Count);
+    }
+
+    [Fact]
     public void Country_Seed_Codes_All_Pass_Syntax_Validation()
     {
         foreach (CountryInfo country in CountryRegistry.All)
@@ -87,10 +93,20 @@ public sealed class DataIntegrityTests
         string readme = File.ReadAllText(Path.Combine(repositoryRoot, "README.md"));
         string dataSources = File.ReadAllText(Path.Combine(repositoryRoot, "docs", "data-sources.md"));
 
-        Assert.Contains("representative", readme, StringComparison.OrdinalIgnoreCase);
+        Assert.Contains("CLDR", readme, StringComparison.OrdinalIgnoreCase);
         Assert.Contains("not an official ISO product", readme, StringComparison.OrdinalIgnoreCase);
-        Assert.Contains("representative", dataSources, StringComparison.OrdinalIgnoreCase);
+        Assert.Contains("Unicode CLDR", dataSources, StringComparison.OrdinalIgnoreCase);
         Assert.Contains("does not claim ISO endorsement", dataSources, StringComparison.OrdinalIgnoreCase);
+    }
+
+    [Fact]
+    public void Third_Party_Notices_Disclose_Cldr_Source()
+    {
+        string repositoryRoot = FindRepositoryRoot();
+        string notices = File.ReadAllText(Path.Combine(repositoryRoot, "THIRD-PARTY-NOTICES.md"));
+
+        Assert.Contains("Unicode CLDR release 48.2", notices, StringComparison.OrdinalIgnoreCase);
+        Assert.Contains("Unicode License v3", notices, StringComparison.OrdinalIgnoreCase);
     }
 
     [Fact]

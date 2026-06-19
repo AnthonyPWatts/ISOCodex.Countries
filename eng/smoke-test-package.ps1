@@ -49,6 +49,7 @@ try {
     $entries = @($package.Entries | ForEach-Object { $_.FullName })
 
     Test-PackageEntry $entries "README.md"
+    Test-PackageEntry $entries "THIRD-PARTY-NOTICES.md"
     Test-PackageEntry $entries "$packageId.nuspec"
     Test-PackageEntry $entries "lib/netstandard2.1/$packageId.dll"
     Test-PackageEntry $entries "lib/netstandard2.1/$packageId.xml"

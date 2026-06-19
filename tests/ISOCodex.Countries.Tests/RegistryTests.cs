@@ -81,6 +81,8 @@ public sealed class RegistryTests
     [Theory]
     [InlineData("UK")]
     [InlineData("EU")]
+    [InlineData("QO")]
+    [InlineData("XK")]
     [InlineData("ZZ")]
     public void Special_Or_User_Assigned_Shaped_Codes_Are_Unknown_Not_Reserved_Statuses(string input)
     {
@@ -90,6 +92,23 @@ public sealed class RegistryTests
         Assert.Equal(CountryCodeKind.Alpha2, result.DetectedKind);
         Assert.Equal(CountryCodeLookupFailureReason.Unknown, result.FailureReason);
         Assert.Equal(input, result.NormalizedInput);
+    }
+
+    [Theory]
+    [InlineData("AX", "ALA", "248", "Åland Islands")]
+    [InlineData("BV", "BVT", "074", "Bouvet Island")]
+    [InlineData("HM", "HMD", "334", "Heard & McDonald Islands")]
+    public void Complete_Country_Seed_Includes_Current_Territory_Edge_Cases(
+        string alpha2,
+        string alpha3,
+        string numeric,
+        string expectedName)
+    {
+        CountryInfo country = CountryRegistry.GetByAlpha2(CountryAlpha2Code.Parse(alpha2));
+
+        Assert.Equal(alpha3, country.Alpha3.Value);
+        Assert.Equal(numeric, country.Numeric.Value);
+        Assert.Equal(expectedName, country.EnglishShortName);
     }
 
     [Fact]

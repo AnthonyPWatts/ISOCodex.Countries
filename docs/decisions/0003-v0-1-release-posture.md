@@ -2,7 +2,7 @@
 
 ## Status
 
-Accepted.
+Superseded by [`0005-v1-alpha-country-data-scope.md`](0005-v1-alpha-country-data-scope.md).
 
 ## Context
 

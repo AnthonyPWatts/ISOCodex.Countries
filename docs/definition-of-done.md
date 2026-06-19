@@ -31,9 +31,7 @@ Done means registry lookups:
 
 ## Data completeness policy
 
-v0.x may use representative seed data when documentation says so clearly.
-
-v1.0 requires either a complete, redistribution-safe current-country dataset or an explicit decision that the package is intentionally scoped to a representative foundation. If the data-source position is unresolved, publish only as v0.x or delay publication.
+`1.0.0-alpha` requires complete current country and territory coverage for the selected CLDR-derived scope. The v1 alpha data-scope decision is recorded in `docs/decisions/0005-v1-alpha-country-data-scope.md`.
 
 ## Data-source transparency
 
@@ -98,4 +96,4 @@ Before any NuGet release, run the checklist in `docs/release-gate.md`. NuGet pub
 
 ## Known limitations
 
-Representative seed data is not complete ISO 3166 coverage. Subdivision coverage proves the model but is not a global dataset.
+Country and territory seed data is derived from Unicode CLDR 48.2 for the selected v1 alpha scope. Subdivision coverage proves the model but is not a global dataset.

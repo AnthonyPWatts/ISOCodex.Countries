@@ -62,16 +62,7 @@ JSON converter types found:
 
 The country registry uses compiled seed data from `CountrySeedData`.
 
-Current representative country entries:
-
-- `GB` / `GBR` / `826`
-- `US` / `USA` / `840`
-- `DE` / `DEU` / `276`
-- `FR` / `FRA` / `250`
-- `IE` / `IRL` / `372`
-- `AL` / `ALB` / `008`
-- `CA` / `CAN` / `124`
-- `AU` / `AUS` / `036`
+Current country and territory entries are generated from Unicode CLDR 48.2. The registry contains 249 current ISO-style alpha-2, alpha-3, numeric, and English display-name entries for the selected v1 alpha scope.
 
 Representative subdivision entries include `GB-ENG`, `GB-SCT`, `GB-WLS`, `GB-NIR`, `US-CA`, `CA-ON`, `AU-NSW`, and `IE-D`.
 
@@ -111,7 +102,7 @@ Additional hardening documentation has been added for current state, API review,
 
 Package metadata includes package ID, title, description, author, repository URL, project URL, MIT licence expression, tags, README packaging, deterministic builds, Source Link, and XML documentation generation for packable projects.
 
-The package version is explicitly pre-1.0 while the data remains representative rather than complete.
+The package version is explicitly `1.0.0-alpha` after adding CLDR-derived country and territory data.
 
 CI restores, builds, tests, packs, runs the local package smoke test, and uploads package artifacts.
 
@@ -123,14 +114,14 @@ Current release-candidate verification:
 |---|---|
 | `dotnet restore` | Passed |
 | `dotnet build --configuration Release` | Passed |
-| `dotnet test --configuration Release` | Passed, 116 tests |
+| `dotnet test --configuration Release` | Passed |
 | `dotnet pack --configuration Release --output ./artifacts` | Passed |
 
 After hardening, run the final verification commands from `docs/release-gate.md` before any release. The package smoke test now also checks package contents and local consumer installation.
 
 ## Gaps
 
-- Country data is representative only, not complete current-country coverage.
+- Country and territory data is complete for the selected CLDR-derived v1 alpha scope.
 - Full ISO 3166-2 subdivision coverage is intentionally deferred.
 - Reserved, exceptional, former, and user-assigned code modelling exists in enum shape only; the registry does not yet contain separate data for those states.
 - JSON converters require manual registration and reject non-string tokens explicitly.
@@ -138,7 +129,6 @@ After hardening, run the final verification commands from `docs/release-gate.md`
 
 ## Recommended next actions
 
-1. Keep the package as v0.x while data-source and completeness questions remain open.
-2. Decide whether v1.0 requires complete redistribution-safe current-country data or an explicitly representative scope.
-3. If complete data is chosen, document source, version, date checked, and redistribution basis before expanding seed data.
-4. Keep subdivision expansion out of the core package until the data strategy is proven.
+1. Prepare `1.0.0-alpha` if the final release gate passes.
+2. Review consumer feedback on the CLDR-derived data scope.
+3. Keep subdivision expansion out of the core package until the data strategy is proven.
