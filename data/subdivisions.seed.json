@@ -31689,6 +31689,111 @@
     "type": "Unknown"
   },
   {
+    "code": "TT-ARI",
+    "countryCode": "TT",
+    "englishName": "Arima",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-CHA",
+    "countryCode": "TT",
+    "englishName": "Chaguanas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-CTT",
+    "countryCode": "TT",
+    "englishName": "Couva-Tabaquite-Talparo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-DMN",
+    "countryCode": "TT",
+    "englishName": "Diego Martin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-MRC",
+    "countryCode": "TT",
+    "englishName": "Mayaro-Rio Claro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-PED",
+    "countryCode": "TT",
+    "englishName": "Penal-Debe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-POS",
+    "countryCode": "TT",
+    "englishName": "Port of Spain",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-PRT",
+    "countryCode": "TT",
+    "englishName": "Princes Town",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-PTF",
+    "countryCode": "TT",
+    "englishName": "Point Fortin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-SFO",
+    "countryCode": "TT",
+    "englishName": "San Fernando",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-SGE",
+    "countryCode": "TT",
+    "englishName": "Sangre Grande",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-SIP",
+    "countryCode": "TT",
+    "englishName": "Siparia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-SJL",
+    "countryCode": "TT",
+    "englishName": "San Juan-Laventille",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-TOB",
+    "countryCode": "TT",
+    "englishName": "Tobago",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TT-TUP",
+    "countryCode": "TT",
+    "englishName": "Tunapuna-Piarco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

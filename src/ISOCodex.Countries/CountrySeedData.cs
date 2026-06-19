@@ -6776,6 +6776,21 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("TR-79"), CountryAlpha2Code.Parse("TR"), "Kilis", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("TR-80"), CountryAlpha2Code.Parse("TR"), "Osmaniye", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("TR-81"), CountryAlpha2Code.Parse("TR"), "Düzce", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-ARI"), CountryAlpha2Code.Parse("TT"), "Arima", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-CHA"), CountryAlpha2Code.Parse("TT"), "Chaguanas", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-CTT"), CountryAlpha2Code.Parse("TT"), "Couva-Tabaquite-Talparo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-DMN"), CountryAlpha2Code.Parse("TT"), "Diego Martin", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-MRC"), CountryAlpha2Code.Parse("TT"), "Mayaro-Rio Claro", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-PED"), CountryAlpha2Code.Parse("TT"), "Penal-Debe", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-POS"), CountryAlpha2Code.Parse("TT"), "Port of Spain", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-PRT"), CountryAlpha2Code.Parse("TT"), "Princes Town", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-PTF"), CountryAlpha2Code.Parse("TT"), "Point Fortin", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-SFO"), CountryAlpha2Code.Parse("TT"), "San Fernando", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-SGE"), CountryAlpha2Code.Parse("TT"), "Sangre Grande", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-SIP"), CountryAlpha2Code.Parse("TT"), "Siparia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-SJL"), CountryAlpha2Code.Parse("TT"), "San Juan-Laventille", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-TOB"), CountryAlpha2Code.Parse("TT"), "Tobago", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TT-TUP"), CountryAlpha2Code.Parse("TT"), "Tunapuna-Piarco", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
