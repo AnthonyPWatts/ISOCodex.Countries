@@ -33446,11 +33446,361 @@
     "type": "Unknown"
   },
   {
+    "code": "US-AK",
+    "countryCode": "US",
+    "englishName": "Alaska",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-AL",
+    "countryCode": "US",
+    "englishName": "Alabama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-AR",
+    "countryCode": "US",
+    "englishName": "Arkansas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-AZ",
+    "countryCode": "US",
+    "englishName": "Arizona",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
     "localName": null,
     "type": "State"
+  },
+  {
+    "code": "US-CO",
+    "countryCode": "US",
+    "englishName": "Colorado",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-CT",
+    "countryCode": "US",
+    "englishName": "Connecticut",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-DC",
+    "countryCode": "US",
+    "englishName": "Washington DC",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-DE",
+    "countryCode": "US",
+    "englishName": "Delaware",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-FL",
+    "countryCode": "US",
+    "englishName": "Florida",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-GA",
+    "countryCode": "US",
+    "englishName": "Georgia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-HI",
+    "countryCode": "US",
+    "englishName": "Hawaii",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-IA",
+    "countryCode": "US",
+    "englishName": "Iowa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-ID",
+    "countryCode": "US",
+    "englishName": "Idaho",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-IL",
+    "countryCode": "US",
+    "englishName": "Illinois",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-IN",
+    "countryCode": "US",
+    "englishName": "Indiana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-KS",
+    "countryCode": "US",
+    "englishName": "Kansas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-KY",
+    "countryCode": "US",
+    "englishName": "Kentucky",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-LA",
+    "countryCode": "US",
+    "englishName": "Louisiana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-MA",
+    "countryCode": "US",
+    "englishName": "Massachusetts",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-MD",
+    "countryCode": "US",
+    "englishName": "Maryland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-ME",
+    "countryCode": "US",
+    "englishName": "Maine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-MI",
+    "countryCode": "US",
+    "englishName": "Michigan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-MN",
+    "countryCode": "US",
+    "englishName": "Minnesota",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-MO",
+    "countryCode": "US",
+    "englishName": "Missouri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-MS",
+    "countryCode": "US",
+    "englishName": "Mississippi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-MT",
+    "countryCode": "US",
+    "englishName": "Montana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-NC",
+    "countryCode": "US",
+    "englishName": "North Carolina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-ND",
+    "countryCode": "US",
+    "englishName": "North Dakota",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-NE",
+    "countryCode": "US",
+    "englishName": "Nebraska",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-NH",
+    "countryCode": "US",
+    "englishName": "New Hampshire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-NJ",
+    "countryCode": "US",
+    "englishName": "New Jersey",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-NM",
+    "countryCode": "US",
+    "englishName": "New Mexico",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-NV",
+    "countryCode": "US",
+    "englishName": "Nevada",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-NY",
+    "countryCode": "US",
+    "englishName": "New York",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-OH",
+    "countryCode": "US",
+    "englishName": "Ohio",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-OK",
+    "countryCode": "US",
+    "englishName": "Oklahoma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-OR",
+    "countryCode": "US",
+    "englishName": "Oregon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-PA",
+    "countryCode": "US",
+    "englishName": "Pennsylvania",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-RI",
+    "countryCode": "US",
+    "englishName": "Rhode Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-SC",
+    "countryCode": "US",
+    "englishName": "South Carolina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-SD",
+    "countryCode": "US",
+    "englishName": "South Dakota",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-TN",
+    "countryCode": "US",
+    "englishName": "Tennessee",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-TX",
+    "countryCode": "US",
+    "englishName": "Texas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-UT",
+    "countryCode": "US",
+    "englishName": "Utah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-VA",
+    "countryCode": "US",
+    "englishName": "Virginia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-VT",
+    "countryCode": "US",
+    "englishName": "Vermont",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-WA",
+    "countryCode": "US",
+    "englishName": "Washington",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-WI",
+    "countryCode": "US",
+    "englishName": "Wisconsin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-WV",
+    "countryCode": "US",
+    "englishName": "West Virginia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "US-WY",
+    "countryCode": "US",
+    "englishName": "Wyoming",
+    "localName": null,
+    "type": "Unknown"
   }
 ]
 
