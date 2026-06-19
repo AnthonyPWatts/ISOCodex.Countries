@@ -5527,6 +5527,17 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("MY-14"), CountryAlpha2Code.Parse("MY"), "Kuala Lumpur", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MY-15"), CountryAlpha2Code.Parse("MY"), "Labuan", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MY-16"), CountryAlpha2Code.Parse("MY"), "Putrajaya", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MZ-A"), CountryAlpha2Code.Parse("MZ"), "Niassa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MZ-B"), CountryAlpha2Code.Parse("MZ"), "Manica", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MZ-G"), CountryAlpha2Code.Parse("MZ"), "Gaza", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MZ-I"), CountryAlpha2Code.Parse("MZ"), "Inhambane", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MZ-L"), CountryAlpha2Code.Parse("MZ"), "Maputo Province", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MZ-MPM"), CountryAlpha2Code.Parse("MZ"), "Maputo", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MZ-N"), CountryAlpha2Code.Parse("MZ"), "Nampula", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MZ-P"), CountryAlpha2Code.Parse("MZ"), "Cabo Delgado", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MZ-Q"), CountryAlpha2Code.Parse("MZ"), "Zambezia", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MZ-S"), CountryAlpha2Code.Parse("MZ"), "Sofala", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MZ-T"), CountryAlpha2Code.Parse("MZ"), "Tete", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

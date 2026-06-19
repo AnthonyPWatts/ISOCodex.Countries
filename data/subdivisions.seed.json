@@ -22946,6 +22946,83 @@
     "type": "Unknown"
   },
   {
+    "code": "MZ-A",
+    "countryCode": "MZ",
+    "englishName": "Niassa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MZ-B",
+    "countryCode": "MZ",
+    "englishName": "Manica",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MZ-G",
+    "countryCode": "MZ",
+    "englishName": "Gaza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MZ-I",
+    "countryCode": "MZ",
+    "englishName": "Inhambane",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MZ-L",
+    "countryCode": "MZ",
+    "englishName": "Maputo Province",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MZ-MPM",
+    "countryCode": "MZ",
+    "englishName": "Maputo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MZ-N",
+    "countryCode": "MZ",
+    "englishName": "Nampula",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MZ-P",
+    "countryCode": "MZ",
+    "englishName": "Cabo Delgado",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MZ-Q",
+    "countryCode": "MZ",
+    "englishName": "Zambezia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MZ-S",
+    "countryCode": "MZ",
+    "englishName": "Sofala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MZ-T",
+    "countryCode": "MZ",
+    "englishName": "Tete",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
