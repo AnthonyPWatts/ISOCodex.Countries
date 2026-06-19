@@ -22162,6 +22162,90 @@
     "type": "Unknown"
   },
   {
+    "code": "MU-AG",
+    "countryCode": "MU",
+    "englishName": "Agaléga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MU-BL",
+    "countryCode": "MU",
+    "englishName": "Rivière Noire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MU-CC",
+    "countryCode": "MU",
+    "englishName": "Cargados Carajos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MU-FL",
+    "countryCode": "MU",
+    "englishName": "Flacq",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MU-GP",
+    "countryCode": "MU",
+    "englishName": "Grand Port",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MU-MO",
+    "countryCode": "MU",
+    "englishName": "Moka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MU-PA",
+    "countryCode": "MU",
+    "englishName": "Pamplemousses",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MU-PL",
+    "countryCode": "MU",
+    "englishName": "Port Louis District",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MU-PW",
+    "countryCode": "MU",
+    "englishName": "Plaines Wilhems",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MU-RO",
+    "countryCode": "MU",
+    "englishName": "Rodrigues",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MU-RR",
+    "countryCode": "MU",
+    "englishName": "Rivière du Rempart",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MU-SA",
+    "countryCode": "MU",
+    "englishName": "Savanne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

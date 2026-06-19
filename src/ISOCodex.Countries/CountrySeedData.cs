@@ -5415,6 +5415,18 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("MT-66"), CountryAlpha2Code.Parse("MT"), "Żebbuġ", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MT-67"), CountryAlpha2Code.Parse("MT"), "Żejtun", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MT-68"), CountryAlpha2Code.Parse("MT"), "Żurrieq", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MU-AG"), CountryAlpha2Code.Parse("MU"), "Agaléga", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MU-BL"), CountryAlpha2Code.Parse("MU"), "Rivière Noire", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MU-CC"), CountryAlpha2Code.Parse("MU"), "Cargados Carajos", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MU-FL"), CountryAlpha2Code.Parse("MU"), "Flacq", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MU-GP"), CountryAlpha2Code.Parse("MU"), "Grand Port", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MU-MO"), CountryAlpha2Code.Parse("MU"), "Moka", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MU-PA"), CountryAlpha2Code.Parse("MU"), "Pamplemousses", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MU-PL"), CountryAlpha2Code.Parse("MU"), "Port Louis District", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MU-PW"), CountryAlpha2Code.Parse("MU"), "Plaines Wilhems", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MU-RO"), CountryAlpha2Code.Parse("MU"), "Rodrigues", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MU-RR"), CountryAlpha2Code.Parse("MU"), "Rivière du Rempart", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("MU-SA"), CountryAlpha2Code.Parse("MU"), "Savanne", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
