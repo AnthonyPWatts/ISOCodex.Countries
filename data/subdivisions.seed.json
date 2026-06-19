@@ -23555,6 +23555,111 @@
     "type": "Unknown"
   },
   {
+    "code": "NL-BQ1",
+    "countryCode": "NL",
+    "englishName": "Bonaire",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-BQ2",
+    "countryCode": "NL",
+    "englishName": "Saba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-BQ3",
+    "countryCode": "NL",
+    "englishName": "Sint Eustatius",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-DR",
+    "countryCode": "NL",
+    "englishName": "Drenthe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-FL",
+    "countryCode": "NL",
+    "englishName": "Flevoland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-FR",
+    "countryCode": "NL",
+    "englishName": "Friesland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-GE",
+    "countryCode": "NL",
+    "englishName": "Gelderland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-GR",
+    "countryCode": "NL",
+    "englishName": "Groningen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-LI",
+    "countryCode": "NL",
+    "englishName": "Limburg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-NB",
+    "countryCode": "NL",
+    "englishName": "North Brabant",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-NH",
+    "countryCode": "NL",
+    "englishName": "North Holland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-OV",
+    "countryCode": "NL",
+    "englishName": "Overijssel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-UT",
+    "countryCode": "NL",
+    "englishName": "Utrecht",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-ZE",
+    "countryCode": "NL",
+    "englishName": "Zeeland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NL-ZH",
+    "countryCode": "NL",
+    "englishName": "South Holland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

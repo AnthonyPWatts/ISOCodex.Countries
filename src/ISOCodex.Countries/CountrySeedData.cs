@@ -5614,6 +5614,21 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("NI-NS"), CountryAlpha2Code.Parse("NI"), "Nueva Segovia", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NI-RI"), CountryAlpha2Code.Parse("NI"), "Rivas", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NI-SJ"), CountryAlpha2Code.Parse("NI"), "Río San Juan", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-BQ1"), CountryAlpha2Code.Parse("NL"), "Bonaire", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-BQ2"), CountryAlpha2Code.Parse("NL"), "Saba", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-BQ3"), CountryAlpha2Code.Parse("NL"), "Sint Eustatius", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-DR"), CountryAlpha2Code.Parse("NL"), "Drenthe", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-FL"), CountryAlpha2Code.Parse("NL"), "Flevoland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-FR"), CountryAlpha2Code.Parse("NL"), "Friesland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-GE"), CountryAlpha2Code.Parse("NL"), "Gelderland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-GR"), CountryAlpha2Code.Parse("NL"), "Groningen", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-LI"), CountryAlpha2Code.Parse("NL"), "Limburg", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-NB"), CountryAlpha2Code.Parse("NL"), "North Brabant", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-NH"), CountryAlpha2Code.Parse("NL"), "North Holland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-OV"), CountryAlpha2Code.Parse("NL"), "Overijssel", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-UT"), CountryAlpha2Code.Parse("NL"), "Utrecht", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-ZE"), CountryAlpha2Code.Parse("NL"), "Zeeland", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NL-ZH"), CountryAlpha2Code.Parse("NL"), "South Holland", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
