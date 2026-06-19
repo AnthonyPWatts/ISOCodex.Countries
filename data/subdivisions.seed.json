@@ -21427,6 +21427,160 @@
     "type": "Unknown"
   },
   {
+    "code": "MN-035",
+    "countryCode": "MN",
+    "englishName": "Orkhon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-037",
+    "countryCode": "MN",
+    "englishName": "Darkhan-Uul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-039",
+    "countryCode": "MN",
+    "englishName": "Khentii",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-041",
+    "countryCode": "MN",
+    "englishName": "Khövsgöl",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-043",
+    "countryCode": "MN",
+    "englishName": "Khovd",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-046",
+    "countryCode": "MN",
+    "englishName": "Uvs",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-047",
+    "countryCode": "MN",
+    "englishName": "Töv",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-049",
+    "countryCode": "MN",
+    "englishName": "Selenge",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-051",
+    "countryCode": "MN",
+    "englishName": "Sükhbaatar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-053",
+    "countryCode": "MN",
+    "englishName": "Ömnögovi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-055",
+    "countryCode": "MN",
+    "englishName": "Övörkhangai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-057",
+    "countryCode": "MN",
+    "englishName": "Zavkhan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-059",
+    "countryCode": "MN",
+    "englishName": "Dundgovi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-061",
+    "countryCode": "MN",
+    "englishName": "Dornod",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-063",
+    "countryCode": "MN",
+    "englishName": "Dornogovi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-064",
+    "countryCode": "MN",
+    "englishName": "Govisümber",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-065",
+    "countryCode": "MN",
+    "englishName": "Govi-Altai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-067",
+    "countryCode": "MN",
+    "englishName": "Bulgan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-069",
+    "countryCode": "MN",
+    "englishName": "Bayankhongor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-071",
+    "countryCode": "MN",
+    "englishName": "Bayan-Ölgii",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-073",
+    "countryCode": "MN",
+    "englishName": "Arkhangai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "MN-1",
+    "countryCode": "MN",
+    "englishName": "Ulaanbaatar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
