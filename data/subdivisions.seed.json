@@ -34249,6 +34249,447 @@
     "englishName": "Amazonas",
     "localName": null,
     "type": "Unknown"
+  },
+  {
+    "code": "VN-01",
+    "countryCode": "VN",
+    "englishName": "Lai Châu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-02",
+    "countryCode": "VN",
+    "englishName": "Lào Cai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-03",
+    "countryCode": "VN",
+    "englishName": "Hà Giang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-04",
+    "countryCode": "VN",
+    "englishName": "Cao Bằng",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-05",
+    "countryCode": "VN",
+    "englishName": "Sơn La",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-06",
+    "countryCode": "VN",
+    "englishName": "Yên Bái",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-07",
+    "countryCode": "VN",
+    "englishName": "Tuyên Quang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-09",
+    "countryCode": "VN",
+    "englishName": "Lạng Sơn",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-13",
+    "countryCode": "VN",
+    "englishName": "Quảng Ninh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-14",
+    "countryCode": "VN",
+    "englishName": "Hòa Bình",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-18",
+    "countryCode": "VN",
+    "englishName": "Ninh Bình",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-20",
+    "countryCode": "VN",
+    "englishName": "Thái Bình",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-21",
+    "countryCode": "VN",
+    "englishName": "Thanh Hóa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-22",
+    "countryCode": "VN",
+    "englishName": "Nghệ An",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-23",
+    "countryCode": "VN",
+    "englishName": "Hà Tĩnh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-24",
+    "countryCode": "VN",
+    "englishName": "Quảng Bình",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-25",
+    "countryCode": "VN",
+    "englishName": "Quảng Trị",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-26",
+    "countryCode": "VN",
+    "englishName": "Thừa Thiên–Huế",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-27",
+    "countryCode": "VN",
+    "englishName": "Quảng Nam",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-28",
+    "countryCode": "VN",
+    "englishName": "Kon Tum",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-29",
+    "countryCode": "VN",
+    "englishName": "Quảng Ngãi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-30",
+    "countryCode": "VN",
+    "englishName": "Gia Lai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-31",
+    "countryCode": "VN",
+    "englishName": "Bình Định",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-32",
+    "countryCode": "VN",
+    "englishName": "Phú Yên",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-33",
+    "countryCode": "VN",
+    "englishName": "Đắk Lắk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-34",
+    "countryCode": "VN",
+    "englishName": "Khánh Hòa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-35",
+    "countryCode": "VN",
+    "englishName": "Lâm Đồng",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-36",
+    "countryCode": "VN",
+    "englishName": "Ninh Thuận",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-37",
+    "countryCode": "VN",
+    "englishName": "Tây Ninh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-39",
+    "countryCode": "VN",
+    "englishName": "Đồng Nai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-40",
+    "countryCode": "VN",
+    "englishName": "Bình Thuận",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-41",
+    "countryCode": "VN",
+    "englishName": "Long An",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-43",
+    "countryCode": "VN",
+    "englishName": "Bà Rịa–Vũng Tàu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-44",
+    "countryCode": "VN",
+    "englishName": "An Giang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-45",
+    "countryCode": "VN",
+    "englishName": "Đồng Tháp",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-46",
+    "countryCode": "VN",
+    "englishName": "Tiền Giang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-47",
+    "countryCode": "VN",
+    "englishName": "Kiên Giang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-49",
+    "countryCode": "VN",
+    "englishName": "Vĩnh Long",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-50",
+    "countryCode": "VN",
+    "englishName": "Bến Tre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-51",
+    "countryCode": "VN",
+    "englishName": "Trà Vinh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-52",
+    "countryCode": "VN",
+    "englishName": "Sóc Trăng",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-53",
+    "countryCode": "VN",
+    "englishName": "Bắc Kạn",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-54",
+    "countryCode": "VN",
+    "englishName": "Bắc Giang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-55",
+    "countryCode": "VN",
+    "englishName": "Bạc Liêu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-56",
+    "countryCode": "VN",
+    "englishName": "Bắc Ninh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-57",
+    "countryCode": "VN",
+    "englishName": "Bình Dương",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-58",
+    "countryCode": "VN",
+    "englishName": "Bình Phước",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-59",
+    "countryCode": "VN",
+    "englishName": "Cà Mau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-61",
+    "countryCode": "VN",
+    "englishName": "Hải Dương",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-63",
+    "countryCode": "VN",
+    "englishName": "Hà Nam",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-66",
+    "countryCode": "VN",
+    "englishName": "Hưng Yên",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-67",
+    "countryCode": "VN",
+    "englishName": "Nam Định",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-68",
+    "countryCode": "VN",
+    "englishName": "Phú Thọ",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-69",
+    "countryCode": "VN",
+    "englishName": "Thái Nguyên",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-70",
+    "countryCode": "VN",
+    "englishName": "Vĩnh Phúc",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-71",
+    "countryCode": "VN",
+    "englishName": "Điện Biên",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-72",
+    "countryCode": "VN",
+    "englishName": "Đắk Nông",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-73",
+    "countryCode": "VN",
+    "englishName": "Hậu Giang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-CT",
+    "countryCode": "VN",
+    "englishName": "Can Tho",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-DN",
+    "countryCode": "VN",
+    "englishName": "Da Nang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-HN",
+    "countryCode": "VN",
+    "englishName": "Hanoi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-HP",
+    "countryCode": "VN",
+    "englishName": "Haiphong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VN-SG",
+    "countryCode": "VN",
+    "englishName": "Ho Chi Minh City",
+    "localName": null,
+    "type": "Unknown"
   }
 ]
 
