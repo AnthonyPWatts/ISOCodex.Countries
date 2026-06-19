@@ -7018,6 +7018,15 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("UG-E"), CountryAlpha2Code.Parse("UG"), "Eastern", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("UG-N"), CountryAlpha2Code.Parse("UG"), "Northern", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("UG-W"), CountryAlpha2Code.Parse("UG"), "Western", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UM-67"), CountryAlpha2Code.Parse("UM"), "Johnston Atoll", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UM-71"), CountryAlpha2Code.Parse("UM"), "Midway Atoll", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UM-76"), CountryAlpha2Code.Parse("UM"), "Navassa Island", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UM-79"), CountryAlpha2Code.Parse("UM"), "Wake Island", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UM-81"), CountryAlpha2Code.Parse("UM"), "Baker Island", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UM-84"), CountryAlpha2Code.Parse("UM"), "Howland Island", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UM-86"), CountryAlpha2Code.Parse("UM"), "Jarvis Island", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UM-89"), CountryAlpha2Code.Parse("UM"), "Kingman Reef", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("UM-95"), CountryAlpha2Code.Parse("UM"), "Palmyra Atoll", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

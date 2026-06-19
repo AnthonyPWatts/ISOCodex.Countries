@@ -33383,6 +33383,69 @@
     "type": "Unknown"
   },
   {
+    "code": "UM-67",
+    "countryCode": "UM",
+    "englishName": "Johnston Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UM-71",
+    "countryCode": "UM",
+    "englishName": "Midway Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UM-76",
+    "countryCode": "UM",
+    "englishName": "Navassa Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UM-79",
+    "countryCode": "UM",
+    "englishName": "Wake Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UM-81",
+    "countryCode": "UM",
+    "englishName": "Baker Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UM-84",
+    "countryCode": "UM",
+    "englishName": "Howland Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UM-86",
+    "countryCode": "UM",
+    "englishName": "Jarvis Island",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UM-89",
+    "countryCode": "UM",
+    "englishName": "Kingman Reef",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UM-95",
+    "countryCode": "UM",
+    "englishName": "Palmyra Atoll",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
