@@ -19145,6 +19145,160 @@
     "type": "Unknown"
   },
   {
+    "code": "LY-BA",
+    "countryCode": "LY",
+    "englishName": "Benghazi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-BU",
+    "countryCode": "LY",
+    "englishName": "Butnan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-DR",
+    "countryCode": "LY",
+    "englishName": "Derna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-GT",
+    "countryCode": "LY",
+    "englishName": "Ghat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-JA",
+    "countryCode": "LY",
+    "englishName": "Jabal al Akhdar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-JG",
+    "countryCode": "LY",
+    "englishName": "Jabal al Gharbi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-JI",
+    "countryCode": "LY",
+    "englishName": "Jafara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-JU",
+    "countryCode": "LY",
+    "englishName": "Jufra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-KF",
+    "countryCode": "LY",
+    "englishName": "Kufra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-MB",
+    "countryCode": "LY",
+    "englishName": "Murqub",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-MI",
+    "countryCode": "LY",
+    "englishName": "Misrata",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-MJ",
+    "countryCode": "LY",
+    "englishName": "Marj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-MQ",
+    "countryCode": "LY",
+    "englishName": "Murzuq",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-NL",
+    "countryCode": "LY",
+    "englishName": "Nalut",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-NQ",
+    "countryCode": "LY",
+    "englishName": "Nuqat al Khams",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-SB",
+    "countryCode": "LY",
+    "englishName": "Sabha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-SR",
+    "countryCode": "LY",
+    "englishName": "Sirte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-TB",
+    "countryCode": "LY",
+    "englishName": "Tripoli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-WA",
+    "countryCode": "LY",
+    "englishName": "Al Wahat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-WD",
+    "countryCode": "LY",
+    "englishName": "Wadi al Hayaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-WS",
+    "countryCode": "LY",
+    "englishName": "Wadi al Shatii",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LY-ZA",
+    "countryCode": "LY",
+    "englishName": "Zawiya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
