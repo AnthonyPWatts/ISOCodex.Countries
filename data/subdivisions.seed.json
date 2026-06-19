@@ -29372,6 +29372,104 @@
     "type": "Unknown"
   },
   {
+    "code": "SN-DB",
+    "countryCode": "SN",
+    "englishName": "Diourbel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SN-DK",
+    "countryCode": "SN",
+    "englishName": "Dakar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SN-FK",
+    "countryCode": "SN",
+    "englishName": "Fatick",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SN-KA",
+    "countryCode": "SN",
+    "englishName": "Kaffrine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SN-KD",
+    "countryCode": "SN",
+    "englishName": "Kolda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SN-KE",
+    "countryCode": "SN",
+    "englishName": "Kédougou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SN-KL",
+    "countryCode": "SN",
+    "englishName": "Kaolack",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SN-LG",
+    "countryCode": "SN",
+    "englishName": "Louga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SN-MT",
+    "countryCode": "SN",
+    "englishName": "Matam",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SN-SE",
+    "countryCode": "SN",
+    "englishName": "Sédhiou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SN-SL",
+    "countryCode": "SN",
+    "englishName": "Saint-Louis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SN-TC",
+    "countryCode": "SN",
+    "englishName": "Tambacounda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SN-TH",
+    "countryCode": "SN",
+    "englishName": "Thiès",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SN-ZG",
+    "countryCode": "SN",
+    "englishName": "Ziguinchor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

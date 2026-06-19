@@ -6445,6 +6445,20 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("SM-07"), CountryAlpha2Code.Parse("SM"), "San Marino", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SM-08"), CountryAlpha2Code.Parse("SM"), "Montegiardino", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SM-09"), CountryAlpha2Code.Parse("SM"), "Serravalle", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-DB"), CountryAlpha2Code.Parse("SN"), "Diourbel", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-DK"), CountryAlpha2Code.Parse("SN"), "Dakar", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-FK"), CountryAlpha2Code.Parse("SN"), "Fatick", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-KA"), CountryAlpha2Code.Parse("SN"), "Kaffrine", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-KD"), CountryAlpha2Code.Parse("SN"), "Kolda", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-KE"), CountryAlpha2Code.Parse("SN"), "Kédougou", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-KL"), CountryAlpha2Code.Parse("SN"), "Kaolack", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-LG"), CountryAlpha2Code.Parse("SN"), "Louga", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-MT"), CountryAlpha2Code.Parse("SN"), "Matam", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-SE"), CountryAlpha2Code.Parse("SN"), "Sédhiou", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-SL"), CountryAlpha2Code.Parse("SN"), "Saint-Louis", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-TC"), CountryAlpha2Code.Parse("SN"), "Tambacounda", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-TH"), CountryAlpha2Code.Parse("SN"), "Thiès", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SN-ZG"), CountryAlpha2Code.Parse("SN"), "Ziguinchor", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
