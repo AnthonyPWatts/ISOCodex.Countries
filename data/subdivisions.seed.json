@@ -1610,6 +1610,510 @@
     "type": "Unknown"
   },
   {
+    "code": "BD-01",
+    "countryCode": "BD",
+    "englishName": "Bandarban",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-02",
+    "countryCode": "BD",
+    "englishName": "Barguna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-03",
+    "countryCode": "BD",
+    "englishName": "Bogra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-04",
+    "countryCode": "BD",
+    "englishName": "Brahmanbaria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-05",
+    "countryCode": "BD",
+    "englishName": "Bagerhat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-06",
+    "countryCode": "BD",
+    "englishName": "Barisal Division",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-07",
+    "countryCode": "BD",
+    "englishName": "Bhola",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-08",
+    "countryCode": "BD",
+    "englishName": "Comilla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-09",
+    "countryCode": "BD",
+    "englishName": "Chandpur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-10",
+    "countryCode": "BD",
+    "englishName": "Chittagong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-11",
+    "countryCode": "BD",
+    "englishName": "Cox’s Bazar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-12",
+    "countryCode": "BD",
+    "englishName": "Chuadanga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-13",
+    "countryCode": "BD",
+    "englishName": "Dhaka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-14",
+    "countryCode": "BD",
+    "englishName": "Dinajpur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-15",
+    "countryCode": "BD",
+    "englishName": "Faridpur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-16",
+    "countryCode": "BD",
+    "englishName": "Feni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-17",
+    "countryCode": "BD",
+    "englishName": "Gopalganj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-18",
+    "countryCode": "BD",
+    "englishName": "Gazipur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-19",
+    "countryCode": "BD",
+    "englishName": "Gaibandha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-20",
+    "countryCode": "BD",
+    "englishName": "Habiganj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-21",
+    "countryCode": "BD",
+    "englishName": "Jamalpur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-22",
+    "countryCode": "BD",
+    "englishName": "Jessore",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-23",
+    "countryCode": "BD",
+    "englishName": "Jhenaidah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-24",
+    "countryCode": "BD",
+    "englishName": "Joypurhat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-25",
+    "countryCode": "BD",
+    "englishName": "Jhalokati",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-26",
+    "countryCode": "BD",
+    "englishName": "Kishoreganj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-27",
+    "countryCode": "BD",
+    "englishName": "Khulna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-28",
+    "countryCode": "BD",
+    "englishName": "Kurigram",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-29",
+    "countryCode": "BD",
+    "englishName": "Khagrachari",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-30",
+    "countryCode": "BD",
+    "englishName": "Kushtia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-31",
+    "countryCode": "BD",
+    "englishName": "Lakshmipur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-32",
+    "countryCode": "BD",
+    "englishName": "Lalmonirhat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-33",
+    "countryCode": "BD",
+    "englishName": "Manikganj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-34",
+    "countryCode": "BD",
+    "englishName": "Mymensingh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-35",
+    "countryCode": "BD",
+    "englishName": "Munshiganj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-36",
+    "countryCode": "BD",
+    "englishName": "Madaripur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-37",
+    "countryCode": "BD",
+    "englishName": "Magura",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-38",
+    "countryCode": "BD",
+    "englishName": "Maulvi Bazar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-39",
+    "countryCode": "BD",
+    "englishName": "Meherpur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-40",
+    "countryCode": "BD",
+    "englishName": "Narayanganj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-41",
+    "countryCode": "BD",
+    "englishName": "Netrokona",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-42",
+    "countryCode": "BD",
+    "englishName": "Narsingdi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-43",
+    "countryCode": "BD",
+    "englishName": "Narail",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-44",
+    "countryCode": "BD",
+    "englishName": "Natore",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-45",
+    "countryCode": "BD",
+    "englishName": "Nawabganj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-46",
+    "countryCode": "BD",
+    "englishName": "Nilphamari",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-47",
+    "countryCode": "BD",
+    "englishName": "Noakhali",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-48",
+    "countryCode": "BD",
+    "englishName": "Naogaon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-49",
+    "countryCode": "BD",
+    "englishName": "Pabna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-50",
+    "countryCode": "BD",
+    "englishName": "Pirojpur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-51",
+    "countryCode": "BD",
+    "englishName": "Patuakhali",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-52",
+    "countryCode": "BD",
+    "englishName": "Panchagarh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-53",
+    "countryCode": "BD",
+    "englishName": "Rajbari",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-54",
+    "countryCode": "BD",
+    "englishName": "Rajshahi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-55",
+    "countryCode": "BD",
+    "englishName": "Rangpur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-56",
+    "countryCode": "BD",
+    "englishName": "Rangamati Hill",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-57",
+    "countryCode": "BD",
+    "englishName": "Sherpur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-58",
+    "countryCode": "BD",
+    "englishName": "Satkhira",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-59",
+    "countryCode": "BD",
+    "englishName": "Sirajganj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-60",
+    "countryCode": "BD",
+    "englishName": "Sylhet",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-61",
+    "countryCode": "BD",
+    "englishName": "Sunamganj",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-62",
+    "countryCode": "BD",
+    "englishName": "Shariatpur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-63",
+    "countryCode": "BD",
+    "englishName": "Tangail",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-64",
+    "countryCode": "BD",
+    "englishName": "Thakurgaon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-A",
+    "countryCode": "BD",
+    "englishName": "Barisal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-B",
+    "countryCode": "BD",
+    "englishName": "Chittagong Division",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-C",
+    "countryCode": "BD",
+    "englishName": "Dhaka Division",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-D",
+    "countryCode": "BD",
+    "englishName": "Khulna Division",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-E",
+    "countryCode": "BD",
+    "englishName": "Rajshahi Division",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-F",
+    "countryCode": "BD",
+    "englishName": "Rangpur Division",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-G",
+    "countryCode": "BD",
+    "englishName": "Sylhet Division",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BD-H",
+    "countryCode": "BD",
+    "englishName": "Mymensingh Division",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
