@@ -16807,6 +16807,181 @@
     "type": "Unknown"
   },
   {
+    "code": "KH-1",
+    "countryCode": "KH",
+    "englishName": "Banteay Meanchey",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-10",
+    "countryCode": "KH",
+    "englishName": "Kratié",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-11",
+    "countryCode": "KH",
+    "englishName": "Mondulkiri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-12",
+    "countryCode": "KH",
+    "englishName": "Phnom Penh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-13",
+    "countryCode": "KH",
+    "englishName": "Preah Vihear",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-14",
+    "countryCode": "KH",
+    "englishName": "Prey Veng",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-15",
+    "countryCode": "KH",
+    "englishName": "Pursat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-16",
+    "countryCode": "KH",
+    "englishName": "Ratanakiri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-17",
+    "countryCode": "KH",
+    "englishName": "Siem Reap",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-18",
+    "countryCode": "KH",
+    "englishName": "Sihanoukville",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-19",
+    "countryCode": "KH",
+    "englishName": "Stung Treng",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-2",
+    "countryCode": "KH",
+    "englishName": "Battambang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-20",
+    "countryCode": "KH",
+    "englishName": "Svay Rieng",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-21",
+    "countryCode": "KH",
+    "englishName": "Takéo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-22",
+    "countryCode": "KH",
+    "englishName": "Oddar Meanchey",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-23",
+    "countryCode": "KH",
+    "englishName": "Kep",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-24",
+    "countryCode": "KH",
+    "englishName": "Pailin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-25",
+    "countryCode": "KH",
+    "englishName": "Tbong Khmum",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-3",
+    "countryCode": "KH",
+    "englishName": "Kampong Cham",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-4",
+    "countryCode": "KH",
+    "englishName": "Kampong Chhnang",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-5",
+    "countryCode": "KH",
+    "englishName": "Kampong Speu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-6",
+    "countryCode": "KH",
+    "englishName": "Kampong Thom",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-7",
+    "countryCode": "KH",
+    "englishName": "Kampot",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-8",
+    "countryCode": "KH",
+    "englishName": "Kandal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "KH-9",
+    "countryCode": "KH",
+    "englishName": "Koh Kong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
