@@ -2807,6 +2807,34 @@
     "type": "Unknown"
   },
   {
+    "code": "BH-13",
+    "countryCode": "BH",
+    "englishName": "Capital",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BH-14",
+    "countryCode": "BH",
+    "englishName": "Southern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BH-15",
+    "countryCode": "BH",
+    "englishName": "Muharraq",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BH-17",
+    "countryCode": "BH",
+    "englishName": "Northern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
