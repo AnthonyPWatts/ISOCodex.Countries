@@ -966,6 +966,552 @@
     "type": "Unknown"
   },
   {
+    "code": "AZ-ABS",
+    "countryCode": "AZ",
+    "englishName": "Absheron",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-AGA",
+    "countryCode": "AZ",
+    "englishName": "Agstafa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-AGC",
+    "countryCode": "AZ",
+    "englishName": "Aghjabadi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-AGM",
+    "countryCode": "AZ",
+    "englishName": "Agdam",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-AGS",
+    "countryCode": "AZ",
+    "englishName": "Agdash",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-AGU",
+    "countryCode": "AZ",
+    "englishName": "Agsu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-AST",
+    "countryCode": "AZ",
+    "englishName": "Astara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-BA",
+    "countryCode": "AZ",
+    "englishName": "Baku",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-BAB",
+    "countryCode": "AZ",
+    "englishName": "Babek",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-BAL",
+    "countryCode": "AZ",
+    "englishName": "Balakan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-BAR",
+    "countryCode": "AZ",
+    "englishName": "Barda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-BEY",
+    "countryCode": "AZ",
+    "englishName": "Beylagan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-BIL",
+    "countryCode": "AZ",
+    "englishName": "Bilasuvar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-CAB",
+    "countryCode": "AZ",
+    "englishName": "Jabrayil",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-CAL",
+    "countryCode": "AZ",
+    "englishName": "Jalilabad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-CUL",
+    "countryCode": "AZ",
+    "englishName": "Julfa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-DAS",
+    "countryCode": "AZ",
+    "englishName": "Dashkasan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-FUZ",
+    "countryCode": "AZ",
+    "englishName": "Fizuli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-GA",
+    "countryCode": "AZ",
+    "englishName": "Ganja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-GAD",
+    "countryCode": "AZ",
+    "englishName": "Gadabay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-GOR",
+    "countryCode": "AZ",
+    "englishName": "Goranboy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-GOY",
+    "countryCode": "AZ",
+    "englishName": "Goychay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-GYG",
+    "countryCode": "AZ",
+    "englishName": "Goygol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-HAC",
+    "countryCode": "AZ",
+    "englishName": "Hajigabul",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-IMI",
+    "countryCode": "AZ",
+    "englishName": "Imishli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-ISM",
+    "countryCode": "AZ",
+    "englishName": "Ismailli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-KAL",
+    "countryCode": "AZ",
+    "englishName": "Kalbajar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-KAN",
+    "countryCode": "AZ",
+    "englishName": "Kangarli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-KUR",
+    "countryCode": "AZ",
+    "englishName": "Kurdamir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-LA",
+    "countryCode": "AZ",
+    "englishName": "Lankaran",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-LAC",
+    "countryCode": "AZ",
+    "englishName": "Lachin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-LAN",
+    "countryCode": "AZ",
+    "englishName": "Lankaran District",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-LER",
+    "countryCode": "AZ",
+    "englishName": "Lerik",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-MAS",
+    "countryCode": "AZ",
+    "englishName": "Masally",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-MI",
+    "countryCode": "AZ",
+    "englishName": "Mingachevir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-NA",
+    "countryCode": "AZ",
+    "englishName": "Naftalan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-NEF",
+    "countryCode": "AZ",
+    "englishName": "Neftchala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-NV",
+    "countryCode": "AZ",
+    "englishName": "Nakhchivan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-NX",
+    "countryCode": "AZ",
+    "englishName": "Nakhchivan AR",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-OGU",
+    "countryCode": "AZ",
+    "englishName": "Oghuz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-ORD",
+    "countryCode": "AZ",
+    "englishName": "Ordubad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-QAB",
+    "countryCode": "AZ",
+    "englishName": "Qabala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-QAX",
+    "countryCode": "AZ",
+    "englishName": "Qakh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-QAZ",
+    "countryCode": "AZ",
+    "englishName": "Qazakh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-QBA",
+    "countryCode": "AZ",
+    "englishName": "Quba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-QBI",
+    "countryCode": "AZ",
+    "englishName": "Qubadli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-QOB",
+    "countryCode": "AZ",
+    "englishName": "Gobustan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-QUS",
+    "countryCode": "AZ",
+    "englishName": "Qusar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SA",
+    "countryCode": "AZ",
+    "englishName": "Shaki",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SAB",
+    "countryCode": "AZ",
+    "englishName": "Sabirabad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SAD",
+    "countryCode": "AZ",
+    "englishName": "Sadarak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SAH",
+    "countryCode": "AZ",
+    "englishName": "Shahbuz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SAK",
+    "countryCode": "AZ",
+    "englishName": "Shaki District",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SAL",
+    "countryCode": "AZ",
+    "englishName": "Salyan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SAR",
+    "countryCode": "AZ",
+    "englishName": "Sharur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SAT",
+    "countryCode": "AZ",
+    "englishName": "Saatly",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SBN",
+    "countryCode": "AZ",
+    "englishName": "Shabran",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SIY",
+    "countryCode": "AZ",
+    "englishName": "Siazan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SKR",
+    "countryCode": "AZ",
+    "englishName": "Shamkir",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SM",
+    "countryCode": "AZ",
+    "englishName": "Sumqayit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SMI",
+    "countryCode": "AZ",
+    "englishName": "Shamakhi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SMX",
+    "countryCode": "AZ",
+    "englishName": "Samukh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SR",
+    "countryCode": "AZ",
+    "englishName": "Shirvan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-SUS",
+    "countryCode": "AZ",
+    "englishName": "Shusha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-TAR",
+    "countryCode": "AZ",
+    "englishName": "Tartar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-TOV",
+    "countryCode": "AZ",
+    "englishName": "Tovuz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-UCA",
+    "countryCode": "AZ",
+    "englishName": "Ujar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-XA",
+    "countryCode": "AZ",
+    "englishName": "Stepanakert",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-XAC",
+    "countryCode": "AZ",
+    "englishName": "Khachmaz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-XCI",
+    "countryCode": "AZ",
+    "englishName": "Khojali",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-XIZ",
+    "countryCode": "AZ",
+    "englishName": "Khizi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-XVD",
+    "countryCode": "AZ",
+    "englishName": "Khojavend",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-YAR",
+    "countryCode": "AZ",
+    "englishName": "Yardymli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-YE",
+    "countryCode": "AZ",
+    "englishName": "Yevlakh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-YEV",
+    "countryCode": "AZ",
+    "englishName": "Yevlakh District",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-ZAN",
+    "countryCode": "AZ",
+    "englishName": "Zangilan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-ZAQ",
+    "countryCode": "AZ",
+    "englishName": "Zaqatala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AZ-ZAR",
+    "countryCode": "AZ",
+    "englishName": "Zardab",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
