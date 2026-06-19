@@ -14301,6 +14301,223 @@
     "type": "Unknown"
   },
   {
+    "code": "IR-00",
+    "countryCode": "IR",
+    "englishName": "Markazī",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-01",
+    "countryCode": "IR",
+    "englishName": "East Azerbaijan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-02",
+    "countryCode": "IR",
+    "englishName": "West Azarbaijan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-03",
+    "countryCode": "IR",
+    "englishName": "Ardabil",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-04",
+    "countryCode": "IR",
+    "englishName": "Isfahan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-05",
+    "countryCode": "IR",
+    "englishName": "Ilam",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-06",
+    "countryCode": "IR",
+    "englishName": "Bushehr",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-07",
+    "countryCode": "IR",
+    "englishName": "Tehran",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-08",
+    "countryCode": "IR",
+    "englishName": "Chaharmahal and Bakhtiari",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-09",
+    "countryCode": "IR",
+    "englishName": "Khorāsān-e Raẕavī",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-10",
+    "countryCode": "IR",
+    "englishName": "Khuzestan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-11",
+    "countryCode": "IR",
+    "englishName": "Zanjan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-12",
+    "countryCode": "IR",
+    "englishName": "Semnan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-13",
+    "countryCode": "IR",
+    "englishName": "Sistan and Baluchestan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-14",
+    "countryCode": "IR",
+    "englishName": "Fars",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-15",
+    "countryCode": "IR",
+    "englishName": "Kerman",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-16",
+    "countryCode": "IR",
+    "englishName": "Kurdistan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-17",
+    "countryCode": "IR",
+    "englishName": "Kermanshah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-18",
+    "countryCode": "IR",
+    "englishName": "Kohgiluyeh and Boyer-Ahmad",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-19",
+    "countryCode": "IR",
+    "englishName": "Gilan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-20",
+    "countryCode": "IR",
+    "englishName": "Lorestan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-21",
+    "countryCode": "IR",
+    "englishName": "Mazandaran",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-22",
+    "countryCode": "IR",
+    "englishName": "Markazi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-23",
+    "countryCode": "IR",
+    "englishName": "Hormozgan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-24",
+    "countryCode": "IR",
+    "englishName": "Hamadan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-25",
+    "countryCode": "IR",
+    "englishName": "Yazd",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-26",
+    "countryCode": "IR",
+    "englishName": "Qom",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-27",
+    "countryCode": "IR",
+    "englishName": "Golestan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-28",
+    "countryCode": "IR",
+    "englishName": "Qazvin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-29",
+    "countryCode": "IR",
+    "englishName": "South Khorasan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IR-30",
+    "countryCode": "IR",
+    "englishName": "Razavi Khorasan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
