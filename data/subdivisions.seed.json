@@ -8337,6 +8337,489 @@
     "type": "Unknown"
   },
   {
+    "code": "ES-A",
+    "countryCode": "ES",
+    "englishName": "Alicante",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-AB",
+    "countryCode": "ES",
+    "englishName": "Albacete",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-AL",
+    "countryCode": "ES",
+    "englishName": "Almería",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-AN",
+    "countryCode": "ES",
+    "englishName": "Andalusia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-AR",
+    "countryCode": "ES",
+    "englishName": "Aragon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-AS",
+    "countryCode": "ES",
+    "englishName": "Asturias",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-AV",
+    "countryCode": "ES",
+    "englishName": "Ávila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-B",
+    "countryCode": "ES",
+    "englishName": "Barcelona",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-BA",
+    "countryCode": "ES",
+    "englishName": "Badajoz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-BI",
+    "countryCode": "ES",
+    "englishName": "Biscay",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-BU",
+    "countryCode": "ES",
+    "englishName": "Burgos",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-C",
+    "countryCode": "ES",
+    "englishName": "A Coruña",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-CA",
+    "countryCode": "ES",
+    "englishName": "Cádiz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-CB",
+    "countryCode": "ES",
+    "englishName": "Cantabria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-CC",
+    "countryCode": "ES",
+    "englishName": "Cáceres",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-CE",
+    "countryCode": "ES",
+    "englishName": "Ceuta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-CL",
+    "countryCode": "ES",
+    "englishName": "Castile and León",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-CM",
+    "countryCode": "ES",
+    "englishName": "Castile-La Mancha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-CN",
+    "countryCode": "ES",
+    "englishName": "Canary Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-CO",
+    "countryCode": "ES",
+    "englishName": "Córdoba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-CR",
+    "countryCode": "ES",
+    "englishName": "Ciudad Real",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-CS",
+    "countryCode": "ES",
+    "englishName": "Castellón",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-CT",
+    "countryCode": "ES",
+    "englishName": "Catalonia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-CU",
+    "countryCode": "ES",
+    "englishName": "Cuenca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-EX",
+    "countryCode": "ES",
+    "englishName": "Extremadura",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-GA",
+    "countryCode": "ES",
+    "englishName": "Galicia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-GC",
+    "countryCode": "ES",
+    "englishName": "Las Palmas",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-GI",
+    "countryCode": "ES",
+    "englishName": "Girona",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-GR",
+    "countryCode": "ES",
+    "englishName": "Granada",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-GU",
+    "countryCode": "ES",
+    "englishName": "Guadalajara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-H",
+    "countryCode": "ES",
+    "englishName": "Huelva",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-HU",
+    "countryCode": "ES",
+    "englishName": "Huesca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-IB",
+    "countryCode": "ES",
+    "englishName": "Balearic Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-J",
+    "countryCode": "ES",
+    "englishName": "Jaén",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-L",
+    "countryCode": "ES",
+    "englishName": "Lleida",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-LE",
+    "countryCode": "ES",
+    "englishName": "León",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-LO",
+    "countryCode": "ES",
+    "englishName": "La Rioja Province",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-LU",
+    "countryCode": "ES",
+    "englishName": "Lugo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-M",
+    "countryCode": "ES",
+    "englishName": "Madrid Province",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-MA",
+    "countryCode": "ES",
+    "englishName": "Málaga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-MC",
+    "countryCode": "ES",
+    "englishName": "Murcia Region",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-MD",
+    "countryCode": "ES",
+    "englishName": "Madrid Autonomous Community",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-ML",
+    "countryCode": "ES",
+    "englishName": "Melilla",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-MU",
+    "countryCode": "ES",
+    "englishName": "Murcia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-NA",
+    "countryCode": "ES",
+    "englishName": "Navarra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-NC",
+    "countryCode": "ES",
+    "englishName": "Navarra Chartered Community",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-O",
+    "countryCode": "ES",
+    "englishName": "Asturias Province",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-OR",
+    "countryCode": "ES",
+    "englishName": "Ourense",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-P",
+    "countryCode": "ES",
+    "englishName": "Palencia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-PM",
+    "countryCode": "ES",
+    "englishName": "Balears Province",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-PO",
+    "countryCode": "ES",
+    "englishName": "Pontevedra",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-PV",
+    "countryCode": "ES",
+    "englishName": "Basque Country",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-RI",
+    "countryCode": "ES",
+    "englishName": "La Rioja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-S",
+    "countryCode": "ES",
+    "englishName": "Cantabria Province",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-SA",
+    "countryCode": "ES",
+    "englishName": "Salamanca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-SE",
+    "countryCode": "ES",
+    "englishName": "Seville",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-SG",
+    "countryCode": "ES",
+    "englishName": "Segovia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-SO",
+    "countryCode": "ES",
+    "englishName": "Soria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-SS",
+    "countryCode": "ES",
+    "englishName": "Gipuzkoa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-T",
+    "countryCode": "ES",
+    "englishName": "Tarragona",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-TE",
+    "countryCode": "ES",
+    "englishName": "Teruel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-TF",
+    "countryCode": "ES",
+    "englishName": "Santa Cruz de Tenerife",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-TO",
+    "countryCode": "ES",
+    "englishName": "Toledo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-V",
+    "countryCode": "ES",
+    "englishName": "Valencia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-VA",
+    "countryCode": "ES",
+    "englishName": "Valladolid",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-VC",
+    "countryCode": "ES",
+    "englishName": "Valencian Community",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-VI",
+    "countryCode": "ES",
+    "englishName": "Álava",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-Z",
+    "countryCode": "ES",
+    "englishName": "Zaragoza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ES-ZA",
+    "countryCode": "ES",
+    "englishName": "Zamora",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
