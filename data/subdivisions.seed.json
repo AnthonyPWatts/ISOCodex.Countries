@@ -3045,6 +3045,34 @@
     "type": "Unknown"
   },
   {
+    "code": "BN-BE",
+    "countryCode": "BN",
+    "englishName": "Belait",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BN-BM",
+    "countryCode": "BN",
+    "englishName": "Brunei-Muara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BN-TE",
+    "countryCode": "BN",
+    "englishName": "Temburong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "BN-TU",
+    "countryCode": "BN",
+    "englishName": "Tutong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "CA-ON",
     "countryCode": "CA",
     "englishName": "Ontario",
