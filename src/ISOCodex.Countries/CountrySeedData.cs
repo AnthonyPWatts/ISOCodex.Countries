@@ -6647,6 +6647,19 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("TJ-KT"), CountryAlpha2Code.Parse("TJ"), "Khatlon", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("TJ-RA"), CountryAlpha2Code.Parse("TJ"), "Nohiyahoi Tobei Jumhurí", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("TJ-SU"), CountryAlpha2Code.Parse("TJ"), "Sughd", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TL-AL"), CountryAlpha2Code.Parse("TL"), "Aileu", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TL-AN"), CountryAlpha2Code.Parse("TL"), "Ainaro", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TL-BA"), CountryAlpha2Code.Parse("TL"), "Baucau", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TL-BO"), CountryAlpha2Code.Parse("TL"), "Bobonaro", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TL-CO"), CountryAlpha2Code.Parse("TL"), "Cova Lima", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TL-DI"), CountryAlpha2Code.Parse("TL"), "Dili", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TL-ER"), CountryAlpha2Code.Parse("TL"), "Ermera", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TL-LA"), CountryAlpha2Code.Parse("TL"), "Lautém", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TL-LI"), CountryAlpha2Code.Parse("TL"), "Liquiçá", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TL-MF"), CountryAlpha2Code.Parse("TL"), "Manufahi", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TL-MT"), CountryAlpha2Code.Parse("TL"), "Manatuto", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TL-OE"), CountryAlpha2Code.Parse("TL"), "Oecusse", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("TL-VI"), CountryAlpha2Code.Parse("TL"), "Viqueque", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

@@ -30786,6 +30786,97 @@
     "type": "Unknown"
   },
   {
+    "code": "TL-AL",
+    "countryCode": "TL",
+    "englishName": "Aileu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TL-AN",
+    "countryCode": "TL",
+    "englishName": "Ainaro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TL-BA",
+    "countryCode": "TL",
+    "englishName": "Baucau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TL-BO",
+    "countryCode": "TL",
+    "englishName": "Bobonaro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TL-CO",
+    "countryCode": "TL",
+    "englishName": "Cova Lima",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TL-DI",
+    "countryCode": "TL",
+    "englishName": "Dili",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TL-ER",
+    "countryCode": "TL",
+    "englishName": "Ermera",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TL-LA",
+    "countryCode": "TL",
+    "englishName": "Lautém",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TL-LI",
+    "countryCode": "TL",
+    "englishName": "Liquiçá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TL-MF",
+    "countryCode": "TL",
+    "englishName": "Manufahi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TL-MT",
+    "countryCode": "TL",
+    "englishName": "Manatuto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TL-OE",
+    "countryCode": "TL",
+    "englishName": "Oecusse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TL-VI",
+    "countryCode": "TL",
+    "englishName": "Viqueque",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
