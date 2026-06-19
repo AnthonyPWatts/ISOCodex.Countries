@@ -12705,6 +12705,132 @@
     "type": "Unknown"
   },
   {
+    "code": "HN-AT",
+    "countryCode": "HN",
+    "englishName": "Atlántida",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-CH",
+    "countryCode": "HN",
+    "englishName": "Choluteca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-CL",
+    "countryCode": "HN",
+    "englishName": "Colón",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-CM",
+    "countryCode": "HN",
+    "englishName": "Comayagua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-CP",
+    "countryCode": "HN",
+    "englishName": "Copán",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-CR",
+    "countryCode": "HN",
+    "englishName": "Cortés",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-EP",
+    "countryCode": "HN",
+    "englishName": "El Paraíso",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-FM",
+    "countryCode": "HN",
+    "englishName": "Francisco Morazán",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-GD",
+    "countryCode": "HN",
+    "englishName": "Gracias a Dios",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-IB",
+    "countryCode": "HN",
+    "englishName": "Bay Islands",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-IN",
+    "countryCode": "HN",
+    "englishName": "Intibucá",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-LE",
+    "countryCode": "HN",
+    "englishName": "Lempira",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-LP",
+    "countryCode": "HN",
+    "englishName": "La Paz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-OC",
+    "countryCode": "HN",
+    "englishName": "Ocotepeque",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-OL",
+    "countryCode": "HN",
+    "englishName": "Olancho",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-SB",
+    "countryCode": "HN",
+    "englishName": "Santa Bárbara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-VA",
+    "countryCode": "HN",
+    "englishName": "Valle",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "HN-YO",
+    "countryCode": "HN",
+    "englishName": "Yoro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "IE-D",
     "countryCode": "IE",
     "englishName": "Dublin",
