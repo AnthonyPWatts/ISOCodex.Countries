@@ -6580,6 +6580,300 @@
     "type": "Unknown"
   },
   {
+    "code": "DO-01",
+    "countryCode": "DO",
+    "englishName": "Distrito Nacional",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-02",
+    "countryCode": "DO",
+    "englishName": "Azua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-03",
+    "countryCode": "DO",
+    "englishName": "Baoruco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-04",
+    "countryCode": "DO",
+    "englishName": "Barahona",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-05",
+    "countryCode": "DO",
+    "englishName": "Dajabón",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-06",
+    "countryCode": "DO",
+    "englishName": "Duarte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-07",
+    "countryCode": "DO",
+    "englishName": "Elías Piña",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-08",
+    "countryCode": "DO",
+    "englishName": "El Seibo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-09",
+    "countryCode": "DO",
+    "englishName": "Espaillat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-10",
+    "countryCode": "DO",
+    "englishName": "Independencia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-11",
+    "countryCode": "DO",
+    "englishName": "La Altagracia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-12",
+    "countryCode": "DO",
+    "englishName": "La Romana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-13",
+    "countryCode": "DO",
+    "englishName": "La Vega",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-14",
+    "countryCode": "DO",
+    "englishName": "María Trinidad Sánchez",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-15",
+    "countryCode": "DO",
+    "englishName": "Monte Cristi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-16",
+    "countryCode": "DO",
+    "englishName": "Pedernales",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-17",
+    "countryCode": "DO",
+    "englishName": "Peravia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-18",
+    "countryCode": "DO",
+    "englishName": "Puerto Plata",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-19",
+    "countryCode": "DO",
+    "englishName": "Hermanas Mirabal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-20",
+    "countryCode": "DO",
+    "englishName": "Samaná",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-21",
+    "countryCode": "DO",
+    "englishName": "San Cristóbal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-22",
+    "countryCode": "DO",
+    "englishName": "San Juan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-23",
+    "countryCode": "DO",
+    "englishName": "San Pedro de Macorís",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-24",
+    "countryCode": "DO",
+    "englishName": "Sánchez Ramírez",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-25",
+    "countryCode": "DO",
+    "englishName": "Santiago",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-26",
+    "countryCode": "DO",
+    "englishName": "Santiago Rodríguez",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-27",
+    "countryCode": "DO",
+    "englishName": "Valverde",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-28",
+    "countryCode": "DO",
+    "englishName": "Monseñor Nouel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-29",
+    "countryCode": "DO",
+    "englishName": "Monte Plata",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-30",
+    "countryCode": "DO",
+    "englishName": "Hato Mayor",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-31",
+    "countryCode": "DO",
+    "englishName": "San José de Ocoa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-32",
+    "countryCode": "DO",
+    "englishName": "Santo Domingo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-33",
+    "countryCode": "DO",
+    "englishName": "Cibao Nordeste",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-34",
+    "countryCode": "DO",
+    "englishName": "Cibao Noroeste",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-35",
+    "countryCode": "DO",
+    "englishName": "Cibao Norte",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-36",
+    "countryCode": "DO",
+    "englishName": "Cibao Sur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-37",
+    "countryCode": "DO",
+    "englishName": "El Valle",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-38",
+    "countryCode": "DO",
+    "englishName": "Enriquillo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-39",
+    "countryCode": "DO",
+    "englishName": "Higüamo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-40",
+    "countryCode": "DO",
+    "englishName": "Ozama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-41",
+    "countryCode": "DO",
+    "englishName": "Valdesia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DO-42",
+    "countryCode": "DO",
+    "englishName": "Yuma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
