@@ -4004,6 +4004,188 @@
     "type": "Unknown"
   },
   {
+    "code": "CD-BC",
+    "countryCode": "CD",
+    "englishName": "Bas-Congo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-BU",
+    "countryCode": "CD",
+    "englishName": "Bas-Uélé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-EQ",
+    "countryCode": "CD",
+    "englishName": "Équateur",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-HK",
+    "countryCode": "CD",
+    "englishName": "Haut-Katanga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-HL",
+    "countryCode": "CD",
+    "englishName": "Haut-Lomami",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-HU",
+    "countryCode": "CD",
+    "englishName": "Haut-Uélé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-IT",
+    "countryCode": "CD",
+    "englishName": "Ituri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-KC",
+    "countryCode": "CD",
+    "englishName": "Kasaï Central",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-KE",
+    "countryCode": "CD",
+    "englishName": "Kasaï-Oriental",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-KG",
+    "countryCode": "CD",
+    "englishName": "Kwango",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-KL",
+    "countryCode": "CD",
+    "englishName": "Kwilu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-KN",
+    "countryCode": "CD",
+    "englishName": "Kinshasa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-KS",
+    "countryCode": "CD",
+    "englishName": "Kasaï",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-LO",
+    "countryCode": "CD",
+    "englishName": "Lomami",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-LU",
+    "countryCode": "CD",
+    "englishName": "Lualaba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-MA",
+    "countryCode": "CD",
+    "englishName": "Maniema",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-MN",
+    "countryCode": "CD",
+    "englishName": "Mai-Ndombe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-MO",
+    "countryCode": "CD",
+    "englishName": "Mongala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-NK",
+    "countryCode": "CD",
+    "englishName": "North Kivu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-NU",
+    "countryCode": "CD",
+    "englishName": "Nord-Ubangi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-SA",
+    "countryCode": "CD",
+    "englishName": "Sankuru",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-SK",
+    "countryCode": "CD",
+    "englishName": "South Kivu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-SU",
+    "countryCode": "CD",
+    "englishName": "Sud-Ubangi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-TA",
+    "countryCode": "CD",
+    "englishName": "Tanganyika",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-TO",
+    "countryCode": "CD",
+    "englishName": "Tshopo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CD-TU",
+    "countryCode": "CD",
+    "englishName": "Tshuapa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
