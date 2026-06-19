@@ -5284,6 +5284,17 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("MK-815"), CountryAlpha2Code.Parse("MK"), "Čair †", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MK-816"), CountryAlpha2Code.Parse("MK"), "Čučer-Sandevo", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("MK-817"), CountryAlpha2Code.Parse("MK"), "Šuto Orizari †", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ML-1"), CountryAlpha2Code.Parse("ML"), "Kayes", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ML-10"), CountryAlpha2Code.Parse("ML"), "Taoudénit", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ML-2"), CountryAlpha2Code.Parse("ML"), "Koulikoro", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ML-3"), CountryAlpha2Code.Parse("ML"), "Sikasso", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ML-4"), CountryAlpha2Code.Parse("ML"), "Ségou", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ML-5"), CountryAlpha2Code.Parse("ML"), "Mopti", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ML-6"), CountryAlpha2Code.Parse("ML"), "Tombouctou", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ML-7"), CountryAlpha2Code.Parse("ML"), "Gao", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ML-8"), CountryAlpha2Code.Parse("ML"), "Kidal", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ML-9"), CountryAlpha2Code.Parse("ML"), "Ménaka", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("ML-BKO"), CountryAlpha2Code.Parse("ML"), "Bamako", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

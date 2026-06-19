@@ -21245,6 +21245,83 @@
     "type": "Unknown"
   },
   {
+    "code": "ML-1",
+    "countryCode": "ML",
+    "englishName": "Kayes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ML-10",
+    "countryCode": "ML",
+    "englishName": "Taoudénit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ML-2",
+    "countryCode": "ML",
+    "englishName": "Koulikoro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ML-3",
+    "countryCode": "ML",
+    "englishName": "Sikasso",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ML-4",
+    "countryCode": "ML",
+    "englishName": "Ségou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ML-5",
+    "countryCode": "ML",
+    "englishName": "Mopti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ML-6",
+    "countryCode": "ML",
+    "englishName": "Tombouctou",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ML-7",
+    "countryCode": "ML",
+    "englishName": "Gao",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ML-8",
+    "countryCode": "ML",
+    "englishName": "Kidal",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ML-9",
+    "countryCode": "ML",
+    "englishName": "Ménaka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ML-BKO",
+    "countryCode": "ML",
+    "englishName": "Bamako",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
