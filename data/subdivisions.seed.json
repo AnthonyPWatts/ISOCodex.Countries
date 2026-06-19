@@ -29274,6 +29274,41 @@
     "type": "Unknown"
   },
   {
+    "code": "SL-E",
+    "countryCode": "SL",
+    "englishName": "Eastern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SL-N",
+    "countryCode": "SL",
+    "englishName": "Northern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SL-NW",
+    "countryCode": "SL",
+    "englishName": "North Western",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SL-S",
+    "countryCode": "SL",
+    "englishName": "Southern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SL-W",
+    "countryCode": "SL",
+    "englishName": "Western Area",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

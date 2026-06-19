@@ -6431,6 +6431,11 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("SK-TA"), CountryAlpha2Code.Parse("SK"), "Trnava", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SK-TC"), CountryAlpha2Code.Parse("SK"), "Trenčín", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("SK-ZI"), CountryAlpha2Code.Parse("SK"), "Žilina", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SL-E"), CountryAlpha2Code.Parse("SL"), "Eastern", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SL-N"), CountryAlpha2Code.Parse("SL"), "Northern", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SL-NW"), CountryAlpha2Code.Parse("SL"), "North Western", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SL-S"), CountryAlpha2Code.Parse("SL"), "Southern", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("SL-W"), CountryAlpha2Code.Parse("SL"), "Western Area", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
