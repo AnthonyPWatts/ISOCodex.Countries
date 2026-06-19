@@ -8295,6 +8295,48 @@
     "type": "Unknown"
   },
   {
+    "code": "ER-AN",
+    "countryCode": "ER",
+    "englishName": "Anseba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ER-DK",
+    "countryCode": "ER",
+    "englishName": "Southern Red Sea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ER-DU",
+    "countryCode": "ER",
+    "englishName": "Debub",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ER-GB",
+    "countryCode": "ER",
+    "englishName": "Gash-Barka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ER-MA",
+    "countryCode": "ER",
+    "englishName": "Maekel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "ER-SK",
+    "countryCode": "ER",
+    "englishName": "Northern Red Sea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
