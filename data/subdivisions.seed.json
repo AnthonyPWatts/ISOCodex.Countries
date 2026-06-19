@@ -34690,6 +34690,48 @@
     "englishName": "Ho Chi Minh City",
     "localName": null,
     "type": "Unknown"
+  },
+  {
+    "code": "VU-MAP",
+    "countryCode": "VU",
+    "englishName": "Malampa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VU-PAM",
+    "countryCode": "VU",
+    "englishName": "Penama",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VU-SAM",
+    "countryCode": "VU",
+    "englishName": "Sanma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VU-SEE",
+    "countryCode": "VU",
+    "englishName": "Shefa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VU-TAE",
+    "countryCode": "VU",
+    "englishName": "Tafea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "VU-TOB",
+    "countryCode": "VU",
+    "englishName": "Torba",
+    "localName": null,
+    "type": "Unknown"
   }
 ]
 

@@ -7204,7 +7204,13 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("VN-DN"), CountryAlpha2Code.Parse("VN"), "Da Nang", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("VN-HN"), CountryAlpha2Code.Parse("VN"), "Hanoi", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("VN-HP"), CountryAlpha2Code.Parse("VN"), "Haiphong", null, CountrySubdivisionType.Unknown),
-        new(CountrySubdivisionCode.Parse("VN-SG"), CountryAlpha2Code.Parse("VN"), "Ho Chi Minh City", null, CountrySubdivisionType.Unknown)
+        new(CountrySubdivisionCode.Parse("VN-SG"), CountryAlpha2Code.Parse("VN"), "Ho Chi Minh City", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VU-MAP"), CountryAlpha2Code.Parse("VU"), "Malampa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VU-PAM"), CountryAlpha2Code.Parse("VU"), "Penama", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VU-SAM"), CountryAlpha2Code.Parse("VU"), "Sanma", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VU-SEE"), CountryAlpha2Code.Parse("VU"), "Shefa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VU-TAE"), CountryAlpha2Code.Parse("VU"), "Tafea", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("VU-TOB"), CountryAlpha2Code.Parse("VU"), "Torba", null, CountrySubdivisionType.Unknown)
     }.AsReadOnly();
 }
 
