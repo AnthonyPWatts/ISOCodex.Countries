@@ -30751,6 +30751,41 @@
     "type": "Unknown"
   },
   {
+    "code": "TJ-DU",
+    "countryCode": "TJ",
+    "englishName": "Dushanbe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TJ-GB",
+    "countryCode": "TJ",
+    "englishName": "Gorno-Badakhshan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TJ-KT",
+    "countryCode": "TJ",
+    "englishName": "Khatlon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TJ-RA",
+    "countryCode": "TJ",
+    "englishName": "Nohiyahoi Tobei Jumhurí",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "TJ-SU",
+    "countryCode": "TJ",
+    "englishName": "Sughd",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
