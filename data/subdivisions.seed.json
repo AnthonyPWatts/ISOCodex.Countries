@@ -6433,6 +6433,48 @@
     "type": "Unknown"
   },
   {
+    "code": "DJ-AR",
+    "countryCode": "DJ",
+    "englishName": "Arta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DJ-AS",
+    "countryCode": "DJ",
+    "englishName": "Ali Sabieh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DJ-DI",
+    "countryCode": "DJ",
+    "englishName": "Dikhil",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DJ-DJ",
+    "countryCode": "DJ",
+    "englishName": "Djibouti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DJ-OB",
+    "countryCode": "DJ",
+    "englishName": "Obock",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "DJ-TA",
+    "countryCode": "DJ",
+    "englishName": "Tadjourah",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
