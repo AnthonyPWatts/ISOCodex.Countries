@@ -8911,6 +8911,132 @@
     "type": "Unknown"
   },
   {
+    "code": "FI-02",
+    "countryCode": "FI",
+    "englishName": "South Karelia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-03",
+    "countryCode": "FI",
+    "englishName": "Southern Ostrobothnia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-04",
+    "countryCode": "FI",
+    "englishName": "Southern Savonia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-05",
+    "countryCode": "FI",
+    "englishName": "Kainuu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-06",
+    "countryCode": "FI",
+    "englishName": "Tavastia Proper",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-07",
+    "countryCode": "FI",
+    "englishName": "Central Ostrobothnia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-08",
+    "countryCode": "FI",
+    "englishName": "Central Finland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-09",
+    "countryCode": "FI",
+    "englishName": "Kymenlaakso",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-10",
+    "countryCode": "FI",
+    "englishName": "Lapland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-11",
+    "countryCode": "FI",
+    "englishName": "Pirkanmaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-12",
+    "countryCode": "FI",
+    "englishName": "Ostrobothnia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-13",
+    "countryCode": "FI",
+    "englishName": "North Karelia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-14",
+    "countryCode": "FI",
+    "englishName": "Northern Ostrobothnia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-15",
+    "countryCode": "FI",
+    "englishName": "Northern Savonia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-16",
+    "countryCode": "FI",
+    "englishName": "Päijänne Tavastia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-17",
+    "countryCode": "FI",
+    "englishName": "Satakunta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-18",
+    "countryCode": "FI",
+    "englishName": "Uusimaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "FI-19",
+    "countryCode": "FI",
+    "englishName": "Southwest Finland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
