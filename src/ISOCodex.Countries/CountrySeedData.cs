@@ -4771,6 +4771,14 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("LA-XE"), CountryAlpha2Code.Parse("LA"), "Sekong", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("LA-XI"), CountryAlpha2Code.Parse("LA"), "Xiangkhouang", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("LA-XS"), CountryAlpha2Code.Parse("LA"), "Xaisomboun", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LB-AK"), CountryAlpha2Code.Parse("LB"), "Akkar", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LB-AS"), CountryAlpha2Code.Parse("LB"), "North", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LB-BA"), CountryAlpha2Code.Parse("LB"), "Beirut", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LB-BH"), CountryAlpha2Code.Parse("LB"), "Baalbek-Hermel", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LB-BI"), CountryAlpha2Code.Parse("LB"), "Beqaa", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LB-JA"), CountryAlpha2Code.Parse("LB"), "South", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LB-JL"), CountryAlpha2Code.Parse("LB"), "Mount Lebanon", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("LB-NA"), CountryAlpha2Code.Parse("LB"), "Nabatieh", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }

@@ -17654,6 +17654,62 @@
     "type": "Unknown"
   },
   {
+    "code": "LB-AK",
+    "countryCode": "LB",
+    "englishName": "Akkar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LB-AS",
+    "countryCode": "LB",
+    "englishName": "North",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LB-BA",
+    "countryCode": "LB",
+    "englishName": "Beirut",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LB-BH",
+    "countryCode": "LB",
+    "englishName": "Baalbek-Hermel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LB-BI",
+    "countryCode": "LB",
+    "englishName": "Beqaa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LB-JA",
+    "countryCode": "LB",
+    "englishName": "South",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LB-JL",
+    "countryCode": "LB",
+    "englishName": "Mount Lebanon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "LB-NA",
+    "countryCode": "LB",
+    "englishName": "Nabatieh",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
