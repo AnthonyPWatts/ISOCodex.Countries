@@ -15022,6 +15022,888 @@
     "type": "Unknown"
   },
   {
+    "code": "IT-21",
+    "countryCode": "IT",
+    "englishName": "Piedmont",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-23",
+    "countryCode": "IT",
+    "englishName": "Aosta Valley",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-25",
+    "countryCode": "IT",
+    "englishName": "Lombardy",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-32",
+    "countryCode": "IT",
+    "englishName": "Trentino-South Tyrol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-34",
+    "countryCode": "IT",
+    "englishName": "Veneto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-36",
+    "countryCode": "IT",
+    "englishName": "Friuli–Venezia Giulia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-42",
+    "countryCode": "IT",
+    "englishName": "Liguria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-45",
+    "countryCode": "IT",
+    "englishName": "Emilia-Romagna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-52",
+    "countryCode": "IT",
+    "englishName": "Tuscany",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-55",
+    "countryCode": "IT",
+    "englishName": "Umbria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-57",
+    "countryCode": "IT",
+    "englishName": "Marche",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-62",
+    "countryCode": "IT",
+    "englishName": "Lazio",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-65",
+    "countryCode": "IT",
+    "englishName": "Abruzzo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-67",
+    "countryCode": "IT",
+    "englishName": "Molise",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-72",
+    "countryCode": "IT",
+    "englishName": "Campania",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-75",
+    "countryCode": "IT",
+    "englishName": "Apulia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-77",
+    "countryCode": "IT",
+    "englishName": "Basilicata",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-78",
+    "countryCode": "IT",
+    "englishName": "Calabria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-82",
+    "countryCode": "IT",
+    "englishName": "Sicily",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-88",
+    "countryCode": "IT",
+    "englishName": "Sardinia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-AG",
+    "countryCode": "IT",
+    "englishName": "Agrigento",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-AL",
+    "countryCode": "IT",
+    "englishName": "Alessandria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-AN",
+    "countryCode": "IT",
+    "englishName": "Ancona",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-AP",
+    "countryCode": "IT",
+    "englishName": "Ascoli Piceno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-AQ",
+    "countryCode": "IT",
+    "englishName": "L’Aquila",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-AR",
+    "countryCode": "IT",
+    "englishName": "Arezzo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-AT",
+    "countryCode": "IT",
+    "englishName": "Asti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-AV",
+    "countryCode": "IT",
+    "englishName": "Avellino",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-BA",
+    "countryCode": "IT",
+    "englishName": "Bari",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-BG",
+    "countryCode": "IT",
+    "englishName": "Bergamo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-BI",
+    "countryCode": "IT",
+    "englishName": "Biella",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-BL",
+    "countryCode": "IT",
+    "englishName": "Belluno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-BN",
+    "countryCode": "IT",
+    "englishName": "Benevento",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-BO",
+    "countryCode": "IT",
+    "englishName": "Bologna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-BR",
+    "countryCode": "IT",
+    "englishName": "Brindisi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-BS",
+    "countryCode": "IT",
+    "englishName": "Brescia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-BT",
+    "countryCode": "IT",
+    "englishName": "Barletta-Andria-Trani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-BZ",
+    "countryCode": "IT",
+    "englishName": "South Tyrol",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-CA",
+    "countryCode": "IT",
+    "englishName": "Cagliari",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-CB",
+    "countryCode": "IT",
+    "englishName": "Campobasso",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-CE",
+    "countryCode": "IT",
+    "englishName": "Caserta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-CH",
+    "countryCode": "IT",
+    "englishName": "Chieti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-CL",
+    "countryCode": "IT",
+    "englishName": "Caltanissetta",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-CN",
+    "countryCode": "IT",
+    "englishName": "Cuneo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-CO",
+    "countryCode": "IT",
+    "englishName": "Como",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-CR",
+    "countryCode": "IT",
+    "englishName": "Cremona",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-CS",
+    "countryCode": "IT",
+    "englishName": "Cosenza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-CT",
+    "countryCode": "IT",
+    "englishName": "Catania",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-CZ",
+    "countryCode": "IT",
+    "englishName": "Catanzaro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-EN",
+    "countryCode": "IT",
+    "englishName": "Enna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-FC",
+    "countryCode": "IT",
+    "englishName": "Forlì-Cesena",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-FE",
+    "countryCode": "IT",
+    "englishName": "Ferrara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-FG",
+    "countryCode": "IT",
+    "englishName": "Foggia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-FI",
+    "countryCode": "IT",
+    "englishName": "Florence",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-FM",
+    "countryCode": "IT",
+    "englishName": "Fermo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-FR",
+    "countryCode": "IT",
+    "englishName": "Frosinone",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-GE",
+    "countryCode": "IT",
+    "englishName": "Genoa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-GO",
+    "countryCode": "IT",
+    "englishName": "Gorizia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-GR",
+    "countryCode": "IT",
+    "englishName": "Grosseto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-IM",
+    "countryCode": "IT",
+    "englishName": "Imperia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-IS",
+    "countryCode": "IT",
+    "englishName": "Isernia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-KR",
+    "countryCode": "IT",
+    "englishName": "Crotone",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-LC",
+    "countryCode": "IT",
+    "englishName": "Lecco",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-LE",
+    "countryCode": "IT",
+    "englishName": "Lecce",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-LI",
+    "countryCode": "IT",
+    "englishName": "Livorno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-LO",
+    "countryCode": "IT",
+    "englishName": "Lodi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-LT",
+    "countryCode": "IT",
+    "englishName": "Latina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-LU",
+    "countryCode": "IT",
+    "englishName": "Lucca",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-MB",
+    "countryCode": "IT",
+    "englishName": "Monza and Brianza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-MC",
+    "countryCode": "IT",
+    "englishName": "Macerata",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-ME",
+    "countryCode": "IT",
+    "englishName": "Messina",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-MI",
+    "countryCode": "IT",
+    "englishName": "Milan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-MN",
+    "countryCode": "IT",
+    "englishName": "Mantua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-MO",
+    "countryCode": "IT",
+    "englishName": "Modena",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-MS",
+    "countryCode": "IT",
+    "englishName": "Massa and Carrara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-MT",
+    "countryCode": "IT",
+    "englishName": "Matera",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-NA",
+    "countryCode": "IT",
+    "englishName": "Naples",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-NO",
+    "countryCode": "IT",
+    "englishName": "Novara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-NU",
+    "countryCode": "IT",
+    "englishName": "Nuoro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-OR",
+    "countryCode": "IT",
+    "englishName": "Oristano",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-PA",
+    "countryCode": "IT",
+    "englishName": "Palermo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-PC",
+    "countryCode": "IT",
+    "englishName": "Piacenza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-PD",
+    "countryCode": "IT",
+    "englishName": "Padua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-PE",
+    "countryCode": "IT",
+    "englishName": "Pescara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-PG",
+    "countryCode": "IT",
+    "englishName": "Perugia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-PI",
+    "countryCode": "IT",
+    "englishName": "Pisa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-PN",
+    "countryCode": "IT",
+    "englishName": "Pordenone",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-PO",
+    "countryCode": "IT",
+    "englishName": "Prato",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-PR",
+    "countryCode": "IT",
+    "englishName": "Parma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-PT",
+    "countryCode": "IT",
+    "englishName": "Pistoia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-PU",
+    "countryCode": "IT",
+    "englishName": "Pesaro and Urbino",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-PV",
+    "countryCode": "IT",
+    "englishName": "Pavia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-PZ",
+    "countryCode": "IT",
+    "englishName": "Potenza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-RA",
+    "countryCode": "IT",
+    "englishName": "Ravenna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-RC",
+    "countryCode": "IT",
+    "englishName": "Reggio Calabria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-RE",
+    "countryCode": "IT",
+    "englishName": "Reggio Emilia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-RG",
+    "countryCode": "IT",
+    "englishName": "Ragusa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-RI",
+    "countryCode": "IT",
+    "englishName": "Rieti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-RM",
+    "countryCode": "IT",
+    "englishName": "Rome",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-RN",
+    "countryCode": "IT",
+    "englishName": "Rimini",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-RO",
+    "countryCode": "IT",
+    "englishName": "Rovigo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-SA",
+    "countryCode": "IT",
+    "englishName": "Salerno",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-SI",
+    "countryCode": "IT",
+    "englishName": "Siena",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-SO",
+    "countryCode": "IT",
+    "englishName": "Sondrio",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-SP",
+    "countryCode": "IT",
+    "englishName": "La Spezia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-SR",
+    "countryCode": "IT",
+    "englishName": "Syracuse",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-SS",
+    "countryCode": "IT",
+    "englishName": "Sassari",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-SU",
+    "countryCode": "IT",
+    "englishName": "Sud Sardegna",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-SV",
+    "countryCode": "IT",
+    "englishName": "Savona",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-TA",
+    "countryCode": "IT",
+    "englishName": "Taranto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-TE",
+    "countryCode": "IT",
+    "englishName": "Teramo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-TN",
+    "countryCode": "IT",
+    "englishName": "Trentino",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-TO",
+    "countryCode": "IT",
+    "englishName": "Turin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-TP",
+    "countryCode": "IT",
+    "englishName": "Trapani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-TR",
+    "countryCode": "IT",
+    "englishName": "Terni",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-TS",
+    "countryCode": "IT",
+    "englishName": "Trieste",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-TV",
+    "countryCode": "IT",
+    "englishName": "Treviso",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-UD",
+    "countryCode": "IT",
+    "englishName": "Udine",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-VA",
+    "countryCode": "IT",
+    "englishName": "Varese",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-VB",
+    "countryCode": "IT",
+    "englishName": "Verbano-Cusio-Ossola",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-VC",
+    "countryCode": "IT",
+    "englishName": "Vercelli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-VE",
+    "countryCode": "IT",
+    "englishName": "Venice",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-VI",
+    "countryCode": "IT",
+    "englishName": "Vicenza",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-VR",
+    "countryCode": "IT",
+    "englishName": "Verona",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-VT",
+    "countryCode": "IT",
+    "englishName": "Viterbo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "IT-VV",
+    "countryCode": "IT",
+    "englishName": "Vibo Valentia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
