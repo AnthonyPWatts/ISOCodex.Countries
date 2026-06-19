@@ -4389,6 +4389,188 @@
     "type": "Unknown"
   },
   {
+    "code": "CH-AG",
+    "countryCode": "CH",
+    "englishName": "Aargau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-AI",
+    "countryCode": "CH",
+    "englishName": "Appenzell Innerrhoden",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-AR",
+    "countryCode": "CH",
+    "englishName": "Appenzell Ausserrhoden",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-BE",
+    "countryCode": "CH",
+    "englishName": "Bern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-BL",
+    "countryCode": "CH",
+    "englishName": "Basel-Landschaft",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-BS",
+    "countryCode": "CH",
+    "englishName": "Basel-Stadt",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-FR",
+    "countryCode": "CH",
+    "englishName": "Fribourg",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-GE",
+    "countryCode": "CH",
+    "englishName": "Geneva",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-GL",
+    "countryCode": "CH",
+    "englishName": "Glarus",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-GR",
+    "countryCode": "CH",
+    "englishName": "Graubünden",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-JU",
+    "countryCode": "CH",
+    "englishName": "Jura",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-LU",
+    "countryCode": "CH",
+    "englishName": "Lucerne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-NE",
+    "countryCode": "CH",
+    "englishName": "Neuchâtel",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-NW",
+    "countryCode": "CH",
+    "englishName": "Nidwalden",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-OW",
+    "countryCode": "CH",
+    "englishName": "Obwalden",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-SG",
+    "countryCode": "CH",
+    "englishName": "St. Gallen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-SH",
+    "countryCode": "CH",
+    "englishName": "Schaffhausen",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-SO",
+    "countryCode": "CH",
+    "englishName": "Solothurn",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-SZ",
+    "countryCode": "CH",
+    "englishName": "Schwyz",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-TG",
+    "countryCode": "CH",
+    "englishName": "Thurgau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-TI",
+    "countryCode": "CH",
+    "englishName": "Ticino",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-UR",
+    "countryCode": "CH",
+    "englishName": "Uri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-VD",
+    "countryCode": "CH",
+    "englishName": "Vaud",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-VS",
+    "countryCode": "CH",
+    "englishName": "Valais",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-ZG",
+    "countryCode": "CH",
+    "englishName": "Zug",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CH-ZH",
+    "countryCode": "CH",
+    "englishName": "Zürich",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
