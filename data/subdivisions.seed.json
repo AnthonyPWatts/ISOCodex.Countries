@@ -4571,6 +4571,104 @@
     "type": "Unknown"
   },
   {
+    "code": "CI-AB",
+    "countryCode": "CI",
+    "englishName": "Abidjan",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CI-BS",
+    "countryCode": "CI",
+    "englishName": "Bas-Sassandra²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CI-CM",
+    "countryCode": "CI",
+    "englishName": "Comoé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CI-DN",
+    "countryCode": "CI",
+    "englishName": "Denguélé²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CI-GD",
+    "countryCode": "CI",
+    "englishName": "Gôh-Djiboua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CI-LC",
+    "countryCode": "CI",
+    "englishName": "Lacs²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CI-LG",
+    "countryCode": "CI",
+    "englishName": "Lagunes²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CI-MG",
+    "countryCode": "CI",
+    "englishName": "Montagnes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CI-SM",
+    "countryCode": "CI",
+    "englishName": "Sassandra-Marahoué",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CI-SV",
+    "countryCode": "CI",
+    "englishName": "Savanes",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CI-VB",
+    "countryCode": "CI",
+    "englishName": "Vallée du Bandama²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CI-WR",
+    "countryCode": "CI",
+    "englishName": "Woroba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CI-YM",
+    "countryCode": "CI",
+    "englishName": "Yamoussoukro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "CI-ZZ",
+    "countryCode": "CI",
+    "englishName": "Zanzan²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "GB-ENG",
     "countryCode": "GB",
     "englishName": "England",
