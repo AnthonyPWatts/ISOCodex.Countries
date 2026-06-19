@@ -23751,6 +23751,55 @@
     "type": "Unknown"
   },
   {
+    "code": "NP-P1",
+    "countryCode": "NP",
+    "englishName": "Province 1",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NP-P2",
+    "countryCode": "NP",
+    "englishName": "Province 2",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NP-P3",
+    "countryCode": "NP",
+    "englishName": "Province 3",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NP-P4",
+    "countryCode": "NP",
+    "englishName": "Gandaki²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NP-P5",
+    "countryCode": "NP",
+    "englishName": "Province 5",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NP-P6",
+    "countryCode": "NP",
+    "englishName": "Karnali²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "NP-P7",
+    "countryCode": "NP",
+    "englishName": "Province 7",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",

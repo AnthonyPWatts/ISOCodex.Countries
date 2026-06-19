@@ -5642,6 +5642,13 @@ internal static class CountrySeedData
         new(CountrySubdivisionCode.Parse("NO-46"), CountryAlpha2Code.Parse("NO"), "Vestland", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NO-50"), CountryAlpha2Code.Parse("NO"), "Trøndelag", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("NO-54"), CountryAlpha2Code.Parse("NO"), "Tromssan ja Finmarkun", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NP-P1"), CountryAlpha2Code.Parse("NP"), "Province 1", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NP-P2"), CountryAlpha2Code.Parse("NP"), "Province 2", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NP-P3"), CountryAlpha2Code.Parse("NP"), "Province 3", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NP-P4"), CountryAlpha2Code.Parse("NP"), "Gandaki²", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NP-P5"), CountryAlpha2Code.Parse("NP"), "Province 5", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NP-P6"), CountryAlpha2Code.Parse("NP"), "Karnali²", null, CountrySubdivisionType.Unknown),
+        new(CountrySubdivisionCode.Parse("NP-P7"), CountryAlpha2Code.Parse("NP"), "Province 7", null, CountrySubdivisionType.Unknown),
         new(CountrySubdivisionCode.Parse("US-CA"), CountryAlpha2Code.Parse("US"), "California", null, CountrySubdivisionType.State)
     }.AsReadOnly();
 }
