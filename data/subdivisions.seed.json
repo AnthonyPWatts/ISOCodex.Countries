@@ -32410,6 +32410,979 @@
     "type": "Unknown"
   },
   {
+    "code": "UG-101",
+    "countryCode": "UG",
+    "englishName": "Kalangala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-102",
+    "countryCode": "UG",
+    "englishName": "Kampala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-103",
+    "countryCode": "UG",
+    "englishName": "Kiboga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-104",
+    "countryCode": "UG",
+    "englishName": "Luwero",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-105",
+    "countryCode": "UG",
+    "englishName": "Masaka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-106",
+    "countryCode": "UG",
+    "englishName": "Mpigi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-107",
+    "countryCode": "UG",
+    "englishName": "Mubende",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-108",
+    "countryCode": "UG",
+    "englishName": "Mukono",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-109",
+    "countryCode": "UG",
+    "englishName": "Nakasongola",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-110",
+    "countryCode": "UG",
+    "englishName": "Rakai",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-111",
+    "countryCode": "UG",
+    "englishName": "Sembabule",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-112",
+    "countryCode": "UG",
+    "englishName": "Kayunga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-113",
+    "countryCode": "UG",
+    "englishName": "Wakiso",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-114",
+    "countryCode": "UG",
+    "englishName": "Lyantonde",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-115",
+    "countryCode": "UG",
+    "englishName": "Mityana",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-116",
+    "countryCode": "UG",
+    "englishName": "Nakaseke",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-117",
+    "countryCode": "UG",
+    "englishName": "Buikwe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-118",
+    "countryCode": "UG",
+    "englishName": "Bukomansibi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-119",
+    "countryCode": "UG",
+    "englishName": "Butambala",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-120",
+    "countryCode": "UG",
+    "englishName": "Buvuma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-121",
+    "countryCode": "UG",
+    "englishName": "Gomba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-122",
+    "countryCode": "UG",
+    "englishName": "Kalungu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-123",
+    "countryCode": "UG",
+    "englishName": "Kyankwanzi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-124",
+    "countryCode": "UG",
+    "englishName": "Lwengo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-125",
+    "countryCode": "UG",
+    "englishName": "Kyotera",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-126",
+    "countryCode": "UG",
+    "englishName": "Kasanda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-201",
+    "countryCode": "UG",
+    "englishName": "Bugiri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-202",
+    "countryCode": "UG",
+    "englishName": "Busia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-203",
+    "countryCode": "UG",
+    "englishName": "Iganga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-204",
+    "countryCode": "UG",
+    "englishName": "Jinja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-205",
+    "countryCode": "UG",
+    "englishName": "Kamuli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-206",
+    "countryCode": "UG",
+    "englishName": "Kapchorwa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-207",
+    "countryCode": "UG",
+    "englishName": "Katakwi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-208",
+    "countryCode": "UG",
+    "englishName": "Kumi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-209",
+    "countryCode": "UG",
+    "englishName": "Mbale",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-210",
+    "countryCode": "UG",
+    "englishName": "Pallisa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-211",
+    "countryCode": "UG",
+    "englishName": "Soroti",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-212",
+    "countryCode": "UG",
+    "englishName": "Tororo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-213",
+    "countryCode": "UG",
+    "englishName": "Kaberamaido",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-214",
+    "countryCode": "UG",
+    "englishName": "Mayuge",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-215",
+    "countryCode": "UG",
+    "englishName": "Sironko",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-216",
+    "countryCode": "UG",
+    "englishName": "Amuria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-217",
+    "countryCode": "UG",
+    "englishName": "Budaka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-218",
+    "countryCode": "UG",
+    "englishName": "Bududa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-219",
+    "countryCode": "UG",
+    "englishName": "Bukedea",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-220",
+    "countryCode": "UG",
+    "englishName": "Bukwa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-221",
+    "countryCode": "UG",
+    "englishName": "Butaleja",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-222",
+    "countryCode": "UG",
+    "englishName": "Kaliro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-223",
+    "countryCode": "UG",
+    "englishName": "Manafwa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-224",
+    "countryCode": "UG",
+    "englishName": "Namutumba",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-225",
+    "countryCode": "UG",
+    "englishName": "Bulambuli",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-226",
+    "countryCode": "UG",
+    "englishName": "Buyende",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-227",
+    "countryCode": "UG",
+    "englishName": "Kibuku",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-228",
+    "countryCode": "UG",
+    "englishName": "Kween",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-229",
+    "countryCode": "UG",
+    "englishName": "Luuka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-230",
+    "countryCode": "UG",
+    "englishName": "Namayingo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-231",
+    "countryCode": "UG",
+    "englishName": "Ngora",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-232",
+    "countryCode": "UG",
+    "englishName": "Serere",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-233",
+    "countryCode": "UG",
+    "englishName": "Butebo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-234",
+    "countryCode": "UG",
+    "englishName": "Namisindwa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-235",
+    "countryCode": "UG",
+    "englishName": "Bugweri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-236",
+    "countryCode": "UG",
+    "englishName": "Kapelebyong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-237",
+    "countryCode": "UG",
+    "englishName": "Kalaki",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-301",
+    "countryCode": "UG",
+    "englishName": "Adjumani",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-302",
+    "countryCode": "UG",
+    "englishName": "Apac",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-303",
+    "countryCode": "UG",
+    "englishName": "Arua",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-304",
+    "countryCode": "UG",
+    "englishName": "Gulu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-305",
+    "countryCode": "UG",
+    "englishName": "Kitgum",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-306",
+    "countryCode": "UG",
+    "englishName": "Kotido",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-307",
+    "countryCode": "UG",
+    "englishName": "Lira",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-308",
+    "countryCode": "UG",
+    "englishName": "Moroto",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-309",
+    "countryCode": "UG",
+    "englishName": "Moyo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-310",
+    "countryCode": "UG",
+    "englishName": "Nebbi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-311",
+    "countryCode": "UG",
+    "englishName": "Nakapiripirit",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-312",
+    "countryCode": "UG",
+    "englishName": "Pader",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-313",
+    "countryCode": "UG",
+    "englishName": "Yumbe",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-314",
+    "countryCode": "UG",
+    "englishName": "Abim",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-315",
+    "countryCode": "UG",
+    "englishName": "Amolatar",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-316",
+    "countryCode": "UG",
+    "englishName": "Amuru",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-317",
+    "countryCode": "UG",
+    "englishName": "Dokolo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-318",
+    "countryCode": "UG",
+    "englishName": "Kaabong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-319",
+    "countryCode": "UG",
+    "englishName": "Koboko",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-320",
+    "countryCode": "UG",
+    "englishName": "Maracha",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-321",
+    "countryCode": "UG",
+    "englishName": "Oyam",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-322",
+    "countryCode": "UG",
+    "englishName": "Agago",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-323",
+    "countryCode": "UG",
+    "englishName": "Alebtong",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-324",
+    "countryCode": "UG",
+    "englishName": "Amudat",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-325",
+    "countryCode": "UG",
+    "englishName": "Kole",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-326",
+    "countryCode": "UG",
+    "englishName": "Lamwo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-327",
+    "countryCode": "UG",
+    "englishName": "Napak",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-328",
+    "countryCode": "UG",
+    "englishName": "Nwoya",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-329",
+    "countryCode": "UG",
+    "englishName": "Otuke",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-330",
+    "countryCode": "UG",
+    "englishName": "Zombo²",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-331",
+    "countryCode": "UG",
+    "englishName": "Zombo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-332",
+    "countryCode": "UG",
+    "englishName": "Pakwach",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-333",
+    "countryCode": "UG",
+    "englishName": "Kwania",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-334",
+    "countryCode": "UG",
+    "englishName": "Nabilatuk",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-335",
+    "countryCode": "UG",
+    "englishName": "Karenga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-336",
+    "countryCode": "UG",
+    "englishName": "Madi-Okollo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-337",
+    "countryCode": "UG",
+    "englishName": "Obongi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-401",
+    "countryCode": "UG",
+    "englishName": "Bundibugyo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-402",
+    "countryCode": "UG",
+    "englishName": "Bushenyi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-403",
+    "countryCode": "UG",
+    "englishName": "Hoima",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-404",
+    "countryCode": "UG",
+    "englishName": "Kabale",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-405",
+    "countryCode": "UG",
+    "englishName": "Kabarole",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-406",
+    "countryCode": "UG",
+    "englishName": "Kasese",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-407",
+    "countryCode": "UG",
+    "englishName": "Kibaale",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-408",
+    "countryCode": "UG",
+    "englishName": "Kisoro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-409",
+    "countryCode": "UG",
+    "englishName": "Masindi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-410",
+    "countryCode": "UG",
+    "englishName": "Mbarara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-411",
+    "countryCode": "UG",
+    "englishName": "Ntungamo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-412",
+    "countryCode": "UG",
+    "englishName": "Rukungiri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-413",
+    "countryCode": "UG",
+    "englishName": "Kamwenge",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-414",
+    "countryCode": "UG",
+    "englishName": "Kanungu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-415",
+    "countryCode": "UG",
+    "englishName": "Kyenjojo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-416",
+    "countryCode": "UG",
+    "englishName": "Buliisa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-417",
+    "countryCode": "UG",
+    "englishName": "Ibanda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-418",
+    "countryCode": "UG",
+    "englishName": "Isingiro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-419",
+    "countryCode": "UG",
+    "englishName": "Kiruhura",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-420",
+    "countryCode": "UG",
+    "englishName": "Buhweju",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-421",
+    "countryCode": "UG",
+    "englishName": "Kiryandongo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-422",
+    "countryCode": "UG",
+    "englishName": "Kyegegwa",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-423",
+    "countryCode": "UG",
+    "englishName": "Mitooma",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-424",
+    "countryCode": "UG",
+    "englishName": "Ntoroko",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-425",
+    "countryCode": "UG",
+    "englishName": "Rubirizi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-426",
+    "countryCode": "UG",
+    "englishName": "Sheema",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-427",
+    "countryCode": "UG",
+    "englishName": "Kagadi",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-428",
+    "countryCode": "UG",
+    "englishName": "Kakumiro",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-429",
+    "countryCode": "UG",
+    "englishName": "Rubanda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-430",
+    "countryCode": "UG",
+    "englishName": "Bunyangabu",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-431",
+    "countryCode": "UG",
+    "englishName": "Rukiga",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-432",
+    "countryCode": "UG",
+    "englishName": "Kikuube",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-433",
+    "countryCode": "UG",
+    "englishName": "Kazo",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-434",
+    "countryCode": "UG",
+    "englishName": "Kitagwenda",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-435",
+    "countryCode": "UG",
+    "englishName": "Rwampara",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-C",
+    "countryCode": "UG",
+    "englishName": "Central",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-E",
+    "countryCode": "UG",
+    "englishName": "Eastern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-N",
+    "countryCode": "UG",
+    "englishName": "Northern",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "UG-W",
+    "countryCode": "UG",
+    "englishName": "Western",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
