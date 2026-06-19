@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.1;net8.0</TargetFrameworks>
     <PackageId>ISOCodex.Countries</PackageId>
+    <VersionPrefix>0.1.0</VersionPrefix>
     <Title>ISOCodex.Countries</Title>
     <Description>Strongly typed country, country-code, subdivision, and jurisdiction metadata for .NET applications.</Description>
     <Authors>Anthony Watts</Authors>

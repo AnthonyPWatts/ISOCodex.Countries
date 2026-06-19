@@ -9,7 +9,7 @@
     "commonAliases": [ "Britain", "Great Britain" ],
     "notes": [
       "GB is the canonical ISO-style alpha-2 country code used by this package.",
-      "UK is commonly encountered but must not be silently treated as canonical GB."
+      "UK is commonly encountered but is not silently treated as canonical GB."
     ]
   },
   {

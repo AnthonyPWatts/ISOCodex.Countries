@@ -33,3 +33,7 @@ jobs:
 
       - name: Pack
         run: dotnet pack --configuration Release --no-build --output ./artifacts
+
+      - name: Package smoke test
+        shell: pwsh
+        run: ./eng/smoke-test-package.ps1

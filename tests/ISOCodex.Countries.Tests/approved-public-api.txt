@@ -1,0 +1,169 @@
+struct ISOCodex.Countries.CountryAlpha2Code
+  property System.String Value
+  method ISOCodex.Countries.CountryAlpha2Code Parse(System.String value)
+  method ISOCodex.Countries.CountryCodeValidationIssue TryValidate(System.String value, System.String& normalized)
+  method System.Boolean Equals(ISOCodex.Countries.CountryAlpha2Code other)
+  method System.Boolean Equals(System.Object obj)
+  method System.Boolean IsValidSyntax(System.String value)
+  method System.Boolean TryParse(System.String value, ISOCodex.Countries.CountryAlpha2Code& code)
+  method System.Int32 CompareTo(ISOCodex.Countries.CountryAlpha2Code other)
+  method System.Int32 CompareTo(System.Object obj)
+  method System.Int32 GetHashCode()
+  method System.String ToString()
+
+class ISOCodex.Countries.CountryAlpha2CodeJsonConverter
+  ctor CountryAlpha2CodeJsonConverter()
+  method ISOCodex.Countries.CountryAlpha2Code Read(System.Text.Json.Utf8JsonReader& reader, System.Type typeToConvert, System.Text.Json.JsonSerializerOptions options)
+  method System.Void Write(System.Text.Json.Utf8JsonWriter writer, ISOCodex.Countries.CountryAlpha2Code value, System.Text.Json.JsonSerializerOptions options)
+
+struct ISOCodex.Countries.CountryAlpha3Code
+  property System.String Value
+  method ISOCodex.Countries.CountryAlpha3Code Parse(System.String value)
+  method ISOCodex.Countries.CountryCodeValidationIssue TryValidate(System.String value, System.String& normalized)
+  method System.Boolean Equals(ISOCodex.Countries.CountryAlpha3Code other)
+  method System.Boolean Equals(System.Object obj)
+  method System.Boolean IsValidSyntax(System.String value)
+  method System.Boolean TryParse(System.String value, ISOCodex.Countries.CountryAlpha3Code& code)
+  method System.Int32 CompareTo(ISOCodex.Countries.CountryAlpha3Code other)
+  method System.Int32 CompareTo(System.Object obj)
+  method System.Int32 GetHashCode()
+  method System.String ToString()
+
+class ISOCodex.Countries.CountryAlpha3CodeJsonConverter
+  ctor CountryAlpha3CodeJsonConverter()
+  method ISOCodex.Countries.CountryAlpha3Code Read(System.Text.Json.Utf8JsonReader& reader, System.Type typeToConvert, System.Text.Json.JsonSerializerOptions options)
+  method System.Void Write(System.Text.Json.Utf8JsonWriter writer, ISOCodex.Countries.CountryAlpha3Code value, System.Text.Json.JsonSerializerOptions options)
+
+enum ISOCodex.Countries.CountryCodeKind
+  enum Alpha2 = 0
+  enum Alpha3 = 1
+  enum Numeric = 2
+
+enum ISOCodex.Countries.CountryCodeLookupFailureReason
+  enum Empty = 0
+  enum InvalidSyntax = 1
+  enum Ambiguous = 2
+  enum Unknown = 3
+  enum ReservedButNotCountry = 4
+  enum Unsupported = 5
+
+class ISOCodex.Countries.CountryCodeLookupResult
+  property ISOCodex.Countries.CountryInfo Country
+  property System.Nullable<ISOCodex.Countries.CountryCodeKind> DetectedKind
+  property System.Nullable<ISOCodex.Countries.CountryCodeLookupFailureReason> FailureReason
+  property System.String NormalizedInput
+  property System.Boolean Success
+
+class ISOCodex.Countries.CountryCodeValidationIssue
+  ctor CountryCodeValidationIssue(System.String code, System.String message, System.String input)
+  property System.String Code
+  property System.String Input
+  property System.String Message
+
+static class ISOCodex.Countries.CountryDataVersion
+  property System.String CheckedOn
+  property System.String Description
+  property System.String Identifier
+
+enum ISOCodex.Countries.CountryEntryStatus
+  enum Current = 0
+  enum Former = 1
+  enum Reserved = 2
+  enum ExceptionallyReserved = 3
+  enum TransitionallyReserved = 4
+  enum UserAssigned = 5
+  enum Unknown = 99
+
+class ISOCodex.Countries.CountryInfo
+  ctor CountryInfo(ISOCodex.Countries.CountryAlpha2Code alpha2, ISOCodex.Countries.CountryAlpha3Code alpha3, ISOCodex.Countries.CountryNumericCode numeric, System.String englishShortName, System.String englishOfficialName, ISOCodex.Countries.CountryEntryStatus status, System.Collections.Generic.IEnumerable<System.String> commonAliases, System.Collections.Generic.IEnumerable<System.String> notes)
+  property ISOCodex.Countries.CountryAlpha2Code Alpha2
+  property ISOCodex.Countries.CountryAlpha3Code Alpha3
+  property System.Collections.Generic.IReadOnlyList<System.String> CommonAliases
+  property System.String EnglishOfficialName
+  property System.String EnglishShortName
+  property System.Collections.Generic.IReadOnlyList<System.String> Notes
+  property ISOCodex.Countries.CountryNumericCode Numeric
+  property ISOCodex.Countries.CountryEntryStatus Status
+  method System.String ToString()
+
+struct ISOCodex.Countries.CountryNumericCode
+  property System.String Value
+  method ISOCodex.Countries.CountryCodeValidationIssue TryValidate(System.String value, System.String& normalized)
+  method ISOCodex.Countries.CountryNumericCode FromInt32(System.Int32 value)
+  method ISOCodex.Countries.CountryNumericCode Parse(System.String value)
+  method System.Boolean Equals(ISOCodex.Countries.CountryNumericCode other)
+  method System.Boolean Equals(System.Object obj)
+  method System.Boolean IsValidSyntax(System.String value)
+  method System.Boolean TryParse(System.String value, ISOCodex.Countries.CountryNumericCode& code)
+  method System.Int32 CompareTo(ISOCodex.Countries.CountryNumericCode other)
+  method System.Int32 CompareTo(System.Object obj)
+  method System.Int32 GetHashCode()
+  method System.String ToString()
+
+class ISOCodex.Countries.CountryNumericCodeJsonConverter
+  ctor CountryNumericCodeJsonConverter()
+  method ISOCodex.Countries.CountryNumericCode Read(System.Text.Json.Utf8JsonReader& reader, System.Type typeToConvert, System.Text.Json.JsonSerializerOptions options)
+  method System.Void Write(System.Text.Json.Utf8JsonWriter writer, ISOCodex.Countries.CountryNumericCode value, System.Text.Json.JsonSerializerOptions options)
+
+static class ISOCodex.Countries.CountryRegistry
+  property System.Collections.Generic.IReadOnlyList<ISOCodex.Countries.CountryInfo> All
+  method ISOCodex.Countries.CountryCodeLookupResult Lookup(System.String value)
+  method ISOCodex.Countries.CountryInfo GetByAlpha2(ISOCodex.Countries.CountryAlpha2Code code)
+  method ISOCodex.Countries.CountryInfo GetByAlpha3(ISOCodex.Countries.CountryAlpha3Code code)
+  method ISOCodex.Countries.CountryInfo GetByNumeric(ISOCodex.Countries.CountryNumericCode code)
+  method System.Boolean TryGetByAlpha2(ISOCodex.Countries.CountryAlpha2Code code, ISOCodex.Countries.CountryInfo& country)
+  method System.Boolean TryGetByAlpha2(System.String value, ISOCodex.Countries.CountryInfo& country)
+  method System.Boolean TryGetByAlpha3(ISOCodex.Countries.CountryAlpha3Code code, ISOCodex.Countries.CountryInfo& country)
+  method System.Boolean TryGetByAlpha3(System.String value, ISOCodex.Countries.CountryInfo& country)
+  method System.Boolean TryGetByNumeric(ISOCodex.Countries.CountryNumericCode code, ISOCodex.Countries.CountryInfo& country)
+  method System.Boolean TryGetByNumeric(System.String value, ISOCodex.Countries.CountryInfo& country)
+
+struct ISOCodex.Countries.CountrySubdivisionCode
+  property ISOCodex.Countries.CountryAlpha2Code CountryCode
+  property System.String SubdivisionPart
+  property System.String Value
+  method ISOCodex.Countries.CountryCodeValidationIssue TryValidate(System.String value, ISOCodex.Countries.CountryAlpha2Code& countryCode, System.String& subdivisionPart)
+  method ISOCodex.Countries.CountrySubdivisionCode Parse(System.String value)
+  method System.Boolean Equals(ISOCodex.Countries.CountrySubdivisionCode other)
+  method System.Boolean Equals(System.Object obj)
+  method System.Boolean IsValidSyntax(System.String value)
+  method System.Boolean TryParse(System.String value, ISOCodex.Countries.CountrySubdivisionCode& code)
+  method System.Int32 CompareTo(ISOCodex.Countries.CountrySubdivisionCode other)
+  method System.Int32 CompareTo(System.Object obj)
+  method System.Int32 GetHashCode()
+  method System.String ToString()
+
+class ISOCodex.Countries.CountrySubdivisionCodeJsonConverter
+  ctor CountrySubdivisionCodeJsonConverter()
+  method ISOCodex.Countries.CountrySubdivisionCode Read(System.Text.Json.Utf8JsonReader& reader, System.Type typeToConvert, System.Text.Json.JsonSerializerOptions options)
+  method System.Void Write(System.Text.Json.Utf8JsonWriter writer, ISOCodex.Countries.CountrySubdivisionCode value, System.Text.Json.JsonSerializerOptions options)
+
+class ISOCodex.Countries.CountrySubdivisionInfo
+  ctor CountrySubdivisionInfo(ISOCodex.Countries.CountrySubdivisionCode code, ISOCodex.Countries.CountryAlpha2Code countryCode, System.String englishName, System.String localName, ISOCodex.Countries.CountrySubdivisionType type)
+  property ISOCodex.Countries.CountrySubdivisionCode Code
+  property ISOCodex.Countries.CountryAlpha2Code CountryCode
+  property System.String EnglishName
+  property System.String LocalName
+  property ISOCodex.Countries.CountrySubdivisionType Type
+  method System.String ToString()
+
+static class ISOCodex.Countries.CountrySubdivisionRegistry
+  property System.Collections.Generic.IReadOnlyList<ISOCodex.Countries.CountrySubdivisionInfo> All
+  method ISOCodex.Countries.CountrySubdivisionInfo GetByCode(ISOCodex.Countries.CountrySubdivisionCode code)
+  method System.Boolean TryGetByCode(ISOCodex.Countries.CountrySubdivisionCode code, ISOCodex.Countries.CountrySubdivisionInfo& subdivision)
+  method System.Boolean TryGetByCode(System.String value, ISOCodex.Countries.CountrySubdivisionInfo& subdivision)
+
+enum ISOCodex.Countries.CountrySubdivisionType
+  enum Unknown = 0
+  enum State = 1
+  enum Province = 2
+  enum Territory = 3
+  enum Region = 4
+  enum County = 5
+  enum District = 6
+  enum Department = 7
+  enum Municipality = 8
+  enum Parish = 9
+  enum CouncilArea = 10
+  enum Nation = 11
+  enum Other = 12

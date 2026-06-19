@@ -6,7 +6,8 @@ var rows = new[]
     new ImportRow(2, "Example Inc", "usa"),
     new ImportRow(3, "Contoso GmbH", "276"),
     new ImportRow(4, "Bad Syntax Co", "1!"),
-    new ImportRow(5, "Unknown Co", "ZZ")
+    new ImportRow(5, "Unknown Co", "ZZ"),
+    new ImportRow(6, "Alias-Like Co", "UK")
 };
 
 var accepted = new List<string>();

@@ -84,6 +84,41 @@ public sealed class RegistryTests
         CountryCodeLookupResult result = CountryRegistry.Lookup("UK");
 
         Assert.False(result.Success);
+        Assert.Equal(CountryCodeKind.Alpha2, result.DetectedKind);
         Assert.Equal(CountryCodeLookupFailureReason.Unknown, result.FailureReason);
+        Assert.Equal("UK", result.NormalizedInput);
+    }
+
+    [Theory]
+    [InlineData("EU")]
+    [InlineData("ZZ")]
+    public void Non_Country_And_User_Assigned_Shaped_Codes_Are_Unknown_Not_Canonical_Countries(string input)
+    {
+        CountryCodeLookupResult result = CountryRegistry.Lookup(input);
+
+        Assert.False(result.Success);
+        Assert.Equal(CountryCodeKind.Alpha2, result.DetectedKind);
+        Assert.Equal(CountryCodeLookupFailureReason.Unknown, result.FailureReason);
+        Assert.Equal(input, result.NormalizedInput);
+    }
+
+    [Fact]
+    public void Lookup_Invalid_Syntax_Does_Not_Throw()
+    {
+        CountryCodeLookupResult result = CountryRegistry.Lookup("1!");
+
+        Assert.False(result.Success);
+        Assert.Null(result.DetectedKind);
+        Assert.Equal(CountryCodeLookupFailureReason.InvalidSyntax, result.FailureReason);
+    }
+
+    [Fact]
+    public void Subdivision_Registry_Returns_Known_And_Unknown_Cases()
+    {
+        Assert.True(CountrySubdivisionRegistry.TryGetByCode("GB-ENG", out CountrySubdivisionInfo? subdivision));
+        Assert.Equal("England", subdivision?.EnglishName);
+
+        Assert.False(CountrySubdivisionRegistry.TryGetByCode("GB-XYZ", out CountrySubdivisionInfo? unknown));
+        Assert.Null(unknown);
     }
 }

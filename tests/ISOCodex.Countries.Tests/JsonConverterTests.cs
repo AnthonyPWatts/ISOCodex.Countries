@@ -42,4 +42,53 @@ public sealed class JsonConverterTests
     {
         Assert.Throws<JsonException>(() => JsonSerializer.Deserialize<CountryAlpha2Code>(json, Options));
     }
+
+    [Fact]
+    public void Dto_Round_Trip_Preserves_Canonical_Strings()
+    {
+        CountryDto dto = new(
+            CountryAlpha2Code.Parse("gb"),
+            CountryAlpha3Code.Parse("gbr"),
+            CountryNumericCode.Parse("008"),
+            CountrySubdivisionCode.Parse("gb-eng"));
+
+        string json = JsonSerializer.Serialize(dto, Options);
+        CountryDto? deserialized = JsonSerializer.Deserialize<CountryDto>(json, Options);
+
+        Assert.NotNull(deserialized);
+        Assert.Equal("GB", deserialized.Alpha2.ToString());
+        Assert.Equal("GBR", deserialized.Alpha3.ToString());
+        Assert.Equal("008", deserialized.Numeric.ToString());
+        Assert.Equal("GB-ENG", deserialized.Subdivision.ToString());
+    }
+
+    [Fact]
+    public void Nullable_Code_Properties_Can_Round_Trip_Null()
+    {
+        NullableCountryDto dto = new(null);
+
+        string json = JsonSerializer.Serialize(dto, Options);
+        NullableCountryDto? deserialized = JsonSerializer.Deserialize<NullableCountryDto>(json, Options);
+
+        Assert.NotNull(deserialized);
+        Assert.Null(deserialized.Alpha2);
+    }
+
+    [Theory]
+    [InlineData("\"G1\"", typeof(CountryAlpha2Code))]
+    [InlineData("\"GB1\"", typeof(CountryAlpha3Code))]
+    [InlineData("\"08A\"", typeof(CountryNumericCode))]
+    [InlineData("\"GB-!\"", typeof(CountrySubdivisionCode))]
+    public void Each_Converter_Rejects_Invalid_Values(string json, Type targetType)
+    {
+        Assert.Throws<JsonException>(() => JsonSerializer.Deserialize(json, targetType, Options));
+    }
+
+    private sealed record CountryDto(
+        CountryAlpha2Code Alpha2,
+        CountryAlpha3Code Alpha3,
+        CountryNumericCode Numeric,
+        CountrySubdivisionCode Subdivision);
+
+    private sealed record NullableCountryDto(CountryAlpha2Code? Alpha2);
 }

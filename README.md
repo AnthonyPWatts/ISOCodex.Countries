@@ -8,7 +8,7 @@ It is not an official ISO product, is not endorsed by ISO, and is not a geopolit
 
 ## Current Status
 
-First-pass implementation. The package has a small representative seed dataset and a stable foundation API, but it is not data-complete.
+Hardened v0.x foundation. The package has a small representative seed dataset and a stable foundation API, but it is not data-complete.
 
 ## Installation
 
@@ -55,6 +55,18 @@ The first pass supports value objects for:
 Alpha codes are stored in canonical uppercase. Numeric codes are stored as three-character strings so leading zeroes are preserved.
 
 Mixed lookup is deterministic: two ASCII letters are treated as alpha-2, three ASCII letters as alpha-3, and three digits as numeric. `UK` is recognised as syntactically valid alpha-2 input, but it is not silently treated as canonical `GB`.
+
+`EU` and `ZZ` are also syntactically valid alpha-2 shapes, but they are not current countries in the representative registry and are returned as `Unknown` by mixed lookup.
+
+## Persistence Guidance
+
+For most applications, store canonical alpha-2 codes such as `GB`.
+
+Store alpha-3 or numeric codes only when an integration requires them.
+
+Do not store display names as identifiers.
+
+If preserving what a user originally typed matters, store the original input separately from the canonical code.
 
 ## Subdivision Codes
 
@@ -117,9 +129,25 @@ var options = CountryRegistry.All
 
 The seed data is aligned with ISO 3166 and UN M49 concepts, but it is a small representative dataset only. It currently includes GB, US, DE, FR, IE, AL, CA, and AU, plus representative subdivisions for those examples.
 
+Current data version:
+
+```csharp
+Console.WriteLine(CountryDataVersion.Identifier);
+Console.WriteLine(CountryDataVersion.CheckedOn);
+Console.WriteLine(CountryDataVersion.Description);
+```
+
 No runtime code makes hidden network calls. The runtime package uses checked-in compiled seed data rather than loose external files.
 
 Data-source policy and limitations are documented in [`docs/data-sources.md`](docs/data-sources.md).
+
+## Release Verification
+
+Before any release, use [`docs/release-gate.md`](docs/release-gate.md). The local package smoke test is:
+
+```powershell
+./eng/smoke-test-package.ps1
+```
 
 ## Contributing Data Corrections
 
