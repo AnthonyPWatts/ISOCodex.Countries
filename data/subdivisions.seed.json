@@ -27223,6 +27223,195 @@
     "type": "Unknown"
   },
   {
+    "code": "SC-01",
+    "countryCode": "SC",
+    "englishName": "Anse aux Pins",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-02",
+    "countryCode": "SC",
+    "englishName": "Anse Boileau",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-03",
+    "countryCode": "SC",
+    "englishName": "Anse Etoile",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-04",
+    "countryCode": "SC",
+    "englishName": "Au Cap",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-05",
+    "countryCode": "SC",
+    "englishName": "Anse Royale",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-06",
+    "countryCode": "SC",
+    "englishName": "Baie Lazare",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-07",
+    "countryCode": "SC",
+    "englishName": "Baie Sainte Anne",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-08",
+    "countryCode": "SC",
+    "englishName": "Beau Vallon",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-09",
+    "countryCode": "SC",
+    "englishName": "Bel Air",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-10",
+    "countryCode": "SC",
+    "englishName": "Bel Ombre",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-11",
+    "countryCode": "SC",
+    "englishName": "Cascade",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-12",
+    "countryCode": "SC",
+    "englishName": "Glacis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-13",
+    "countryCode": "SC",
+    "englishName": "Grand’Anse Mahé",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-14",
+    "countryCode": "SC",
+    "englishName": "Grand’Anse Praslin",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-15",
+    "countryCode": "SC",
+    "englishName": "La Digue",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-16",
+    "countryCode": "SC",
+    "englishName": "La Rivière Anglaise",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-17",
+    "countryCode": "SC",
+    "englishName": "Mont Buxton",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-18",
+    "countryCode": "SC",
+    "englishName": "Mont Fleuri",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-19",
+    "countryCode": "SC",
+    "englishName": "Plaisance",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-20",
+    "countryCode": "SC",
+    "englishName": "Pointe La Rue",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-21",
+    "countryCode": "SC",
+    "englishName": "Port Glaud",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-22",
+    "countryCode": "SC",
+    "englishName": "Saint Louis",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-23",
+    "countryCode": "SC",
+    "englishName": "Takamaka",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-24",
+    "countryCode": "SC",
+    "englishName": "Les Mamelles",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-25",
+    "countryCode": "SC",
+    "englishName": "Roche Caiman",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-26",
+    "countryCode": "SC",
+    "englishName": "Ile Perseverance I",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "SC-27",
+    "countryCode": "SC",
+    "englishName": "Ile Perseverance II",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "US-CA",
     "countryCode": "US",
     "englishName": "California",
