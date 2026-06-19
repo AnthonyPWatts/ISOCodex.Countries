@@ -910,11 +910,60 @@
     "type": "Unknown"
   },
   {
+    "code": "AU-ACT",
+    "countryCode": "AU",
+    "englishName": "Australian Capital Territory",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
     "code": "AU-NSW",
     "countryCode": "AU",
     "englishName": "New South Wales",
     "localName": null,
     "type": "State"
+  },
+  {
+    "code": "AU-NT",
+    "countryCode": "AU",
+    "englishName": "Northern Territory",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AU-QLD",
+    "countryCode": "AU",
+    "englishName": "Queensland",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AU-SA",
+    "countryCode": "AU",
+    "englishName": "South Australia",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AU-TAS",
+    "countryCode": "AU",
+    "englishName": "Tasmania",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AU-VIC",
+    "countryCode": "AU",
+    "englishName": "Victoria",
+    "localName": null,
+    "type": "Unknown"
+  },
+  {
+    "code": "AU-WA",
+    "countryCode": "AU",
+    "englishName": "Western Australia",
+    "localName": null,
+    "type": "Unknown"
   },
   {
     "code": "CA-ON",
