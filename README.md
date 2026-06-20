@@ -27,6 +27,19 @@ The aim is not to decide political truth. The aim is to make country-code handli
 
 `1.0.0-alpha` release candidate. The package has CLDR-derived current country, territory, display-name, alias, special-code-element, and regular subdivision seed data, plus a stable foundation API.
 
+## What Is Included
+
+The alpha package includes:
+
+- 249 current country and territory entries with alpha-2, alpha-3, numeric, and English short-name metadata;
+- 2,739 generated country display names across selected CLDR locales;
+- explicit alias lookup for reviewed common aliases and CLDR deprecated territory aliases;
+- explicit special-code-element metadata for known non-country alpha-2-shaped values;
+- 5,027 regular subdivision entries across 200 countries;
+- value objects and JSON converters for country and subdivision code identifiers.
+
+The runtime package uses compiled seed data. It does not read loose JSON files at runtime and does not make hidden network calls.
+
 ## Installation
 
 After cloning the repository, build and pack locally:
@@ -61,6 +74,32 @@ if (result.Success)
 }
 ```
 
+For invalid or unresolved boundary input, keep the failure reason with the row/request instead of collapsing everything into "not found":
+
+```csharp
+CountryCodeLookupResult result = CountryRegistry.Lookup("EU");
+
+if (!result.Success)
+{
+    Console.WriteLine(result.FailureReason); // ReservedButNotCountry
+    Console.WriteLine(result.NormalizedInput); // EU
+}
+```
+
+## Choosing The Right Lookup API
+
+Different values need different APIs. The package keeps these paths separate so consumers do not accidentally treat names, aliases, and identifiers as the same thing.
+
+| Input shape | API | Example result |
+|---|---|---|
+| Canonical country code | `CountryRegistry.Lookup` | `GB`, `GBR`, `826` resolve to United Kingdom |
+| Display name | `CountryNameRegistry.LookupDisplayName` | `DE` + `de` returns `Deutschland` |
+| Common or deprecated alias | `CountryAliasRegistry.Lookup` | `Great Britain` resolves to `GB`; `UK` can resolve explicitly |
+| Special alpha-2-shaped value | `CountryCodeElementRegistry.TryGetByAlpha2` | `EU` returns European Union metadata |
+| Subdivision code | `CountrySubdivisionRegistry.Lookup` | `GB-ENG` resolves to England |
+
+`CountryRegistry.Lookup` is deliberately code-oriented. It does not resolve `Britain`, `Germany`, `Deutschland`, or `UK` as a country unless the caller opts into an alias or display-name API.
+
 ## Country Codes
 
 The foundation API supports value objects for:
@@ -76,6 +115,18 @@ Mixed lookup is deterministic: two ASCII letters are treated as alpha-2, three A
 `EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` are also syntactically valid alpha-2 shapes. They are not current country entries in this package. Mixed lookup returns `ReservedButNotCountry` for these known non-country or special-purpose codes, so import pipelines can distinguish them from invalid syntax and arbitrary unknown codes.
 
 Subdivision-shaped input is outside country-code lookup. `CountryRegistry.Lookup("GB-ENG")` returns `Unsupported`; use `CountrySubdivisionRegistry.Lookup` for subdivision codes.
+
+Typical mixed lookup outcomes:
+
+| Input | Success | Failure reason | Notes |
+|---|---:|---|---|
+| `GB` | Yes | | Canonical alpha-2 country code |
+| `gbr` | Yes | | Canonicalised alpha-3 country code |
+| `008` | Yes | | Numeric code with leading zero preserved |
+| `UK` | No | `Unknown` | Alias-like alpha-2 shape; use `CountryAliasRegistry` if desired |
+| `EU` | No | `ReservedButNotCountry` | Known special code element |
+| `GB-ENG` | No | `Unsupported` | Valid subdivision shape; use subdivision lookup |
+| `1!` | No | `InvalidSyntax` | Not a supported country-code shape |
 
 ## Display Names
 
@@ -97,6 +148,15 @@ Console.WriteLine(portuguese.UsedFallback);
 Console.WriteLine(portuguese.ResolvedLanguageTag);
 ```
 
+Fallback is visible by design:
+
+1. exact requested language tag, such as `pt-BR`;
+2. parent language tag, such as `pt`;
+3. English display name from generated CLDR data;
+4. existing `CountryInfo.EnglishShortName`.
+
+The lookup result tells you what was requested, what was actually returned, and whether fallback was used.
+
 Unicode names round-trip as normal .NET strings:
 
 ```csharp
@@ -112,12 +172,35 @@ Alias lookup is explicit and opt-in. `CountryRegistry.Lookup` remains canonical-
 
 ```csharp
 CountryAliasLookupResult alias = CountryAliasRegistry.Lookup("Great Britain");
+
+if (alias.Success)
+{
+    Console.WriteLine(alias.Country!.Alpha2); // GB
+}
+```
+
+Ambiguous aliases are reported rather than guessed:
+
+```csharp
+CountryAliasLookupResult alias = CountryAliasRegistry.Lookup("AN");
+
+if (alias.Ambiguous)
+{
+    foreach (CountryInfo candidate in alias.Candidates)
+    {
+        Console.WriteLine(candidate.Alpha2);
+    }
+}
 ```
 
 Known special country-code-shaped elements are exposed separately:
 
 ```csharp
-CountryCodeElementRegistry.TryGetByAlpha2("EU", out var eu);
+if (CountryCodeElementRegistry.TryGetByAlpha2("EU", out var eu))
+{
+    Console.WriteLine(eu.DisplayName); // European Union
+    Console.WriteLine(eu.Kind);        // RegionGrouping
+}
 ```
 
 ## Persistence Guidance
@@ -138,6 +221,11 @@ Syntax validity does not mean the subdivision is known. Use `CountrySubdivisionR
 
 ```csharp
 CountrySubdivisionLookupResult subdivision = CountrySubdivisionRegistry.Lookup("GB-ENG");
+
+if (subdivision.Success)
+{
+    Console.WriteLine(subdivision.Subdivision!.EnglishName); // England
+}
 ```
 
 ## JSON
