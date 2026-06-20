@@ -75,7 +75,7 @@ Before publishing:
 
 - [ ] The GitHub `release` environment exists.
 - [ ] NuGet trusted publishing or `NuGet/login` is configured for this repository and environment.
-- [ ] Repository secret `NUGET_USER` is available if the NuGet login action requires it.
+- [ ] The NuGet trusted-publishing policy allows user `AnthonyPWatts`, repository `AnthonyPWatts/ISOCodex.Countries`, workflow `.github/workflows/publish-nuget.yml`, and environment `release`.
 - [ ] A matching release tag exists, such as `v1.0.0-alpha`, or the workflow is run manually with the same tag value.
 - [ ] The package version in `ISOCodex.Countries.csproj` matches the release tag without the leading `v`.
 
