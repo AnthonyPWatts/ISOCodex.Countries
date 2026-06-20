@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0-alpha - 2026-06-19
+## 1.0.0-alpha - 2026-06-20
 
 Alpha release candidate for the v1 foundation contract.
 
