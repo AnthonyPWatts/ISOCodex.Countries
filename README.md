@@ -6,6 +6,23 @@ It is intended for normal business applications that need stable value objects, 
 
 It is not an official ISO product, is not endorsed by ISO, and is not a geopolitical authority.
 
+## Why This Exists
+
+Country data looks simple until it reaches an application boundary.
+
+Real systems receive country values from forms, CSV imports, partner APIs, payment providers, address systems, reporting feeds, and old databases. Those values may be alpha-2 codes, alpha-3 codes, numeric codes with leading zeroes, display names, common aliases, special-purpose region codes, or just invalid text. Treating all of that as plain `string` data tends to push ambiguity into business code.
+
+`ISOCodex.Countries` gives .NET applications a small, explicit foundation for that boundary:
+
+- value objects represent canonical country and subdivision codes instead of bare strings;
+- `Parse` and `TryParse` follow familiar .NET patterns for trusted and untrusted input;
+- registry lookups distinguish valid syntax from known countries, unknown codes, and known non-country values;
+- numeric country codes preserve leading zeroes by design;
+- JSON converters integrate with `System.Text.Json` without forcing global serializer behaviour;
+- checked-in CLDR-derived data avoids hidden runtime network calls.
+
+The aim is not to decide political truth. The aim is to make country-code handling boring, typed, testable, and predictable in ordinary .NET code.
+
 ## Current Status
 
 `1.0.0-alpha` release candidate. The package has CLDR-derived current country, territory, and regular subdivision seed data, plus a stable foundation API.
