@@ -25,7 +25,7 @@ The aim is not to decide political truth. The aim is to make country-code handli
 
 ## Current Status
 
-`1.0.0-alpha` release candidate. The package has CLDR-derived current country, territory, display-name, alias, special-code-element, and regular subdivision seed data, plus a stable foundation API.
+`1.0.0-alpha.1` release candidate. The package has CLDR-derived current country, territory, display-name, alias, special-code-element, and regular subdivision seed data, plus a stable foundation API.
 
 ## What Is Included
 
@@ -99,6 +99,31 @@ Different values need different APIs. The package keeps these paths separate so 
 | Subdivision code | `CountrySubdivisionRegistry.Lookup` | `GB-ENG` resolves to England |
 
 `CountryRegistry.Lookup` is deliberately code-oriented. It does not resolve `Britain`, `Germany`, `Deutschland`, or `UK` as a country unless the caller opts into an alias or display-name API.
+
+## Syntax And Registry Membership
+
+Syntax validation and country lookup answer different questions.
+
+`CountryAlpha2Code.Parse` and `CountryAlpha2Code.TryParse` only validate and normalise the alpha-2 shape. They do not prove that the value is a current country known to this package. For example, `UK` is syntactically alpha-2, but the canonical current-country code for the United Kingdom is `GB`.
+
+When consumer code needs deliverability or current-country semantics, validate the syntax and then check the country registry:
+
+```csharp
+if (!CountryAlpha2Code.TryParse(input, out CountryAlpha2Code code))
+{
+    // Not syntactically alpha-2.
+}
+else if (!CountryRegistry.TryGetByAlpha2(code, out CountryInfo? country))
+{
+    // Syntactically alpha-2, but not a current country known to the registry.
+}
+else
+{
+    // Current country metadata is available.
+}
+```
+
+Use `CountryCodeElementRegistry` when an alpha-2-shaped value is meaningful but is not a current country entry, such as `EU`, `QO`, `XA`, `XB`, `XK`, or `ZZ`.
 
 ## Country Codes
 
@@ -304,7 +329,7 @@ Console.WriteLine(CountryDataVersion.Description);
 
 No runtime code makes hidden network calls. The runtime package uses checked-in compiled seed data rather than loose external files.
 
-Data-source policy and limitations are documented in [`docs/data-sources.md`](docs/data-sources.md). The `1.0.0-alpha` data decision is tracked in [`docs/data-strategy.md`](docs/data-strategy.md) and [`docs/decisions`](docs/decisions).
+Data-source policy and limitations are documented in [`docs/data-sources.md`](docs/data-sources.md). The v1 alpha data decision is tracked in [`docs/data-strategy.md`](docs/data-strategy.md) and [`docs/decisions`](docs/decisions).
 
 ## Release Verification
 

@@ -2,7 +2,7 @@
 
 ## Current status
 
-`ISOCodex.Countries` is a `1.0.0-alpha` foundation package with CLDR-derived current country, territory, selected display-name, alias, special-code-element, and regular subdivision seed data, strong value objects, registry lookup, JSON support, tests, package smoke testing, and release documentation.
+`ISOCodex.Countries` is a `1.0.0-alpha.1` foundation package with CLDR-derived current country, territory, selected display-name, alias, special-code-element, and regular subdivision seed data, strong value objects, registry lookup, JSON support, tests, package smoke testing, and release documentation.
 
 The package is not an official ISO product and does not provide official ISO subdivision categories or subdivision hierarchy modelling.
 

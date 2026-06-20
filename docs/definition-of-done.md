@@ -34,7 +34,7 @@ Done means registry lookups:
 
 ## Data completeness policy
 
-`1.0.0-alpha` requires complete current country, territory, selected display-name, explicit alias, special-code-element, and regular subdivision code/name coverage for the selected CLDR-derived scope. The v1 alpha data-scope decisions are recorded in `docs/decisions/0005-v1-alpha-country-data-scope.md` and `docs/decisions/0006-v1-alpha-subdivision-data-scope.md`.
+The v1 alpha package line requires complete current country, territory, selected display-name, explicit alias, special-code-element, and regular subdivision code/name coverage for the selected CLDR-derived scope. The v1 alpha data-scope decisions are recorded in `docs/decisions/0005-v1-alpha-country-data-scope.md` and `docs/decisions/0006-v1-alpha-subdivision-data-scope.md`.
 
 ## Data-source transparency
 

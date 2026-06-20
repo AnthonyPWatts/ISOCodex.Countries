@@ -4,7 +4,7 @@
     <TargetFrameworks>netstandard2.1;net8.0</TargetFrameworks>
     <PackageId>ISOCodex.Countries</PackageId>
     <VersionPrefix>1.0.0</VersionPrefix>
-    <VersionSuffix>alpha</VersionSuffix>
+    <VersionSuffix>alpha.1</VersionSuffix>
     <Title>ISOCodex.Countries</Title>
     <Description>Strongly typed country, country-code, subdivision, and jurisdiction metadata for .NET applications.</Description>
     <Authors>Anthony Watts</Authors>
@@ -15,7 +15,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>countries;iso3166;m49;country-codes;dotnet;validation</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageReleaseNotes>Initial v1 alpha release with CLDR-derived current country, territory, selected display-name, alias, special code-element, and regular subdivision seed data, plus explicit data-source limitations.</PackageReleaseNotes>
+    <PackageReleaseNotes>Clarifies alpha-2 syntax, current-country registry lookup, and special code-element guidance for v1 alpha consumers.</PackageReleaseNotes>
     <IsPackable>true</IsPackable>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>

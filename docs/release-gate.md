@@ -5,7 +5,7 @@ Use this checklist before any NuGet release. Publishing itself must be a separat
 ## Version and release notes
 
 - [ ] Version chosen intentionally.
-- [ ] Release version is intentionally `1.0.0-alpha`.
+- [ ] Release version is intentionally `1.0.0-alpha.1`.
 - [ ] v1 alpha data scope matches `docs/decisions/0005-v1-alpha-country-data-scope.md`.
 - [ ] `CHANGELOG.md` updated.
 - [ ] README reviewed.
@@ -76,7 +76,7 @@ Before publishing:
 - [ ] The GitHub `release` environment exists.
 - [ ] NuGet trusted publishing or `NuGet/login` is configured for this repository and environment.
 - [ ] The NuGet trusted-publishing policy allows user `AnthonyPWatts`, repository `AnthonyPWatts/ISOCodex.Countries`, workflow `.github/workflows/publish-nuget.yml`, and environment `release`.
-- [ ] A matching release tag exists, such as `v1.0.0-alpha`, or the workflow is run manually with the same tag value.
+- [ ] A matching release tag exists, such as `v1.0.0-alpha.1`, or the workflow is run manually with the same tag value.
 - [ ] The package version in `ISOCodex.Countries.csproj` matches the release tag without the leading `v`.
 
 ## Final release decision
@@ -85,5 +85,5 @@ Before publishing:
 - [ ] No accidental public API drift.
 - [ ] No accidental JSON/compiled seed drift.
 - [ ] Known limitations documented.
-- [ ] `1.0.0-alpha` release posture still matches `docs/decisions/0005-v1-alpha-country-data-scope.md`.
+- [ ] v1 alpha release posture still matches `docs/decisions/0005-v1-alpha-country-data-scope.md`.
 - [ ] NuGet publishing performed separately and intentionally.

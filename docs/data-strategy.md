@@ -2,13 +2,13 @@
 
 ## Current posture
 
-`ISOCodex.Countries` targets `1.0.0-alpha` with CLDR-derived current country, territory, display-name, alias, special-code-element, and regular subdivision seed data.
+`ISOCodex.Countries` targets the v1 alpha package line with CLDR-derived current country, territory, display-name, alias, special-code-element, and regular subdivision seed data.
 
 The package generates 249 current ISO-style alpha-2, alpha-3, numeric, and English display-name records; 2,739 selected-locale country display-name records; 51 alias records; 6 special code-element records; and 5,027 regular subdivision code/name records from Unicode CLDR 48.2. It is not a redistributed official ISO table, does not claim ISO endorsement, and is not a source of geopolitical authority.
 
 ## What v1 alpha promises
 
-`1.0.0-alpha` promises a dependency-light foundation package:
+The v1 alpha package line promises a dependency-light foundation package:
 
 - strongly typed country and subdivision code value objects;
 - canonical parsing and syntax validation;
@@ -22,7 +22,7 @@ The package generates 249 current ISO-style alpha-2, alpha-3, numeric, and Engli
 - checked-in compiled data with no hidden runtime network calls;
 - documented data limitations, source attribution, and version disclosure.
 
-`1.0.0-alpha` does not promise complete localisation, authoritative endonym coverage, flags, calling codes, currencies, sanctions data, address formatting, geospatial data, online updates, official ISO subdivision category names, subdivision hierarchy modelling, or authoritative modelling of reserved and former code ranges.
+The v1 alpha package line does not promise complete localisation, authoritative endonym coverage, flags, calling codes, currencies, sanctions data, address formatting, geospatial data, online updates, official ISO subdivision category names, subdivision hierarchy modelling, or authoritative modelling of reserved and former code ranges.
 
 ## Selected source path
 
@@ -93,4 +93,4 @@ Tests should continue to prove:
 
 ## Current recommendation
 
-Prepare `1.0.0-alpha` as the next release candidate if the final release gate passes. Keep NuGet publishing separate and intentional.
+Prepare `1.0.0-alpha.1` as the next release candidate if the final release gate passes. Keep NuGet publishing separate and intentional.

@@ -2,7 +2,9 @@
 
 `ISOCodex.Countries` follows Semantic Versioning for public API changes.
 
-The package currently targets `1.0.0-alpha` because country and territory data is complete for the selected CLDR-derived v1 alpha scope.
+The package currently targets `1.0.0-alpha.1` because `1.0.0-alpha` has already been published and NuGet package versions are immutable.
+
+The v1 alpha package line is appropriate because country and territory data is complete for the selected CLDR-derived v1 alpha scope.
 
 The v1 alpha data-scope decision is tracked in `docs/data-strategy.md` and `docs/decisions/0005-v1-alpha-country-data-scope.md`.
 

@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.0-alpha.1 - 2026-06-20
+
+Documentation update for the v1 alpha package line.
+
+### Changed
+
+- Clarified the difference between alpha-2 syntax validation, current-country registry lookup, and special code-element lookup.
+- Updated package release notes for the `1.0.0-alpha.1` documentation package.
+
 ## 1.0.0-alpha - 2026-06-20
 
 Alpha release candidate for the v1 foundation contract.
