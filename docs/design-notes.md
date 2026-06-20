@@ -14,4 +14,4 @@ Invalid, unknown, and reserved values must be distinct concepts. Display names a
 
 Runtime library code must not make hidden network calls. Country and subdivision metadata should expose source and version transparency so consumers can reason about the data they are using.
 
-Full subdivision coverage is deferred because it is a data-source, licensing, package-size, and maintenance problem rather than a core value-object problem.
+Subdivision code/name coverage is included for the selected CLDR-derived regular subdivision scope. Official ISO subdivision category/type wording, hierarchy modelling, and richer geopolitical metadata remain separate data-source and maintenance problems rather than core value-object concerns.

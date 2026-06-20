@@ -3,9 +3,9 @@
 ## Checked environment
 
 - Branch: `main`
-- Commit: release-candidate working tree
+- Commit: release-candidate commit
 - .NET SDK: `8.0.422`
-- Audit date: 2026-06-19
+- Audit date: 2026-06-20
 
 ## Projects and target frameworks
 
@@ -116,8 +116,11 @@ Current release-candidate verification:
 | `dotnet build --configuration Release` | Passed |
 | `dotnet test --configuration Release` | Passed |
 | `dotnet pack --configuration Release --output ./artifacts` | Passed |
+| `./eng/smoke-test-package.ps1` | Passed |
+| `dotnet run --project samples/CountryLookup.Console --configuration Release` | Passed |
+| `dotnet run --project samples/CsvImport.Validation --configuration Release` | Passed |
 
-After hardening, run the final verification commands from `docs/release-gate.md` before any release. The package smoke test now also checks package contents and local consumer installation.
+The final local verification commands from `docs/release-gate.md` passed on 2026-06-20. The package smoke test checks package contents and local consumer installation.
 
 ## Gaps
 
