@@ -67,6 +67,18 @@ All commands must pass or the blocker must be documented before release.
 - [ ] CI restores, builds, tests, packs, and runs package smoke testing.
 - [ ] CI uploads package artifacts for the release-candidate commit.
 
+## NuGet publishing workflow
+
+Publishing is handled by `.github/workflows/publish-nuget.yml`.
+
+Before publishing:
+
+- [ ] The GitHub `release` environment exists.
+- [ ] NuGet trusted publishing or `NuGet/login` is configured for this repository and environment.
+- [ ] Repository secret `NUGET_USER` is available if the NuGet login action requires it.
+- [ ] A matching release tag exists, such as `v1.0.0-alpha`, or the workflow is run manually with the same tag value.
+- [ ] The package version in `ISOCodex.Countries.csproj` matches the release tag without the leading `v`.
+
 ## Final release decision
 
 - [ ] No hidden runtime network calls.

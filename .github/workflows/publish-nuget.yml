@@ -1,0 +1,94 @@
+name: publish-nuget
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: "Release tag to publish, for example v1.0.0-alpha"
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment: release
+    permissions:
+      contents: read
+      id-token: write
+
+    steps:
+      - name: Resolve ref
+        id: ref
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "value=${{ inputs.release_tag }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=${GITHUB_REF_NAME}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ steps.ref.outputs.value }}
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Verify release version
+        shell: pwsh
+        run: |
+          $releaseTag = "${{ steps.ref.outputs.value }}"
+          $expectedVersion = $releaseTag.TrimStart("v")
+          [xml]$project = Get-Content -Raw src/ISOCodex.Countries/ISOCodex.Countries.csproj
+          $prefix = $project.Project.PropertyGroup.VersionPrefix
+          $suffix = $project.Project.PropertyGroup.VersionSuffix
+          $actualVersion = if ([string]::IsNullOrWhiteSpace($suffix)) { $prefix } else { "$prefix-$suffix" }
+
+          if ($actualVersion -ne $expectedVersion) {
+            throw "Package version '$actualVersion' does not match release tag '$releaseTag'."
+          }
+
+      - name: Restore
+        run: dotnet restore
+
+      - name: Build
+        run: dotnet build --configuration Release --no-restore
+
+      - name: Test
+        run: dotnet test --configuration Release --no-build
+
+      - name: Pack
+        run: dotnet pack --configuration Release --no-build --output ./artifacts
+
+      - name: Package smoke test
+        shell: pwsh
+        run: ./eng/smoke-test-package.ps1
+
+      - name: NuGet login
+        uses: NuGet/login@v1
+        id: login
+        with:
+          user: ${{ secrets.NUGET_USER }}
+
+      - name: Publish package
+        shell: pwsh
+        run: |
+          $version = "${{ steps.ref.outputs.value }}".TrimStart("v")
+          $package = Get-ChildItem artifacts/ISOCodex.Countries.*.nupkg |
+            Where-Object { $_.BaseName -eq "ISOCodex.Countries.$version" } |
+            Select-Object -First 1
+
+          if ($null -eq $package) {
+            throw "Package ISOCodex.Countries.$version was not found."
+          }
+
+          dotnet nuget push $package.FullName --api-key "${{ steps.login.outputs.NUGET_API_KEY }}" --source https://api.nuget.org/v3/index.json
