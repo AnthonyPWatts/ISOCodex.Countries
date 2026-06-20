@@ -26,6 +26,6 @@ The v1 alpha subdivision-data contract is:
 
 Consumers can validate and look up known subdivision codes broadly through `CountrySubdivisionRegistry`.
 
-The package still does not claim official ISO redistribution, official ISO subdivision type names, localisation, hierarchy/containment modelling, or complete political authority.
+The package still does not claim official ISO redistribution, official ISO subdivision type names, complete localisation, hierarchy/containment modelling, or complete political authority.
 
 Future subdivision category/type enrichment needs a separate source decision.

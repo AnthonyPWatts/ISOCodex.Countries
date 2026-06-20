@@ -1,0 +1,45 @@
+[
+  {
+    "alpha2": "EU",
+    "kind": "RegionGrouping",
+    "displayName": "European Union",
+    "source": "Unicode CLDR release 48.2 common/main/en.xml territory display name",
+    "notes": "A region grouping, not a current country entry in this package."
+  },
+  {
+    "alpha2": "QO",
+    "kind": "RegionGrouping",
+    "displayName": "Outlying Oceania",
+    "source": "Unicode CLDR release 48.2 common/main/en.xml territory display name",
+    "notes": "A CLDR region grouping, not a current country entry in this package."
+  },
+  {
+    "alpha2": "XA",
+    "kind": "PseudoTerritory",
+    "displayName": "Pseudo-Accents",
+    "source": "Unicode CLDR release 48.2 common/main/en.xml territory display name",
+    "notes": "A CLDR pseudo-territory used for testing locale data."
+  },
+  {
+    "alpha2": "XB",
+    "kind": "PseudoTerritory",
+    "displayName": "Pseudo-Bidi",
+    "source": "Unicode CLDR release 48.2 common/main/en.xml territory display name",
+    "notes": "A CLDR pseudo-territory used for testing bidirectional locale data."
+  },
+  {
+    "alpha2": "XK",
+    "kind": "UserAssigned",
+    "displayName": "Kosovo",
+    "source": "Unicode CLDR release 48.2 common/main/en.xml territory display name",
+    "notes": "A commonly used user-assigned code; not treated as a current ISO 3166-1 country entry by this package."
+  },
+  {
+    "alpha2": "ZZ",
+    "kind": "UnknownRegion",
+    "displayName": "Unknown Region",
+    "source": "Unicode CLDR release 48.2 common/main/en.xml territory display name",
+    "notes": "A CLDR unknown-region placeholder."
+  }
+]
+

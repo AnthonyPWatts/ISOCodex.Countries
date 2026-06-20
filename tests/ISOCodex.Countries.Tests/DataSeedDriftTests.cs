@@ -49,10 +49,65 @@ public sealed class DataSeedDriftTests
     }
 
     [Fact]
+    public void Country_Display_Name_Json_Seed_Mirrors_Compiled_Registry_Data()
+    {
+        CountryDisplayNameSeedRecord[] jsonNames = ReadSeedFile<CountryDisplayNameSeedRecord>("country-names.seed.json");
+
+        var compiled = CountryNameRegistry.All
+            .Select(name => new CountryDisplayNameSeedRecord(
+                name.CountryCode.Value,
+                name.LanguageTag,
+                name.Name,
+                name.Kind,
+                name.IsEndonym,
+                name.IsRightToLeft))
+            .ToArray();
+
+        Assert.Equal(compiled, jsonNames);
+    }
+
+    [Fact]
+    public void Country_Alias_Json_Seed_Mirrors_Compiled_Registry_Data()
+    {
+        CountryAliasSeedRecord[] jsonAliases = ReadSeedFile<CountryAliasSeedRecord>("country-aliases.seed.json");
+
+        var compiled = CountryAliasRegistry.All
+            .Select(alias => new CountryAliasSeedRecord(
+                alias.Alias,
+                alias.ReplacementCountryCode?.Value,
+                alias.Kind,
+                alias.Source,
+                alias.Notes))
+            .ToArray();
+
+        Assert.Equal(compiled, jsonAliases);
+    }
+
+    [Fact]
+    public void Country_Code_Element_Json_Seed_Mirrors_Compiled_Registry_Data()
+    {
+        CountryCodeElementSeedRecord[] jsonElements = ReadSeedFile<CountryCodeElementSeedRecord>("country-code-elements.seed.json");
+
+        var compiled = CountryCodeElementRegistry.All
+            .Select(element => new CountryCodeElementSeedRecord(
+                element.Alpha2.Value,
+                element.Kind,
+                element.DisplayName,
+                element.Source,
+                element.Notes))
+            .ToArray();
+
+        Assert.Equal(compiled, jsonElements);
+    }
+
+    [Fact]
     public void Json_Seed_Files_Are_Valid_Json()
     {
         Assert.NotEmpty(ReadSeedFile<CountrySeedRecord>("countries.seed.json"));
         Assert.NotEmpty(ReadSeedFile<SubdivisionSeedRecord>("subdivisions.seed.json"));
+        Assert.NotEmpty(ReadSeedFile<CountryDisplayNameSeedRecord>("country-names.seed.json"));
+        Assert.NotEmpty(ReadSeedFile<CountryAliasSeedRecord>("country-aliases.seed.json"));
+        Assert.NotEmpty(ReadSeedFile<CountryCodeElementSeedRecord>("country-code-elements.seed.json"));
     }
 
     private static T[] ReadSeedFile<T>(string fileName)
@@ -109,4 +164,26 @@ public sealed class DataSeedDriftTests
         string EnglishName,
         string? LocalName,
         CountrySubdivisionType Type);
+
+    private sealed record CountryDisplayNameSeedRecord(
+        string CountryCode,
+        string LanguageTag,
+        string Name,
+        CountryDisplayNameKind Kind,
+        bool IsEndonym,
+        bool IsRightToLeft);
+
+    private sealed record CountryAliasSeedRecord(
+        string Alias,
+        string? ReplacementCountryCode,
+        CountryAliasKind Kind,
+        string Source,
+        string? Notes);
+
+    private sealed record CountryCodeElementSeedRecord(
+        string Alpha2,
+        CountryCodeElementKind Kind,
+        string DisplayName,
+        string Source,
+        string? Notes);
 }

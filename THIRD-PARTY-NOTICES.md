@@ -7,14 +7,25 @@ Country, territory, and subdivision seed data is derived from Unicode CLDR relea
 - `common/supplemental/supplementalData.xml`
 - `common/supplemental/supplementalMetadata.xml`
 - `common/main/en.xml`
+- `common/main/de.xml`
+- `common/main/el.xml`
+- `common/main/ja.xml`
+- `common/main/zh.xml`
+- `common/main/zh_Hant.xml`
+- `common/main/ar.xml`
+- `common/main/he.xml`
+- `common/main/pt.xml`
+- `common/main/pt_BR.xml`
+- `common/main/fr.xml`
+- `common/main/es.xml`
 - `common/validity/subdivision.xml`
 - `common/subdivisions/en.xml`
 
 CLDR data is copyright Unicode, Inc. and is released under the Unicode License v3.
 
-The package uses CLDR territory code mappings and English territory display names to build a current ISO-style country and territory registry. It excludes deprecated territory aliases, CLDR pseudo-territories, regional groupings, unknown-region placeholders, and user-assigned code elements that are not ISO 3166-1 assigned country entries.
+The package uses CLDR territory code mappings and English territory display names to build a current ISO-style country and territory registry. It excludes deprecated territory aliases, CLDR pseudo-territories, regional groupings, unknown-region placeholders, and user-assigned code elements that are not ISO 3166-1 assigned country entries from the current-country registry.
 
-The package also uses CLDR subdivision validity data and English subdivision display names to build the subdivision registry.
+The package also uses selected CLDR locale display-name files to build country display-name data, `territoryAlias` metadata to build explicit alias lookup data, CLDR special territory display names to build the code-element registry, and CLDR subdivision validity data and English subdivision display names to build the subdivision registry.
 
 Unicode License v3 text:
 

@@ -158,6 +158,80 @@ public sealed class DataIntegrityTests
         }
     }
 
+    [Fact]
+    public void Country_Display_Name_Data_Has_No_Duplicate_Country_Language_Kind_Keys()
+    {
+        AssertNoDuplicates(CountryNameRegistry.All.Select(name =>
+            string.Join("|", name.CountryCode.Value, name.LanguageTag, name.Kind.ToString())));
+    }
+
+    [Fact]
+    public void Country_Display_Name_Data_Refers_To_Known_Countries()
+    {
+        foreach (CountryDisplayName name in CountryNameRegistry.All)
+        {
+            Assert.True(CountryRegistry.TryGetByAlpha2(name.CountryCode, out _));
+        }
+    }
+
+    [Fact]
+    public void Country_Display_Name_Data_Has_No_Empty_Names_And_Is_Nfc_Normalized()
+    {
+        foreach (CountryDisplayName name in CountryNameRegistry.All)
+        {
+            Assert.False(string.IsNullOrWhiteSpace(name.LanguageTag));
+            Assert.False(string.IsNullOrWhiteSpace(name.Name));
+            Assert.Equal(name.Name.Normalize(System.Text.NormalizationForm.FormC), name.Name);
+        }
+    }
+
+    [Fact]
+    public void Country_Display_Name_Data_Has_Expected_Minimum_Coverage_And_Key_Scripts()
+    {
+        Assert.True(CountryNameRegistry.All.Count >= 2700);
+        Assert.True(CountryNameRegistry.All.Select(name => name.LanguageTag).Distinct(StringComparer.OrdinalIgnoreCase).Count() >= 10);
+
+        AssertDisplayName("DE", "de", "Deutschland");
+        AssertDisplayName("JP", "ja", "日本");
+        AssertDisplayName("GR", "el", "Ελλάδα");
+        AssertDisplayName("CN", "zh-Hans", "中国");
+
+        Assert.True(CountryNameRegistry.TryGetDisplayName(CountryAlpha2Code.Parse("SA"), "ar", out CountryDisplayName? arabic));
+        Assert.Equal("المملكة العربية السعودية", arabic!.Name);
+        Assert.True(arabic.IsRightToLeft);
+
+        Assert.True(CountryNameRegistry.TryGetDisplayName(CountryAlpha2Code.Parse("IL"), "he", out CountryDisplayName? hebrew));
+        Assert.Equal("ישראל", hebrew!.Name);
+        Assert.True(hebrew.IsRightToLeft);
+    }
+
+    [Fact]
+    public void Country_Alias_Data_Has_No_Empty_Fields_And_References_Known_Countries()
+    {
+        foreach (CountryAliasInfo alias in CountryAliasRegistry.All)
+        {
+            Assert.False(string.IsNullOrWhiteSpace(alias.Alias));
+            Assert.False(string.IsNullOrWhiteSpace(alias.Source));
+
+            if (alias.ReplacementCountryCode.HasValue)
+            {
+                Assert.True(CountryRegistry.TryGetByAlpha2(alias.ReplacementCountryCode.Value, out _));
+            }
+        }
+    }
+
+    [Fact]
+    public void Country_Code_Element_Data_Has_No_Duplicate_Alpha2_Codes_And_No_Empty_Metadata()
+    {
+        AssertNoDuplicates(CountryCodeElementRegistry.All.Select(element => element.Alpha2.Value));
+
+        foreach (CountryCodeElementInfo element in CountryCodeElementRegistry.All)
+        {
+            Assert.False(string.IsNullOrWhiteSpace(element.DisplayName));
+            Assert.False(string.IsNullOrWhiteSpace(element.Source));
+        }
+    }
+
     private static void AssertNoDuplicates(IEnumerable<string> values)
     {
         string[] duplicates = values
@@ -167,6 +241,12 @@ public sealed class DataIntegrityTests
             .ToArray();
 
         Assert.Empty(duplicates);
+    }
+
+    private static void AssertDisplayName(string countryCode, string languageTag, string expectedName)
+    {
+        Assert.True(CountryNameRegistry.TryGetDisplayName(CountryAlpha2Code.Parse(countryCode), languageTag, out CountryDisplayName? name));
+        Assert.Equal(expectedName, name!.Name);
     }
 
     private static string FindRepositoryRoot()

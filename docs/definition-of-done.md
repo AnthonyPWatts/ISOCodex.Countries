@@ -6,7 +6,7 @@
 
 ## Non-goals
 
-The package does not provide sanctions data, flags, calling codes, currencies, address formatting, geospatial data, localisation, online updates, official ISO subdivision categories, or subdivision hierarchy modelling in the core package.
+The package does not provide sanctions data, flags, calling codes, currencies, address formatting, geospatial data, complete localisation, online updates, official ISO subdivision categories, or subdivision hierarchy modelling in the core package.
 
 ## Value-object correctness
 
@@ -25,13 +25,16 @@ Done means registry lookups:
 - resolve known alpha-2, alpha-3, and numeric codes to the same country entry,
 - keep invalid syntax separate from unknown valid code shapes,
 - do not silently resolve `UK` to `GB`,
+- keep alias lookup explicit and opt-in,
+- keep display-name lookup separate from canonical country-code lookup,
 - do not treat `EU` or `ZZ` as current countries without explicit model support,
+- report subdivision-shaped country lookup input as `Unsupported`,
 - throw clear exceptions from `GetBy...` for unknown valid codes,
 - return false rather than throwing from `TryGet...` methods.
 
 ## Data completeness policy
 
-`1.0.0-alpha` requires complete current country, territory, and regular subdivision code/name coverage for the selected CLDR-derived scope. The v1 alpha data-scope decisions are recorded in `docs/decisions/0005-v1-alpha-country-data-scope.md` and `docs/decisions/0006-v1-alpha-subdivision-data-scope.md`.
+`1.0.0-alpha` requires complete current country, territory, selected display-name, explicit alias, special-code-element, and regular subdivision code/name coverage for the selected CLDR-derived scope. The v1 alpha data-scope decisions are recorded in `docs/decisions/0005-v1-alpha-country-data-scope.md` and `docs/decisions/0006-v1-alpha-subdivision-data-scope.md`.
 
 ## Data-source transparency
 
@@ -62,6 +65,10 @@ Done means tests cover:
 
 - value-object syntax and canonicalisation,
 - registry success, unknown, alias-like, and invalid cases,
+- display-name fallback, Unicode, NFC, right-to-left, and conservative endonym cases,
+- alias lookup, ambiguity, and canonical lookup separation,
+- special code-element registry behaviour,
+- subdivision lookup result semantics,
 - JSON serialisation and deserialisation,
 - seed data integrity,
 - JSON seed and compiled seed drift,
@@ -96,4 +103,4 @@ Before any NuGet release, run the checklist in `docs/release-gate.md`. NuGet pub
 
 ## Known limitations
 
-Country, territory, and regular subdivision seed data is derived from Unicode CLDR 48.2 for the selected v1 alpha scope. Subdivision type metadata is intentionally sparse.
+Country, territory, selected display-name, alias, special-code-element, and regular subdivision seed data is derived from Unicode CLDR 48.2 for the selected v1 alpha scope. Endonym coverage and subdivision type metadata are intentionally sparse.

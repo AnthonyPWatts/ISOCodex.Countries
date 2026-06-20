@@ -14,6 +14,9 @@ $extractRoot = Join-Path $workRoot $CldrTag
 $sourceRoot = Join-Path $extractRoot "cldr-$CldrTag"
 $countryDataPath = Join-Path $repoRoot "data/countries.seed.json"
 $subdivisionDataPath = Join-Path $repoRoot "data/subdivisions.seed.json"
+$countryNameDataPath = Join-Path $repoRoot "data/country-names.seed.json"
+$aliasDataPath = Join-Path $repoRoot "data/country-aliases.seed.json"
+$codeElementDataPath = Join-Path $repoRoot "data/country-code-elements.seed.json"
 $codePath = Join-Path $repoRoot "src/ISOCodex.Countries/CountrySeedData.cs"
 
 $subdivisionTypeOverlays = @{
@@ -30,7 +33,13 @@ $subdivisionTypeOverlays = @{
 function ConvertTo-CSharpStringLiteral {
     param([string]$Value)
 
-    return '"' + $Value.Replace('\', '\\').Replace('"', '\"') + '"'
+    $escaped = $Value.Replace('\', '\\').
+        Replace('"', '\"').
+        Replace("`r", '\r').
+        Replace("`n", '\n').
+        Replace("`t", '\t')
+
+    return '"' + $escaped + '"'
 }
 
 function Format-CSharpNullableString {
@@ -51,6 +60,22 @@ function Format-CSharpStringArray {
     }
 
     return "new[] { " + (($Values | ForEach-Object { ConvertTo-CSharpStringLiteral $_ }) -join ", ") + " }"
+}
+
+function Format-CSharpNullableAlpha2 {
+    param([string]$Value)
+
+    if ([string]::IsNullOrWhiteSpace($Value)) {
+        return "null"
+    }
+
+    return "CountryAlpha2Code.Parse(" + (ConvertTo-CSharpStringLiteral $Value) + ")"
+}
+
+function Format-CSharpBoolean {
+    param([bool]$Value)
+
+    return $Value.ToString().ToLowerInvariant()
 }
 
 function Expand-CldrSubdivisionToken {
@@ -196,14 +221,75 @@ function New-SubdivisionLines {
     return $lines
 }
 
+function New-CountryDisplayNameLines {
+    param([object[]]$Names)
+
+    $lines = New-Object System.Collections.Generic.List[string]
+
+    foreach ($name in $Names) {
+        $lines.Add(
+            "        new(CountryAlpha2Code.Parse(" + (ConvertTo-CSharpStringLiteral $name.countryCode) +
+            "), " + (ConvertTo-CSharpStringLiteral $name.languageTag) +
+            ", " + (ConvertTo-CSharpStringLiteral $name.name) +
+            ", CountryDisplayNameKind." + $name.kind +
+            ", isEndonym: " + (Format-CSharpBoolean $name.isEndonym) +
+            ", isRightToLeft: " + (Format-CSharpBoolean $name.isRightToLeft) + "),")
+    }
+
+    $lines[$lines.Count - 1] = $lines[$lines.Count - 1].TrimEnd(",")
+    return $lines
+}
+
+function New-CountryAliasLines {
+    param([object[]]$Aliases)
+
+    $lines = New-Object System.Collections.Generic.List[string]
+
+    foreach ($alias in $Aliases) {
+        $lines.Add(
+            "        new(" + (ConvertTo-CSharpStringLiteral $alias.alias) +
+            ", " + (Format-CSharpNullableAlpha2 $alias.replacementCountryCode) +
+            ", CountryAliasKind." + $alias.kind +
+            ", " + (ConvertTo-CSharpStringLiteral $alias.source) +
+            ", " + (Format-CSharpNullableString $alias.notes) + "),")
+    }
+
+    $lines[$lines.Count - 1] = $lines[$lines.Count - 1].TrimEnd(",")
+    return $lines
+}
+
+function New-CountryCodeElementLines {
+    param([object[]]$Elements)
+
+    $lines = New-Object System.Collections.Generic.List[string]
+
+    foreach ($element in $Elements) {
+        $lines.Add(
+            "        new(CountryAlpha2Code.Parse(" + (ConvertTo-CSharpStringLiteral $element.alpha2) +
+            "), CountryCodeElementKind." + $element.kind +
+            ", " + (ConvertTo-CSharpStringLiteral $element.displayName) +
+            ", " + (ConvertTo-CSharpStringLiteral $element.source) +
+            ", " + (Format-CSharpNullableString $element.notes) + "),")
+    }
+
+    $lines[$lines.Count - 1] = $lines[$lines.Count - 1].TrimEnd(",")
+    return $lines
+}
+
 function Update-CountrySeedDataCode {
     param(
         [object[]]$Countries,
-        [object[]]$Subdivisions
+        [object[]]$Subdivisions,
+        [object[]]$CountryDisplayNames,
+        [object[]]$CountryAliases,
+        [object[]]$CountryCodeElements
     )
 
     $countryLines = New-CountryLines $Countries
     $subdivisionLines = New-SubdivisionLines $Subdivisions
+    $displayNameLines = New-CountryDisplayNameLines $CountryDisplayNames
+    $aliasLines = New-CountryAliasLines $CountryAliases
+    $codeElementLines = New-CountryCodeElementLines $CountryCodeElements
 
     $code = @"
 namespace ISOCodex.Countries;
@@ -219,6 +305,21 @@ $($countryLines -join [Environment]::NewLine)
     {
 $($subdivisionLines -join [Environment]::NewLine)
     }.AsReadOnly();
+
+    public static IReadOnlyList<CountryDisplayName> CountryDisplayNames { get; } = new List<CountryDisplayName>
+    {
+$($displayNameLines -join [Environment]::NewLine)
+    }.AsReadOnly();
+
+    public static IReadOnlyList<CountryAliasInfo> CountryAliases { get; } = new List<CountryAliasInfo>
+    {
+$($aliasLines -join [Environment]::NewLine)
+    }.AsReadOnly();
+
+    public static IReadOnlyList<CountryCodeElementInfo> CountryCodeElements { get; } = new List<CountryCodeElementInfo>
+    {
+$($codeElementLines -join [Environment]::NewLine)
+    }.AsReadOnly();
 }
 "@
 
@@ -227,6 +328,9 @@ $($subdivisionLines -join [Environment]::NewLine)
 
 $countries = @((Get-Content -Raw -Path $countryDataPath | ConvertFrom-Json) | Sort-Object alpha2)
 $currentSubdivisions = @((Get-Content -Raw -Path $subdivisionDataPath | ConvertFrom-Json) | Sort-Object code)
+$countryDisplayNames = @((Get-Content -Raw -Path $countryNameDataPath | ConvertFrom-Json) | Sort-Object countryCode, languageTag, kind)
+$countryAliases = @((Get-Content -Raw -Path $aliasDataPath | ConvertFrom-Json) | Sort-Object alias, replacementCountryCode, kind)
+$countryCodeElements = @((Get-Content -Raw -Path $codeElementDataPath | ConvertFrom-Json) | Sort-Object alpha2)
 $generatedSubdivisions = Get-CldrSubdivisionRecords
 
 if ($generatedSubdivisions.Count -ne 5027) {
@@ -264,6 +368,11 @@ $mergedSubdivisions = @(
 $json = $mergedSubdivisions | ConvertTo-Json -Depth 8
 Set-Content -Path $subdivisionDataPath -Value ($json + [Environment]::NewLine) -Encoding UTF8
 
-Update-CountrySeedDataCode -Countries $countries -Subdivisions $mergedSubdivisions
+Update-CountrySeedDataCode `
+    -Countries $countries `
+    -Subdivisions $mergedSubdivisions `
+    -CountryDisplayNames $countryDisplayNames `
+    -CountryAliases $countryAliases `
+    -CountryCodeElements $countryCodeElements
 
 Write-Output "Generated subdivision seed data for $($countriesToComplete.Count) country/countries from CLDR $CldrVersion ($CldrTag)."

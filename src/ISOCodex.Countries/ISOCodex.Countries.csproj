@@ -15,7 +15,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>countries;iso3166;m49;country-codes;dotnet;validation</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageReleaseNotes>Initial v1 alpha release with CLDR-derived current country, territory, and regular subdivision seed data, plus explicit data-source limitations.</PackageReleaseNotes>
+    <PackageReleaseNotes>Initial v1 alpha release with CLDR-derived current country, territory, selected display-name, alias, special code-element, and regular subdivision seed data, plus explicit data-source limitations.</PackageReleaseNotes>
     <IsPackable>true</IsPackable>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>

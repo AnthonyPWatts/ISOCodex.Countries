@@ -35,6 +35,12 @@ Public metadata and result types found:
 
 - `CountryInfo`
 - `CountrySubdivisionInfo`
+- `CountryDisplayName`
+- `CountryDisplayNameLookupResult`
+- `CountryAliasInfo`
+- `CountryAliasLookupResult`
+- `CountryCodeElementInfo`
+- `CountrySubdivisionLookupResult`
 - `CountryCodeLookupResult`
 - `CountryCodeValidationIssue`
 - `CountryDataVersion`
@@ -42,6 +48,9 @@ Public metadata and result types found:
 Public enum types found:
 
 - `CountryEntryStatus`
+- `CountryDisplayNameKind`
+- `CountryAliasKind`
+- `CountryCodeElementKind`
 - `CountrySubdivisionType`
 - `CountryCodeKind`
 - `CountryCodeLookupFailureReason`
@@ -49,6 +58,9 @@ Public enum types found:
 Public registries found:
 
 - `CountryRegistry`
+- `CountryNameRegistry`
+- `CountryAliasRegistry`
+- `CountryCodeElementRegistry`
 - `CountrySubdivisionRegistry`
 
 JSON converter types found:
@@ -64,6 +76,10 @@ The country registry uses compiled seed data from `CountrySeedData`.
 
 Current country and territory entries are generated from Unicode CLDR 48.2. The registry contains 249 current ISO-style alpha-2, alpha-3, numeric, and English display-name entries for the selected v1 alpha scope.
 
+Country display-name entries are generated from selected Unicode CLDR 48.2 locale files. The registry contains 2,739 Unicode/NFC-normalised names, including non-Latin and right-to-left examples.
+
+Alias and special-code-element entries are generated from reviewed overlays and CLDR 48.2 metadata. Alias lookup is explicit and special code elements are not treated as current countries.
+
 Subdivision entries are generated from Unicode CLDR 48.2. The registry contains 5,027 regular subdivision code/name records across 200 countries for the selected v1 alpha scope.
 
 The JSON seed files in `data/` mirror the compiled seed data and are now protected by tests.
@@ -73,7 +89,7 @@ The JSON seed files in `data/` mirror the compiled seed data and are now protect
 Tests found:
 
 - value-object syntax and normalisation tests
-- registry lookup tests
+- registry, display-name, alias, special-code-element, and subdivision lookup tests
 - JSON converter tests
 - data integrity tests
 - public API ergonomics tests
@@ -102,7 +118,7 @@ Additional hardening documentation has been added for current state, API review,
 
 Package metadata includes package ID, title, description, author, repository URL, project URL, MIT licence expression, tags, README packaging, deterministic builds, Source Link, and XML documentation generation for packable projects.
 
-The package version is explicitly `1.0.0-alpha` after adding CLDR-derived country and territory data.
+The package version is explicitly `1.0.0-alpha` after adding CLDR-derived country, display-name, alias, special-code-element, and subdivision data.
 
 CI restores, builds, tests, packs, runs the local package smoke test, and uploads package artifacts.
 
@@ -125,8 +141,9 @@ The final local verification commands from `docs/release-gate.md` passed on 2026
 ## Gaps
 
 - Country and territory data is complete for the selected CLDR-derived v1 alpha scope.
+- Display-name and endonym coverage is deliberately bounded to the selected CLDR locale set and reviewed endonym mapping.
 - Official ISO subdivision category/type enrichment is intentionally deferred.
-- Reserved, exceptional, former, and user-assigned code modelling exists in enum shape only; the registry does not yet contain separate data for those states.
+- Complete reserved, exceptional, former, and user-assigned code modelling is still deferred; only selected special country-code-shaped elements are currently exposed.
 - JSON converters require manual registration and reject non-string tokens explicitly.
 - Public API snapshot approval is lightweight reflection-based protection, not a full binary compatibility tool.
 

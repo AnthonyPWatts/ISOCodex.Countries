@@ -16,16 +16,6 @@ public static class CountryRegistry
     private static readonly IReadOnlyDictionary<string, CountryInfo> ByNumeric =
         All.ToDictionary(country => country.Numeric.Value, StringComparer.Ordinal);
 
-    private static readonly ISet<string> KnownNonCountryAlpha2Codes = new HashSet<string>(StringComparer.Ordinal)
-    {
-        "EU",
-        "QO",
-        "XA",
-        "XB",
-        "XK",
-        "ZZ"
-    };
-
     public static CountryInfo GetByAlpha2(CountryAlpha2Code code) =>
         TryGetByAlpha2(code, out CountryInfo? country)
             ? country!
@@ -75,9 +65,17 @@ public static class CountryRegistry
             return CountryCodeLookupResult.Failed(CountryCodeLookupFailureReason.Empty);
         }
 
+        if (CountrySubdivisionCode.TryParse(value, out CountrySubdivisionCode subdivisionCode))
+        {
+            return CountryCodeLookupResult.Failed(
+                CountryCodeLookupFailureReason.Unsupported,
+                normalizedInput: subdivisionCode.Value);
+        }
+
         if (CountryAlpha2Code.TryParse(value, out CountryAlpha2Code alpha2))
         {
-            if (KnownNonCountryAlpha2Codes.Contains(alpha2.Value))
+            if (CountryCodeElementRegistry.TryGetByAlpha2(alpha2, out CountryCodeElementInfo? element)
+                && element!.Kind != CountryCodeElementKind.CurrentCountry)
             {
                 return CountryCodeLookupResult.Failed(
                     CountryCodeLookupFailureReason.ReservedButNotCountry,

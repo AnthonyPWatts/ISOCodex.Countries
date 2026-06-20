@@ -23,4 +23,21 @@ public static class CountrySubdivisionRegistry
         subdivision = null;
         return CountrySubdivisionCode.TryParse(value, out CountrySubdivisionCode code) && TryGetByCode(code, out subdivision);
     }
+
+    public static CountrySubdivisionLookupResult Lookup(string? value)
+    {
+        if (string.IsNullOrWhiteSpace(value))
+        {
+            return CountrySubdivisionLookupResult.Failed(CountryCodeLookupFailureReason.Empty);
+        }
+
+        if (!CountrySubdivisionCode.TryParse(value, out CountrySubdivisionCode code))
+        {
+            return CountrySubdivisionLookupResult.Failed(CountryCodeLookupFailureReason.InvalidSyntax);
+        }
+
+        return TryGetByCode(code, out CountrySubdivisionInfo? subdivision)
+            ? CountrySubdivisionLookupResult.Found(subdivision!, code)
+            : CountrySubdivisionLookupResult.Failed(CountryCodeLookupFailureReason.Unknown, code, code.Value);
+    }
 }

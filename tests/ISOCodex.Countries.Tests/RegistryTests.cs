@@ -145,6 +145,155 @@ public sealed class RegistryTests
     }
 
     [Fact]
+    public void Country_Name_Registry_Returns_English_And_Localised_Display_Names()
+    {
+        CountryAlpha2Code de = CountryAlpha2Code.Parse("DE");
+
+        Assert.Equal("Germany", CountryNameRegistry.GetEnglishShortName(de));
+
+        Assert.True(CountryNameRegistry.TryGetDisplayName(de, "de", out CountryDisplayName? german));
+        Assert.Equal("Deutschland", german!.Name);
+        Assert.True(german.IsEndonym);
+
+        Assert.True(CountryNameRegistry.TryGetDisplayName(CountryAlpha2Code.Parse("JP"), "ja", out CountryDisplayName? japanese));
+        Assert.Equal("日本", japanese!.Name);
+
+        Assert.True(CountryNameRegistry.TryGetDisplayName(CountryAlpha2Code.Parse("GR"), "el", out CountryDisplayName? greek));
+        Assert.Equal("Ελλάδα", greek!.Name);
+
+        Assert.True(CountryNameRegistry.TryGetDisplayName(CountryAlpha2Code.Parse("SA"), "ar", out CountryDisplayName? arabic));
+        Assert.Equal("المملكة العربية السعودية", arabic!.Name);
+        Assert.True(arabic.IsRightToLeft);
+    }
+
+    [Fact]
+    public void Country_Name_Lookup_Reports_Fallbacks()
+    {
+        CountryAlpha2Code de = CountryAlpha2Code.Parse("DE");
+
+        CountryDisplayNameLookupResult parentFallback = CountryNameRegistry.LookupDisplayName(de, "pt-BR");
+
+        Assert.True(parentFallback.Success);
+        Assert.True(parentFallback.UsedFallback);
+        Assert.Equal("pt-BR", parentFallback.RequestedLanguageTag);
+        Assert.Equal("pt", parentFallback.ResolvedLanguageTag);
+        Assert.Equal("Alemanha", parentFallback.DisplayName?.Name);
+
+        CountryDisplayNameLookupResult englishFallback = CountryNameRegistry.LookupDisplayName(de, "cy");
+
+        Assert.True(englishFallback.Success);
+        Assert.True(englishFallback.UsedFallback);
+        Assert.Equal("en", englishFallback.ResolvedLanguageTag);
+        Assert.Equal("Germany", englishFallback.DisplayName?.Name);
+    }
+
+    [Fact]
+    public void Country_Name_Lookup_Handles_Missing_Country_And_Language_Tag()
+    {
+        CountryDisplayNameLookupResult missingCountry = CountryNameRegistry.LookupDisplayName(CountryAlpha2Code.Parse("AA"), "en");
+
+        Assert.False(missingCountry.Success);
+        Assert.Equal(CountryCodeLookupFailureReason.Unknown, missingCountry.FailureReason);
+
+        CountryDisplayNameLookupResult missingLanguage = CountryNameRegistry.LookupDisplayName(CountryAlpha2Code.Parse("DE"), " ");
+
+        Assert.False(missingLanguage.Success);
+        Assert.Equal(CountryCodeLookupFailureReason.Empty, missingLanguage.FailureReason);
+    }
+
+    [Fact]
+    public void Country_Name_Registry_Exposes_Reviewed_Endonyms()
+    {
+        IReadOnlyList<CountryDisplayName> endonyms = CountryNameRegistry.GetEndonyms(CountryAlpha2Code.Parse("DE"));
+
+        CountryDisplayName endonym = Assert.Single(endonyms);
+        Assert.Equal("de", endonym.LanguageTag);
+        Assert.Equal("Deutschland", endonym.Name);
+
+        Assert.True(CountryNameRegistry.TryGetPrimaryEndonym(CountryAlpha2Code.Parse("DE"), out CountryDisplayName? primary));
+        Assert.Same(endonym, primary);
+    }
+
+    [Fact]
+    public void Alias_Registry_Resolves_Common_Names_Explicitly()
+    {
+        CountryAliasLookupResult britain = CountryAliasRegistry.Lookup("Britain");
+        CountryAliasLookupResult greatBritain = CountryAliasRegistry.Lookup("Great Britain");
+
+        Assert.True(britain.Success);
+        Assert.Equal("GB", britain.Country?.Alpha2.Value);
+        Assert.True(greatBritain.Success);
+        Assert.Equal("GB", greatBritain.Country?.Alpha2.Value);
+    }
+
+    [Fact]
+    public void Alias_Registry_Does_Not_Change_Canonical_Country_Lookup()
+    {
+        CountryCodeLookupResult aliasAsCountry = CountryRegistry.Lookup("Britain");
+        CountryCodeLookupResult ukAsCountry = CountryRegistry.Lookup("UK");
+        CountryAliasLookupResult ukAlias = CountryAliasRegistry.Lookup("UK");
+
+        Assert.False(aliasAsCountry.Success);
+        Assert.Equal(CountryCodeLookupFailureReason.InvalidSyntax, aliasAsCountry.FailureReason);
+
+        Assert.False(ukAsCountry.Success);
+        Assert.Equal(CountryCodeLookupFailureReason.Unknown, ukAsCountry.FailureReason);
+
+        Assert.True(ukAlias.Success);
+        Assert.Equal("GB", ukAlias.Country?.Alpha2.Value);
+    }
+
+    [Fact]
+    public void Alias_Registry_Reports_Ambiguous_Deprecated_Cldr_Alias()
+    {
+        CountryAliasLookupResult result = CountryAliasRegistry.Lookup("AN");
+
+        Assert.False(result.Success);
+        Assert.True(result.Ambiguous);
+        Assert.Equal(CountryCodeLookupFailureReason.Ambiguous, result.FailureReason);
+        Assert.Equal(new[] { "BQ", "CW", "SX" }, result.Candidates.Select(country => country.Alpha2.Value).ToArray());
+    }
+
+    [Theory]
+    [InlineData("EU", CountryCodeElementKind.RegionGrouping)]
+    [InlineData("QO", CountryCodeElementKind.RegionGrouping)]
+    [InlineData("XA", CountryCodeElementKind.PseudoTerritory)]
+    [InlineData("XB", CountryCodeElementKind.PseudoTerritory)]
+    [InlineData("XK", CountryCodeElementKind.UserAssigned)]
+    [InlineData("ZZ", CountryCodeElementKind.UnknownRegion)]
+    public void Country_Code_Element_Registry_Contains_Known_Special_Alpha2_Values(
+        string value,
+        CountryCodeElementKind expectedKind)
+    {
+        Assert.True(CountryCodeElementRegistry.TryGetByAlpha2(value, out CountryCodeElementInfo? element));
+        Assert.Equal(expectedKind, element!.Kind);
+        Assert.False(string.IsNullOrWhiteSpace(element.DisplayName));
+    }
+
+    [Fact]
+    public void Country_Lookup_Uses_Code_Element_Registry_For_Special_Alpha2_Values()
+    {
+        CountryCodeLookupResult eu = CountryRegistry.Lookup("EU");
+        CountryCodeLookupResult unknown = CountryRegistry.Lookup("AA");
+        CountryCodeLookupResult invalid = CountryRegistry.Lookup("1!");
+
+        Assert.Equal(CountryCodeLookupFailureReason.ReservedButNotCountry, eu.FailureReason);
+        Assert.Equal(CountryCodeLookupFailureReason.Unknown, unknown.FailureReason);
+        Assert.Equal(CountryCodeLookupFailureReason.InvalidSyntax, invalid.FailureReason);
+    }
+
+    [Fact]
+    public void Country_Lookup_Reports_Subdivision_Code_Shapes_As_Unsupported()
+    {
+        CountryCodeLookupResult result = CountryRegistry.Lookup("GB-ENG");
+
+        Assert.False(result.Success);
+        Assert.Null(result.DetectedKind);
+        Assert.Equal(CountryCodeLookupFailureReason.Unsupported, result.FailureReason);
+        Assert.Equal("GB-ENG", result.NormalizedInput);
+    }
+
+    [Fact]
     public void Subdivision_Registry_Returns_Known_And_Unknown_Cases()
     {
         Assert.True(CountrySubdivisionRegistry.TryGetByCode("GB-ENG", out CountrySubdivisionInfo? subdivision));
@@ -155,5 +304,28 @@ public sealed class RegistryTests
 
         Assert.False(CountrySubdivisionRegistry.TryGetByCode("GB-XYZ", out CountrySubdivisionInfo? unknown));
         Assert.Null(unknown);
+    }
+
+    [Fact]
+    public void Subdivision_Lookup_Returns_Rich_Result_Semantics()
+    {
+        CountrySubdivisionLookupResult known = CountrySubdivisionRegistry.Lookup("gb-eng");
+        CountrySubdivisionLookupResult unknown = CountrySubdivisionRegistry.Lookup("GB-XYZ");
+        CountrySubdivisionLookupResult empty = CountrySubdivisionRegistry.Lookup(null);
+        CountrySubdivisionLookupResult invalid = CountrySubdivisionRegistry.Lookup("1!");
+
+        Assert.True(known.Success);
+        Assert.Equal("GB-ENG", known.NormalizedInput);
+        Assert.Equal("England", known.Subdivision?.EnglishName);
+
+        Assert.False(unknown.Success);
+        Assert.Equal("GB-XYZ", unknown.NormalizedInput);
+        Assert.Equal(CountryCodeLookupFailureReason.Unknown, unknown.FailureReason);
+
+        Assert.False(empty.Success);
+        Assert.Equal(CountryCodeLookupFailureReason.Empty, empty.FailureReason);
+
+        Assert.False(invalid.Success);
+        Assert.Equal(CountryCodeLookupFailureReason.InvalidSyntax, invalid.FailureReason);
     }
 }

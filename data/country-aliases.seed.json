@@ -1,0 +1,360 @@
+[
+  {
+    "alias": "AN",
+    "replacementCountryCode": "BQ",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "AN",
+    "replacementCountryCode": "CW",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "AN",
+    "replacementCountryCode": "SX",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "Britain",
+    "replacementCountryCode": "GB",
+    "kind": "CommonName",
+    "source": "Repository overlay reviewed against common English usage",
+    "notes": "Alias lookup is explicit and does not affect canonical country-code lookup."
+  },
+  {
+    "alias": "BU",
+    "replacementCountryCode": "MM",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "CS",
+    "replacementCountryCode": "ME",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "CS",
+    "replacementCountryCode": "RS",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "CT",
+    "replacementCountryCode": "KI",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "DD",
+    "replacementCountryCode": "DE",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "DY",
+    "replacementCountryCode": "BJ",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "FQ",
+    "replacementCountryCode": "AQ",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "FQ",
+    "replacementCountryCode": "TF",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "FX",
+    "replacementCountryCode": "FR",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "Great Britain",
+    "replacementCountryCode": "GB",
+    "kind": "CommonName",
+    "source": "Repository overlay reviewed against common English usage",
+    "notes": "Alias lookup is explicit and does not affect canonical country-code lookup."
+  },
+  {
+    "alias": "HV",
+    "replacementCountryCode": "BF",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "JT",
+    "replacementCountryCode": "UM",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "MI",
+    "replacementCountryCode": "UM",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "NH",
+    "replacementCountryCode": "VU",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "NQ",
+    "replacementCountryCode": "AQ",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "NT",
+    "replacementCountryCode": "IQ",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "NT",
+    "replacementCountryCode": "SA",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "PC",
+    "replacementCountryCode": "FM",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "PC",
+    "replacementCountryCode": "MH",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "PC",
+    "replacementCountryCode": "MP",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "PC",
+    "replacementCountryCode": "PW",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "PU",
+    "replacementCountryCode": "UM",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "PZ",
+    "replacementCountryCode": "PA",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "RH",
+    "replacementCountryCode": "ZW",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "AM",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "AZ",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "BY",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "EE",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "GE",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "KG",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "KZ",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "LT",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "LV",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "MD",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "RU",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "TJ",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "TM",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "UA",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "SU",
+    "replacementCountryCode": "UZ",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "TP",
+    "replacementCountryCode": "TL",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "UK",
+    "replacementCountryCode": "GB",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "VD",
+    "replacementCountryCode": "VN",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "WK",
+    "replacementCountryCode": "UM",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "YD",
+    "replacementCountryCode": "YE",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "YU",
+    "replacementCountryCode": "ME",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "YU",
+    "replacementCountryCode": "RS",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  },
+  {
+    "alias": "ZR",
+    "replacementCountryCode": "CD",
+    "kind": "DeprecatedCode",
+    "source": "Unicode CLDR release 48.2 common/supplemental/supplementalMetadata.xml territoryAlias",
+    "notes": "Deprecated or historical territory alias from CLDR. Alias lookup is explicit and may be ambiguous."
+  }
+]
+

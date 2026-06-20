@@ -16,8 +16,16 @@ Use this checklist before any NuGet release. Publishing itself must be a separat
 - [ ] `docs/data-sources.md` reviewed.
 - [ ] Data version reviewed.
 - [ ] CLDR source release and generation policy reviewed.
+- [ ] Country names seed generation verified.
+- [ ] Unicode and non-Latin script examples tested.
+- [ ] Right-to-left display-name example tested.
+- [ ] Alias registry behaviour tested.
+- [ ] Special code-element registry tested.
+- [ ] Subdivision lookup result tested.
+- [ ] Country lookup unsupported-shape behaviour tested.
 - [ ] Data-source and redistribution assumptions documented.
 - [ ] Country and subdivision generated counts reviewed.
+- [ ] Public API snapshot intentionally updated.
 - [ ] No undocumented data-source TODOs.
 - [ ] No official ISO endorsement is implied.
 - [ ] `GB`, `UK`, `EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` behaviour remains documented and tested.

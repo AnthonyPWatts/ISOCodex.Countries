@@ -2,7 +2,7 @@
 
 ## Current status
 
-`ISOCodex.Countries` is a `1.0.0-alpha` foundation package with CLDR-derived current country, territory, and regular subdivision seed data, strong value objects, registry lookup, JSON support, tests, package smoke testing, and release documentation.
+`ISOCodex.Countries` is a `1.0.0-alpha` foundation package with CLDR-derived current country, territory, selected display-name, alias, special-code-element, and regular subdivision seed data, strong value objects, registry lookup, JSON support, tests, package smoke testing, and release documentation.
 
 The package is not an official ISO product and does not provide official ISO subdivision categories or subdivision hierarchy modelling.
 
@@ -16,7 +16,7 @@ The package should continue to:
 - document data-source limitations clearly;
 - preserve stable API shape where possible;
 - keep package verification green;
-- avoid silent alias resolution;
+- keep alias and display-name lookup explicit;
 - avoid hidden runtime network calls;
 - avoid subdivision type or hierarchy expansion without a reviewed source.
 
@@ -57,4 +57,4 @@ Avoid circular dependencies.
 
 ## Explicit non-goals
 
-Do not add sanctions data, flags, calling codes, currency data, address formatting, localisation, geospatial data, online updates, or speculative analyzers/source generators to the core package.
+Do not add sanctions data, flags, calling codes, currency data, address formatting, complete localisation, geospatial data, online updates, or speculative analyzers/source generators to the core package.

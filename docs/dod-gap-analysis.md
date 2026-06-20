@@ -31,7 +31,7 @@
 
 ## Deferred
 
-- Full localisation.
+- Complete localisation.
 - Full global subdivision coverage.
 - Alias resolution.
 - ASP.NET Core integration.

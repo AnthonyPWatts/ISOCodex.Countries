@@ -1,3 +1,31 @@
+class ISOCodex.Countries.CountryAliasInfo
+  ctor CountryAliasInfo(System.String alias, System.Nullable<ISOCodex.Countries.CountryAlpha2Code> replacementCountryCode, ISOCodex.Countries.CountryAliasKind kind, System.String source, System.String notes)
+  property System.String Alias
+  property ISOCodex.Countries.CountryAliasKind Kind
+  property System.String Notes
+  property System.Nullable<ISOCodex.Countries.CountryAlpha2Code> ReplacementCountryCode
+  property System.String Source
+
+enum ISOCodex.Countries.CountryAliasKind
+  enum CommonName = 0
+  enum DeprecatedCode = 1
+  enum HistoricalCode = 2
+  enum DisplayName = 3
+  enum Other = 99
+
+class ISOCodex.Countries.CountryAliasLookupResult
+  property System.Boolean Ambiguous
+  property System.Collections.Generic.IReadOnlyList<ISOCodex.Countries.CountryInfo> Candidates
+  property ISOCodex.Countries.CountryInfo Country
+  property System.Nullable<ISOCodex.Countries.CountryCodeLookupFailureReason> FailureReason
+  property System.String MatchedAlias
+  property System.Boolean Success
+
+static class ISOCodex.Countries.CountryAliasRegistry
+  property System.Collections.Generic.IReadOnlyList<ISOCodex.Countries.CountryAliasInfo> All
+  method ISOCodex.Countries.CountryAliasLookupResult Lookup(System.String value)
+  method System.Boolean TryGetByAlias(System.String value, ISOCodex.Countries.CountryInfo& country)
+
 struct ISOCodex.Countries.CountryAlpha2Code
   property System.String Value
   method ISOCodex.Countries.CountryAlpha2Code Parse(System.String value)
@@ -42,6 +70,29 @@ class ISOCodex.Countries.CountryAlpha3CodeJsonConverter
   method ISOCodex.Countries.CountryAlpha3Code Read(System.Text.Json.Utf8JsonReader& reader, System.Type typeToConvert, System.Text.Json.JsonSerializerOptions options)
   method System.Void Write(System.Text.Json.Utf8JsonWriter writer, ISOCodex.Countries.CountryAlpha3Code value, System.Text.Json.JsonSerializerOptions options)
 
+class ISOCodex.Countries.CountryCodeElementInfo
+  ctor CountryCodeElementInfo(ISOCodex.Countries.CountryAlpha2Code alpha2, ISOCodex.Countries.CountryCodeElementKind kind, System.String displayName, System.String source, System.String notes)
+  property ISOCodex.Countries.CountryAlpha2Code Alpha2
+  property System.String DisplayName
+  property ISOCodex.Countries.CountryCodeElementKind Kind
+  property System.String Notes
+  property System.String Source
+
+enum ISOCodex.Countries.CountryCodeElementKind
+  enum CurrentCountry = 0
+  enum RegionGrouping = 1
+  enum PseudoTerritory = 2
+  enum UnknownRegion = 3
+  enum UserAssigned = 4
+  enum DeprecatedAlias = 5
+  enum SpecialPurpose = 6
+  enum Other = 99
+
+static class ISOCodex.Countries.CountryCodeElementRegistry
+  property System.Collections.Generic.IReadOnlyList<ISOCodex.Countries.CountryCodeElementInfo> All
+  method System.Boolean TryGetByAlpha2(ISOCodex.Countries.CountryAlpha2Code code, ISOCodex.Countries.CountryCodeElementInfo& element)
+  method System.Boolean TryGetByAlpha2(System.String value, ISOCodex.Countries.CountryCodeElementInfo& element)
+
 enum ISOCodex.Countries.CountryCodeKind
   enum Alpha2 = 0
   enum Alpha3 = 1
@@ -73,6 +124,29 @@ static class ISOCodex.Countries.CountryDataVersion
   property System.String Description
   property System.String Identifier
 
+class ISOCodex.Countries.CountryDisplayName
+  ctor CountryDisplayName(ISOCodex.Countries.CountryAlpha2Code countryCode, System.String languageTag, System.String name, ISOCodex.Countries.CountryDisplayNameKind kind, System.Boolean isEndonym, System.Boolean isRightToLeft)
+  property ISOCodex.Countries.CountryAlpha2Code CountryCode
+  property System.Boolean IsEndonym
+  property System.Boolean IsRightToLeft
+  property ISOCodex.Countries.CountryDisplayNameKind Kind
+  property System.String LanguageTag
+  property System.String Name
+  method System.String ToString()
+
+enum ISOCodex.Countries.CountryDisplayNameKind
+  enum Short = 0
+  enum Official = 1
+  enum Variant = 2
+
+class ISOCodex.Countries.CountryDisplayNameLookupResult
+  property ISOCodex.Countries.CountryDisplayName DisplayName
+  property System.Nullable<ISOCodex.Countries.CountryCodeLookupFailureReason> FailureReason
+  property System.String RequestedLanguageTag
+  property System.String ResolvedLanguageTag
+  property System.Boolean Success
+  property System.Boolean UsedFallback
+
 enum ISOCodex.Countries.CountryEntryStatus
   enum Current = 0
   enum Former = 1
@@ -93,6 +167,16 @@ class ISOCodex.Countries.CountryInfo
   property ISOCodex.Countries.CountryNumericCode Numeric
   property ISOCodex.Countries.CountryEntryStatus Status
   method System.String ToString()
+
+static class ISOCodex.Countries.CountryNameRegistry
+  property System.Collections.Generic.IReadOnlyList<ISOCodex.Countries.CountryDisplayName> All
+  method ISOCodex.Countries.CountryDisplayNameLookupResult LookupDisplayName(ISOCodex.Countries.CountryAlpha2Code code, System.String languageTag)
+  method System.Boolean TryGetDisplayName(ISOCodex.Countries.CountryAlpha2Code code, System.String languageTag, ISOCodex.Countries.CountryDisplayName& displayName)
+  method System.Boolean TryGetEnglishShortName(ISOCodex.Countries.CountryAlpha2Code code, System.String& name)
+  method System.Boolean TryGetPrimaryEndonym(ISOCodex.Countries.CountryAlpha2Code code, ISOCodex.Countries.CountryDisplayName& displayName)
+  method System.Collections.Generic.IReadOnlyList<ISOCodex.Countries.CountryDisplayName> GetDisplayNames(ISOCodex.Countries.CountryAlpha2Code code)
+  method System.Collections.Generic.IReadOnlyList<ISOCodex.Countries.CountryDisplayName> GetEndonyms(ISOCodex.Countries.CountryAlpha2Code code)
+  method System.String GetEnglishShortName(ISOCodex.Countries.CountryAlpha2Code code)
 
 struct ISOCodex.Countries.CountryNumericCode
   property System.String Value
@@ -163,9 +247,17 @@ class ISOCodex.Countries.CountrySubdivisionInfo
   property ISOCodex.Countries.CountrySubdivisionType Type
   method System.String ToString()
 
+class ISOCodex.Countries.CountrySubdivisionLookupResult
+  property System.Nullable<ISOCodex.Countries.CountrySubdivisionCode> Code
+  property System.Nullable<ISOCodex.Countries.CountryCodeLookupFailureReason> FailureReason
+  property System.String NormalizedInput
+  property ISOCodex.Countries.CountrySubdivisionInfo Subdivision
+  property System.Boolean Success
+
 static class ISOCodex.Countries.CountrySubdivisionRegistry
   property System.Collections.Generic.IReadOnlyList<ISOCodex.Countries.CountrySubdivisionInfo> All
   method ISOCodex.Countries.CountrySubdivisionInfo GetByCode(ISOCodex.Countries.CountrySubdivisionCode code)
+  method ISOCodex.Countries.CountrySubdivisionLookupResult Lookup(System.String value)
   method System.Boolean TryGetByCode(ISOCodex.Countries.CountrySubdivisionCode code, ISOCodex.Countries.CountrySubdivisionInfo& subdivision)
   method System.Boolean TryGetByCode(System.String value, ISOCodex.Countries.CountrySubdivisionInfo& subdivision)
 
@@ -183,3 +275,4 @@ enum ISOCodex.Countries.CountrySubdivisionType
   enum CouncilArea = 10
   enum Nation = 11
   enum Other = 12
+

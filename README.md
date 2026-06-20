@@ -25,11 +25,11 @@ The aim is not to decide political truth. The aim is to make country-code handli
 
 ## Current Status
 
-`1.0.0-alpha` release candidate. The package has CLDR-derived current country, territory, and regular subdivision seed data, plus a stable foundation API.
+`1.0.0-alpha` release candidate. The package has CLDR-derived current country, territory, display-name, alias, special-code-element, and regular subdivision seed data, plus a stable foundation API.
 
 ## Installation
 
-The package is not published yet. After cloning the repository, build and pack locally:
+After cloning the repository, build and pack locally:
 
 ```powershell
 dotnet restore
@@ -75,6 +75,51 @@ Mixed lookup is deterministic: two ASCII letters are treated as alpha-2, three A
 
 `EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` are also syntactically valid alpha-2 shapes. They are not current country entries in this package. Mixed lookup returns `ReservedButNotCountry` for these known non-country or special-purpose codes, so import pipelines can distinguish them from invalid syntax and arbitrary unknown codes.
 
+Subdivision-shaped input is outside country-code lookup. `CountryRegistry.Lookup("GB-ENG")` returns `Unsupported`; use `CountrySubdivisionRegistry.Lookup` for subdivision codes.
+
+## Display Names
+
+Country codes are identifiers. Display names are human-readable metadata.
+
+The package includes a generated `CountryNameRegistry` backed by selected Unicode CLDR 48.2 locale files. Names are stored as Unicode, normalised to NFC, and preserved in their source script. No transliteration is performed, and right-to-left text is preserved rather than reversed.
+
+```csharp
+CountryAlpha2Code de = CountryAlpha2Code.Parse("DE");
+
+string english = CountryNameRegistry.GetEnglishShortName(de);
+// Germany
+
+CountryNameRegistry.TryGetDisplayName(de, "de", out CountryDisplayName? german);
+// Deutschland
+
+CountryDisplayNameLookupResult portuguese = CountryNameRegistry.LookupDisplayName(de, "pt-BR");
+Console.WriteLine(portuguese.UsedFallback);
+Console.WriteLine(portuguese.ResolvedLanguageTag);
+```
+
+Unicode names round-trip as normal .NET strings:
+
+```csharp
+CountryNameRegistry.TryGetDisplayName(CountryAlpha2Code.Parse("JP"), "ja", out var japanese);
+Console.WriteLine(japanese?.Name); // 日本
+```
+
+Endonym coverage is deliberately source-limited. The package exposes `GetEndonyms` and `TryGetPrimaryEndonym`, but it does not add a `ToLocal()` shortcut because many countries have multiple local names, languages, and scripts.
+
+## Alias And Special-Code Lookup
+
+Alias lookup is explicit and opt-in. `CountryRegistry.Lookup` remains canonical-code-focused and does not resolve names or aliases.
+
+```csharp
+CountryAliasLookupResult alias = CountryAliasRegistry.Lookup("Great Britain");
+```
+
+Known special country-code-shaped elements are exposed separately:
+
+```csharp
+CountryCodeElementRegistry.TryGetByAlpha2("EU", out var eu);
+```
+
 ## Persistence Guidance
 
 For most applications, store canonical alpha-2 codes such as `GB`.
@@ -90,6 +135,10 @@ If preserving what a user originally typed matters, store the original input sep
 `CountrySubdivisionCode` models ISO 3166-2-style codes such as `GB-ENG`, `US-CA`, and `IE-D`.
 
 Syntax validity does not mean the subdivision is known. Use `CountrySubdivisionRegistry.TryGetByCode` when you need to check against the CLDR-derived seed registry.
+
+```csharp
+CountrySubdivisionLookupResult subdivision = CountrySubdivisionRegistry.Lookup("GB-ENG");
+```
 
 ## JSON
 
@@ -147,7 +196,11 @@ var options = CountryRegistry.All
 
 ## Data Sources And Limitations
 
-The country seed data is derived from Unicode CLDR 48.2 and includes 249 current ISO-style country and territory entries with alpha-2, alpha-3, numeric, and English display-name metadata. It excludes deprecated territory aliases, CLDR pseudo-territories, regional groupings, unknown-region placeholders, and user-assigned code elements that are not ISO 3166-1 assigned country entries.
+The country seed data is derived from Unicode CLDR 48.2 and includes 249 current ISO-style country and territory entries with alpha-2, alpha-3, numeric, and English display-name metadata. Country display names are CLDR-derived labels, not official government names or geopolitical authority.
+
+The display-name registry currently includes 2,739 generated country display names across selected CLDR locales. Localised names may use non-Latin scripts and right-to-left writing systems.
+
+Special code elements such as `EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` are generated from CLDR display metadata but are not equivalent to current countries. Deprecated territory aliases such as `UK` are available only through `CountryAliasRegistry`.
 
 Subdivision seed data is derived from Unicode CLDR 48.2 and includes 5,027 regular subdivision entries across 200 countries. It provides code and English display-name lookup. Subdivision type metadata is `Unknown` unless a specific reviewed overlay exists.
 
