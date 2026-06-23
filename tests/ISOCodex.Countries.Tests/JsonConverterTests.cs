@@ -8,7 +8,12 @@ public sealed class JsonConverterTests
     {
         get
         {
-            return CountryJsonSerializerOptions.CreateDefault();
+            JsonSerializerOptions options = new();
+            options.Converters.Add(new CountryAlpha2CodeJsonConverter());
+            options.Converters.Add(new CountryAlpha3CodeJsonConverter());
+            options.Converters.Add(new CountryNumericCodeJsonConverter());
+            options.Converters.Add(new CountrySubdivisionCodeJsonConverter());
+            return options;
         }
     }
 

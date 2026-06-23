@@ -2,13 +2,13 @@
 
 ## Current posture
 
-`ISOCodex.Countries` targets the v1 alpha package line with CLDR-derived current country, territory, display-name, alias, special-code-element, and regular subdivision seed data.
+`ISOCodex.Countries` targets the stable v1 package line with CLDR-derived current country, territory, display-name, alias, special-code-element, and regular subdivision seed data.
 
 The package generates 249 current ISO-style alpha-2, alpha-3, numeric, and English display-name records; 2,739 selected-locale country display-name records; 51 alias records; 6 special code-element records; and 5,027 regular subdivision code/name records from Unicode CLDR 48.2. It is not a redistributed official ISO table, does not claim ISO endorsement, and is not a source of geopolitical authority.
 
-## What v1 alpha promises
+## What v1 promises
 
-The v1 alpha package line promises a dependency-light foundation package:
+The v1 package line promises a dependency-light foundation package:
 
 - strongly typed country and subdivision code value objects;
 - canonical parsing and syntax validation;
@@ -22,11 +22,11 @@ The v1 alpha package line promises a dependency-light foundation package:
 - checked-in compiled data with no hidden runtime network calls;
 - documented data limitations, source attribution, and version disclosure.
 
-The v1 alpha package line does not promise complete localisation, authoritative endonym coverage, flags, calling codes, currencies, sanctions data, address formatting, geospatial data, online updates, official ISO subdivision category names, subdivision hierarchy modelling, or authoritative modelling of reserved and former code ranges.
+The v1 package line does not promise complete localisation, authoritative endonym coverage, flags, calling codes, currencies, sanctions data, address formatting, geospatial data, online updates, official ISO subdivision category names, subdivision hierarchy modelling, or authoritative modelling of reserved and former code ranges.
 
 ## Selected source path
 
-Unicode CLDR 48.2 is the selected source for v1 alpha country, territory, and regular subdivision code/name coverage.
+Unicode CLDR 48.2 is the selected source for v1 country, territory, and regular subdivision code/name coverage.
 
 The generator uses:
 
@@ -50,7 +50,7 @@ The expected generated country/territory count is 249. The expected display-name
 
 The package derives records from CLDR data under Unicode License v3 and includes `THIRD-PARTY-NOTICES.md` in the repository and NuGet package.
 
-The project still avoids copying complete official ISO tables. ISO remains the authoritative standard, but this package uses CLDR as the redistribution-safe checked source for the v1 alpha country registry.
+The project still avoids copying complete official ISO tables. ISO remains the authoritative standard, but this package uses CLDR as the redistribution-safe checked source for the v1 country registry.
 
 ## Update workflow
 
@@ -93,4 +93,4 @@ Tests should continue to prove:
 
 ## Current recommendation
 
-Prepare `1.0.0-alpha.1` as the next release candidate if the final release gate passes. Keep NuGet publishing separate and intentional.
+Prepare stable `1.0.0` if the final release gate passes. Keep NuGet publishing separate and intentional.

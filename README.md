@@ -25,11 +25,11 @@ The aim is not to decide political truth. The aim is to make country-code handli
 
 ## Current Status
 
-`1.0.0-alpha.1` release candidate. The package has CLDR-derived current country, territory, display-name, alias, special-code-element, and regular subdivision seed data, plus a stable foundation API.
+Stable `1.0.0` package. The package has CLDR-derived current country, territory, display-name, alias, special-code-element, and regular subdivision seed data, plus a stable foundation API.
 
 ## What Is Included
 
-The alpha package includes:
+The package includes:
 
 - 249 current country and territory entries with alpha-2, alpha-3, numeric, and English short-name metadata;
 - 2,739 generated country display names across selected CLDR locales;
@@ -41,6 +41,12 @@ The alpha package includes:
 The runtime package uses compiled seed data. It does not read loose JSON files at runtime and does not make hidden network calls.
 
 ## Installation
+
+Install from NuGet:
+
+```powershell
+dotnet add package ISOCodex.Countries
+```
 
 After cloning the repository, build and pack locally:
 
@@ -326,7 +332,7 @@ Console.WriteLine(CountryDataVersion.Description);
 
 No runtime code makes hidden network calls. The runtime package uses checked-in compiled seed data rather than loose external files.
 
-Data-source policy and limitations are documented in [`docs/data-sources.md`](docs/data-sources.md). The v1 alpha data decision is tracked in [`docs/data-strategy.md`](docs/data-strategy.md) and [`docs/decisions`](docs/decisions).
+Data-source policy and limitations are documented in [`docs/data-sources.md`](docs/data-sources.md). The v1 data decision is tracked in [`docs/data-strategy.md`](docs/data-strategy.md) and [`docs/decisions`](docs/decisions).
 
 ## Release Verification
 

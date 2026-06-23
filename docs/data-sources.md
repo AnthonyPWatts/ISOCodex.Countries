@@ -47,7 +47,7 @@ Generated display names are Unicode strings normalised to NFC. The package prese
 
 Display names are CLDR-derived labels. They are not official government names, ISO names, or a statement of geopolitical authority.
 
-Endonym coverage is source-limited. The first alpha uses a small reviewed country-to-language mapping for obvious cases such as `DE`/`de`, `JP`/`ja`, `GR`/`el`, `CN`/`zh-Hans`, `SA`/`ar`, and `IL`/`he`. Other generated display names may be useful localised names but are not marked as endonyms unless the mapping deliberately says so.
+Endonym coverage is source-limited. The v1 package uses a small reviewed country-to-language mapping for obvious cases such as `DE`/`de`, `JP`/`ja`, `GR`/`el`, `CN`/`zh-Hans`, `SA`/`ar`, and `IL`/`he`. Other generated display names may be useful localised names but are not marked as endonyms unless the mapping deliberately says so.
 
 Alias seed data comes from:
 
@@ -76,14 +76,14 @@ The generated registry includes CLDR regular subdivision identifiers and English
 - Identifier: `cldr-48.2-country-name-alias-subdivision-seed-2026-06`
 - Date checked: 2026-06-19
 - Runtime exposure: `CountryDataVersion`
-- v1 alpha decision: [`decisions/0005-v1-alpha-country-data-scope.md`](decisions/0005-v1-alpha-country-data-scope.md)
+- v1 country-data decision: [`decisions/0005-v1-alpha-country-data-scope.md`](decisions/0005-v1-alpha-country-data-scope.md)
 - subdivision decision: [`decisions/0006-v1-alpha-subdivision-data-scope.md`](decisions/0006-v1-alpha-subdivision-data-scope.md)
 
 The data version identifies the checked-in package data posture. It is not an ISO publication identifier.
 
 ## Completeness Limits
 
-Country, territory, display-name, alias, special-code-element, and subdivision code/name coverage is complete for the selected CLDR-derived alpha scope.
+Country, territory, display-name, alias, special-code-element, and subdivision code/name coverage is complete for the selected CLDR-derived v1 scope.
 
 The package does not currently model complete reserved code ranges, former-country entries, exceptional reservations, transitional reservations, user-assigned ranges, flags, calling codes, sanctions data, currencies, address formatting, geospatial data, online updates, official ISO subdivision categories, or subdivision containment hierarchy.
 

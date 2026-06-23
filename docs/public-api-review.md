@@ -98,8 +98,8 @@ String overloads are useful for boundary input, but strongly typed values remain
 - Strengthened public API snapshot coverage so public operators are reviewed.
 - Added drift tests to keep JSON seed files aligned with compiled seed data.
 - Added additional registry, JSON, and value-object edge-case tests.
-- Added display-name, alias, special-code-element, and subdivision lookup result APIs for the v1 alpha surface.
-- Updated documentation and samples to match the current API and v1 alpha data posture.
+- Added display-name, alias, special-code-element, and subdivision lookup result APIs for the v1 surface.
+- Updated documentation and samples to match the current API and v1 data posture.
 
 ## Changes deferred
 

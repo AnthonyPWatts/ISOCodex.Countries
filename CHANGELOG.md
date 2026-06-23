@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.0 - 2026-06-23
+
+Stable v1 release of `ISOCodex.Countries`.
+
+### Changed
+
+- Promoted the validated `1.0.0-alpha.1` package line to stable `1.0.0`.
+- Updated package release notes for stable v1 consumers.
+
 ## 1.0.0-alpha.1 - 2026-06-20
 
 Documentation update for the v1 alpha package line.

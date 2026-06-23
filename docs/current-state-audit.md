@@ -3,9 +3,9 @@
 ## Checked environment
 
 - Branch: `main`
-- Commit: release-candidate commit
-- .NET SDK: `8.0.422`
-- Audit date: 2026-06-20
+- Commit: stable release commit
+- .NET SDK: `8.0.420`
+- Audit date: 2026-06-23
 
 ## Projects and target frameworks
 
@@ -74,13 +74,13 @@ JSON converter types found:
 
 The country registry uses compiled seed data from `CountrySeedData`.
 
-Current country and territory entries are generated from Unicode CLDR 48.2. The registry contains 249 current ISO-style alpha-2, alpha-3, numeric, and English display-name entries for the selected v1 alpha scope.
+Current country and territory entries are generated from Unicode CLDR 48.2. The registry contains 249 current ISO-style alpha-2, alpha-3, numeric, and English display-name entries for the selected v1 scope.
 
 Country display-name entries are generated from selected Unicode CLDR 48.2 locale files. The registry contains 2,739 Unicode/NFC-normalised names, including non-Latin and right-to-left examples.
 
 Alias and special-code-element entries are generated from reviewed overlays and CLDR 48.2 metadata. Alias lookup is explicit and special code elements are not treated as current countries.
 
-Subdivision entries are generated from Unicode CLDR 48.2. The registry contains 5,027 regular subdivision code/name records across 200 countries for the selected v1 alpha scope.
+Subdivision entries are generated from Unicode CLDR 48.2. The registry contains 5,027 regular subdivision code/name records across 200 countries for the selected v1 scope.
 
 The JSON seed files in `data/` mirror the compiled seed data and are now protected by tests.
 
@@ -118,7 +118,7 @@ Additional hardening documentation has been added for current state, API review,
 
 Package metadata includes package ID, title, description, author, repository URL, project URL, MIT licence expression, tags, README packaging, deterministic builds, Source Link, and XML documentation generation for packable projects.
 
-The package version is explicitly `1.0.0-alpha.1` after the published `1.0.0-alpha` package. The v1 alpha line has CLDR-derived country, display-name, alias, special-code-element, and subdivision data.
+The package version is explicitly stable `1.0.0` after the validated `1.0.0-alpha.1` package line. The v1 line has CLDR-derived country, display-name, alias, special-code-element, and subdivision data.
 
 CI restores, builds, tests, packs, runs the local package smoke test, and uploads package artifacts.
 
@@ -136,11 +136,11 @@ Current release-candidate verification:
 | `dotnet run --project samples/CountryLookup.Console --configuration Release` | Passed |
 | `dotnet run --project samples/CsvImport.Validation --configuration Release` | Passed |
 
-The final local verification commands from `docs/release-gate.md` passed on 2026-06-20. The package smoke test checks package contents and local consumer installation.
+The final local verification commands from `docs/release-gate.md` passed on 2026-06-23. The package smoke test checks package contents and local consumer installation.
 
 ## Gaps
 
-- Country and territory data is complete for the selected CLDR-derived v1 alpha scope.
+- Country and territory data is complete for the selected CLDR-derived v1 scope.
 - Display-name and endonym coverage is deliberately bounded to the selected CLDR locale set and reviewed endonym mapping.
 - Official ISO subdivision category/type enrichment is intentionally deferred.
 - Complete reserved, exceptional, former, and user-assigned code modelling is still deferred; only selected special country-code-shaped elements are currently exposed.
@@ -149,6 +149,6 @@ The final local verification commands from `docs/release-gate.md` passed on 2026
 
 ## Recommended next actions
 
-1. Prepare `1.0.0-alpha.1` if the final release gate passes.
+1. Release stable `1.0.0` if the final release gate passes.
 2. Review consumer feedback on the CLDR-derived data scope.
 3. Review subdivision type and hierarchy enrichment only after a separate source decision.

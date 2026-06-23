@@ -34,7 +34,7 @@ Done means registry lookups:
 
 ## Data completeness policy
 
-The v1 alpha package line requires complete current country, territory, selected display-name, explicit alias, special-code-element, and regular subdivision code/name coverage for the selected CLDR-derived scope. The v1 alpha data-scope decisions are recorded in `docs/decisions/0005-v1-alpha-country-data-scope.md` and `docs/decisions/0006-v1-alpha-subdivision-data-scope.md`.
+The v1 package line requires complete current country, territory, selected display-name, explicit alias, special-code-element, and regular subdivision code/name coverage for the selected CLDR-derived scope. The v1 data-scope decisions are recorded in `docs/decisions/0005-v1-alpha-country-data-scope.md` and `docs/decisions/0006-v1-alpha-subdivision-data-scope.md`.
 
 ## Data-source transparency
 
@@ -103,4 +103,4 @@ Before any NuGet release, run the checklist in `docs/release-gate.md`. NuGet pub
 
 ## Known limitations
 
-Country, territory, selected display-name, alias, special-code-element, and regular subdivision seed data is derived from Unicode CLDR 48.2 for the selected v1 alpha scope. Endonym coverage and subdivision type metadata are intentionally sparse.
+Country, territory, selected display-name, alias, special-code-element, and regular subdivision seed data is derived from Unicode CLDR 48.2 for the selected v1 scope. Endonym coverage and subdivision type metadata are intentionally sparse.

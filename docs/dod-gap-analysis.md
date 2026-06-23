@@ -18,14 +18,11 @@
 - JSON seed versus compiled data drift tests.
 - Package smoke-test script.
 - Release gate checklist.
-- Explicit v1 alpha data-source posture.
+- Explicit v1 data-source posture.
 - Data version metadata.
 
-## Missing for a v1.0 data-complete package
+## Remaining optional gaps
 
-- Complete current-country dataset from a redistribution-safe source path.
-- Documented source version and source date for complete data.
-- A repeatable data update process if JSON becomes the source of generated compiled data.
 - Explicit modelling for reserved, former, exceptional, and user-assigned codes if those behaviours are promised.
 - A deliberate subdivision data-pack strategy if consumers need broad ISO 3166-2 coverage.
 
@@ -40,13 +37,13 @@
 
 ## Data-source concerns
 
-The package now contains CLDR-derived country, territory, and regular subdivision data for the selected v1 alpha scope.
+The package now contains CLDR-derived country, territory, and regular subdivision data for the selected v1 scope.
 
 Do not copy large official datasets into the repository until redistribution rights are clear.
 
 ## Recommended order of attack
 
-1. Keep v1 alpha package hardening green.
+1. Keep v1 package hardening green.
 2. Review consumer feedback on the CLDR-derived country and territory scope.
 3. Resolve data-source and redistribution position.
 4. Expand country data only after documentation and tests define the source/version/date checked.
