@@ -8,11 +8,17 @@ It is not an official ISO product, is not endorsed by ISO, and is not a geopolit
 
 ## Current Status
 
-First-pass implementation. The package has a small representative seed dataset and a stable foundation API, but it is not data-complete.
+Stable foundation package. The package has a small representative seed dataset and a stable foundation API, but it is not data-complete.
 
 ## Installation
 
-The package is not published yet. After cloning the repository, build and pack locally:
+Install from NuGet:
+
+```powershell
+dotnet add package ISOCodex.Countries
+```
+
+After cloning the repository, build and pack locally:
 
 ```powershell
 dotnet restore
