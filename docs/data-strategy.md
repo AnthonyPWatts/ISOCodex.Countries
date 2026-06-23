@@ -93,4 +93,4 @@ Tests should continue to prove:
 
 ## Current recommendation
 
-Stable `1.0.0` has been released. Future data updates should keep the current CLDR-derived v1 contract explicit, update `CountryDataVersion` when the checked data posture changes, and pass the release gate before any patch or minor package release.
+The stable package line has been released. Future data updates should keep the current CLDR-derived v1 contract explicit, update `CountryDataVersion` when the checked data posture changes, and pass the release gate before any patch or minor package release.

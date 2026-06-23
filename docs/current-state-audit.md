@@ -118,7 +118,7 @@ Additional hardening documentation has been added for current state, API review,
 
 Package metadata includes package ID, title, description, author, repository URL, project URL, MIT licence expression, tags, README packaging, deterministic builds, Source Link, and XML documentation generation for packable projects.
 
-The package version is explicitly stable `1.0.0` after the validated `1.0.0-alpha.1` package line. The v1 line has CLDR-derived country, display-name, alias, special-code-element, and subdivision data.
+The package version is explicitly stable `1.0.1` after the validated `1.0.0-alpha.1` package line and stable `1.0.0` release. The v1 line has CLDR-derived country, display-name, alias, special-code-element, and subdivision data.
 
 CI restores, builds, tests, packs, runs the local package smoke test, and uploads package artifacts.
 
@@ -149,6 +149,6 @@ The final local verification commands from `docs/release-gate.md` passed on 2026
 
 ## Recommended next actions
 
-1. Review consumer feedback on the CLDR-derived data scope after the stable `1.0.0` release.
+1. Review consumer feedback on the CLDR-derived data scope after the stable package release.
 2. Review subdivision type and hierarchy enrichment only after a separate source decision.
 3. Plan any `1.0.x` patch or `1.1.0` feature work through the release gate.

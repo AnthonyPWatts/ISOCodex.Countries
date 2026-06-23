@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.1 - 2026-06-23
+
+Documentation patch release.
+
+### Fixed
+
+- Corrected the NuGet README JSON converter sample to use the public converter classes.
+- Updated stale post-`1.0.0` release status notes and historical decision records.
+
 ## 1.0.0 - 2026-06-23
 
 Stable v1 release of `ISOCodex.Countries`.

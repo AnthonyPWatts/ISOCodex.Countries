@@ -25,7 +25,7 @@ The aim is not to decide political truth. The aim is to make country-code handli
 
 ## Current Status
 
-Stable `1.0.0` package. The package has CLDR-derived current country, territory, display-name, alias, special-code-element, and regular subdivision seed data, plus a stable foundation API.
+Stable package. The package has CLDR-derived current country, territory, display-name, alias, special-code-element, and regular subdivision seed data, plus a stable foundation API.
 
 ## What Is Included
 

@@ -2,7 +2,7 @@
 
 `ISOCodex.Countries` follows Semantic Versioning for public API changes.
 
-The package currently targets stable `1.0.0`.
+The package currently targets stable `1.0.1`.
 
 The v1 package line is appropriate because country, territory, and regular subdivision data is complete for the selected CLDR-derived v1 scope.
 
