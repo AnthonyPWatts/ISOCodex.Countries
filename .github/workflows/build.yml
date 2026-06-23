@@ -39,7 +39,7 @@ jobs:
         run: ./eng/smoke-test-package.ps1
 
       - name: Upload NuGet packages
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: nuget-packages
           path: artifacts/*.nupkg
