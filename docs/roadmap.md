@@ -2,7 +2,7 @@
 
 ## Current status
 
-`ISOCodex.Countries` is a stable `1.0.0` foundation package with CLDR-derived current country, territory, selected display-name, alias, special-code-element, and regular subdivision seed data, strong value objects, registry lookup, JSON support, tests, package smoke testing, and release documentation.
+`ISOCodex.Countries` is a stable v1 foundation package with CLDR-derived current country, territory, selected display-name, alias, special-code-element, and regular subdivision seed data, strong value objects, registry lookup, JSON support, tests, package smoke testing, and release documentation.
 
 The package is not an official ISO product and does not provide official ISO subdivision categories or subdivision hierarchy modelling.
 
@@ -39,6 +39,12 @@ Possible future package shape:
 
 Do not create these until the source and update strategy is proven.
 
+## Reserved and former code modelling
+
+The package currently keeps reserved, exceptional, transitional, indeterminate, and user-assigned ISO 3166 code elements out of the core country registry unless they are deliberately modelled as special code elements.
+
+Future work may add richer modelling for reserved and former code categories if consumers need to distinguish those cases explicitly. Do not add this unless the API promise, data source, and maintenance strategy are clear.
+
 ## ASP.NET Core integration
 
 A future `ISOCodex.Countries.AspNetCore` package could provide model binding, validation attributes, minimal API binding helpers, and OpenAPI examples.
@@ -57,4 +63,4 @@ Avoid circular dependencies.
 
 ## Explicit non-goals
 
-Do not add sanctions data, flags, calling codes, currency data, address formatting, complete localisation, geospatial data, online updates, or speculative analyzers/source generators to the core package.
+Do not add sanctions data, flags, calling codes, currency data, address formatting, complete localisation, geospatial data, online updates, alias-heavy name resolution, or speculative analyzers/source generators to the core package.

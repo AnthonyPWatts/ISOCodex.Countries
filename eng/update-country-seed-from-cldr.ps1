@@ -52,7 +52,7 @@ $displayNameLocales = @(
     @{ languageTag = "es"; sourceLocale = "es" }
 )
 
-# This alpha uses a deliberately small reviewed mapping. The display-name data
+# The v1 package uses a deliberately small reviewed mapping. The display-name data
 # is CLDR-derived, but endonym flags are only set where the country/language
 # association is clear enough for this package's first pass.
 $endonymTagsByCountry = @{
