@@ -93,4 +93,4 @@ Tests should continue to prove:
 
 ## Current recommendation
 
-Prepare stable `1.0.0` if the final release gate passes. Keep NuGet publishing separate and intentional.
+Stable `1.0.0` has been released. Future data updates should keep the current CLDR-derived v1 contract explicit, update `CountryDataVersion` when the checked data posture changes, and pass the release gate before any patch or minor package release.

@@ -2,17 +2,19 @@
 
 ## Status
 
-Accepted.
+Superseded by the stable `1.0.0` release. The original decision preserved package independence before the Countries surface had been validated.
 
 ## Context
 
 `ISOCodex.Countries` is intended to become a shared foundation for future ISOCodex package work, including possible `ISOCodex.Addressing` and currency-related integration.
 
-The Countries package should first pass its own release gate and settle its alpha package surface before other packages depend on it.
+The Countries package needed to pass its own release gate and settle its package surface before other packages could depend on it. That condition was satisfied by the stable `1.0.0` release.
 
 ## Decision
 
-Do not add `ISOCodex.Addressing` or `ISOCodex.Currency` package references, adapter packages, or cross-repository integration work until `ISOCodex.Countries` has produced a release candidate.
+The original decision was to avoid `ISOCodex.Addressing` or `ISOCodex.Currency` package references, adapter packages, or cross-repository integration work until `ISOCodex.Countries` had produced a release candidate.
+
+That release-candidate blocker is now closed. Future integration work should still be deliberate, package-boundary aware, and reviewed for circular dependencies.
 
 ## Consequences
 

@@ -20,9 +20,9 @@ Consumers may reasonably expect a package named `Countries` to provide broad cur
 
 Superseded. Option 1 was chosen for the v1 alpha path: complete current-country and territory coverage from a redistribution-safe source.
 
-## Current recommendation
+## Historical recommendation
 
-Superseded. The current recommendation is to prepare `1.0.0-alpha` using the CLDR-derived country and territory data scope recorded in ADR 0005.
+Superseded. This decision led to the `1.0.0-alpha` CLDR-derived country and territory data scope recorded in ADR 0005, which was later validated and promoted to stable `1.0.0`.
 
 ## Consequences
 

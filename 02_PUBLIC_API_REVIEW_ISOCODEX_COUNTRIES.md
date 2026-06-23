@@ -1,5 +1,7 @@
 # Codex Public API Review Brief: ISOCodex.Countries
 
+> Historical task brief. This file records the public API review pass that occurred before the stable `1.0.0` package release.
+
 ## Purpose
 
 This is the **public API review pass** for `ISOCodex.Countries`.
@@ -556,7 +558,7 @@ This task is complete when:
 - README/samples match the actual API,
 - API ergonomics tests exist,
 - restore/build/test/pack pass or blockers are clearly documented,
-- no NuGet publishing occurred,
+- no NuGet publishing occurred during this historical review pass,
 - a coherent Git commit is created if possible.
 
 ## Final response requirements

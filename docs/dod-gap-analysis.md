@@ -33,13 +33,14 @@
 - Alias resolution.
 - ASP.NET Core integration.
 - Analyzers or source generators.
-- NuGet publishing.
 
 ## Data-source concerns
 
 The package now contains CLDR-derived country, territory, and regular subdivision data for the selected v1 scope.
 
 Do not copy large official datasets into the repository until redistribution rights are clear.
+
+Stable `1.0.0` has been published to NuGet; future publishing work should follow `docs/release-gate.md`.
 
 ## Recommended order of attack
 

@@ -2,7 +2,7 @@
 
 ## Status
 
-Accepted.
+Superseded by the stable `1.0.0` release after the alpha package line was validated.
 
 ## Context
 
@@ -10,11 +10,13 @@ The package originally targeted `0.1.0` while country data was representative on
 
 Unicode CLDR 48.2 now provides the package's pinned source for current country and territory code coverage. The package generates 249 current ISO-style alpha-2, alpha-3, numeric, and English display-name entries from CLDR territory mappings and English territory names. It also generates selected-locale country display names, explicit aliases, and special country-code-shaped elements from CLDR metadata.
 
-The package still does not redistribute official ISO tables, does not claim ISO endorsement, and does not model full ISO 3166-2 subdivision coverage.
+The package still does not redistribute official ISO tables, does not claim ISO endorsement, and does not model official ISO 3166-2 subdivision categories or hierarchy.
 
 ## Decision
 
-Target `1.0.0-alpha` for the next release-candidate package.
+The original target was `1.0.0-alpha` for the next release-candidate package.
+
+This target was completed by the alpha package line and then promoted to stable `1.0.0`.
 
 The v1 alpha country-data contract is:
 
@@ -28,6 +30,6 @@ The v1 alpha country-data contract is:
 
 The package can move beyond the earlier `0.1.0` representative-country posture.
 
-The alpha label remains important because consumer feedback may still affect API ergonomics, alias behaviour, display-name fallback policy, endonym coverage, data-source wording, and future reserved-code or subdivision modelling.
+The alpha label was important during validation because consumer feedback could still affect API ergonomics, alias behaviour, display-name fallback policy, endonym coverage, data-source wording, and future reserved-code or subdivision modelling.
 
 Future CLDR updates must be generated through `eng/update-country-seed-from-cldr.ps1`, reviewed, and covered by data drift and package verification.

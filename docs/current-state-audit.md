@@ -149,6 +149,6 @@ The final local verification commands from `docs/release-gate.md` passed on 2026
 
 ## Recommended next actions
 
-1. Release stable `1.0.0` if the final release gate passes.
-2. Review consumer feedback on the CLDR-derived data scope.
-3. Review subdivision type and hierarchy enrichment only after a separate source decision.
+1. Review consumer feedback on the CLDR-derived data scope after the stable `1.0.0` release.
+2. Review subdivision type and hierarchy enrichment only after a separate source decision.
+3. Plan any `1.0.x` patch or `1.1.0` feature work through the release gate.

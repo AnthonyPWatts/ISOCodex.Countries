@@ -268,7 +268,10 @@ using System.Text.Json;
 using ISOCodex.Countries;
 
 var options = new JsonSerializerOptions();
-CountryJsonSerializerOptions.AddConverters(options);
+options.Converters.Add(new CountryAlpha2CodeJsonConverter());
+options.Converters.Add(new CountryAlpha3CodeJsonConverter());
+options.Converters.Add(new CountryNumericCodeJsonConverter());
+options.Converters.Add(new CountrySubdivisionCodeJsonConverter());
 
 string json = JsonSerializer.Serialize(CountryAlpha2Code.Parse("gb"), options);
 CountryAlpha2Code code = JsonSerializer.Deserialize<CountryAlpha2Code>("\"GB\"", options);
