@@ -16,22 +16,22 @@ public enum CountryCodeLookupFailureReason
     InvalidSyntax,
 
     /// <summary>
-    /// The input could not be resolved deterministically.
+    /// The input could not be resolved because more than one meaning is possible.
     /// </summary>
     Ambiguous,
 
     /// <summary>
-    /// The input had valid syntax but is not in the current seed registry.
+    /// The input has valid syntax but is not present in the current package data snapshot.
     /// </summary>
     Unknown,
 
     /// <summary>
-    /// The input is reserved, special-use, user-assigned, or otherwise not a package country entry.
+    /// The input is reserved or special-purpose rather than a country, if future data explicitly supports that distinction.
     /// </summary>
     ReservedButNotCountry,
 
     /// <summary>
-    /// The input shape is recognised but not supported by this package version.
+    /// The input uses a code shape or model that the current package does not support.
     /// </summary>
     Unsupported
 }

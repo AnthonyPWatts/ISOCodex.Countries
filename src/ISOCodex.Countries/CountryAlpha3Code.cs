@@ -94,4 +94,8 @@ public readonly struct CountryAlpha3Code : IEquatable<CountryAlpha3Code>, ICompa
     public static bool operator ==(CountryAlpha3Code left, CountryAlpha3Code right) => left.Equals(right);
 
     public static bool operator !=(CountryAlpha3Code left, CountryAlpha3Code right) => !left.Equals(right);
+
+    public static bool operator <(CountryAlpha3Code left, CountryAlpha3Code right) => left.CompareTo(right) < 0;
+
+    public static bool operator >(CountryAlpha3Code left, CountryAlpha3Code right) => left.CompareTo(right) > 0;
 }

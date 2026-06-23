@@ -33,3 +33,14 @@ jobs:
 
       - name: Pack
         run: dotnet pack --configuration Release --no-build --output ./artifacts
+
+      - name: Package smoke test
+        shell: pwsh
+        run: ./eng/smoke-test-package.ps1
+
+      - name: Upload NuGet packages
+        uses: actions/upload-artifact@v4
+        with:
+          name: nuget-packages
+          path: artifacts/*.nupkg
+          if-no-files-found: error

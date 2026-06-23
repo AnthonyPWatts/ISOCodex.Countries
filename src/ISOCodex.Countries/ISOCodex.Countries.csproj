@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.1;net8.0</TargetFrameworks>
     <PackageId>ISOCodex.Countries</PackageId>
+    <VersionPrefix>1.0.0</VersionPrefix>
+    <VersionSuffix>alpha.1</VersionSuffix>
     <Title>ISOCodex.Countries</Title>
     <Description>Strongly typed country, country-code, subdivision, and jurisdiction metadata for .NET applications.</Description>
     <Authors>Anthony Watts</Authors>
@@ -13,8 +15,12 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>countries;iso3166;m49;country-codes;dotnet;validation</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageReleaseNotes>Clarifies alpha-2 syntax, current-country registry lookup, and special code-element guidance for v1 alpha consumers.</PackageReleaseNotes>
     <IsPackable>true</IsPackable>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <NoWarn>$(NoWarn);1591</NoWarn>
   </PropertyGroup>
 
@@ -25,6 +31,7 @@
 
   <ItemGroup>
     <None Include="..\..\README.md" Pack="true" PackagePath="" Link="README.md" />
+    <None Include="..\..\THIRD-PARTY-NOTICES.md" Pack="true" PackagePath="" Link="THIRD-PARTY-NOTICES.md" />
   </ItemGroup>
 
 </Project>

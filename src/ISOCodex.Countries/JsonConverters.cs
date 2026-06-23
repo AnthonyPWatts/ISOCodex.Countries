@@ -9,7 +9,7 @@ namespace ISOCodex.Countries;
 public sealed class CountryAlpha2CodeJsonConverter : JsonConverter<CountryAlpha2Code>
 {
     public override CountryAlpha2Code Read(ref Utf8JsonReader reader, Type typeToConvert, JsonSerializerOptions options) =>
-        JsonCodeParser.Parse(reader.GetString(), CountryAlpha2Code.Parse, "country alpha-2 code");
+        JsonCodeParser.Parse(ref reader, CountryAlpha2Code.Parse, "country alpha-2 code");
 
     public override void Write(Utf8JsonWriter writer, CountryAlpha2Code value, JsonSerializerOptions options) =>
         writer.WriteStringValue(value.Value);
@@ -21,7 +21,7 @@ public sealed class CountryAlpha2CodeJsonConverter : JsonConverter<CountryAlpha2
 public sealed class CountryAlpha3CodeJsonConverter : JsonConverter<CountryAlpha3Code>
 {
     public override CountryAlpha3Code Read(ref Utf8JsonReader reader, Type typeToConvert, JsonSerializerOptions options) =>
-        JsonCodeParser.Parse(reader.GetString(), CountryAlpha3Code.Parse, "country alpha-3 code");
+        JsonCodeParser.Parse(ref reader, CountryAlpha3Code.Parse, "country alpha-3 code");
 
     public override void Write(Utf8JsonWriter writer, CountryAlpha3Code value, JsonSerializerOptions options) =>
         writer.WriteStringValue(value.Value);
@@ -33,7 +33,7 @@ public sealed class CountryAlpha3CodeJsonConverter : JsonConverter<CountryAlpha3
 public sealed class CountryNumericCodeJsonConverter : JsonConverter<CountryNumericCode>
 {
     public override CountryNumericCode Read(ref Utf8JsonReader reader, Type typeToConvert, JsonSerializerOptions options) =>
-        JsonCodeParser.Parse(reader.GetString(), CountryNumericCode.Parse, "country numeric code");
+        JsonCodeParser.Parse(ref reader, CountryNumericCode.Parse, "country numeric code");
 
     public override void Write(Utf8JsonWriter writer, CountryNumericCode value, JsonSerializerOptions options) =>
         writer.WriteStringValue(value.Value);
@@ -45,7 +45,7 @@ public sealed class CountryNumericCodeJsonConverter : JsonConverter<CountryNumer
 public sealed class CountrySubdivisionCodeJsonConverter : JsonConverter<CountrySubdivisionCode>
 {
     public override CountrySubdivisionCode Read(ref Utf8JsonReader reader, Type typeToConvert, JsonSerializerOptions options) =>
-        JsonCodeParser.Parse(reader.GetString(), CountrySubdivisionCode.Parse, "country subdivision code");
+        JsonCodeParser.Parse(ref reader, CountrySubdivisionCode.Parse, "country subdivision code");
 
     public override void Write(Utf8JsonWriter writer, CountrySubdivisionCode value, JsonSerializerOptions options) =>
         writer.WriteStringValue(value.Value);
@@ -53,8 +53,15 @@ public sealed class CountrySubdivisionCodeJsonConverter : JsonConverter<CountryS
 
 internal static class JsonCodeParser
 {
-    public static T Parse<T>(string? value, Func<string, T> parser, string displayName)
+    public static T Parse<T>(ref Utf8JsonReader reader, Func<string, T> parser, string displayName)
     {
+        if (reader.TokenType != JsonTokenType.String)
+        {
+            throw new JsonException("Expected a string " + displayName + ".");
+        }
+
+        string? value = reader.GetString();
+
         if (value is null)
         {
             throw new JsonException("Expected a string " + displayName + ".");

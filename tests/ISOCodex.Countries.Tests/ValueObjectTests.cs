@@ -14,6 +14,19 @@ public sealed class ValueObjectTests
     }
 
     [Theory]
+    [InlineData("EU")]
+    [InlineData("QO")]
+    [InlineData("XA")]
+    [InlineData("XB")]
+    [InlineData("XK")]
+    [InlineData("ZZ")]
+    public void Alpha2_Parses_Syntactically_Valid_Special_And_User_Assigned_Shapes(string input)
+    {
+        Assert.True(CountryAlpha2Code.TryParse(input, out CountryAlpha2Code code));
+        Assert.Equal(input, code.Value);
+    }
+
+    [Theory]
     [InlineData(null)]
     [InlineData("")]
     [InlineData(" ")]
@@ -81,6 +94,14 @@ public sealed class ValueObjectTests
     }
 
     [Theory]
+    [InlineData(-1)]
+    [InlineData(1000)]
+    public void Numeric_FromInt32_Rejects_Out_Of_Range_Values(int input)
+    {
+        Assert.Throws<ArgumentOutOfRangeException>(() => CountryNumericCode.FromInt32(input));
+    }
+
+    [Theory]
     [InlineData(null, "country.numeric.empty")]
     [InlineData("", "country.numeric.empty")]
     [InlineData("12", "country.numeric.invalid_length")]
@@ -116,5 +137,28 @@ public sealed class ValueObjectTests
     public void Subdivision_Rejects_Invalid_Formats(string? input)
     {
         Assert.False(CountrySubdivisionCode.TryParse(input, out _));
+    }
+
+    [Fact]
+    public void Default_Value_Objects_Are_Empty_Not_Valid_Canonical_Codes()
+    {
+        Assert.Equal(string.Empty, default(CountryAlpha2Code).Value);
+        Assert.Equal(string.Empty, default(CountryAlpha3Code).Value);
+        Assert.Equal(string.Empty, default(CountryNumericCode).Value);
+        Assert.Equal(string.Empty, default(CountrySubdivisionCode).Value);
+    }
+
+    [Fact]
+    public void Value_Objects_Use_Ordinal_Equality_And_Comparison()
+    {
+        Assert.Equal(CountryAlpha2Code.Parse("gb"), CountryAlpha2Code.Parse("GB"));
+        Assert.True(CountryAlpha2Code.Parse("GB") < CountryAlpha2Code.Parse("US"));
+        Assert.True(CountryAlpha3Code.Parse("GBR") < CountryAlpha3Code.Parse("USA"));
+        Assert.True(CountryNumericCode.Parse("008") < CountryNumericCode.Parse("826"));
+        Assert.True(CountrySubdivisionCode.Parse("GB-ENG") < CountrySubdivisionCode.Parse("US-CA"));
+        Assert.True(CountryAlpha2Code.Parse("US") > CountryAlpha2Code.Parse("GB"));
+        Assert.True(CountryAlpha3Code.Parse("USA") > CountryAlpha3Code.Parse("GBR"));
+        Assert.True(CountryNumericCode.Parse("826") > CountryNumericCode.Parse("008"));
+        Assert.True(CountrySubdivisionCode.Parse("US-CA") > CountrySubdivisionCode.Parse("GB-ENG"));
     }
 }

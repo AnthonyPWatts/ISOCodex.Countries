@@ -39,12 +39,108 @@ public sealed class JsonConverterTests
     }
 
     [Fact]
-    public void Adds_Converters_To_Existing_Options()
+    public void Dto_Round_Trip_Preserves_Canonical_Strings()
     {
-        JsonSerializerOptions options = new();
+        CountryDto dto = new(
+            CountryAlpha2Code.Parse("gb"),
+            CountryAlpha3Code.Parse("gbr"),
+            CountryNumericCode.Parse("008"),
+            CountrySubdivisionCode.Parse("gb-eng"));
 
-        CountryJsonSerializerOptions.AddConverters(options);
+        string json = JsonSerializer.Serialize(dto, Options);
+        CountryDto? deserialized = JsonSerializer.Deserialize<CountryDto>(json, Options);
 
-        Assert.Equal("\"GB\"", JsonSerializer.Serialize(CountryAlpha2Code.Parse("GB"), options));
+        Assert.NotNull(deserialized);
+        Assert.Equal("GB", deserialized.Alpha2.ToString());
+        Assert.Equal("GBR", deserialized.Alpha3.ToString());
+        Assert.Equal("008", deserialized.Numeric.ToString());
+        Assert.Equal("GB-ENG", deserialized.Subdivision.ToString());
     }
+
+    [Fact]
+    public void Nullable_Code_Properties_Can_Round_Trip_Null()
+    {
+        NullableCountryDto dto = new(null);
+
+        string json = JsonSerializer.Serialize(dto, Options);
+        NullableCountryDto? deserialized = JsonSerializer.Deserialize<NullableCountryDto>(json, Options);
+
+        Assert.NotNull(deserialized);
+        Assert.Null(deserialized.Alpha2);
+    }
+
+    [Theory]
+    [InlineData("\"G1\"", typeof(CountryAlpha2Code))]
+    [InlineData("\"GB1\"", typeof(CountryAlpha3Code))]
+    [InlineData("\"08A\"", typeof(CountryNumericCode))]
+    [InlineData("\"GB-!\"", typeof(CountrySubdivisionCode))]
+    public void Each_Converter_Rejects_Invalid_Values(string json, Type targetType)
+    {
+        Assert.Throws<JsonException>(() => JsonSerializer.Deserialize(json, targetType, Options));
+    }
+
+    [Theory]
+    [InlineData("\"G1\"")]
+    [InlineData("null")]
+    [InlineData("123")]
+    [InlineData("true")]
+    [InlineData("{}")]
+    [InlineData("[]")]
+    public void Alpha2_Converter_Rejects_Invalid_Json_Tokens(string json)
+    {
+        Assert.Throws<JsonException>(() => JsonSerializer.Deserialize<CountryAlpha2Code>(json, Options));
+    }
+
+    [Theory]
+    [InlineData("\"GB1\"")]
+    [InlineData("null")]
+    [InlineData("123")]
+    [InlineData("true")]
+    [InlineData("{}")]
+    [InlineData("[]")]
+    public void Alpha3_Converter_Rejects_Invalid_Json_Tokens(string json)
+    {
+        Assert.Throws<JsonException>(() => JsonSerializer.Deserialize<CountryAlpha3Code>(json, Options));
+    }
+
+    [Theory]
+    [InlineData("\"08A\"")]
+    [InlineData("null")]
+    [InlineData("123")]
+    [InlineData("true")]
+    [InlineData("{}")]
+    [InlineData("[]")]
+    public void Numeric_Converter_Rejects_Invalid_Json_Tokens(string json)
+    {
+        Assert.Throws<JsonException>(() => JsonSerializer.Deserialize<CountryNumericCode>(json, Options));
+    }
+
+    [Theory]
+    [InlineData("\"GB-!\"")]
+    [InlineData("null")]
+    [InlineData("123")]
+    [InlineData("true")]
+    [InlineData("{}")]
+    [InlineData("[]")]
+    public void Subdivision_Converter_Rejects_Invalid_Json_Tokens(string json)
+    {
+        Assert.Throws<JsonException>(() => JsonSerializer.Deserialize<CountrySubdivisionCode>(json, Options));
+    }
+
+    [Fact]
+    public void Serialises_Default_Value_Objects_As_Empty_Strings()
+    {
+        Assert.Equal("\"\"", JsonSerializer.Serialize(default(CountryAlpha2Code), Options));
+        Assert.Equal("\"\"", JsonSerializer.Serialize(default(CountryAlpha3Code), Options));
+        Assert.Equal("\"\"", JsonSerializer.Serialize(default(CountryNumericCode), Options));
+        Assert.Equal("\"\"", JsonSerializer.Serialize(default(CountrySubdivisionCode), Options));
+    }
+
+    private sealed record CountryDto(
+        CountryAlpha2Code Alpha2,
+        CountryAlpha3Code Alpha3,
+        CountryNumericCode Numeric,
+        CountrySubdivisionCode Subdivision);
+
+    private sealed record NullableCountryDto(CountryAlpha2Code? Alpha2);
 }

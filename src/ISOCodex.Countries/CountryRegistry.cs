@@ -72,8 +72,24 @@ public static class CountryRegistry
             return CountryCodeLookupResult.Failed(CountryCodeLookupFailureReason.Empty);
         }
 
+        if (CountrySubdivisionCode.TryParse(value, out CountrySubdivisionCode subdivisionCode))
+        {
+            return CountryCodeLookupResult.Failed(
+                CountryCodeLookupFailureReason.Unsupported,
+                normalizedInput: subdivisionCode.Value);
+        }
+
         if (CountryAlpha2Code.TryParse(value, out CountryAlpha2Code alpha2))
         {
+            if (CountryCodeElementRegistry.TryGetByAlpha2(alpha2, out CountryCodeElementInfo? element)
+                && element!.Kind != CountryCodeElementKind.CurrentCountry)
+            {
+                return CountryCodeLookupResult.Failed(
+                    CountryCodeLookupFailureReason.ReservedButNotCountry,
+                    CountryCodeKind.Alpha2,
+                    alpha2.Value);
+            }
+
             return TryGetByAlpha2(alpha2, out CountryInfo? country)
                 ? CountryCodeLookupResult.Found(country!, CountryCodeKind.Alpha2, alpha2.Value)
                 : CountryCodeLookupResult.Failed(GetAlpha2FailureReason(alpha2), CountryCodeKind.Alpha2, alpha2.Value);

@@ -145,4 +145,8 @@ public readonly struct CountrySubdivisionCode : IEquatable<CountrySubdivisionCod
     public static bool operator ==(CountrySubdivisionCode left, CountrySubdivisionCode right) => left.Equals(right);
 
     public static bool operator !=(CountrySubdivisionCode left, CountrySubdivisionCode right) => !left.Equals(right);
+
+    public static bool operator <(CountrySubdivisionCode left, CountrySubdivisionCode right) => left.CompareTo(right) < 0;
+
+    public static bool operator >(CountrySubdivisionCode left, CountrySubdivisionCode right) => left.CompareTo(right) > 0;
 }

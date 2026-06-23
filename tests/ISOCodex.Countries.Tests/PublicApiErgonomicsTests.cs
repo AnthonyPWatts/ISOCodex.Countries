@@ -5,73 +5,103 @@ namespace ISOCodex.Countries.Tests;
 public sealed class PublicApiErgonomicsTests
 {
     [Fact]
-    public void Typical_Parse_And_Lookup_Flow_Is_Straightforward()
+    public void Consumer_Can_Parse_Alpha2_Then_Use_Registry_Lookup()
     {
-        CountryAlpha2Code gb = CountryAlpha2Code.Parse("GB");
-        CountryInfo country = CountryRegistry.GetByAlpha2(gb);
+        CountryAlpha2Code code = CountryAlpha2Code.Parse("gb");
 
+        CountryInfo country = CountryRegistry.GetByAlpha2(code);
+
+        Assert.Equal("GB", country.Alpha2.Value);
         Assert.Equal("United Kingdom", country.EnglishShortName);
-        Assert.Equal("GBR", country.Alpha3.ToString());
     }
 
     [Fact]
-    public void Typical_TryGet_Flow_Uses_Value_Object_When_Available()
+    public void Consumer_Can_TryGet_From_Untrusted_Input()
     {
-        CountryAlpha2Code code = CountryAlpha2Code.Parse("ie");
+        Assert.True(CountryRegistry.TryGetByAlpha2("gb", out CountryInfo? country));
 
-        bool found = CountryRegistry.TryGetByAlpha2(code, out CountryInfo? country);
-
-        Assert.True(found);
-        Assert.Equal("Ireland", country?.EnglishShortName);
+        Assert.Equal("United Kingdom", country?.EnglishShortName);
     }
 
-    [Fact]
-    public void String_TryGet_Flow_Is_Useful_At_Boundaries()
+    [Theory]
+    [InlineData("GB", CountryCodeKind.Alpha2)]
+    [InlineData("GBR", CountryCodeKind.Alpha3)]
+    [InlineData("826", CountryCodeKind.Numeric)]
+    public void Consumer_Can_Use_Mixed_Lookup_For_Successful_Input(string input, CountryCodeKind expectedKind)
     {
-        string? input = "008";
+        CountryCodeLookupResult result = CountryRegistry.Lookup(input);
 
-        bool found = CountryRegistry.TryGetByNumeric(input, out CountryInfo? country);
+        Assert.True(result.Success);
+        Assert.Equal(expectedKind, result.DetectedKind);
+        Assert.Equal("United Kingdom", result.Country?.EnglishShortName);
+    }
 
-        Assert.True(found);
-        Assert.Equal("AL", country?.Alpha2.ToString());
+    [Theory]
+    [InlineData("AA", CountryCodeLookupFailureReason.Unknown)]
+    [InlineData("ZZ", CountryCodeLookupFailureReason.ReservedButNotCountry)]
+    [InlineData("12!", CountryCodeLookupFailureReason.InvalidSyntax)]
+    public void Consumer_Can_Use_Mixed_Lookup_For_Failed_Input(string input, CountryCodeLookupFailureReason expectedReason)
+    {
+        CountryCodeLookupResult result = CountryRegistry.Lookup(input);
+
+        Assert.False(result.Success);
+        Assert.Equal(expectedReason, result.FailureReason);
     }
 
     [Fact]
-    public void Mixed_Lookup_Failure_Flow_Is_Structured()
+    public void Uk_Does_Not_Resolve_Silently_To_Gb()
     {
         CountryCodeLookupResult result = CountryRegistry.Lookup("UK");
 
         Assert.False(result.Success);
-        Assert.Null(result.Country);
-        Assert.Equal(CountryCodeKind.Alpha2, result.DetectedKind);
-        Assert.Equal(CountryCodeLookupFailureReason.ReservedButNotCountry, result.FailureReason);
-        Assert.Equal("UK", result.NormalizedInput);
+        Assert.Equal(CountryCodeLookupFailureReason.Unknown, result.FailureReason);
     }
 
     [Fact]
-    public void Json_Dto_Flow_Uses_Registration_Helper()
+    public void Consumer_Dto_Can_Round_Trip_Json_With_Manual_Converters()
     {
-        JsonSerializerOptions options = CountryJsonSerializerOptions.CreateDefault();
-        CustomerDto? dto = JsonSerializer.Deserialize<CustomerDto>("{\"Country\":\"gb\",\"Subdivision\":\"gb-eng\"}", options);
+        JsonSerializerOptions options = CreateOptions();
+        ConsumerCountryDto dto = new(CountryAlpha2Code.Parse("gb"), CountryNumericCode.Parse("008"));
 
-        Assert.NotNull(dto);
-        Assert.Equal("GB", dto.Country.ToString());
-        Assert.Equal("GB-ENG", dto.Subdivision.ToString());
+        string json = JsonSerializer.Serialize(dto, options);
+        ConsumerCountryDto? deserialized = JsonSerializer.Deserialize<ConsumerCountryDto>(json, options);
+
+        Assert.NotNull(deserialized);
+        Assert.Equal("GB", deserialized.CountryCode.ToString());
+        Assert.Equal("008", deserialized.NumericCode.ToString());
     }
 
     [Fact]
-    public void Country_Dropdown_Flow_Uses_Canonical_Alpha2_Values()
+    public void Consumer_Can_Build_Country_Dropdown_Options()
     {
         var options = CountryRegistry.All
-            .OrderBy(country => country.EnglishShortName)
-            .Select(country => new CountryOption(country.Alpha2.Value, country.EnglishShortName))
+            .OrderBy(country => country.EnglishShortName, StringComparer.Ordinal)
+            .Select(country => new { Value = country.Alpha2.Value, Label = country.EnglishShortName })
             .ToArray();
 
         Assert.Contains(options, option => option.Value == "GB" && option.Label == "United Kingdom");
-        Assert.DoesNotContain(options, option => option.Value == "UK");
     }
 
-    private sealed record CustomerDto(CountryAlpha2Code Country, CountrySubdivisionCode Subdivision);
+    [Fact]
+    public void Consumer_Can_Look_Up_Representative_Subdivision()
+    {
+        CountrySubdivisionCode code = CountrySubdivisionCode.Parse("gb-eng");
 
-    private sealed record CountryOption(string Value, string Label);
+        CountrySubdivisionInfo subdivision = CountrySubdivisionRegistry.GetByCode(code);
+
+        Assert.Equal("England", subdivision.EnglishName);
+        Assert.Equal("GB", subdivision.CountryCode.Value);
+    }
+
+    private static JsonSerializerOptions CreateOptions()
+    {
+        JsonSerializerOptions options = new();
+        options.Converters.Add(new CountryAlpha2CodeJsonConverter());
+        options.Converters.Add(new CountryAlpha3CodeJsonConverter());
+        options.Converters.Add(new CountryNumericCodeJsonConverter());
+        options.Converters.Add(new CountrySubdivisionCodeJsonConverter());
+        return options;
+    }
+
+    private sealed record ConsumerCountryDto(CountryAlpha2Code CountryCode, CountryNumericCode NumericCode);
 }

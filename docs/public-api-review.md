@@ -1,321 +1,109 @@
 # Public API Review
 
-This review covers the first implementation pass of `ISOCodex.Countries`. The goal is to check whether the public API is pleasant, coherent, stable enough to harden later, and aligned with the broader ISOCodex style.
+## Value objects
 
-## Value Objects
+The core value objects are:
 
-### `CountryAlpha2Code`
+- `CountryAlpha2Code`
+- `CountryAlpha3Code`
+- `CountryNumericCode`
+- `CountrySubdivisionCode`
 
-Represents a canonical two-letter country code.
+They are `readonly struct` types with canonical string values, `Parse`, `TryParse`, `IsValidSyntax`, structured `TryValidate`, equality, comparison, `<`/`>` operators, and `ToString()` support.
 
-Public surface:
+Alpha values canonicalise to uppercase ASCII. Numeric values preserve three-character form, including leading zeroes such as `008`.
 
-- `string Value`
-- `static CountryAlpha2Code Parse(string value)`
-- `static bool TryParse(string? value, out CountryAlpha2Code code)`
-- `static bool IsValidSyntax(string? value)`
-- `static CountryCodeValidationIssue? TryValidate(string? value, out string normalized)`
-- `bool Equals(CountryAlpha2Code other)`
-- `override bool Equals(object? obj)`
-- `override int GetHashCode()`
-- `int CompareTo(CountryAlpha2Code other)`
-- `int CompareTo(object? obj)`
-- `override string ToString()`
-- equality, inequality, less-than, and greater-than operators
+## Registries and lookup results
 
-Construction is intentionally factory-based. The only constructor is private, so invalid values cannot be created through public constructors.
+`CountryRegistry` provides strongly typed `GetBy...` and `TryGetBy...` methods, string convenience `TryGetBy...` methods, and mixed `Lookup`.
 
-### `CountryAlpha3Code`
+`CountryCodeLookupResult` preserves:
 
-Represents a canonical three-letter country code.
+- whether lookup succeeded,
+- the resolved `CountryInfo`,
+- detected code kind,
+- failure reason,
+- normalised input when syntax was detected.
 
-Public surface:
+This keeps invalid syntax, syntactically valid unknown values, and successful current-country lookups separate.
 
-- `string Value`
-- `static CountryAlpha3Code Parse(string value)`
-- `static bool TryParse(string? value, out CountryAlpha3Code code)`
-- `static bool IsValidSyntax(string? value)`
-- `static CountryCodeValidationIssue? TryValidate(string? value, out string normalized)`
-- `bool Equals(CountryAlpha3Code other)`
-- `override bool Equals(object? obj)`
-- `override int GetHashCode()`
-- `int CompareTo(CountryAlpha3Code other)`
-- `int CompareTo(object? obj)`
-- `override string ToString()`
-- equality and inequality operators
+`CountryNameRegistry` provides generated CLDR-derived country display names. `LookupDisplayName` reports the requested language tag, resolved language tag, and whether fallback was used. Fallback is visible rather than silently returning English.
 
-The name is verbose but clear and consistent with `CountryAlpha2Code`.
+`CountryAliasRegistry` provides explicit opt-in alias lookup. It uses reviewed common aliases and CLDR deprecated territory aliases. Ambiguous aliases return an ambiguous result with candidates rather than guessing.
 
-### `CountryNumericCode`
+`CountryCodeElementRegistry` exposes known country-code-shaped special elements such as `EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ`.
 
-Represents a canonical three-digit numeric country code, preserving leading zeroes.
+## Country metadata
 
-Public surface:
-
-- `string Value`
-- `static CountryNumericCode Parse(string value)`
-- `static CountryNumericCode FromInt32(int value)`
-- `static bool TryParse(string? value, out CountryNumericCode code)`
-- `static bool IsValidSyntax(string? value)`
-- `static CountryCodeValidationIssue? TryValidate(string? value, out string normalized)`
-- `bool Equals(CountryNumericCode other)`
-- `override bool Equals(object? obj)`
-- `override int GetHashCode()`
-- `int CompareTo(CountryNumericCode other)`
-- `int CompareTo(object? obj)`
-- `override string ToString()`
-- equality and inequality operators
-
-`CountryNumericCode` is preferable to `CountryM49Code` for now because the package is using ISO-style numeric country codes aligned with UN M49 concepts, not claiming to model the whole UN M49 standard.
-
-### `CountrySubdivisionCode`
-
-Represents an ISO 3166-2-style subdivision code.
-
-Public surface:
-
-- `CountryAlpha2Code CountryCode`
-- `string SubdivisionPart`
-- `string Value`
-- `static CountrySubdivisionCode Parse(string value)`
-- `static bool TryParse(string? value, out CountrySubdivisionCode code)`
-- `static bool IsValidSyntax(string? value)`
-- `static CountryCodeValidationIssue? TryValidate(string? value, out CountryAlpha2Code countryCode, out string subdivisionPart)`
-- `bool Equals(CountrySubdivisionCode other)`
-- `override bool Equals(object? obj)`
-- `override int GetHashCode()`
-- `int CompareTo(CountrySubdivisionCode other)`
-- `int CompareTo(object? obj)`
-- `override string ToString()`
-- equality and inequality operators
-
-The type makes syntax validation separate from registry knowledge, which is the right split.
-
-## Registry And Lookups
-
-### `CountryRegistry`
-
-Static registry for country lookup.
-
-Public surface:
-
-- `IReadOnlyList<CountryInfo> All`
-- `CountryInfo GetByAlpha2(CountryAlpha2Code code)`
-- `CountryInfo GetByAlpha3(CountryAlpha3Code code)`
-- `CountryInfo GetByNumeric(CountryNumericCode code)`
-- `bool TryGetByAlpha2(CountryAlpha2Code code, out CountryInfo? country)`
-- `bool TryGetByAlpha3(CountryAlpha3Code code, out CountryInfo? country)`
-- `bool TryGetByNumeric(CountryNumericCode code, out CountryInfo? country)`
-- `bool TryGetByAlpha2(string? value, out CountryInfo? country)`
-- `bool TryGetByAlpha3(string? value, out CountryInfo? country)`
-- `bool TryGetByNumeric(string? value, out CountryInfo? country)`
-- `CountryCodeLookupResult Lookup(string? value)`
-
-`CountryRegistry` remains the best name among the reviewed options. `Countries` is too broad, `CountryLookup` sounds operation-only, and `CountryCatalog` or `CountryDirectory` do not clearly improve discoverability.
-
-`GetBy...` methods throw `KeyNotFoundException` for unknown syntactically valid codes. `TryGetBy...` methods return `false` for invalid or unknown input. Mixed lookup returns a structured `CountryCodeLookupResult`.
-
-### `CountrySubdivisionRegistry`
-
-Static registry for representative subdivision lookup.
-
-Public surface:
-
-- `IReadOnlyList<CountrySubdivisionInfo> All`
-- `CountrySubdivisionInfo GetByCode(CountrySubdivisionCode code)`
-- `bool TryGetByCode(CountrySubdivisionCode code, out CountrySubdivisionInfo? subdivision)`
-- `bool TryGetByCode(string? value, out CountrySubdivisionInfo? subdivision)`
-
-The name is clear and maps to the package terminology.
-
-## Country Metadata
-
-### `CountryInfo`
-
-Immutable consumer-facing country metadata.
-
-Public constructor:
-
-- `CountryInfo(CountryAlpha2Code alpha2, CountryAlpha3Code alpha3, CountryNumericCode numeric, string englishShortName, string? englishOfficialName, CountryEntryStatus status, IEnumerable<string>? commonAliases = null, IEnumerable<string>? notes = null)`
-
-Public properties:
-
-- `CountryAlpha2Code Alpha2`
-- `CountryAlpha3Code Alpha3`
-- `CountryNumericCode Numeric`
-- `string EnglishShortName`
-- `string? EnglishOfficialName`
-- `CountryEntryStatus Status`
-- `IReadOnlyList<string> CommonAliases`
-- `IReadOnlyList<string> Notes`
-- `override string ToString()`
-
-`CountryInfo` remains preferable to plain `Country`, because it is clearly a metadata record rather than a real-world geopolitical entity.
-
-### `CountryEntryStatus`
-
-Enum values:
-
-- `Current`
-- `Former`
-- `Reserved`
-- `ExceptionallyReserved`
-- `TransitionallyReserved`
-- `UserAssigned`
-- `Unknown`
-
-Only `Current` is used in the first seed data. The remaining values are retained because they describe expected registry states and are useful for future data expansion.
-
-## Subdivision Metadata
-
-### `CountrySubdivisionInfo`
-
-Immutable consumer-facing subdivision metadata.
-
-Public constructor:
-
-- `CountrySubdivisionInfo(CountrySubdivisionCode code, CountryAlpha2Code countryCode, string englishName, string? localName, CountrySubdivisionType type)`
-
-Public properties:
-
-- `CountrySubdivisionCode Code`
-- `CountryAlpha2Code CountryCode`
-- `string EnglishName`
-- `string? LocalName`
-- `CountrySubdivisionType Type`
-- `override string ToString()`
-
-### `CountrySubdivisionType`
-
-Enum values:
-
-- `Unknown`
-- `State`
-- `Province`
-- `Territory`
-- `Region`
-- `County`
-- `District`
-- `Department`
-- `Municipality`
-- `Parish`
-- `CouncilArea`
-- `Nation`
-- `Other`
-
-The enum is intentionally broad but not exhaustive.
-
-## Validation And Failure Types
-
-### `CountryCodeValidationIssue`
-
-Structured syntax validation issue.
-
-Public constructor:
-
-- `CountryCodeValidationIssue(string code, string message, string? input)`
-
-Public properties:
-
-- `string Code`
-- `string Message`
-- `string? Input`
-
-Stable issue-code examples include `country.alpha2.empty`, `country.alpha2.invalid_length`, `country.alpha2.invalid_characters`, `country.numeric.invalid_characters`, and `country.subdivision.invalid_format`.
-
-### `CountryCodeLookupResult`
-
-Structured result for mixed user/API input.
-
-Public properties:
-
-- `bool Success`
-- `CountryInfo? Country`
-- `CountryCodeKind? DetectedKind`
-- `CountryCodeLookupFailureReason? FailureReason`
-- `string? NormalizedInput`
-
-The constructor and factories are not public, which keeps result creation controlled by the registry.
-
-### `CountryCodeKind`
-
-Enum values:
+`CountryInfo` exposes immutable consumer-facing properties:
 
 - `Alpha2`
 - `Alpha3`
 - `Numeric`
+- `EnglishShortName`
+- `EnglishOfficialName`
+- `Status`
+- `CommonAliases`
+- `Notes`
 
-### `CountryCodeLookupFailureReason`
+The alias list is metadata only. It is not used for silent canonical lookup.
 
-Enum values:
+## Subdivision metadata
 
-- `Empty`
-- `InvalidSyntax`
-- `Ambiguous`
-- `Unknown`
-- `ReservedButNotCountry`
-- `Unsupported`
+`CountrySubdivisionInfo` exposes:
 
-`Ambiguous` and `Unsupported` are currently future-facing. `ReservedButNotCountry` is now used for `UK`, `EU`, and `ZZ` in mixed lookup.
+- `Code`
+- `CountryCode`
+- `EnglishName`
+- `LocalName`
+- `Type`
 
-## JSON Support
+`CountrySubdivisionRegistry` supports lookup by `CountrySubdivisionCode` or string input and exposes `Lookup` for rich success/failure semantics.
 
-Public converter types:
+## Validation and failure types
 
-- `CountryAlpha2CodeJsonConverter`
-- `CountryAlpha3CodeJsonConverter`
-- `CountryNumericCodeJsonConverter`
-- `CountrySubdivisionCodeJsonConverter`
+`CountryCodeValidationIssue` exposes stable machine-readable issue codes, human-readable messages, and the failed input.
 
-Each converter serialises to a canonical string and rejects invalid strings with `JsonException`.
+Current entry statuses and lookup failure reasons include future-facing enum values such as `Reserved`, `Former`, `UserAssigned`, `Ambiguous`, `ReservedButNotCountry`, and `Unsupported`. The current registry does not yet contain complete reserved-code or former-code data. Seed countries therefore use `CountryEntryStatus.Current`; `UK` is treated as syntactically valid but unknown alpha-2 input by canonical lookup while alias lookup can resolve it explicitly; `EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` return `ReservedButNotCountry` as known non-country or special-purpose code elements.
 
-Public helper:
+## JSON support
 
-- `CountryJsonSerializerOptions.CreateDefault()`
-- `CountryJsonSerializerOptions.AddConverters(JsonSerializerOptions options)`
+The package includes `System.Text.Json` converters for the value-object types. They require manual registration on `JsonSerializerOptions`.
 
-The helper keeps converter registration discoverable without adding a new package or dependency.
+Converters serialise canonical strings, deserialise valid strings, preserve numeric leading zeroes, and throw `JsonException` for invalid strings or non-string JSON tokens. Default value objects serialise as empty strings and should be treated as uninitialised values rather than meaningful canonical codes.
 
-## Samples And Consumer Experience
+## Current consumer experience
 
-The README and samples cover:
+The intended flow remains domain-first:
 
-- parse and lookup by value object,
-- mixed lookup from boundary input,
-- CSV-style row validation,
-- JSON converter registration,
-- dropdown/listing generation from `CountryRegistry.All`.
+```csharp
+CountryAlpha2Code code = CountryAlpha2Code.Parse("GB");
+CountryInfo country = CountryRegistry.GetByAlpha2(code);
+```
 
-The examples now use `CountryJsonSerializerOptions` for converter registration and explain that `UK`, `EU`, and `ZZ` are not silently treated as countries.
+String overloads are useful for boundary input, but strongly typed values remain the centre of the API.
 
-## API Concerns
+## API concerns found
 
-- `CountryRegistry.Lookup("UK")`, `Lookup("EU")`, and `Lookup("ZZ")` previously returned generic `Unknown`. That blurred reserved/special/non-country cases with ordinary unknown values.
-- JSON support was correct but slightly clumsy because every consumer had to discover and register four converter classes manually.
-- `CountryEntryStatus` and `CountryCodeLookupFailureReason` include future-facing values. This is acceptable for this early foundation package, but the DoD hardening pass should document enum compatibility expectations carefully.
-- Public metadata constructors are useful for tests and future generated/static data, but they mean consumers can create metadata records outside the registry. That is acceptable for now because records are immutable and validation occurs in the value objects.
+- Package version defaulted to `1.0.0` before hardening, despite representative data. It was first corrected to `0.1.0`, then moved to `1.0.0-alpha` after CLDR-derived country and territory data was added.
+- JSON and compiled seed data had one note-string drift. This has been corrected and covered by tests.
+- The public API previously had no snapshot protection.
+- Public API behaviour around `EU`, `QO`, `XA`, `XB`, `XK`, and `ZZ` was implied by tests but not explicitly documented in API review material.
 
-## Recommended Changes
+## Changes implemented
 
-- Keep `CountryRegistry`, `CountryInfo`, `CountryNumericCode`, and subdivision type names.
-- Keep value object construction factory-based.
-- Keep string overloads as boundary conveniences, not the centre of the API.
-- Make reserved/special alpha-2 lookup outcomes explicit for `UK`, `EU`, and `ZZ`.
-- Add a JSON converter registration helper.
-- Add consumer-style API ergonomics tests.
+- Added `CountryDataVersion`.
+- Added consumer-shaped public API ergonomics tests.
+- Added public API snapshot protection using `approved-public-api.txt`.
+- Strengthened public API snapshot coverage so public operators are reviewed.
+- Added drift tests to keep JSON seed files aligned with compiled seed data.
+- Added additional registry, JSON, and value-object edge-case tests.
+- Added display-name, alias, special-code-element, and subdivision lookup result APIs for the v1 alpha surface.
+- Updated documentation and samples to match the current API and v1 alpha data posture.
 
-## Changes Implemented
+## Changes deferred
 
-- Added reserved/special handling in mixed lookup for `UK`, `EU`, and `ZZ`.
-- Added `CountryJsonSerializerOptions` with `CreateDefault()` and `AddConverters(...)`.
-- Updated README JSON examples and `UK`/`EU`/`ZZ` behaviour documentation.
-- Added `PublicApiErgonomicsTests`.
-- Added XML documentation to `CountryCodeLookupFailureReason` values.
-
-## Changes Deferred
-
-- No alias-resolution API was added. If needed later, it should be explicit, for example `TryResolveAlias`, and backed by clear data policy.
-- No generated static known-code list was added. A large list such as `CountryAlpha2Code.GB` through every current country would bloat the early API.
-- No public API snapshot system was added. That belongs in the DoD hardening pass.
-- No full subdivision redesign was attempted.
-- No localisation, flags, calling codes, currency, sanctions, or address-formatting features were added.
+- No broad fuzzy name search has been added.
+- No complete reserved-code or former-country registry has been added.
+- No complete localisation or authoritative endonym model has been added.
+- No package split has been attempted.
